@@ -1,1 +1,640 @@
-{"sections":{"slideshow":{"type":"slideshow","blocks":{"slide-1":{"type":"slide","settings":{"image_desktop":"shopify:\/\/shop_images\/Winter-Startpage-Bags-Desktop-DE-New.png","url":"","overlay_position":"justify-center items-center","overlay_text_align":"text-start","mob_center_text":false,"subheading":"Winter","heading":"","heading_size":"h0","heading_h1":false,"text":"","enlarge_text":true,"button_1_label":"","button_1_link":"\/","button_1_style":"btn btn--primary","button_2_label":"","button_2_link":"\/","button_2_style":"btn btn--primary","transparent_content_color":"#ffffff","countdown_show":false,"countdown_end_date":"","countdown_end_time":"","countdown_end_text":"","enlarge_end_text":false,"countdown_hide_on_end":false,"use_custom_colors":false,"count_color":"#ffffff","bg_color":"#070707","bg_grad":""}},"slide-2":{"type":"slide","settings":{"image_desktop":"shopify:\/\/shop_images\/Winter-Startpage-Backpacks-Desktop-DE.png","url":"","overlay_position":"justify-center items-center","overlay_text_align":"text-center","mob_center_text":false,"subheading":"","heading":"","heading_size":"h0","heading_h1":false,"text":"","enlarge_text":true,"button_1_label":"","button_1_link":"","button_1_style":"btn btn--primary","button_2_label":"","button_2_link":"","button_2_style":"btn btn--primary","transparent_content_color":"#ffffff","countdown_show":false,"countdown_end_date":"","countdown_end_time":"","countdown_end_text":"","enlarge_end_text":false,"countdown_hide_on_end":false,"use_custom_colors":false,"count_color":"#ffffff","bg_color":"#070707","bg_grad":""}},"slide_VW38zW":{"type":"slide","settings":{"image_desktop":"shopify:\/\/shop_images\/Winter-Startpage-Accessories-Desktop-DE.png","url":"","overlay_position":"justify-center items-center","overlay_text_align":"text-center","mob_center_text":false,"subheading":"","heading":"","heading_size":"h0","heading_h1":false,"text":"","enlarge_text":false,"button_1_label":"","button_1_link":"","button_1_style":"btn btn--primary","button_2_label":"","button_2_link":"","button_2_style":"btn btn--primary","transparent_content_color":"#ffffff","countdown_show":false,"countdown_end_date":"","countdown_end_time":"","countdown_end_text":"","enlarge_end_text":false,"countdown_hide_on_end":false,"use_custom_colors":false,"count_color":"#ffffff","bg_color":"#070707","bg_grad":""}}},"block_order":["slide-1","slide-2","slide_VW38zW"],"settings":{"height_mode":"auto","fixed_height_desktop":600,"fixed_height_mobile":350,"mobile_stacked":false,"nav_style":"slideshow_nav_lines","pagination_color":"#ffffff","nav_position":"justify-center","transition":"slide-fade","autoplay":true,"slider_pause":true,"autoplay_speed":3,"color_scheme":"white","full_width":true,"tint_color":"#000000","tint_opacity":0,"accessibility_info":"","prevent_animation":true}},"product_list_xxEYAE":{"type":"product-list","settings":{"title":"Wir bei Gusti Leder wollen dazu beitragen etwas in der Welt zu verändern!","heading_align":"text-center","view_all_url":"","product_list":["shopper-handtasche-henkeltasche-2h52-33-1","geldboerse-portemonnaie-brieftasche-2a139-22-6","geldboerse-portemonnaie-brieftasche-2a54-22-6","guerteltasche-bauchtasche-festivaltasche-2g7-22-5"],"layout":"carousel","card_size_mobile":"small","card_size":"small","show_highlight_products":true,"show_promo_info":false,"image_ratio":"fill","promo_title":"A headline to grab attention","content":"<p>Use this card with an image to highlight your product list or introduce a promotion.<\/p>","link_url":"","button_label":"Button","color_scheme":"2","button_style":"btn btn--primary"}},"logo_list_9yDaAc":{"type":"logo-list","blocks":{"logo_bJBMaE":{"type":"logo","settings":{"image":"shopify:\/\/shop_images\/logo-new-dimension1.png","url":"","logo_width":120,"text":""}},"logo_TDKknD":{"type":"logo","settings":{"image":"shopify:\/\/shop_images\/logo-new-dimension3.png","url":"","logo_width":120,"text":""}},"logo_hpCPEM":{"type":"logo","settings":{"image":"shopify:\/\/shop_images\/logo-new-dimension4.png","url":"","logo_width":120,"text":""}},"logo_yYXn47":{"type":"logo","settings":{"image":"shopify:\/\/shop_images\/logo-new-dimension2.png","url":"","logo_width":120,"text":""}},"logo_NEDHWG":{"type":"logo","settings":{"image":"shopify:\/\/shop_images\/logo-new-dimension6.png","url":"","logo_width":120,"text":""}},"logo_RGmXQ7":{"type":"logo","settings":{"image":"shopify:\/\/shop_images\/logo-new-dimension5_1.png","url":"","logo_width":120,"text":""}},"logo_thACkD":{"type":"logo","settings":{"image":"shopify:\/\/shop_images\/logo-new-dimension1.png","url":"","logo_width":120,"text":""}},"logo_nXyDKK":{"type":"logo","settings":{"image":"shopify:\/\/shop_images\/logo-new-dimension2.png","url":"","logo_width":120,"text":""}}},"block_order":["logo_bJBMaE","logo_TDKknD","logo_hpCPEM","logo_yYXn47","logo_NEDHWG","logo_RGmXQ7","logo_thACkD","logo_nXyDKK"],"settings":{"title":"Bekannt aus den Medien","heading_align":"text-center","button_label":"","button_link":"","layout":"carousel","spacing":40,"logo_grid_align":"justify-center","color_scheme":"1","full_width":true}},"collection_list_PkABBL":{"type":"collection-list","blocks":{"collection_akypGm":{"type":"collection","settings":{"collection":"gusti-leder"}},"collection_BQrAcQ":{"type":"collection","settings":{"collection":"frontpage","image":"shopify:\/\/shop_images\/2H52-33-7_haupt-Handtasche-leder.png"}},"collection_LXCq7L":{"type":"collection","settings":{"collection":"frontpage","image":"shopify:\/\/shop_images\/2G7-22-9_model-female1sUDS1fzt4jCY8.png"}},"collection_QwTjbh":{"type":"collection","settings":{"collection":"frontpage","image":"shopify:\/\/shop_images\/Insta_Spencer_2G7-22-9-2-1.png"}},"collection_qqUE6N":{"type":"collection","settings":{"collection":"frontpage","image":"shopify:\/\/shop_images\/2G7-22-9_model-male1Jm2lSirHKxnhE.png"}}},"block_order":["collection_akypGm","collection_BQrAcQ","collection_LXCq7L","collection_QwTjbh","collection_qqUE6N"],"settings":{"title":"Collections","heading_align":"text-start","button_label":"","button_link":"","layout":"carousel","card_size":"small","use_product_image":false,"circle_image":true,"show_border":true,"color_scheme":"none","full_width":true}},"media_with_text_grNJ6d":{"type":"media-with-text","blocks":{"heading_wMaDeC":{"type":"heading","settings":{"heading":"Entdecke die Vielfalt","heading_size":"h3","heading_h1":false}},"text_HWxHG8":{"type":"text","settings":{"text":"<p>Du kannst von den hochwertigen Naturprodukten von Gusti Leder nicht genug kriegen? Du brauchst mehr Vintage in deinem Leben? Und Du kannst dem unverkennbarem Geruch von Leder nicht widerstehen? Wir auch nicht!<\/p>","enlarge_text":false}}},"block_order":["heading_wMaDeC","text_HWxHG8"],"settings":{"image":"shopify:\/\/shop_images\/2A54-22-9_wp.png","video_external":"","video_description":"","video_autoplay":false,"layout":"right","image_fit":"contain","media_width":50,"media_scale":100,"text_align":"text-start","color_scheme":"none","only_content_color_scheme":false}},"product_list_gyXPw6":{"type":"product-list","settings":{"title":"Schnäppchenalarm bei Gusti Leder","heading_align":"text-start","view_all_url":"","product_list":["agatha-1","shopper-handtasche-henkeltasche-2h52-33-1","geldboerse-portemonnaie-brieftasche-2a139-22-6","geldboerse-portemonnaie-brieftasche-2a54-22-6","guerteltasche-bauchtasche-festivaltasche-2g7-22-5"],"layout":"carousel","card_size_mobile":"small","card_size":"small","show_highlight_products":true,"show_promo_info":false,"image_ratio":"fill","promo_title":"A headline to grab attention","content":"<p>Use this card with an image to highlight your product list or introduce a promotion.<\/p>","link_url":"","button_label":"Button","color_scheme":"2","button_style":"btn btn--primary"}},"media_with_text_GUbDBt":{"type":"media-with-text","blocks":{"heading_LYJmC8":{"type":"heading","settings":{"heading":"Wie trägt Gusti Leder dazu bei?","heading_size":"h3","heading_h1":false}},"text_9YHWir":{"type":"text","settings":{"text":"<p>Wir bei Gusti Leder legen sehr viel Wert darauf zum Thema SLOW Fashion beizutragen. Neben einer hohen Produktqualität steht vor allem Transparenz im Vordergrund. Den Kunden besonders offen bei den Themen Leder und Produktion gegenüberzutreten hat sich zu einer unseren größten Stärken entwickelt. Eine partnerschaftliche und vertrauensvolle Zusammenarbeit mit unseren Produzenten vor Ort ist uns sehr wichtig, denn nur so können wir auch unsere nachhaltigen und humanitären Ziele umsetzen. Aus diesem Grund planen wir zu jedem Produkt ein 360° Panorama Bild zu zeigen, in dem deutlich wird, in welcher Umgebung das Produkt vor Ort produziert wird.<\/p>","enlarge_text":false}}},"block_order":["heading_LYJmC8","text_9YHWir"],"settings":{"image":"shopify:\/\/shop_images\/Slow-fashion-mindmap-DE.png","video_external":"","video_description":"","video_autoplay":false,"layout":"left","image_fit":"contain","media_width":50,"media_scale":100,"text_align":"text-start","color_scheme":"none","only_content_color_scheme":false}},"slideshow_FXxDXH":{"type":"slideshow","blocks":{"slide_eQ9mTR":{"type":"slide","settings":{"image_desktop":"shopify:\/\/shop_images\/banner_gravur.png","url":"","overlay_position":"justify-center items-center","overlay_text_align":"text-center","mob_center_text":false,"subheading":"","heading":"Gravur","heading_size":"h0","heading_h1":false,"text":"<p>Die meisten unserer Produkte kannst Du gravieren lassen und Sie so zu etwas ganz Besonderem werden lassen. Sei es ein Name, ein besonderes Datum, Dein Motto, ein besonderer Spruch oder Zeilen eines Songtextes. Du machst Dein Produkt zu einem Unikat!<\/p>","enlarge_text":true,"button_1_label":"Erfahre mehr","button_1_link":"","button_1_style":"btn btn--primary","button_2_label":"","button_2_link":"","button_2_style":"btn btn--primary","transparent_content_color":"#ffffff","countdown_show":false,"countdown_end_date":"","countdown_end_time":"","countdown_end_text":"","enlarge_end_text":false,"countdown_hide_on_end":false,"use_custom_colors":false,"count_color":"#ffffff","bg_color":"#070707","bg_grad":""}},"slide_QGenD4":{"type":"slide","settings":{"image_desktop":"shopify:\/\/shop_images\/Startseite-Banner-9.png","url":"","overlay_position":"justify-center items-center","overlay_text_align":"text-center","mob_center_text":false,"subheading":"","heading":"Reparatur","heading_size":"h0","heading_h1":false,"text":"<p>Die Schnalle Eurer Lieblingstasche reißt ab oder eine Naht geht auf? Kein Problem! Kommt gerne in einem unserer Stores vorbei und lasst Euer Lieblingsstück von unseren Kollegen reparieren. Für unsere Gusti Leder Produkte bieten wir euch im Rahmen der Gewährleistung in den ersten zwei Jahren nach dem Kauf eine kostenfreie* Reparatur an.<\/p>","enlarge_text":true,"button_1_label":"Erfahre mehr","button_1_link":"","button_1_style":"btn btn--primary","button_2_label":"","button_2_link":"","button_2_style":"btn btn--primary","transparent_content_color":"#ffffff","countdown_show":false,"countdown_end_date":"","countdown_end_time":"","countdown_end_text":"","enlarge_end_text":false,"countdown_hide_on_end":false,"use_custom_colors":false,"count_color":"#ffffff","bg_color":"#070707","bg_grad":""}},"slide_hmeiFf":{"type":"slide","settings":{"image_desktop":"shopify:\/\/shop_images\/Startseite-Banner-3.png","url":"","overlay_position":"justify-center items-center","overlay_text_align":"text-center","mob_center_text":false,"subheading":"","heading":"Taschenvergleich","heading_size":"h0","heading_h1":false,"text":"<p>Bist Du unsicher, welche Tasche am besten zu Dir passt?<br\/>Erkunde unser ausgezeichnetes Sortiment an Ledertaschen, um Dein perfekten Begleiter zu finden. Vergleiche sie nach Größe, Taschen, Fassungsvermögen, Ledertyp und anderen Merkmalen, damit Du Deinen bevorzugtes Modell auswählen kannst.<\/p>","enlarge_text":true,"button_1_label":"Schau Dich um","button_1_link":"","button_1_style":"btn btn--primary","button_2_label":"","button_2_link":"","button_2_style":"btn btn--primary","transparent_content_color":"#ffffff","countdown_show":false,"countdown_end_date":"","countdown_end_time":"","countdown_end_text":"","enlarge_end_text":false,"countdown_hide_on_end":false,"use_custom_colors":false,"count_color":"#ffffff","bg_color":"#070707","bg_grad":""}}},"block_order":["slide_eQ9mTR","slide_QGenD4","slide_hmeiFf"],"settings":{"height_mode":"auto","fixed_height_desktop":600,"fixed_height_mobile":350,"mobile_stacked":false,"nav_style":"slideshow_nav_lines","pagination_color":"#ffffff","nav_position":"justify-center","transition":"slide-fade","autoplay":true,"slider_pause":false,"autoplay_speed":5,"color_scheme":"white","full_width":true,"tint_color":"#000000","tint_opacity":40,"accessibility_info":"","prevent_animation":true}},"icons_with_text_LJnyXR":{"type":"icons-with-text","blocks":{"item_dqtUFF":{"type":"item","settings":{"icon":"truck","custom_icon":"shopify:\/\/shop_images\/location-pin.png","heading":"Unsere Läden","text":"","link":""}},"item_dfKkaE":{"type":"item","settings":{"icon":"price_tag","custom_icon":"shopify:\/\/shop_images\/reload.png","heading":"verlängertes Rückgaberecht","text":"","link":""}},"item_DKnbVC":{"type":"item","settings":{"icon":"return","custom_icon":"shopify:\/\/shop_images\/team.png","heading":"Transparente Produktion","text":"","link":""}},"item_mcNE7c":{"type":"item","settings":{"icon":"chat_bubble","custom_icon":"shopify:\/\/shop_images\/first.png","heading":"Preis - Leistungs - Sieger","text":"","link":""}},"item_RQnweD":{"type":"item","settings":{"icon":"award","custom_icon":"shopify:\/\/shop_images\/truck.png","heading":"Schneller Versand","text":"","link":""}}},"block_order":["item_dqtUFF","item_dfKkaE","item_DKnbVC","item_mcNE7c","item_RQnweD"],"settings":{"heading":"","heading_align":"text-start","icon_size":48,"title_type_scale":"medium","text_type_scale":"medium","icon_position":"beside","mobile_stack":false,"section_height":"medium","color_scheme":"1","full_width":true,"dividers":"none","prevent_animation":false}}},"order":["slideshow","product_list_xxEYAE","logo_list_9yDaAc","collection_list_PkABBL","media_with_text_grNJ6d","product_list_gyXPw6","media_with_text_GUbDBt","slideshow_FXxDXH","icons_with_text_LJnyXR"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slide-1": {
+          "type": "slide",
+          "settings": {
+            "image_desktop": "shopify://shop_images/Winter-Startpage-Bags-Desktop-DE-New.png",
+            "url": "",
+            "overlay_position": "justify-center items-center",
+            "overlay_text_align": "text-start",
+            "mob_center_text": false,
+            "subheading": "Winter",
+            "heading": "",
+            "heading_size": "h0",
+            "heading_h1": false,
+            "text": "",
+            "enlarge_text": true,
+            "button_1_label": "",
+            "button_1_link": "/",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "",
+            "button_2_link": "/",
+            "button_2_style": "btn btn--primary",
+            "transparent_content_color": "#ffffff",
+            "countdown_show": false,
+            "countdown_end_date": "",
+            "countdown_end_time": "",
+            "countdown_end_text": "",
+            "enlarge_end_text": false,
+            "countdown_hide_on_end": false,
+            "use_custom_colors": false,
+            "count_color": "#ffffff",
+            "bg_color": "#070707",
+            "bg_grad": ""
+          }
+        },
+        "slide-2": {
+          "type": "slide",
+          "settings": {
+            "image_desktop": "shopify://shop_images/Winter-Startpage-Backpacks-Desktop-DE.png",
+            "url": "",
+            "overlay_position": "justify-center items-center",
+            "overlay_text_align": "text-center",
+            "mob_center_text": false,
+            "subheading": "",
+            "heading": "",
+            "heading_size": "h0",
+            "heading_h1": false,
+            "text": "",
+            "enlarge_text": true,
+            "button_1_label": "",
+            "button_1_link": "",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary",
+            "transparent_content_color": "#ffffff",
+            "countdown_show": false,
+            "countdown_end_date": "",
+            "countdown_end_time": "",
+            "countdown_end_text": "",
+            "enlarge_end_text": false,
+            "countdown_hide_on_end": false,
+            "use_custom_colors": false,
+            "count_color": "#ffffff",
+            "bg_color": "#070707",
+            "bg_grad": ""
+          }
+        },
+        "slide_VW38zW": {
+          "type": "slide",
+          "settings": {
+            "image_desktop": "shopify://shop_images/Winter-Startpage-Accessories-Desktop-DE.png",
+            "url": "",
+            "overlay_position": "justify-center items-center",
+            "overlay_text_align": "text-center",
+            "mob_center_text": false,
+            "subheading": "",
+            "heading": "",
+            "heading_size": "h0",
+            "heading_h1": false,
+            "text": "",
+            "enlarge_text": false,
+            "button_1_label": "",
+            "button_1_link": "",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary",
+            "transparent_content_color": "#ffffff",
+            "countdown_show": false,
+            "countdown_end_date": "",
+            "countdown_end_time": "",
+            "countdown_end_text": "",
+            "enlarge_end_text": false,
+            "countdown_hide_on_end": false,
+            "use_custom_colors": false,
+            "count_color": "#ffffff",
+            "bg_color": "#070707",
+            "bg_grad": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide-1",
+        "slide-2",
+        "slide_VW38zW"
+      ],
+      "settings": {
+        "height_mode": "auto",
+        "fixed_height_desktop": 600,
+        "fixed_height_mobile": 350,
+        "mobile_stacked": false,
+        "nav_style": "slideshow_nav_lines",
+        "pagination_color": "#ffffff",
+        "nav_position": "justify-center",
+        "transition": "slide-fade",
+        "autoplay": true,
+        "slider_pause": true,
+        "autoplay_speed": 3,
+        "color_scheme": "white",
+        "full_width": true,
+        "tint_color": "#000000",
+        "tint_opacity": 0,
+        "accessibility_info": "",
+        "prevent_animation": true
+      }
+    },
+    "product_list_xxEYAE": {
+      "type": "product-list",
+      "settings": {
+        "title": "Wir bei Gusti Leder wollen dazu beitragen etwas in der Welt zu verändern!",
+        "heading_align": "text-center",
+        "view_all_url": "",
+        "product_list": [
+          "shopper-handtasche-henkeltasche-2h52-33-1",
+          "geldboerse-portemonnaie-brieftasche-2a139-22-6",
+          "geldboerse-portemonnaie-brieftasche-2a54-22-6",
+          "guerteltasche-bauchtasche-festivaltasche-2g7-22-5"
+        ],
+        "layout": "carousel",
+        "card_size_mobile": "small",
+        "card_size": "medium",
+        "show_highlight_products": true,
+        "show_promo_info": false,
+        "image_ratio": "fill",
+        "promo_title": "A headline to grab attention",
+        "content": "<p>Use this card with an image to highlight your product list or introduce a promotion.</p>",
+        "link_url": "",
+        "button_label": "Button",
+        "color_scheme": "2",
+        "button_style": "btn btn--primary"
+      }
+    },
+    "logo_list_9yDaAc": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_bJBMaE": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/logo-new-dimension1.png",
+            "url": "",
+            "logo_width": 120,
+            "text": ""
+          }
+        },
+        "logo_TDKknD": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/logo-new-dimension3.png",
+            "url": "",
+            "logo_width": 120,
+            "text": ""
+          }
+        },
+        "logo_hpCPEM": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/logo-new-dimension4.png",
+            "url": "",
+            "logo_width": 120,
+            "text": ""
+          }
+        },
+        "logo_yYXn47": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/logo-new-dimension2.png",
+            "url": "",
+            "logo_width": 120,
+            "text": ""
+          }
+        },
+        "logo_NEDHWG": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/logo-new-dimension6.png",
+            "url": "",
+            "logo_width": 120,
+            "text": ""
+          }
+        },
+        "logo_RGmXQ7": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/logo-new-dimension5_1.png",
+            "url": "",
+            "logo_width": 120,
+            "text": ""
+          }
+        },
+        "logo_thACkD": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/logo-new-dimension1.png",
+            "url": "",
+            "logo_width": 120,
+            "text": ""
+          }
+        },
+        "logo_nXyDKK": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/logo-new-dimension2.png",
+            "url": "",
+            "logo_width": 120,
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_bJBMaE",
+        "logo_TDKknD",
+        "logo_hpCPEM",
+        "logo_yYXn47",
+        "logo_NEDHWG",
+        "logo_RGmXQ7",
+        "logo_thACkD",
+        "logo_nXyDKK"
+      ],
+      "settings": {
+        "title": "Bekannt aus den Medien",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "layout": "carousel",
+        "spacing": 40,
+        "logo_grid_align": "justify-center",
+        "color_scheme": "1",
+        "full_width": true
+      }
+    },
+    "collection_list_PkABBL": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_akypGm": {
+          "type": "collection",
+          "settings": {
+            "collection": "gusti-leder"
+          }
+        },
+        "collection_BQrAcQ": {
+          "type": "collection",
+          "settings": {
+            "collection": "frontpage",
+            "image": "shopify://shop_images/2H52-33-7_haupt-Handtasche-leder.png"
+          }
+        },
+        "collection_LXCq7L": {
+          "type": "collection",
+          "settings": {
+            "collection": "frontpage",
+            "image": "shopify://shop_images/2G7-22-9_model-female1sUDS1fzt4jCY8.png"
+          }
+        },
+        "collection_QwTjbh": {
+          "type": "collection",
+          "settings": {
+            "collection": "frontpage",
+            "image": "shopify://shop_images/Insta_Spencer_2G7-22-9-2-1.png"
+          }
+        },
+        "collection_qqUE6N": {
+          "type": "collection",
+          "settings": {
+            "collection": "frontpage",
+            "image": "shopify://shop_images/2G7-22-9_model-male1Jm2lSirHKxnhE.png"
+          }
+        }
+      },
+      "block_order": [
+        "collection_akypGm",
+        "collection_BQrAcQ",
+        "collection_LXCq7L",
+        "collection_QwTjbh",
+        "collection_qqUE6N"
+      ],
+      "settings": {
+        "title": "Collections",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "layout": "carousel",
+        "card_size": "small",
+        "use_product_image": false,
+        "circle_image": true,
+        "show_border": true,
+        "color_scheme": "1",
+        "full_width": true
+      }
+    },
+    "media_with_text_grNJ6d": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_wMaDeC": {
+          "type": "heading",
+          "settings": {
+            "heading": "Entdecke die Vielfalt",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "text_HWxHG8": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Du kannst von den hochwertigen Naturprodukten von Gusti Leder nicht genug kriegen? Du brauchst mehr Vintage in deinem Leben? Und Du kannst dem unverkennbarem Geruch von Leder nicht widerstehen? Wir auch nicht!</p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_wMaDeC",
+        "text_HWxHG8"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/2A54-22-9_wp.png",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "right",
+        "image_fit": "contain",
+        "media_width": 50,
+        "media_scale": 100,
+        "text_align": "text-start",
+        "color_scheme": "none",
+        "only_content_color_scheme": false
+      }
+    },
+    "product_list_gyXPw6": {
+      "type": "product-list",
+      "settings": {
+        "title": "Schnäppchenalarm bei Gusti Leder",
+        "heading_align": "text-start",
+        "view_all_url": "",
+        "product_list": [
+          "agatha-1",
+          "shopper-handtasche-henkeltasche-2h52-33-1",
+          "geldboerse-portemonnaie-brieftasche-2a139-22-6",
+          "geldboerse-portemonnaie-brieftasche-2a54-22-6",
+          "guerteltasche-bauchtasche-festivaltasche-2g7-22-5"
+        ],
+        "layout": "carousel",
+        "card_size_mobile": "small",
+        "card_size": "small",
+        "show_highlight_products": true,
+        "show_promo_info": false,
+        "image_ratio": "fill",
+        "promo_title": "A headline to grab attention",
+        "content": "<p>Use this card with an image to highlight your product list or introduce a promotion.</p>",
+        "link_url": "",
+        "button_label": "Button",
+        "color_scheme": "2",
+        "button_style": "btn btn--primary"
+      }
+    },
+    "media_with_text_GUbDBt": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_LYJmC8": {
+          "type": "heading",
+          "settings": {
+            "heading": "Wie trägt Gusti Leder dazu bei?",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "text_9YHWir": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wir bei Gusti Leder legen sehr viel Wert darauf zum Thema SLOW Fashion beizutragen. Neben einer hohen Produktqualität steht vor allem Transparenz im Vordergrund. Den Kunden besonders offen bei den Themen Leder und Produktion gegenüberzutreten hat sich zu einer unseren größten Stärken entwickelt. Eine partnerschaftliche und vertrauensvolle Zusammenarbeit mit unseren Produzenten vor Ort ist uns sehr wichtig, denn nur so können wir auch unsere nachhaltigen und humanitären Ziele umsetzen. Aus diesem Grund planen wir zu jedem Produkt ein 360° Panorama Bild zu zeigen, in dem deutlich wird, in welcher Umgebung das Produkt vor Ort produziert wird.</p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_LYJmC8",
+        "text_9YHWir"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Slow-fashion-mindmap-DE.png",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "left",
+        "image_fit": "contain",
+        "media_width": 50,
+        "media_scale": 100,
+        "text_align": "text-start",
+        "color_scheme": "none",
+        "only_content_color_scheme": false
+      }
+    },
+    "slideshow_FXxDXH": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_eQ9mTR": {
+          "type": "slide",
+          "settings": {
+            "image_desktop": "shopify://shop_images/banner_gravur.png",
+            "url": "",
+            "overlay_position": "justify-center items-center",
+            "overlay_text_align": "text-center",
+            "mob_center_text": false,
+            "subheading": "",
+            "heading": "Gravur",
+            "heading_size": "h0",
+            "heading_h1": false,
+            "text": "<p>Die meisten unserer Produkte kannst Du gravieren lassen und Sie so zu etwas ganz Besonderem werden lassen. Sei es ein Name, ein besonderes Datum, Dein Motto, ein besonderer Spruch oder Zeilen eines Songtextes. Du machst Dein Produkt zu einem Unikat!</p>",
+            "enlarge_text": true,
+            "button_1_label": "Erfahre mehr",
+            "button_1_link": "",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary",
+            "transparent_content_color": "#ffffff",
+            "countdown_show": false,
+            "countdown_end_date": "",
+            "countdown_end_time": "",
+            "countdown_end_text": "",
+            "enlarge_end_text": false,
+            "countdown_hide_on_end": false,
+            "use_custom_colors": false,
+            "count_color": "#ffffff",
+            "bg_color": "#070707",
+            "bg_grad": ""
+          }
+        },
+        "slide_QGenD4": {
+          "type": "slide",
+          "settings": {
+            "image_desktop": "shopify://shop_images/Startseite-Banner-9.png",
+            "url": "",
+            "overlay_position": "justify-center items-center",
+            "overlay_text_align": "text-center",
+            "mob_center_text": false,
+            "subheading": "",
+            "heading": "Reparatur",
+            "heading_size": "h0",
+            "heading_h1": false,
+            "text": "<p>Die Schnalle Eurer Lieblingstasche reißt ab oder eine Naht geht auf? Kein Problem! Kommt gerne in einem unserer Stores vorbei und lasst Euer Lieblingsstück von unseren Kollegen reparieren. Für unsere Gusti Leder Produkte bieten wir euch im Rahmen der Gewährleistung in den ersten zwei Jahren nach dem Kauf eine kostenfreie* Reparatur an.</p>",
+            "enlarge_text": true,
+            "button_1_label": "Erfahre mehr",
+            "button_1_link": "",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary",
+            "transparent_content_color": "#ffffff",
+            "countdown_show": false,
+            "countdown_end_date": "",
+            "countdown_end_time": "",
+            "countdown_end_text": "",
+            "enlarge_end_text": false,
+            "countdown_hide_on_end": false,
+            "use_custom_colors": false,
+            "count_color": "#ffffff",
+            "bg_color": "#070707",
+            "bg_grad": ""
+          }
+        },
+        "slide_hmeiFf": {
+          "type": "slide",
+          "settings": {
+            "image_desktop": "shopify://shop_images/Startseite-Banner-3.png",
+            "url": "",
+            "overlay_position": "justify-center items-center",
+            "overlay_text_align": "text-center",
+            "mob_center_text": false,
+            "subheading": "",
+            "heading": "Taschenvergleich",
+            "heading_size": "h0",
+            "heading_h1": false,
+            "text": "<p>Bist Du unsicher, welche Tasche am besten zu Dir passt?<br/>Erkunde unser ausgezeichnetes Sortiment an Ledertaschen, um Dein perfekten Begleiter zu finden. Vergleiche sie nach Größe, Taschen, Fassungsvermögen, Ledertyp und anderen Merkmalen, damit Du Deinen bevorzugtes Modell auswählen kannst.</p>",
+            "enlarge_text": true,
+            "button_1_label": "Schau Dich um",
+            "button_1_link": "",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary",
+            "transparent_content_color": "#ffffff",
+            "countdown_show": false,
+            "countdown_end_date": "",
+            "countdown_end_time": "",
+            "countdown_end_text": "",
+            "enlarge_end_text": false,
+            "countdown_hide_on_end": false,
+            "use_custom_colors": false,
+            "count_color": "#ffffff",
+            "bg_color": "#070707",
+            "bg_grad": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide_eQ9mTR",
+        "slide_QGenD4",
+        "slide_hmeiFf"
+      ],
+      "settings": {
+        "height_mode": "auto",
+        "fixed_height_desktop": 600,
+        "fixed_height_mobile": 350,
+        "mobile_stacked": false,
+        "nav_style": "slideshow_nav_lines",
+        "pagination_color": "#ffffff",
+        "nav_position": "justify-center",
+        "transition": "slide-fade",
+        "autoplay": true,
+        "slider_pause": false,
+        "autoplay_speed": 5,
+        "color_scheme": "white",
+        "full_width": true,
+        "tint_color": "#000000",
+        "tint_opacity": 40,
+        "accessibility_info": "",
+        "prevent_animation": true
+      }
+    },
+    "icons_with_text_LJnyXR": {
+      "type": "icons-with-text",
+      "blocks": {
+        "item_dqtUFF": {
+          "type": "item",
+          "settings": {
+            "icon": "truck",
+            "custom_icon": "shopify://shop_images/location-pin.png",
+            "heading": "Unsere Läden",
+            "text": "",
+            "link": ""
+          }
+        },
+        "item_dfKkaE": {
+          "type": "item",
+          "settings": {
+            "icon": "price_tag",
+            "custom_icon": "shopify://shop_images/reload.png",
+            "heading": "verlängertes Rückgaberecht",
+            "text": "",
+            "link": ""
+          }
+        },
+        "item_DKnbVC": {
+          "type": "item",
+          "settings": {
+            "icon": "return",
+            "custom_icon": "shopify://shop_images/team.png",
+            "heading": "Transparente Produktion",
+            "text": "",
+            "link": ""
+          }
+        },
+        "item_mcNE7c": {
+          "type": "item",
+          "settings": {
+            "icon": "chat_bubble",
+            "custom_icon": "shopify://shop_images/first.png",
+            "heading": "Preis - Leistungs - Sieger",
+            "text": "",
+            "link": ""
+          }
+        },
+        "item_RQnweD": {
+          "type": "item",
+          "settings": {
+            "icon": "award",
+            "custom_icon": "shopify://shop_images/truck.png",
+            "heading": "Schneller Versand",
+            "text": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_dqtUFF",
+        "item_dfKkaE",
+        "item_DKnbVC",
+        "item_mcNE7c",
+        "item_RQnweD"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_align": "text-start",
+        "icon_size": 48,
+        "title_type_scale": "medium",
+        "text_type_scale": "medium",
+        "icon_position": "beside",
+        "mobile_stack": false,
+        "section_height": "medium",
+        "color_scheme": "1",
+        "full_width": true,
+        "dividers": "none",
+        "prevent_animation": false
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "product_list_xxEYAE",
+    "logo_list_9yDaAc",
+    "collection_list_PkABBL",
+    "media_with_text_grNJ6d",
+    "product_list_gyXPw6",
+    "media_with_text_GUbDBt",
+    "slideshow_FXxDXH",
+    "icons_with_text_LJnyXR"
+  ]
+}
