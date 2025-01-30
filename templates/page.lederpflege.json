@@ -21,6 +21,7 @@
       "blocks": {
         "heading_tkepFK": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "Image banner",
             "heading_size": "h1",
@@ -29,6 +30,7 @@
         },
         "text_i4fTGy": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
             "enlarge_text": true
@@ -36,6 +38,7 @@
         },
         "button_446Ntx": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_1_label": "Optional button",
             "button_1_link": "",
@@ -52,6 +55,7 @@
         "button_446Ntx"
       ],
       "settings": {
+        "image_desktop": "shopify://shop_images/Leather_care.jpg",
         "url": "",
         "height_mode": "auto",
         "fixed_height_desktop": 600,
@@ -65,6 +69,58 @@
         "transparent_content_color": "#ffffff",
         "tint_color": "#000000",
         "tint_opacity": 40,
+        "prevent_animation": false
+      }
+    },
+    "rich_text_DH3GDY": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_wiDCXx": {
+          "type": "subheading",
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_LAt9f9": {
+          "type": "heading",
+          "settings": {
+            "heading": "Pflegetips für Gusti Leder Produkte",
+            "heading_size": "h2",
+            "heading_h1": false
+          }
+        },
+        "text_n4mgDc": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your store with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "enlarge_text": true
+          }
+        },
+        "button_8mN8T4": {
+          "type": "button",
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_wiDCXx",
+        "heading_LAt9f9",
+        "text_n4mgDc",
+        "button_8mN8T4"
+      ],
+      "settings": {
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "wide": false,
+        "color_scheme": "none",
+        "full_width": true,
         "prevent_animation": false
       }
     },
@@ -116,6 +172,7 @@
         "collection_eAJ4fF",
         "collection_xbRB6E"
       ],
+      "disabled": true,
       "settings": {
         "title": "Collections",
         "heading_align": "text-start",
@@ -132,6 +189,7 @@
     },
     "featured_collection_fw9w9V": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Unsere Bestseller",
         "heading_align": "text-start",
@@ -156,6 +214,7 @@
   "order": [
     "main",
     "image_banner_h7bfNH",
+    "rich_text_DH3GDY",
     "collection_list_RHeKBJ",
     "featured_collection_fw9w9V"
   ]
