@@ -11,6 +11,7 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "show_page_title": true,
         "heading_align": "text-center"
@@ -18,40 +19,8 @@
     },
     "image_banner_h7bfNH": {
       "type": "image-banner",
-      "blocks": {
-        "heading_tkepFK": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image banner",
-            "heading_size": "h1",
-            "heading_h1": false
-          }
-        },
-        "text_i4fTGy": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
-            "enlarge_text": true
-          }
-        },
-        "button_446Ntx": {
-          "type": "button",
-          "settings": {
-            "button_1_label": "Optional button",
-            "button_1_link": "",
-            "button_1_style": "btn btn--primary",
-            "button_2_label": "Optional button",
-            "button_2_link": "",
-            "button_2_style": "btn btn--primary"
-          }
-        }
-      },
-      "block_order": [
-        "heading_tkepFK",
-        "text_i4fTGy",
-        "button_446Ntx"
-      ],
       "settings": {
+        "image_desktop": "shopify://shop_images/saddles_2.jpg",
         "url": "",
         "height_mode": "auto",
         "fixed_height_desktop": 600,
@@ -66,6 +35,162 @@
         "tint_color": "#000000",
         "tint_opacity": 40,
         "prevent_animation": false
+      }
+    },
+    "media_with_text_CxpFLz": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_q3Gw6c": {
+          "type": "heading",
+          "settings": {
+            "heading": "Der perfekte Ledersattel für jede Fahrt",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "text_LaNGLg": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Unsere Ledersättel sind bequem, langlebig und stilvoll – sie machen jede Fahrradtour noch angenehmer. Egal, ob Du täglich zur Arbeit pendelst, ein Langstrecken-Abenteuer wagst oder anspruchsvolle Mountainbike-Trails meisterst, die Ledersättel von Gusti sind so gestaltet, dass sie Deinen Bedürfnissen entsprechen. Wähle aus verschiedenen Stilen und Lederarten, darunter Ziegenleder, Rindsleder und Büffelleder, und finde den perfekten Sattel für Dein Radfahrerlebnis.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_MYJkQC": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop now",
+            "button_link": "shopify://collections/satteltaschen",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_q3Gw6c",
+        "text_LaNGLg",
+        "button_MYJkQC"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Saddles.jpg",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "left",
+        "image_fit": "contain",
+        "media_width": 50,
+        "media_scale": 100,
+        "text_align": "text-start",
+        "color_scheme": "none",
+        "only_content_color_scheme": false
+      }
+    },
+    "rich_text_KeQdiW": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_j7kUag": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_CxKXkq": {
+          "type": "heading",
+          "settings": {
+            "heading": "Den richtigen Sattel auswählen",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "text_rCTBPT": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Dein Körper und Dein Fahrstil spielen eine entscheidende Rolle bei der Wahl des perfekten Sattels. Da sich die Anatomie von Männern und Frauen unterscheidet, ist es wichtig, ein Design zu wählen, das optimalen Halt und Komfort bietet. Zudem beeinflusst die Art des Fahrrads und die Fahrten – kurze Wege, Langstrecken oder sportliches Radfahren – die Auswahl des passenden Sattels.  </p>",
+            "enlarge_text": false
+          }
+        },
+        "button_4Dwghj": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_j7kUag",
+        "heading_CxKXkq",
+        "text_rCTBPT",
+        "button_4Dwghj"
+      ],
+      "settings": {
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "wide": false,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "multi_column_7TAVqG": {
+      "type": "multi-column",
+      "blocks": {
+        "column_Q9LzgW": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "media_scale": 100,
+            "heading": "Column",
+            "text": "<p>Pair text with an image to focus on a product, collection or blog post. Add details on availability, style, or even provide a review.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_brHNwT": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "media_scale": 100,
+            "heading": "Column",
+            "text": "<p>Pair text with an image to focus on a product, collection or blog post. Add details on availability, style, or even provide a review.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_QhAP3P": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "media_scale": 100,
+            "heading": "Column",
+            "text": "<p>Pair text with an image to focus on a product, collection or blog post. Add details on availability, style, or even provide a review.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_Q9LzgW",
+        "column_brHNwT",
+        "column_QhAP3P"
+      ],
+      "settings": {
+        "title": "Sättel für Frauen",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "layout": "carousel",
+        "column_size": "medium",
+        "column_align": "left",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
       }
     },
     "collection_list_RHeKBJ": {
@@ -116,6 +241,7 @@
         "collection_eAJ4fF",
         "collection_xbRB6E"
       ],
+      "disabled": true,
       "settings": {
         "title": "Collections",
         "heading_align": "text-start",
@@ -132,6 +258,7 @@
     },
     "featured_collection_fw9w9V": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Unsere Bestseller",
         "heading_align": "text-start",
@@ -156,6 +283,9 @@
   "order": [
     "main",
     "image_banner_h7bfNH",
+    "media_with_text_CxpFLz",
+    "rich_text_KeQdiW",
+    "multi_column_7TAVqG",
     "collection_list_RHeKBJ",
     "featured_collection_fw9w9V"
   ]
