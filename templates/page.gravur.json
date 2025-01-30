@@ -172,8 +172,8 @@
         "column_gxcw7h"
       ],
       "settings": {
-        "title": "Multi-column",
-        "heading_align": "text-start",
+        "title": "Lass Dein Geschenk personalisieren",
+        "heading_align": "text-center",
         "button_label": "",
         "button_link": "",
         "layout": "carousel",
@@ -318,8 +318,8 @@
         "media_XCxr4x"
       ],
       "settings": {
-        "title": "Media grid",
-        "heading_align": "text-start",
+        "title": "Jetzt shoppen",
+        "heading_align": "text-center",
         "button_label": "",
         "button_link": "",
         "gallery_cols_max": 4,
