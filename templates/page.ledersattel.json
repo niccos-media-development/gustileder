@@ -45,7 +45,7 @@
           "settings": {
             "heading": "Der perfekte Ledersattel für jede Fahrt",
             "heading_size": "h3",
-            "heading_h1": false
+            "heading_h1": true
           }
         },
         "text_LaNGLg": {
@@ -58,7 +58,7 @@
         "button_MYJkQC": {
           "type": "button",
           "settings": {
-            "button_label": "Shop now",
+            "button_label": "Unsere Sättel",
             "button_link": "shopify://collections/satteltaschen",
             "button_style": "btn btn--primary"
           }
@@ -137,60 +137,579 @@
         "prevent_animation": false
       }
     },
-    "multi_column_7TAVqG": {
-      "type": "multi-column",
+    "media_grid_qreeDU": {
+      "type": "media-grid",
       "blocks": {
-        "column_Q9LzgW": {
-          "type": "column",
+        "media_FYft67": {
+          "type": "media",
+          "disabled": true,
           "settings": {
-            "enable_media": true,
-            "media_scale": 100,
-            "heading": "Column",
-            "text": "<p>Pair text with an image to focus on a product, collection or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Media heading</p>",
+            "heading_size": "h4",
             "button_label": "",
-            "button_link": ""
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
           }
         },
-        "column_brHNwT": {
-          "type": "column",
+        "media_PMEbPX": {
+          "type": "media",
           "settings": {
-            "enable_media": true,
-            "media_scale": 100,
-            "heading": "Column",
-            "text": "<p>Pair text with an image to focus on a product, collection or blog post. Add details on availability, style, or even provide a review.</p>",
+            "image": "shopify://shop_images/Regina_S.-2f35-48-5_756424b0-4d38-490b-b73c-00481cb55365.jpg",
+            "link_url": "shopify://products/echtes-leder-fahrradsattel-ledersattel-fuer-damen-sattel-fahrrad-cityrad-trekkingrad-braun-2f35-48-5",
+            "columns": 2,
+            "rows": 1,
+            "subheading": "Komfort trifft Eleganz für den täglichen Gebrauch.",
+            "title": "<p>Regina S.</p>",
+            "heading_size": "h4",
             "button_label": "",
-            "button_link": ""
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
           }
         },
-        "column_QhAP3P": {
-          "type": "column",
+        "media_jmh9ab": {
+          "type": "media",
           "settings": {
-            "enable_media": true,
-            "media_scale": 100,
-            "heading": "Column",
-            "text": "<p>Pair text with an image to focus on a product, collection or blog post. Add details on availability, style, or even provide a review.</p>",
+            "image": "shopify://shop_images/Bernard_H-2f3-20-42_d5510b52-bdc1-48aa-bd12-a1899d5fc7d6.jpg",
+            "link_url": "shopify://products/echtes-leder-fahrradsattel-ledersattel-vintage-retro-sattel-fahrrad-cityrad-braun-2f3-20-42",
+            "columns": 2,
+            "rows": 1,
+            "subheading": "Robust und stilvoll, entwickelt für Langstreckenkomfort.",
+            "title": "<p>Bernard H.</p>",
+            "heading_size": "h4",
             "button_label": "",
-            "button_link": ""
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
           }
         }
       },
       "block_order": [
-        "column_Q9LzgW",
-        "column_brHNwT",
-        "column_QhAP3P"
+        "media_FYft67",
+        "media_PMEbPX",
+        "media_jmh9ab"
       ],
       "settings": {
         "title": "Sättel für Frauen",
         "heading_align": "text-start",
         "button_label": "",
         "button_link": "",
-        "layout": "carousel",
-        "column_size": "medium",
-        "column_align": "left",
-        "media_align": "text-center",
-        "image_ratio": "1",
+        "gallery_cols_max": 4,
+        "mobile_carousel": false,
+        "gallery_cols_min": "1",
+        "fixed_height_desktop": 180,
+        "fixed_height_mobile": 300,
+        "section_color_scheme": "none",
+        "color_scheme": "white",
+        "transparent_content_color": "#ffffff"
+      }
+    },
+    "media_grid_Rmzjet": {
+      "type": "media-grid",
+      "blocks": {
+        "media_3kQGth": {
+          "type": "media",
+          "disabled": true,
+          "settings": {
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Media heading</p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_xNemzJ": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Michael_M-2f56-20-42_85ed958e-27c1-4c73-a79a-adfe009da12b.jpg",
+            "link_url": "shopify://products/real-leather-bike-saddle-leather-bicycle-saddle-vintage-retro-saddle-bike-city-bike-brown-2f56-20-42",
+            "columns": 2,
+            "rows": 1,
+            "subheading": "Dynamisch und ergonomisch für optimale Performance.",
+            "title": "<p>Michael M.</p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_grMGGf": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Geraint_T-2f31-22-5_e8c43f0a-b440-4831-ae28-625eadb76565.jpg",
+            "link_url": "shopify://products/echtes-leder-fahrradsattel-ledersattel-weich-sattel-fahrrad-rennrad-trekkingrad-braun-2f31-22-5",
+            "columns": 2,
+            "rows": 1,
+            "subheading": "Langlebig und unterstützend für den Alltag.",
+            "title": "<p>Geraint T.</p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        }
+      },
+      "block_order": [
+        "media_3kQGth",
+        "media_xNemzJ",
+        "media_grMGGf"
+      ],
+      "settings": {
+        "title": "Sättel für Männer",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "gallery_cols_max": 4,
+        "mobile_carousel": false,
+        "gallery_cols_min": "1",
+        "fixed_height_desktop": 180,
+        "fixed_height_mobile": 300,
+        "section_color_scheme": "none",
+        "color_scheme": "white",
+        "transparent_content_color": "#ffffff"
+      }
+    },
+    "media_grid_RNwUGE": {
+      "type": "media-grid",
+      "blocks": {
+        "media_dUwQGU": {
+          "type": "media",
+          "disabled": true,
+          "settings": {
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Media heading</p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_fmzbqG": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Elsy_J-2f71-20-42_1dae21a3-a7ef-4fcb-a746-edbabf83cfc0.jpg",
+            "link_url": "shopify://products/real-leather-bicycle-saddle-vintage-retro-leather-saddle-bicycle-saddle-city-bike-brown-2f71-20-42",
+            "columns": 2,
+            "rows": 1,
+            "subheading": "Leicht und stromlinienförmig für Geschwindigkeit.",
+            "title": "<p>Elsy J.</p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_KKgFpm": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Walter_G-2F101-20-34.jpg",
+            "link_url": "shopify://products/echtes-leder-fahrradsattel-ledersattel-vintage-retro-sattel-fahrrad-cityrad-schwarz-2f101-20-34",
+            "columns": 2,
+            "rows": 1,
+            "subheading": "Schlank und sportlich, ideal für Ausdauerrennen.",
+            "title": "<p>Walter G.</p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        }
+      },
+      "block_order": [
+        "media_dUwQGU",
+        "media_fmzbqG",
+        "media_KKgFpm"
+      ],
+      "settings": {
+        "title": "Rennradsättel",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "gallery_cols_max": 4,
+        "mobile_carousel": false,
+        "gallery_cols_min": "1",
+        "fixed_height_desktop": 180,
+        "fixed_height_mobile": 300,
+        "section_color_scheme": "none",
+        "color_scheme": "white",
+        "transparent_content_color": "#ffffff"
+      }
+    },
+    "media_grid_6B6naG": {
+      "type": "media-grid",
+      "blocks": {
+        "media_kETaG8": {
+          "type": "media",
+          "disabled": true,
+          "settings": {
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Media heading</p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_wLPKdU": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Anton_P-2f65-20-6.jpg",
+            "link_url": "shopify://products/real-leather-bicycle-saddle-leather-saddle-soft-sports-saddle-bike-racing-bike-trekking-bike-black-2f65-20-6",
+            "columns": 2,
+            "rows": 1,
+            "subheading": "Robust und widerstandsfähig, perfekt für Trails.",
+            "title": "<p>Anton P.</p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_gM6HAP": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Sean_Y-2F34-22-9.jpg",
+            "link_url": "shopify://products/echtes-leder-fahrradsattel-ledersattel-retro-design-weich-sattel-fahrrad-cityrad-rennrad-trekkingrad-mtb-schwarz-2f34-22-9",
+            "columns": 2,
+            "rows": 1,
+            "subheading": "Stoßdämpfendes Design für unwegsames Gelände.",
+            "title": "<p>Sean Y.</p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        }
+      },
+      "block_order": [
+        "media_kETaG8",
+        "media_wLPKdU",
+        "media_gM6HAP"
+      ],
+      "settings": {
+        "title": "Mountainbike-Sättel",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "gallery_cols_max": 4,
+        "mobile_carousel": false,
+        "gallery_cols_min": "1",
+        "fixed_height_desktop": 180,
+        "fixed_height_mobile": 300,
+        "section_color_scheme": "none",
+        "color_scheme": "white",
+        "transparent_content_color": "#ffffff"
+      }
+    },
+    "media_grid_UaRcCJ": {
+      "type": "media-grid",
+      "blocks": {
+        "media_XLAqjV": {
+          "type": "media",
+          "disabled": true,
+          "settings": {
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Media heading</p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_8UMj4M": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Connie_C-2f60-20-2.jpg",
+            "link_url": "shopify://products/echtes-leder-fahrradsattel-ledersattel-vintage-retro-sattel-fahrrad-cityrad-braun-2f60-20-2",
+            "columns": 2,
+            "rows": 1,
+            "subheading": "Kompakt und praktisch für den Stadtverkehr.",
+            "title": "<p>Connie C.</p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_TQTVi8": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Eloi_M-2F64-20-42.jpg",
+            "link_url": "shopify://products/real-leather-bicycle-saddle-vintage-retro-leather-saddle-bicycle-saddle-city-bike-brown-2f64-20-42",
+            "columns": 2,
+            "rows": 1,
+            "subheading": "Komfortorientiert für kurze tägliche Fahrten.",
+            "title": "<p>Eloi M.</p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        }
+      },
+      "block_order": [
+        "media_XLAqjV",
+        "media_8UMj4M",
+        "media_TQTVi8"
+      ],
+      "settings": {
+        "title": "Pendler-/Kurzstreckensättel",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "gallery_cols_max": 4,
+        "mobile_carousel": false,
+        "gallery_cols_min": "1",
+        "fixed_height_desktop": 180,
+        "fixed_height_mobile": 300,
+        "section_color_scheme": "none",
+        "color_scheme": "white",
+        "transparent_content_color": "#ffffff"
+      }
+    },
+    "media_grid_NWbqTn": {
+      "type": "media-grid",
+      "blocks": {
+        "media_ba9NTd": {
+          "type": "media",
+          "disabled": true,
+          "settings": {
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Media heading</p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_dpPt6E": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Louison_B-2F21-70-1.jpg",
+            "link_url": "shopify://products/echtes-leder-fahrradsattel-ledersattel-vintage-retro-sattel-fahrrad-cityrad-braun-2f21-70-1",
+            "columns": 2,
+            "rows": 1,
+            "subheading": "Breite Sitzfläche für optimale Gewichtsverteilung auf langen.",
+            "title": "<p>Louison B.</p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_TED4Th": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Mark_C-2f23-70-1.jpg",
+            "link_url": "shopify://products/echtes-leder-fahrradsattel-ledersattel-vintage-retro-sattel-fahrrad-cityrad-braun-2f23-70-1",
+            "columns": 2,
+            "rows": 1,
+            "subheading": "Entwickelt für ultimativen Komfort bei langen Fahrten.",
+            "title": "<p>Mark C.</p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        }
+      },
+      "block_order": [
+        "media_ba9NTd",
+        "media_dpPt6E",
+        "media_TED4Th"
+      ],
+      "settings": {
+        "title": "Langstreckensättel",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "gallery_cols_max": 4,
+        "mobile_carousel": false,
+        "gallery_cols_min": "1",
+        "fixed_height_desktop": 180,
+        "fixed_height_mobile": 300,
+        "section_color_scheme": "none",
+        "color_scheme": "white",
+        "transparent_content_color": "#ffffff"
+      }
+    },
+    "rich_text_eGfjwH": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_GWkxDT": {
+          "type": "heading",
+          "settings": {
+            "heading": "Warum einen Ledersattel von Gusti wählen?",
+            "heading_size": "h4",
+            "heading_h1": false
+          }
+        },
+        "subheading_Gy83mt": {
+          "type": "subheading",
+          "settings": {
+            "text": "Unsere Ledersättel passen sich im Laufe der Zeit Deinem Körper an und bieten ultimativen Komfort und Stil. Hier sind die Gründe, warum sie die beste Wahl für Dein Fahrrad sind:"
+          }
+        },
+        "text_aHiaBV": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li><strong>Individueller Komfort</strong>: Leder passt sich Deiner Körperform an und sorgt für eine bequeme, maßgeschneiderte Passform.  </li><li><strong>Atmungsaktives Material</strong>: Leder verhindert Hitzestau, Schweiß und Reizungen bei langen Fahrten.  </li><li><strong>Schlichtes Design</strong>: Nahtlose Verarbeitung ohne sichtbare Nieten für eine elegante Optik.  </li><li><strong>Sportlich und dynamisch</strong>: Schmale Sitzflächen und lange Sattelstreben, ideal für Rennräder, Trekking- oder Mountainbikes.  </li><li><strong>Zusätzlicher Komfort</strong>: Metallfedern und breitere Sitzflächen verteilen das Gewicht gleichmäßig – perfekt für Langstreckenfahrten.  </li><li><strong>Langlebigkeit</strong>: Genietete Kanten und verstärkte Ösen zum Befestigen von Satteltaschen, ideal für Fixies oder Hollandräder.  </li></ul>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_GWkxDT",
+        "subheading_Gy83mt",
+        "text_aHiaBV"
+      ],
+      "settings": {
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "wide": false,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "faq_Pq74cP": {
+      "type": "faq",
+      "blocks": {
+        "question_aBwEgm": {
+          "type": "question",
+          "settings": {
+            "icon": "none",
+            "heading": "Wie pflege ich einen Ledersattel?",
+            "text": "<ul><li>Reinige Deinen Sattel regelmäßig mit einem weichen Tuch oder einer Bürste, um Schmutz zu entfernen.  </li><li>Für eine gründlichere Reinigung trage eine kleine Menge Lederpflegemittel auf und reibe es sanft ein.  </li><li>Entferne überschüssiges Pflegemittel mit einem sauberen Tuch, um die natürliche Oberfläche und Weichheit des Leders zu erhalten. </li></ul>"
+          }
+        },
+        "question_6aG4c8": {
+          "type": "question",
+          "settings": {
+            "icon": "none",
+            "heading": "Welches Material eignet sich am besten für einen Fahrradsattel?",
+            "text": "<p>Leder gilt als eines der besten Materialien für Fahrradsättel. Es passt sich im Laufe der Zeit Deiner Körperform an und bietet unvergleichlichen Komfort. Zudem ist es langlebig und atmungsaktiv, was es ideal für unterschiedliche Fahrbedingungen macht.</p>"
+          }
+        },
+        "question_E43PYC": {
+          "type": "question",
+          "settings": {
+            "icon": "none",
+            "heading": "Wie erkenne ich, ob mein Sattel angepasst werden muss?",
+            "text": "<p>Wenn Du Unbehagen verspürst, eine ungleichmäßige Gewichtsverteilung bemerkst oder der Sattel schief sitzt, ist es Zeit, die Einstellung zu überprüfen. Achte darauf, dass der Sattel gerade und fest montiert ist, um optimale Leistung und Komfort zu gewährleisten. </p>"
+          }
+        },
+        "question_gdVmjh": {
+          "type": "question",
+          "settings": {
+            "icon": "none",
+            "heading": "Was ist der Unterschied zwischen Männer- und Frauensätteln?",
+            "text": "<p>Sättel für <strong>Männer </strong>sind in der Regel <strong>schmaler und länger</strong>, um deren Anatomie und Fahrstil gerecht zu werden. <strong>Frauensättel </strong>sind dagegen <strong>breiter und haben eine kürzere Nase</strong>, um besseren Halt und Komfort zu bieten. Die Wahl des richtigen Sattels sorgt für ein angenehmeres und entspannteres Fahrerlebnis.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_aBwEgm",
+        "question_6aG4c8",
+        "question_E43PYC",
+        "question_gdVmjh"
+      ],
+      "settings": {
+        "heading": "FAQs",
+        "heading_align": "text-center",
         "color_scheme": "1",
-        "button_style": "btn btn--secondary"
+        "full_width": true
       }
     },
     "collection_list_RHeKBJ": {
@@ -285,7 +804,14 @@
     "image_banner_h7bfNH",
     "media_with_text_CxpFLz",
     "rich_text_KeQdiW",
-    "multi_column_7TAVqG",
+    "media_grid_qreeDU",
+    "media_grid_Rmzjet",
+    "media_grid_RNwUGE",
+    "media_grid_6B6naG",
+    "media_grid_UaRcCJ",
+    "media_grid_NWbqTn",
+    "rich_text_eGfjwH",
+    "faq_Pq74cP",
     "collection_list_RHeKBJ",
     "featured_collection_fw9w9V"
   ]
