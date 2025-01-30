@@ -1,1 +1,788 @@
-{"sections":{"main":{"type":"main-page","settings":{"show_page_title":true,"heading_align":"text-center"}},"image_banner_h7bfNH":{"type":"image-banner","blocks":{"heading_tkepFK":{"type":"heading","settings":{"heading":"Image banner","heading_size":"h1","heading_h1":false}},"text_i4fTGy":{"type":"text","settings":{"text":"<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>","enlarge_text":true}},"button_446Ntx":{"type":"button","settings":{"button_1_label":"Optional button","button_1_link":"","button_1_style":"btn btn--primary","button_2_label":"Optional button","button_2_link":"","button_2_style":"btn btn--primary"}}},"block_order":["heading_tkepFK","text_i4fTGy","button_446Ntx"],"settings":{"url":"","height_mode":"auto","fixed_height_desktop":600,"fixed_height_mobile":350,"overlay_position":"justify-center items-center","overlay_text_align":"text-center","mob_center_text":false,"mobile_stacked":false,"color_scheme":"white","full_width":true,"transparent_content_color":"#ffffff","tint_color":"#000000","tint_opacity":40,"prevent_animation":false}},"collection_list_RHeKBJ":{"type":"collection-list","blocks":{"collection_Bnwkxe":{"type":"collection","settings":{"collection":""}},"collection_XxnyQd":{"type":"collection","settings":{"collection":""}},"collection_tqX3rW":{"type":"collection","settings":{"collection":""}},"collection_XHnx9f":{"type":"collection","settings":{"collection":""}},"collection_eAJ4fF":{"type":"collection","settings":{"collection":""}},"collection_xbRB6E":{"type":"collection","settings":{"collection":""}}},"block_order":["collection_Bnwkxe","collection_XxnyQd","collection_tqX3rW","collection_XHnx9f","collection_eAJ4fF","collection_xbRB6E"],"settings":{"title":"Collections","heading_align":"text-start","button_label":"","button_link":"","layout":"carousel","card_size":"small","use_product_image":false,"circle_image":true,"show_border":true,"color_scheme":"none","full_width":true}},"featured_collection_fw9w9V":{"type":"featured-collection","settings":{"title":"Unsere Bestseller","heading_align":"text-start","show_view_all":true,"collection":"bestseller","layout":"carousel","card_size_mobile":"small","card_size":"small","products_to_show":8,"show_highlight_products":true,"show_promo_info":false,"image_ratio":"fill","promo_title":"A headline to grab attention","content":"<p>Use this card with an image to highlight your collections or introduce a promotion.<\/p>","link_url":"","button_label":"Button","color_scheme":"2","button_style":"btn btn--primary"}}},"order":["main","image_banner_h7bfNH","collection_list_RHeKBJ","featured_collection_fw9w9V"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_page_title": true,
+        "heading_align": "text-center"
+      }
+    },
+    "image_banner_h7bfNH": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_tkepFK": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1",
+            "heading_h1": false
+          }
+        },
+        "text_i4fTGy": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "enlarge_text": true
+          }
+        },
+        "button_446Ntx": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_tkepFK",
+        "text_i4fTGy",
+        "button_446Ntx"
+      ],
+      "disabled": true,
+      "settings": {
+        "image_desktop": "shopify://shop_images/fathers-day-banner.jpg",
+        "url": "",
+        "height_mode": "auto",
+        "fixed_height_desktop": 600,
+        "fixed_height_mobile": 350,
+        "overlay_position": "justify-center items-center",
+        "overlay_text_align": "text-center",
+        "mob_center_text": false,
+        "mobile_stacked": false,
+        "color_scheme": "white",
+        "full_width": true,
+        "transparent_content_color": "#ffffff",
+        "tint_color": "#000000",
+        "tint_opacity": 40,
+        "prevent_animation": false
+      }
+    },
+    "multi_column_hpbrJw": {
+      "type": "multi-column",
+      "blocks": {
+        "column_99JnjF": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Jesse.jpg",
+            "media_scale": 100,
+            "heading": "Geschenke für Papa - Wann ist Vatertag 2025?",
+            "text": "<p>Papa, Du bist der Beste! - Den Vatertag (Herrentag oder Männertag) feiert man in vielen Ländern der Welt an unterschiedlichen Tagen. Doch immer aus demselben Grund: wir wollen den Mann ehren, der unser großes Vorbild ist. In Österreich findet der Vatertag dieses Jahr am<strong>08.06.2025</strong> statt.</p><p><br/>Wie jedes Jahr wollen wir an diesem Tag mit einem kleinen Geschenk Danke sagen, für alles was Papa für uns tut und schon getan hat. Das<strong>richtige Geschenk für einen Mann</strong>zu finden ist nicht immer leicht. Deshalb haben wir haben für Euch einige Geschenkideen zusammengestellt, die ihm garantiert gefallen!</p>",
+            "button_label": "Buy",
+            "button_link": "shopify://products/tabaktasche-drehertasche-tabakbeutel-feinschnittbeutel-schwarz-leder-2t1-22-9"
+          }
+        },
+        "column_LFQnLe": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Spencer_2g7-22-6.jpg",
+            "media_scale": 100,
+            "heading": "Geschenkideen aus Leder, die Deinen Vater ein Leben lang begleiten",
+            "text": "<p>Es muss nicht immer ein teures alkoholisches Getränk oder ein Technik-Spielzeug sein. Geschenke für Männer sollten möglichst<strong>praktisch, schlicht und trotzdem elegant</strong>sein. Schenkt Euren Vätern dieses Jahr etwas, an dem er lange Freude hat!</p><p><br/>Produkte aus Leder sind<strong>langlebig und robust</strong>, da das Material selbst sehr widerstandsfähig ist. Gusti Leder zeigt Dir Geschenkideen aus hochwertigem, nachhaltigem Leder, die Deinen Papa ein Leben lang begleiten!</p>",
+            "button_label": "Buy",
+            "button_link": "shopify://products/guerteltasche-bauchtasche-festivaltasche-2g7-22-6"
+          }
+        }
+      },
+      "block_order": [
+        "column_99JnjF",
+        "column_LFQnLe"
+      ],
+      "settings": {
+        "title": "Ideen und Geschenke aus Leder zum Vatertag",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "layout": "grid",
+        "column_size": "medium",
+        "column_align": "left",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "rich_text_3FPJbb": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_yEgRUj": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_x6CLXd": {
+          "type": "heading",
+          "settings": {
+            "heading": "Füge diesen Lederprodukten noch eine ganz persönliche Gravur hinzu!",
+            "heading_size": "h4",
+            "heading_h1": false
+          }
+        },
+        "text_z6JJFC": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your store with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "enlarge_text": true
+          }
+        },
+        "button_fQApTT": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_yEgRUj",
+        "heading_x6CLXd",
+        "text_z6JJFC",
+        "button_fQApTT"
+      ],
+      "settings": {
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "wide": false,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "multi_column_L7Viry": {
+      "type": "multi-column",
+      "blocks": {
+        "column_ktw9ze": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Casper.jpg",
+            "media_scale": 100,
+            "heading": "Casper",
+            "text": "",
+            "button_label": "",
+            "button_link": "shopify://products/stiftemappe-federtasche-federmappe-2s2-22-5"
+          }
+        },
+        "column_AhW7gC": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/accessory_1.jpg",
+            "media_scale": 100,
+            "heading": "Ingvar",
+            "text": "",
+            "button_label": "",
+            "button_link": "shopify://products/armband-armreif-surferarmband-freundschaftsarmband-dezent-lederarmband-flexibel-schmuck-verstellbarer-knotenverschluss-schiebeknoten-lederschmuck-geflochten-vintage-natur-leder-2o1-26-27-6-s"
+          }
+        },
+        "column_FYjhMA": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/accessory_2.jpg",
+            "media_scale": 100,
+            "heading": "Chester",
+            "text": "",
+            "button_label": "",
+            "button_link": "shopify://products/kulturtasche-kosmetiktasche-waschtasche-braun-leder-2h30-20-4wp"
+          }
+        }
+      },
+      "block_order": [
+        "column_ktw9ze",
+        "column_AhW7gC",
+        "column_FYjhMA"
+      ],
+      "settings": {
+        "title": "Was man zum Vatertag schenken kann? Wie wäre es mit einem neuenAccessoire von Gusti Leder",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "layout": "carousel",
+        "column_size": "medium",
+        "column_align": "left",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "media_grid_CMWgfN": {
+      "type": "media-grid",
+      "blocks": {
+        "media_TrMThQ": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/wallet_3.jpg",
+            "link_url": "shopify://products/geldboerse-portemonnaie-brieftasche-geldbeutel-herren-schwarz-leder-2a126-33-2",
+            "columns": 2,
+            "rows": 2,
+            "subheading": "",
+            "title": "<p>Moritz</p>",
+            "heading_size": "h5",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_4XCeba": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/wallet_2.jpg",
+            "link_url": "shopify://products/kartenhuelle-kartenhalter-kartenetui-brieftasche-geldbeutel-geldboerse-klein-damen-herren-braun-leder-2a118-33-8",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Abel</p>",
+            "heading_size": "h5",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_Gc9rYi": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/wallet_4.jpg",
+            "link_url": "shopify://products/geldboerse-portemonnaie-brieftasche-2a14-22-5",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Brian</p>",
+            "heading_size": "h5",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_Ec8gAt": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Lewi-_2A143-22-6.jpg",
+            "link_url": "https://www.gusti-leder.at/geldboerse-portemonnaie-brieftasche-geldbeutel-herren-braun-leder-2a143-22-6",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Lewi</p>",
+            "heading_size": "h5",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_D6qXti": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Pawel-_2a54-22-9.jpg",
+            "link_url": "https://www.gusti-leder.at/portemonnaie-geldboerse-geldbeutel-herren-schwarz-leder-2a54-22-9",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Pawel</p>",
+            "heading_size": "h5",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        }
+      },
+      "block_order": [
+        "media_TrMThQ",
+        "media_4XCeba",
+        "media_Gc9rYi",
+        "media_Ec8gAt",
+        "media_D6qXti"
+      ],
+      "settings": {
+        "title": "Du suchst Vatertagsgeschenke unter 20€? Bei unseren Portemonnaies aus Lederist für Jeden etwas dabei!",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "gallery_cols_max": 4,
+        "mobile_carousel": false,
+        "gallery_cols_min": "1",
+        "fixed_height_desktop": 180,
+        "fixed_height_mobile": 300,
+        "section_color_scheme": "none",
+        "color_scheme": "white",
+        "transparent_content_color": "#ffffff"
+      }
+    },
+    "media_grid_ezYqip": {
+      "type": "media-grid",
+      "blocks": {
+        "media_bcRaQT": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Bike_bags_3_1.jpg",
+            "link_url": "shopify://products/2b78-20-5wpol",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p><strong>Miquel I.</strong></p>",
+            "heading_size": "h5",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_ddU6dh": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Bike_bags_2.jpg",
+            "link_url": "shopify://products/satteltasche-mit-wasserfestem-innenfutter-vintage-klein-2g13-20-5wp",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Udo B.</p>",
+            "heading_size": "h5",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_iDfeFa": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Bike_bags_1.jpg",
+            "link_url": "shopify://products/fahrradtasche-aktentasche-umhaengetasche-riementasche-schultertasche-businesstasche-messenger-bag-arbeitstasche-lehrertasche-unitasche-ledertasche-wasserfest-braun-leder-2b25-20-5wpol",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Marc</p>",
+            "heading_size": "h5",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_CTfjQT": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Bike_bags_4.jpg",
+            "link_url": "shopify://products/sac-de-selle-en-cuir-vintage-pour-velo-2g31-20-4",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Wolfgang L.</p>",
+            "heading_size": "h5",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        }
+      },
+      "block_order": [
+        "media_bcRaQT",
+        "media_ddU6dh",
+        "media_iDfeFa",
+        "media_CTfjQT"
+      ],
+      "settings": {
+        "title": "Sportlich, sportlich! Fahrradtaschen aus Lederfür Väter, die sich gern an der frischen Luft bewegen",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "gallery_cols_max": 4,
+        "mobile_carousel": false,
+        "gallery_cols_min": "1",
+        "fixed_height_desktop": 180,
+        "fixed_height_mobile": 300,
+        "section_color_scheme": "none",
+        "color_scheme": "white",
+        "transparent_content_color": "#ffffff"
+      }
+    },
+    "media_grid_crNHRV": {
+      "type": "media-grid",
+      "blocks": {
+        "media_BXLAEn": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/backpack_1.jpg",
+            "link_url": "shopify://products/2m81-20-12wp",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Paula M</p>",
+            "heading_size": "h5",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_eP6hNE": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/backpack_2.jpg",
+            "link_url": "shopify://products/rucksack-lederrucksack-vintage-u39",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p><strong>Joe</strong></p>",
+            "heading_size": "h5",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_j3WygG": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/backpack_4.jpg",
+            "link_url": "shopify://products/lederrucksack-vintage-cityrucksack-2m23-20-4wp",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Nolan</p>",
+            "heading_size": "h5",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        }
+      },
+      "block_order": [
+        "media_BXLAEn",
+        "media_eP6hNE",
+        "media_j3WygG"
+      ],
+      "settings": {
+        "title": "In diese Lederrucksäckepasst alles rein, was Dein Papa braucht",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "gallery_cols_max": 4,
+        "mobile_carousel": false,
+        "gallery_cols_min": "1",
+        "fixed_height_desktop": 180,
+        "fixed_height_mobile": 300,
+        "section_color_scheme": "none",
+        "color_scheme": "white",
+        "transparent_content_color": "#ffffff"
+      }
+    },
+    "media_grid_ar4Gjd": {
+      "type": "media-grid",
+      "blocks": {
+        "media_8C7yXG": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/travel_bag_Harvey.jpg",
+            "link_url": "shopify://products/reisetasche-bordtasche-weekender-r27b",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Harvey</p>",
+            "heading_size": "h5",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_yGxwHX": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/travel_bag_hall.jpg",
+            "link_url": "shopify://products/cestovni-taska-sportovni-taska-weekender-vintage-cerna-kuze-2r38-20-6wp",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p><strong>Hall</strong></p>",
+            "heading_size": "h5",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_kaWqzA": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/travel_bag_Valter.jpg",
+            "link_url": "shopify://products/reisetasche-weekender-sporttasche-handgepaeck-ledertasche-schwarz-leder-2r40-20-55",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Valter</p>",
+            "heading_size": "h5",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_VKBqFn": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/travel_bag_Ruben_2R1-20-5.jpg",
+            "link_url": "shopify://products/reisetasche-sporttasche-ledertasche-mit-wasserfestem-innenstoff-2r1-20-5wp",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Ruben</p>",
+            "heading_size": "h5",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        }
+      },
+      "block_order": [
+        "media_8C7yXG",
+        "media_yGxwHX",
+        "media_kaWqzA",
+        "media_VKBqFn"
+      ],
+      "settings": {
+        "title": "Männer können keine Taschen tragen? FALSCH! Mit diesenWeekendern aus Lederist jeder Mann stilsicher unterwegs",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "gallery_cols_max": 4,
+        "mobile_carousel": false,
+        "gallery_cols_min": "1",
+        "fixed_height_desktop": 180,
+        "fixed_height_mobile": 300,
+        "section_color_scheme": "none",
+        "color_scheme": "white",
+        "transparent_content_color": "#ffffff"
+      }
+    },
+    "media_with_text_cPDMe7": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_bXEng3": {
+          "type": "heading",
+          "settings": {
+            "heading": "Vatertagsgeschenke zum selber machen: Ideen zum Basteln mit Leder",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "text_kLhHhW": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Du möchtest Deinem Vater doch lieber mit einem<strong>selbstgemachten Geschenk</strong>eine Freude machen? Entwerfe einfach Dein eigenes Vatertagsgeschenk aus Leder! Wir lieben es zu basteln und kreativ zu werden. Deshalb findest Du bei uns viele verschiedene Lederstücke und Werkzeuge, mit denen Du Deine DIY-Projekte in die Tat umsetzen kannst.</p><p><br/>Wenn Du noch Ideen und Anregungen brauchst, wie Du z.B.<strong>Organizer, Portemonnaies, Federtaschen, Schlüsselanhänger oder Tabaktaschen</strong>basteln kannst, schau auf unserem YouTube-Kanal vorbei</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_DMNGJL": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Optional button",
+            "button_link": "",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_bXEng3",
+        "text_kLhHhW",
+        "button_DMNGJL"
+      ],
+      "settings": {
+        "video_external": "https://youtu.be/ui6K0CYX5Vo",
+        "video_description": "",
+        "video_autoplay": true,
+        "layout": "left",
+        "image_fit": "contain",
+        "media_width": 50,
+        "media_scale": 100,
+        "text_align": "text-start",
+        "color_scheme": "none",
+        "only_content_color_scheme": false
+      }
+    },
+    "collection_list_RHeKBJ": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_Bnwkxe": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "collection_XxnyQd": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "collection_tqX3rW": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "collection_XHnx9f": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "collection_eAJ4fF": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "collection_xbRB6E": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_Bnwkxe",
+        "collection_XxnyQd",
+        "collection_tqX3rW",
+        "collection_XHnx9f",
+        "collection_eAJ4fF",
+        "collection_xbRB6E"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Collections",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "layout": "carousel",
+        "card_size": "small",
+        "use_product_image": false,
+        "circle_image": true,
+        "show_border": true,
+        "color_scheme": "none",
+        "full_width": true
+      }
+    },
+    "featured_collection_fw9w9V": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "Unsere Bestseller",
+        "heading_align": "text-start",
+        "show_view_all": true,
+        "collection": "bestseller",
+        "layout": "carousel",
+        "card_size_mobile": "small",
+        "card_size": "small",
+        "products_to_show": 8,
+        "show_highlight_products": true,
+        "show_promo_info": false,
+        "image_ratio": "fill",
+        "promo_title": "A headline to grab attention",
+        "content": "<p>Use this card with an image to highlight your collections or introduce a promotion.</p>",
+        "link_url": "",
+        "button_label": "Button",
+        "color_scheme": "2",
+        "button_style": "btn btn--primary"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_banner_h7bfNH",
+    "multi_column_hpbrJw",
+    "rich_text_3FPJbb",
+    "multi_column_L7Viry",
+    "media_grid_CMWgfN",
+    "media_grid_ezYqip",
+    "media_grid_crNHRV",
+    "media_grid_ar4Gjd",
+    "media_with_text_cPDMe7",
+    "collection_list_RHeKBJ",
+    "featured_collection_fw9w9V"
+  ]
+}
