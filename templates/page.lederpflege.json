@@ -11,6 +11,7 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "show_page_title": true,
         "heading_align": "text-center"
@@ -77,6 +78,7 @@
       "blocks": {
         "subheading_wiDCXx": {
           "type": "subheading",
+          "disabled": true,
           "settings": {
             "text": "Subheading"
           }
@@ -92,12 +94,13 @@
         "text_n4mgDc": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your store with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "enlarge_text": true
+            "text": "<p>Endlich ist sie da! Deine Gusti Leder-Tasche! Doch bevor es mit ihr nach draußen geht, wo sie den Elementen ausgesetzt ist, solltest Du einiges beachten. Doch keine Angst, mit ein paar einfachen Tipps und Tricks verschaffst du deinem neuen Lederliebling ein langes Leben! Da Leder ein natürliches Material ist bedarf es<strong>Pflege</strong>, damit es lange schön aussieht. Auch Brüchigkeit und Wasserbeständigkeit kann durch die<strong>richtige Pflege</strong>verhindert werden.</p>",
+            "enlarge_text": false
           }
         },
         "button_8mN8T4": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_1_label": "Optional button",
             "button_1_link": "",
@@ -122,6 +125,406 @@
         "color_scheme": "none",
         "full_width": true,
         "prevent_animation": false
+      }
+    },
+    "multi_column_yLMxgN": {
+      "type": "multi-column",
+      "blocks": {
+        "column_RPMHxT": {
+          "type": "column",
+          "settings": {
+            "enable_media": false,
+            "media_scale": 100,
+            "heading": "Dein erster Schritt in Richtung Glück",
+            "text": "<p>Damit Du lange etwas von Deiner Gusti Leder-Tasche hast, muss sie natürlich gepflegt werden. Nach dem Auspacken imprägnierst Du die Tasche am besten. Dafür kannst Du ein normales Imprägnierspray verwenden, welches die Tasche optimal vor Feuchtigkeit und ausbleichender Sonnenstrahlung schützt. Ansonsten ist Deine Gusti Leder studio-Tasche ziemlich robust und nicht so schnell kleinzukriegen. Das macht sie zu dem liebenswerten und unkomplizierten Begleiter, der sie ist.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_iGTxFz": {
+          "type": "column",
+          "settings": {
+            "enable_media": false,
+            "media_scale": 100,
+            "heading": "Welches Mittelchen muss ich denn nehmen?",
+            "text": "<p>Für die optimale Lederpflege Deiner Gusti Leder studio-Tasche sollte das Pflegemittel der Lederart angepasst sein. Rauleder, Glattleder, Wildleder – für alles gibt es das richtige Pflegeprodukt, damit das Leder auch noch in 50 Jahren geschmeidig und weich bleibt. Ob Deine Lederpflege für das Leder Deiner Tasche geeignet ist steht in der Regel auf der Lederpflege. Eine Pflege auf Bienenwachsbasis ist eine natürliche Variante, die vor allem bei Glattleder angewandt werden kann.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_RPMHxT",
+        "column_iGTxFz"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "layout": "grid",
+        "column_size": "medium",
+        "column_align": "left",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "multi_column_rYqE9m": {
+      "type": "multi-column",
+      "blocks": {
+        "column_PTCjPE": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Image_1.jpg",
+            "media_scale": 100,
+            "heading": "Gusti Bienenwachs",
+            "text": "<p>Die Verwendung von Wachs für Lederartikel ist wichtig, um sie in gutem Zustand zu halten. <br/><br/>Wir freuen uns, unser Gusti Bienenwachs vorstellen zu können, das wir in unserer eigenen Produktionsstätte herstellen. Dieser Lederbalsam wird aus natürlichen Inhaltsstoffen hergestellt und macht dein Leder glänzender, wasserabweisender und länger haltbar.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_ddY7pa": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Image_5.jpg",
+            "media_scale": 100,
+            "heading": "Wie stellen wir unser Gusti Bienenwachs her?",
+            "text": "<p>Wir sind sehr transparent in Bezug auf unseren Produktionsprozess und stellen sicher, dass unsere Kunden mit den hochwertigen Produkten, die sie erhalten, zufrieden sind.<br/><br/>Um unser Bienenwachs herzustellen, erhitzen wir zunächst Sonnenblumenöl. Dann fügen wir dem Öl natürliches Bienenwachs hinzu und lassen es schmelzen. Sobald das Bienenwachs geschmolzen ist, fügen wir der Mischung ein natürliches Honigaroma hinzu und vermischen alle drei Zutaten, bis sie vollständig miteinander verbunden sind. Dann gießen wir die Mischung in Metallbehälter und lassen sie abkühlen und eindicken.<br/><br/>Dann ist unser Bienenwachs bereit für die Verwendung!</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_j3WPPd": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Image_3.jpg",
+            "media_scale": 100,
+            "heading": "Wie kann ich Bienenwachs auf Lederprodukte auftragen?",
+            "text": "<p>Pflege Deine Lederartikel richtig, indem Du diese 3 einfachen Schritte befolgst:<br/><br/>• Reinige die Oberfläche gründlich mit einem feuchten Tuch, um Schmutz zu entfernen  <br/><br/>• Trage Gusti Bienenwachs mit einem sauberen Tuch auf und reibe es sanft ein<br/><br/>• Verwende ein weiteres Handtuch, um überschüssiges Wachs von deinem Lederartikel zu entfernen<br/><br/>Lehne Dich zurück und bewunder Deinen glänzenden und glatten Begleiter aus Leder!</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_PTCjPE",
+        "column_ddY7pa",
+        "column_j3WPPd"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "layout": "grid",
+        "column_size": "medium",
+        "column_align": "left",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "multi_column_3BFKNH": {
+      "type": "multi-column",
+      "blocks": {
+        "column_QGVWLR": {
+          "type": "column",
+          "settings": {
+            "enable_media": false,
+            "image": "shopify://shop_images/Image_4.jpg",
+            "media_scale": 100,
+            "heading": "Tipps für die Arbeit mit Lederwachs",
+            "text": "<p>Lederwachs verbessert das Aussehen des Leders. Doch es ist wichtig, dass du weißt, wie Du Deinen Freund aus Leder mit Bienenwachs pflegst.<br/><br/>Vermeide es, zu viel Bienenwachs aufzutragen, da dies zu einer Ablagerung auf der Oberfläche führen kann und Deine Lederprodukte schneller schmutzig werden. </p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_UHHWqV": {
+          "type": "column",
+          "settings": {
+            "enable_media": false,
+            "image": "shopify://shop_images/Image_2.jpg",
+            "media_scale": 100,
+            "heading": "Warum ist Bienenwachs gut für Leder?",
+            "text": "<p>Bienenwachs hat natürliche wasserabweisende Eigenschaften und ist daher die beste Wahl für den Schutz Deiner Lederprodukte. Es verhindert, dass das Leder Feuchtigkeit aufnimmt und verlangsamt den Verschleiß des Leders. Bienenwachs hilft dem Leder, seine Form zu behalten und verleiht zusätzlich einen strahlenden Glanz. Es ist einfach in der Anwendung und damit die beste Möglichkeit, Dein Leder in hervorragendem Zustand zu erhalten.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_QGVWLR",
+        "column_UHHWqV"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "layout": "grid",
+        "column_size": "medium",
+        "column_align": "left",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "multi_column_XGcNML": {
+      "type": "multi-column",
+      "blocks": {
+        "column_AK6tVY": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/C18.jpg",
+            "media_scale": 100,
+            "heading": "Shampoo für Leder",
+            "text": "<p>Egal ob es um Deine Handtaschen, Geldbörsen, Reisetaschen oder jedes andere Lederaccessoire geht - Du kannst sie ganz einfach zu Hause reinigen. Gib Deinen Lieblingen die zusätzliche Pflege, die sie brauchen, mit unserem neuen Reinigungsprodukt für Leder. Das revolutionäre Shampoo-Spray reinigt nicht nur Lederprodukte, sondern erzeugt gleichzeitig auch eine dünne Schutzschicht gegen Staub.</p><p><strong>Wie wird es angewendet?</strong></p><p>Sprühe das Shampoo auf die Lederoberfläche und reibe es sanft mit der Bürste ein. Die weichen Borsten der Bürste entfernen den Schmutz, ohne Deine Lederartikel zu zerkratzen oder zu beschädigen. Darüber hinaus hilft das duftende Shampoo, den Ledergeruch zu reduzieren und Deinen Lederartikeln einen aromatischen Duft zu verleihen. Du kannst das Shampoo für Deine Glattleder, Nubuk/Wildleder oder Stoff Produkte verwenden <br/><br/>Bitte beachte, dass das Produkt nicht verwendet werden kann, um Ölflecken von der Oberfläche des Leders zu entfernen.</p>",
+            "button_label": "Buy now",
+            "button_link": "shopify://products/brush-shampoo-leather-care-leather-c18"
+          }
+        },
+        "column_6Qa68U": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/C19.jpg",
+            "media_scale": 100,
+            "heading": "Wasserabweisendes Spray",
+            "text": "<p>Lederprodukte können Wasserflecken oder Verfärbungen bekommen, wenn sie mit Wasser in Kontakt kommen. Pflege Deine Lederaccessoires indem Du unser wasserabweisendes Spray anwendest. Es schützt Deine Lederhandtaschen, Jacken und Schuhe vor Schmutz und Feuchtigkeit. Das Spray bewahrt die Qualität und das Aussehen Deiner Lederaccessoires und hält sie in optimalem Zustand. Es ist einfach anzuwenden und sehr effektiv im Schutz von Lederprodukten vor nassen Bedingungen.<br/><br/><strong>Anwendung des wasserabweisenden Sprays</strong><br/><br/>Wische Deine Lederhandtasche, Schuhe oder Jacke mit einem sauberen, weichen Tuch ab. Sprühe das Produkt nun gleichmäßig auf die Oberfläche der Lederprodukte, wobei Du einen Abstand von etwa 30 cm zwischen der Düse und dem Leder einhältst. Lasse das Spray mindestens 20 Minuten trocknen, bevor Du die Produkte verwendest.</p>",
+            "button_label": "Buy now",
+            "button_link": "shopify://products/impregnation-spray-150ml-fuer-leder-werkzeug-lederpflege-c19"
+          }
+        }
+      },
+      "block_order": [
+        "column_AK6tVY",
+        "column_6Qa68U"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "layout": "grid",
+        "column_size": "medium",
+        "column_align": "left",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "media_with_text_tgjh3d": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_zW9nzN": {
+          "type": "heading",
+          "settings": {
+            "heading": "Warum riecht meine Tasche so streng?",
+            "heading_size": "h4",
+            "heading_h1": false
+          }
+        },
+        "text_hFRMwi": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Du freust Dich schon auf den einmaligen Ledergeruch beim Auspacken und musst dann die Nase rümpfen, weil er doch ein bisschen zu stark ausgefallen ist? Mach Dir keinen Kopf, das kann schon einmal vorkommen, denn schließlich ist unser Leder ein Naturprodukt, das sich vor allem durch seine ökologische Produktion auszeichnet. Das regelmäßige Benutzen Deiner Tasche führt dazu, dass der intensive Geruchverschwindet und nur noch der charakteristische Ledergeruch bleibt. Wem das aber zu lange dauert, kann sich auch mit kleinen Duftsäckchen, z.B. aus Lavendel, schnell helfen.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_kKpC9z": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Optional button",
+            "button_link": "",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_zW9nzN",
+        "text_hFRMwi",
+        "button_kKpC9z"
+      ],
+      "settings": {
+        "video_external": "https://youtu.be/4GEb0C-3Ywo",
+        "video_description": "",
+        "video_autoplay": true,
+        "layout": "left",
+        "image_fit": "contain",
+        "media_width": 50,
+        "media_scale": 100,
+        "text_align": "text-start",
+        "color_scheme": "none",
+        "only_content_color_scheme": false
+      }
+    },
+    "media_with_text_gPqebM": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_3BDyAq": {
+          "type": "heading",
+          "settings": {
+            "heading": "Wieso hat meine Tasche Flecken?",
+            "heading_size": "h4",
+            "heading_h1": false
+          }
+        },
+        "text_6Jj6FN": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Auch hier heißt die erste Devise: Cool bleiben! Denn diese Flecken sind überhaupt nicht schlimm und leicht wegzubekommen. Es handelt sich dabei um Talgspuren. Das Leder ist ein Naturprodukt, was natürlich nachfetten kann, wodurch dann diese unschönen weißen Ränder entstehen. Auch hier hilft ein Tuch oder ein Schwamm, aber diesmal komplett trocken. Damit reibst Du vorsichtig über die Flecken und wie durch Zauberhand verschwindet der Fleck ganz schnell.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_QPcKnL": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Optional button",
+            "button_link": "",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_3BDyAq",
+        "text_6Jj6FN",
+        "button_QPcKnL"
+      ],
+      "settings": {
+        "video_external": "https://youtu.be/i5BYU0geI2M",
+        "video_description": "",
+        "video_autoplay": true,
+        "layout": "right",
+        "image_fit": "contain",
+        "media_width": 50,
+        "media_scale": 100,
+        "text_align": "text-start",
+        "color_scheme": "none",
+        "only_content_color_scheme": false
+      }
+    },
+    "multi_column_YAUn9x": {
+      "type": "multi-column",
+      "blocks": {
+        "column_rghT7k": {
+          "type": "column",
+          "settings": {
+            "enable_media": false,
+            "media_scale": 100,
+            "heading": "Gerade neu gekauft und dann schon Kratzer?",
+            "text": "<p>Unser Leder stammt von in Freilandhaltung lebenden Ziegen aus Indien. In der Steppe lauern viele Gefahren für ihre Haut, wie z.B. Dornenbüsche. Einmal daran hängen geblieben und – ZACK! - gibt es einen Kratzer. Das zeigt aber nur noch einmal deutlich, wie natürlich unsere Produkte sind. Wen so ein Kratzer arg stört, schnappt sich ein Lederpflegemittel auf Bienenwachsbasis und ein Tuch oder kleinen Schwamm. Feuchte das Tuch oder den Schwamm leicht an und achte darauf, dass es nicht zu nass wird. Dann tupfst Du das Bienenwachs vorsichtig auf die Stelle und reibst es ein. Das Bienenwachs bewirkt, dass die Stelle leicht nachdunkelt und so der Kratzer gar nicht mehr zu sehen ist. Dieser Effekt verstärkt den individuellen Look und Charme Deiner Tasche. Merke: Das Auftragen eines Bienenwachspflegemittels dient außerdem als zusätzliche Imprägnierung. Aber dadurch wird das Leder etwas dunkler.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_AUtEGj": {
+          "type": "column",
+          "settings": {
+            "enable_media": false,
+            "media_scale": 100,
+            "heading": "Wieso sehe ich so viele Fäden?",
+            "text": "<p>Unsere Taschen werden in Handarbeit gefertigt. Da kann es vereinzelt vorkommen, dass die Fäden an den Nähten nicht abgeschnitten wurden und überstehen. Auch hier heißt die einfachste Möglichkeit: Selbst ist die Frau! (Oder der Mann!). Schnappt Euch einfach Eure Nagelschere aus dem Bad und schneidet vorsichtig die Fäden ab. Doch achtet darauf, dass ihr nicht zu nah an die Nähte herankommt, sonst können die aufgehen.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_4RHnAb": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "enable_media": true,
+            "media_scale": 100,
+            "heading": "Column",
+            "text": "<p>Pair text with an image to focus on a product, collection or blog post. Add details on availability, style, or even provide a review.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_rghT7k",
+        "column_AUtEGj",
+        "column_4RHnAb"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "layout": "grid",
+        "column_size": "medium",
+        "column_align": "left",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "multi_column_dznQEM": {
+      "type": "multi-column",
+      "blocks": {
+        "column_inbL3C": {
+          "type": "column",
+          "settings": {
+            "enable_media": false,
+            "media_scale": 100,
+            "heading": "Hilfe, meine Ledertasche ist fettig!",
+            "text": "<p>Wenn Deine Ledertasche ein wenig fettig ist, ist das kein Grund zur Beunruhigung. Meistens lässt sich das Fett ganz einfach mit einem trockenen und sauberen Baumwolltuch abreiben. Ist doch ein wenig mehr Arbeit von Nöten kannst Du Deine Tasche für bis zu 60 Minuten bei 50°C in den Backofen geben, damit das Fett ausgetrocknet wird. Anschließend am besten nochmal mit Spüliwasser abwischen und neu einfetten. An warmen, sonnigen Tagen kannst Du die Tasche auch in die Sonne legen, um das Fett zu reduzieren.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_jyDUqx": {
+          "type": "column",
+          "settings": {
+            "enable_media": false,
+            "media_scale": 100,
+            "heading": "Deine Nieten sind rostig oder klebrig?",
+            "text": "<p>Auch dieses Problem lässt sich mit ein paar einfachen Mitteln beseitigen: Mit etwas Wasser, Scheuerpulver und Wattestäbchen können sowohl Rost als auch Kleber bzw. Fett von den Nieten entfernt werden. Dafür einfach mit dem angefeuchteten Wattestäbchen etwas Scheuerpulver aufnehmen und damit leicht über die dreckigen Nieten reiben. Nach und nach werden die Nieten wieder sauber und glänzen anschließend mindestens genauso sehr, wie am Anfang!</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_QNxjeg": {
+          "type": "column",
+          "settings": {
+            "enable_media": false,
+            "media_scale": 100,
+            "heading": "Meine Ledertasche färbt ab! Was tun?",
+            "text": "<p>So wie neue Jeans, können auch Deine neuen Lederprodukte am Anfang abfärben. Studio Taschen solltest Du kurz nach dem Kauf sicherheitshalber mit dunkler Kleidung kombinieren! So verringerst Du das Risiko von Spuren auf Deinen hellen Sachen. Am Besten testest Du zunächst mit einem hellen Tuch, ob Dein Lederprodukt abfärbt. Du reibst einige Male trocken und dann mit einem ganz leicht angefeuchteten Lappen über das Leder.Wärme und Feuchtigkeit begünstigen das Abfärben, deshalb ist es danach sinnvoll, Dein Produkt mit einem geeigneten Imprägnierspray vor Nässe zu schützen. Insgesamt kannst Du dem Abfärben deiner Ledertasche mit der richtigen und einer regelmäßigen Lederpflege entgegenwirken.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_inbL3C",
+        "column_jyDUqx",
+        "column_QNxjeg"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "layout": "carousel",
+        "column_size": "medium",
+        "column_align": "left",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
       }
     },
     "collection_list_RHeKBJ": {
@@ -215,6 +618,14 @@
     "main",
     "image_banner_h7bfNH",
     "rich_text_DH3GDY",
+    "multi_column_yLMxgN",
+    "multi_column_rYqE9m",
+    "multi_column_3BFKNH",
+    "multi_column_XGcNML",
+    "media_with_text_tgjh3d",
+    "media_with_text_gPqebM",
+    "multi_column_YAUn9x",
+    "multi_column_dznQEM",
     "collection_list_RHeKBJ",
     "featured_collection_fw9w9V"
   ]
