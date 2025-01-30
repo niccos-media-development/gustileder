@@ -1,1 +1,402 @@
-{"sections":{"main":{"type":"main-page","disabled":true,"settings":{"show_page_title":true,"heading_align":"text-center"}},"image_banner_h7bfNH":{"type":"image-banner","blocks":{"heading_tkepFK":{"type":"heading","settings":{"heading":"Reparaturen","heading_size":"h0","heading_h1":false}},"text_i4fTGy":{"type":"text","settings":{"text":"<h1>Gusti Leder bietet ab sofort auch Reparaturen an!<\/h1>","enlarge_text":true}}},"block_order":["heading_tkepFK","text_i4fTGy"],"settings":{"image_desktop":"shopify:\/\/shop_images\/repair.jpg","url":"","height_mode":"fixed","fixed_height_desktop":400,"fixed_height_mobile":350,"overlay_position":"justify-center items-center","overlay_text_align":"text-center","mob_center_text":false,"mobile_stacked":false,"color_scheme":"white","full_width":true,"transparent_content_color":"#ffffff","tint_color":"#000000","tint_opacity":40,"prevent_animation":false}},"rich_text_yqWP7D":{"type":"rich-text","blocks":{"text_4WdGg9":{"type":"text","settings":{"text":"<p>Die Schnalle Eurer Lieblingstasche reißt ab oder eine Naht geht auf? Kein Problem! Kommt gerne in einem unserer Stores vorbei und lasst Euer Lieblingsstück von unseren Kollegen reparieren. Für unsere Gusti Leder Produkte bieten wir euch im Rahmen der Gewährleistung in dem ersten Jahr nach dem Kauf eine kostenfreie* Reparatur an.<\/p>","enlarge_text":false}}},"block_order":["text_4WdGg9"],"settings":{"text_position":"justify-center","text_align":"text-center","mob_center_text":true,"wide":false,"color_scheme":"none","full_width":true,"prevent_animation":false}},"media_with_text_YCx9qw":{"type":"media-with-text","blocks":{"heading_3WAJtd":{"type":"heading","settings":{"heading":"Was kann repariert werden ?","heading_size":"h3","heading_h1":false}},"text_8Y8zy7":{"type":"text","settings":{"text":"<ul><li>Nähte<\/li><li>Nieten<\/li><li>Schnallen & Verschlüsse<\/li><li>Magnet- Druckknöpfe<\/li><li>Karabiner<\/li><li>Reißverschlüsse (gegen Aufpreis)<\/li><\/ul><p>We welcome any leather bag for repair. We do not accept leather shoes or other items of clothing. We are also unable to offer repairs using original parts, as we only work with replacement materials from our range. You are also welcome to bring your own replacement materials, such as buckles or carabiners, and we will send these along with your bag. For this reason, the prices are determined individually depending on the repair. <\/p>","enlarge_text":false}}},"block_order":["heading_3WAJtd","text_8Y8zy7"],"settings":{"image":"shopify:\/\/shop_images\/Repair_1.jpg","video_external":"","video_description":"","video_autoplay":false,"layout":"left","image_fit":"contain","media_width":50,"media_scale":100,"text_align":"text-start","color_scheme":"none","only_content_color_scheme":false}},"rich_text_6zqh7F":{"type":"rich-text","blocks":{"subheading_BTeaAd":{"type":"subheading","disabled":true,"settings":{"text":"Subheading"}},"heading_HaEkYM":{"type":"heading","settings":{"heading":"Reparatur des Trageriemen","heading_size":"h2","heading_h1":false}},"text_yH6LHC":{"type":"text","settings":{"text":"<p>Wirf Deine Ledertasche nicht weg, nur weil der Rand deiner Ledertasche abgenutzt ist. Im Rahmen unseres Reparaturservice können wir diesen gegen eine geringe Gebühr reparieren. Besuche jetzt unsere Geschäfte in Deutschland, Österreich oder den Niederlanden und lass Deine Ledertasche reparieren oder melde Dich bei unserem Kundensupport.<\/p>","enlarge_text":false}},"button_F3Hfhf":{"type":"button","disabled":true,"settings":{"button_1_label":"Optional button","button_1_link":"","button_1_style":"btn--primary","button_2_label":"Optional button","button_2_link":"","button_2_style":"btn btn--primary"}}},"block_order":["subheading_BTeaAd","heading_HaEkYM","text_yH6LHC","button_F3Hfhf"],"settings":{"text_position":"justify-center","text_align":"text-center","mob_center_text":true,"wide":false,"color_scheme":"none","full_width":true,"prevent_animation":false}},"media_grid_thQDbT":{"type":"media-grid","blocks":{"media_TRnnxh":{"type":"media","settings":{"image":"shopify:\/\/shop_images\/Repair_3.jpg","link_url":"","columns":2,"rows":2,"subheading":"","title":"","heading_size":"h4","button_label":"","button_link":"","overlay_position":"justify-start items-end","text_alignment":"text-start","button_style":"btn btn--primary","tint_color":"#000000","tint_opacity":25}},"media_Y9nRgw":{"type":"media","settings":{"image":"shopify:\/\/shop_images\/Repair_4.jpg","link_url":"","columns":1,"rows":1,"subheading":"","title":"","heading_size":"h4","button_label":"","button_link":"","overlay_position":"justify-start items-end","text_alignment":"text-start","button_style":"btn btn--primary","tint_color":"#000000","tint_opacity":25}},"media_Twy7HA":{"type":"media","settings":{"image":"shopify:\/\/shop_images\/Repair_5.jpg","link_url":"","columns":1,"rows":1,"subheading":"","title":"","heading_size":"h4","button_label":"","button_link":"","overlay_position":"justify-start items-end","text_alignment":"text-start","button_style":"btn btn--primary","tint_color":"#000000","tint_opacity":25}},"media_68LH3P":{"type":"media","settings":{"image":"shopify:\/\/shop_images\/Repair_6.jpg","link_url":"","columns":2,"rows":1,"subheading":"","title":"","heading_size":"h4","button_label":"","button_link":"","overlay_position":"justify-start items-end","text_alignment":"text-start","button_style":"btn btn--primary","tint_color":"#000000","tint_opacity":25}}},"block_order":["media_TRnnxh","media_Y9nRgw","media_Twy7HA","media_68LH3P"],"settings":{"title":"","heading_align":"text-start","button_label":"","button_link":"","gallery_cols_max":4,"mobile_carousel":false,"gallery_cols_min":"1","fixed_height_desktop":180,"fixed_height_mobile":300,"section_color_scheme":"none","color_scheme":"white","transparent_content_color":"#ffffff"}},"multi_column_KDPRww":{"type":"multi-column","blocks":{"column_F9edha":{"type":"column","settings":{"enable_media":true,"image":"shopify:\/\/shop_images\/Repair_1_b3f3919c-9b67-4323-8cdd-81b47cc1a5d7.jpg","media_scale":100,"heading":"","text":"","button_label":"","button_link":""}},"column_gQqTif":{"type":"column","settings":{"enable_media":true,"image":"shopify:\/\/shop_images\/Repair_7.jpg","media_scale":100,"heading":"Wegwerfen war gestern, Reparieren ist heute!","text":"","button_label":"","button_link":""}},"column_MnAEm6":{"type":"column","settings":{"enable_media":true,"image":"shopify:\/\/shop_images\/Repair_2.jpg","media_scale":100,"heading":"","text":"","button_label":"","button_link":""}}},"block_order":["column_F9edha","column_gQqTif","column_MnAEm6"],"settings":{"title":"Wie reparieren wir den Verschluss oder die Schnalle an Deiner Ledertasche?","heading_align":"text-center","button_label":"","button_link":"","layout":"carousel","column_size":"medium","column_align":"left","media_align":"text-center","image_ratio":"1","color_scheme":"1","button_style":"btn btn--secondary"}},"rich_text_CBLYqA":{"type":"rich-text","blocks":{"subheading_AULFTk":{"type":"subheading","disabled":true,"settings":{"text":"Subheading"}},"heading_GTKRVM":{"type":"heading","disabled":true,"settings":{"heading":"Rich text headline","heading_size":"h2","heading_h1":false}},"text_yN877f":{"type":"text","settings":{"text":"<p>Es ist wirklich ärgerlich, wenn der Verschluss an deiner Ledertasche defekt ist und du deine wertvollen Gegenstände nicht mehr sicher und geschützt aufbewahren kannst. Oftmals bleibt einem in solchen Fällen nichts anderes übrig, als die gesamte Tasche wegzuwerfen. Doch bei uns hast Du eine bessere Option! Wir bieten Dir die Möglichkeit, die Schnalle oder den Verschluss bei uns reparieren zu lassen. Auf diese Weise sparst Du nicht nur Geld, sondern verlängerst auch die Lebensdauer deiner Tasche. Warum also wegwerfen, wenn wir sie für dich wieder funktionsfähig machen können? Du wirst begeistert sein, wie gut Deine Tasche danach wieder funktioniert und Du deine Wertgegenstände sicher transportieren kannst. Nutze diese Option und gebe Deiner Tasche eine zweite Chance!<br\/><br\/>*Die kostenlose Reparatur wird nur angeboten, wenn es sich um einen Material- oder Herstellungsfehler handelt. Sollte es sich um einen Nutzungsfehler handeln können wir Deine Tasche gerne gegen einen vorab abgesprochenen Preis reparieren.<\/p>","enlarge_text":false}},"button_gXXBft":{"type":"button","disabled":true,"settings":{"button_1_label":"Optional button","button_1_link":"","button_1_style":"btn--primary","button_2_label":"Optional button","button_2_link":"","button_2_style":"btn btn--primary"}}},"block_order":["subheading_AULFTk","heading_GTKRVM","text_yN877f","button_gXXBft"],"settings":{"text_position":"justify-center","text_align":"text-center","mob_center_text":true,"wide":false,"color_scheme":"none","full_width":true,"prevent_animation":false}}},"order":["main","image_banner_h7bfNH","rich_text_yqWP7D","media_with_text_YCx9qw","rich_text_6zqh7F","media_grid_thQDbT","multi_column_KDPRww","rich_text_CBLYqA"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_page_title": true,
+        "heading_align": "text-center"
+      }
+    },
+    "image_banner_h7bfNH": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_tkepFK": {
+          "type": "heading",
+          "settings": {
+            "heading": "Reparaturen",
+            "heading_size": "h0",
+            "heading_h1": false
+          }
+        },
+        "text_i4fTGy": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_tkepFK",
+        "text_i4fTGy"
+      ],
+      "settings": {
+        "image_desktop": "shopify://shop_images/repair.jpg",
+        "url": "",
+        "height_mode": "fixed",
+        "fixed_height_desktop": 400,
+        "fixed_height_mobile": 350,
+        "overlay_position": "justify-center items-center",
+        "overlay_text_align": "text-center",
+        "mob_center_text": false,
+        "mobile_stacked": false,
+        "color_scheme": "white",
+        "full_width": true,
+        "transparent_content_color": "#ffffff",
+        "tint_color": "#000000",
+        "tint_opacity": 40,
+        "prevent_animation": false
+      }
+    },
+    "rich_text_yqWP7D": {
+      "type": "rich-text",
+      "blocks": {
+        "text_4WdGg9": {
+          "type": "text",
+          "settings": {
+            "text": "<h3><strong>Gusti Leder bietet ab sofort auch Reparaturen an!</strong></h3><p>Die Schnalle Eurer Lieblingstasche reißt ab oder eine Naht geht auf? Kein Problem! Kommt gerne in einem unserer Stores vorbei und lasst Euer Lieblingsstück von unseren Kollegen reparieren. Für unsere Gusti Leder Produkte bieten wir euch im Rahmen der Gewährleistung in dem ersten Jahr nach dem Kauf eine kostenfreie* Reparatur an.</p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "text_4WdGg9"
+      ],
+      "settings": {
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "wide": false,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "media_with_text_YCx9qw": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_3WAJtd": {
+          "type": "heading",
+          "settings": {
+            "heading": "Was kann repariert werden ?",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "text_8Y8zy7": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>Nähte</li><li>Nieten</li><li>Schnallen & Verschlüsse</li><li>Magnet- Druckknöpfe</li><li>Karabiner</li><li>Reißverschlüsse (gegen Aufpreis)</li></ul><p>We welcome any leather bag for repair. We do not accept leather shoes or other items of clothing. We are also unable to offer repairs using original parts, as we only work with replacement materials from our range. You are also welcome to bring your own replacement materials, such as buckles or carabiners, and we will send these along with your bag. For this reason, the prices are determined individually depending on the repair. </p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_3WAJtd",
+        "text_8Y8zy7"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Repair_1.jpg",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "left",
+        "image_fit": "contain",
+        "media_width": 50,
+        "media_scale": 100,
+        "text_align": "text-start",
+        "color_scheme": "none",
+        "only_content_color_scheme": false
+      }
+    },
+    "rich_text_6zqh7F": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_BTeaAd": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_HaEkYM": {
+          "type": "heading",
+          "settings": {
+            "heading": "Reparatur des Trageriemen",
+            "heading_size": "h2",
+            "heading_h1": false
+          }
+        },
+        "text_yH6LHC": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wirf Deine Ledertasche nicht weg, nur weil der Rand deiner Ledertasche abgenutzt ist. Im Rahmen unseres Reparaturservice können wir diesen gegen eine geringe Gebühr reparieren. Besuche jetzt unsere Geschäfte in Deutschland, Österreich oder den Niederlanden und lass Deine Ledertasche reparieren oder melde Dich bei unserem Kundensupport.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_F3Hfhf": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_BTeaAd",
+        "heading_HaEkYM",
+        "text_yH6LHC",
+        "button_F3Hfhf"
+      ],
+      "settings": {
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "wide": false,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "media_grid_thQDbT": {
+      "type": "media-grid",
+      "blocks": {
+        "media_TRnnxh": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Repair_3.jpg",
+            "link_url": "",
+            "columns": 2,
+            "rows": 2,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_Y9nRgw": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Repair_4.jpg",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_Twy7HA": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Repair_5.jpg",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_68LH3P": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Repair_6.jpg",
+            "link_url": "",
+            "columns": 2,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        }
+      },
+      "block_order": [
+        "media_TRnnxh",
+        "media_Y9nRgw",
+        "media_Twy7HA",
+        "media_68LH3P"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "gallery_cols_max": 4,
+        "mobile_carousel": false,
+        "gallery_cols_min": "1",
+        "fixed_height_desktop": 180,
+        "fixed_height_mobile": 300,
+        "section_color_scheme": "none",
+        "color_scheme": "white",
+        "transparent_content_color": "#ffffff"
+      }
+    },
+    "multi_column_KDPRww": {
+      "type": "multi-column",
+      "blocks": {
+        "column_F9edha": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Repair_1_b3f3919c-9b67-4323-8cdd-81b47cc1a5d7.jpg",
+            "media_scale": 100,
+            "heading": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_gQqTif": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Repair_7.jpg",
+            "media_scale": 100,
+            "heading": "Wegwerfen war gestern, Reparieren ist heute!",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_MnAEm6": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Repair_2.jpg",
+            "media_scale": 100,
+            "heading": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_F9edha",
+        "column_gQqTif",
+        "column_MnAEm6"
+      ],
+      "settings": {
+        "title": "Wie reparieren wir den Verschluss oder die Schnalle an Deiner Ledertasche?",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "layout": "carousel",
+        "column_size": "medium",
+        "column_align": "left",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "rich_text_CBLYqA": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_AULFTk": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_GTKRVM": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Rich text headline",
+            "heading_size": "h2",
+            "heading_h1": false
+          }
+        },
+        "text_yN877f": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Es ist wirklich ärgerlich, wenn der Verschluss an deiner Ledertasche defekt ist und du deine wertvollen Gegenstände nicht mehr sicher und geschützt aufbewahren kannst. Oftmals bleibt einem in solchen Fällen nichts anderes übrig, als die gesamte Tasche wegzuwerfen. Doch bei uns hast Du eine bessere Option! Wir bieten Dir die Möglichkeit, die Schnalle oder den Verschluss bei uns reparieren zu lassen. Auf diese Weise sparst Du nicht nur Geld, sondern verlängerst auch die Lebensdauer deiner Tasche. Warum also wegwerfen, wenn wir sie für dich wieder funktionsfähig machen können? Du wirst begeistert sein, wie gut Deine Tasche danach wieder funktioniert und Du deine Wertgegenstände sicher transportieren kannst. Nutze diese Option und gebe Deiner Tasche eine zweite Chance!<br/><br/>*Die kostenlose Reparatur wird nur angeboten, wenn es sich um einen Material- oder Herstellungsfehler handelt. Sollte es sich um einen Nutzungsfehler handeln können wir Deine Tasche gerne gegen einen vorab abgesprochenen Preis reparieren.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_gXXBft": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_AULFTk",
+        "heading_GTKRVM",
+        "text_yN877f",
+        "button_gXXBft"
+      ],
+      "settings": {
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "wide": false,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_banner_h7bfNH",
+    "rich_text_yqWP7D",
+    "media_with_text_YCx9qw",
+    "rich_text_6zqh7F",
+    "media_grid_thQDbT",
+    "multi_column_KDPRww",
+    "rich_text_CBLYqA"
+  ]
+}
