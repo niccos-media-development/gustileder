@@ -391,7 +391,7 @@
         "question_yC3dTf"
       ],
       "settings": {
-        "heading": "Frequently Asked Questions",
+        "heading": "weitere Fragen & Antworten",
         "heading_align": "text-center",
         "color_scheme": "1",
         "full_width": true
@@ -408,7 +408,7 @@
             "columns": 2,
             "rows": 2,
             "subheading": "Unsere Läden",
-            "title": "<p>Nachstehend findest Du eine Übersicht über unsere Läden</p>",
+            "title": "<p>Hier findest Du eine Übersicht zu unsere Läden</p>",
             "heading_size": "h6",
             "button_label": "",
             "button_link": "",

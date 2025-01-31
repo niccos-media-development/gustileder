@@ -140,7 +140,7 @@
     "product_list_xxEYAE": {
       "type": "product-list",
       "settings": {
-        "title": "Wir bei Gusti Leder wollen dazu beitragen etwas in der Welt zu verändern!",
+        "title": "Wir bei Gusti Leder wollen dazu beitragen etwas in der Welt zu verändern! Sei auch Du ein Teil der SLOW Fashion Bewegung",
         "heading_align": "text-center",
         "view_all_url": "",
         "product_list": [
@@ -267,28 +267,36 @@
         "collection_akypGm": {
           "type": "collection",
           "settings": {
-            "collection": "gusti-leder"
+            "collection": "handtaschen",
+            "image": "shopify://shop_images/Insta_Maisie_2H111-48-14-2.jpg"
+          }
+        },
+        "collection_gTDQMe": {
+          "type": "collection",
+          "settings": {
+            "collection": "reisetasche",
+            "image": "shopify://shop_images/Insta_Ruben_2R1-20-77-1.jpg"
           }
         },
         "collection_BQrAcQ": {
           "type": "collection",
           "settings": {
-            "collection": "frontpage",
-            "image": "shopify://shop_images/2H52-33-7_haupt-Handtasche-leder.png"
+            "collection": "bauchtaschen",
+            "image": "shopify://shop_images/Insta_Cillian_2G61-80-6-4.jpg"
           }
         },
         "collection_LXCq7L": {
           "type": "collection",
           "settings": {
-            "collection": "frontpage",
-            "image": "shopify://shop_images/2G7-22-9_model-female1sUDS1fzt4jCY8.png"
+            "collection": "geldborsen",
+            "image": "shopify://shop_images/Insta_Lewi_2A143-22-129-1.jpg"
           }
         },
         "collection_QwTjbh": {
           "type": "collection",
           "settings": {
-            "collection": "frontpage",
-            "image": "shopify://shop_images/Insta_Spencer_2G7-22-9-2-1.png"
+            "collection": "rolltoprucksack",
+            "image": "shopify://shop_images/Insta_Valja_2M127-22-27-3-1.jpg"
           }
         },
         "collection_qqUE6N": {
@@ -301,13 +309,14 @@
       },
       "block_order": [
         "collection_akypGm",
+        "collection_gTDQMe",
         "collection_BQrAcQ",
         "collection_LXCq7L",
         "collection_QwTjbh",
         "collection_qqUE6N"
       ],
       "settings": {
-        "title": "Collections",
+        "title": "Finde Deinen Gusti Liebling",
         "heading_align": "text-start",
         "button_label": "",
         "button_link": "",
