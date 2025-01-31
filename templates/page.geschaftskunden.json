@@ -11,61 +11,122 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "show_page_title": true,
         "heading_align": "text-center"
       }
     },
-    "image_banner_h7bfNH": {
-      "type": "image-banner",
+    "multi_column_kFHBnx": {
+      "type": "multi-column",
       "blocks": {
-        "heading_tkepFK": {
-          "type": "heading",
+        "column_PwcRQe": {
+          "type": "column",
           "settings": {
-            "heading": "Image banner",
-            "heading_size": "h1",
-            "heading_h1": false
+            "enable_media": false,
+            "media_scale": 100,
+            "heading": "Betreuung unserer Geschäftskunden",
+            "text": "<p>Die Faszination “Gusti” reicht über unsere eigene Marke hinaus. Gusti Leder hilft Ihnen gerne dabei, Ihre Markenpräsenz zu steigern und Geschäfts- und Kundenbeziehungen zu stärken. Für Unternehmen von Constantin Film über Jägermeister und VOGUE, bis hin zur Allianz durften wir bereits Geschenke und Equipment individuell gestalten. Welche Vorstellungen Sie auch haben - wir realisieren sie.</p>",
+            "button_label": "",
+            "button_link": ""
           }
         },
-        "text_i4fTGy": {
-          "type": "text",
+        "column_UgA4ia": {
+          "type": "column",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
-            "enlarge_text": true
+            "enable_media": false,
+            "media_scale": 100,
+            "heading": "Kundengeschenke - Stärken Sie Ihre Geschäftsbeziehungen",
+            "text": "<p>Kleine und große Aufmerksamkeiten bleiben stets positiv in Erinnerung. Ein Anhänger, Büroartikel oder eine Businesstasche mit Ihrer Marke versehen, sind ein Ausdruck Ihrer Wertschätzung. Sie können das Geschenk selbstverständlich auch personalisieren und Namen eingravieren lassen, um es noch persönlicher zu gestalten. Kundengeschenke: Eine Gusti Ledertasche für Lindt</p>",
+            "button_label": "",
+            "button_link": ""
           }
         },
-        "button_446Ntx": {
-          "type": "button",
+        "column_6zXHBc": {
+          "type": "column",
           "settings": {
-            "button_1_label": "Optional button",
-            "button_1_link": "",
-            "button_1_style": "btn btn--primary",
-            "button_2_label": "Optional button",
-            "button_2_link": "",
-            "button_2_style": "btn btn--primary"
+            "enable_media": false,
+            "media_scale": 100,
+            "heading": "Giveaways - Intensivieren Sie Kundenbindungen",
+            "text": "<p>Giveaways sind ein altbewährtes Mittel, den Kunden eine Freude zu machen, die Marke zu präsentieren und viele Menschen zu erreichen. Lassen Sie Ihr Logo auf einen Schlüsselanhänger, ein Portemonnaie oder eine Handyhülle lasern und werden so zum besten Begleiter im Alltag des Kunden.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_W4GfPV": {
+          "type": "column",
+          "settings": {
+            "enable_media": false,
+            "media_scale": 100,
+            "heading": "Mitarbeitergeschenke & Incentives - Sagen Sie “Danke”",
+            "text": "<p>Manchmal möchte man einfach mal “Danke” sagen. Wenn Sie Ihren Mitarbeitern durch ein kleines Incentive Ihre Wertschätzung mitteilen möchten, eignet sich eine<a href=\"https://www.gusti-leder.at/lexikon/gravur/\">Gravur</a>unserer Gusti Leder Produkte besonders. Wir können sie nicht nur mit Ihrem Logo versehen, sondern auch Namen oder Sätze lasern. Welchen Schriftzug sie sich auch für Ihre Geschenke wünschen - wir setzen ihn um. <strong>HINWEIS</strong>: Persönliche Logos werden nicht erstellt</p>",
+            "button_label": "",
+            "button_link": ""
           }
         }
       },
       "block_order": [
-        "heading_tkepFK",
-        "text_i4fTGy",
-        "button_446Ntx"
+        "column_PwcRQe",
+        "column_UgA4ia",
+        "column_6zXHBc",
+        "column_W4GfPV"
       ],
       "settings": {
-        "url": "",
-        "height_mode": "auto",
-        "fixed_height_desktop": 600,
-        "fixed_height_mobile": 350,
-        "overlay_position": "justify-center items-center",
-        "overlay_text_align": "text-center",
-        "mob_center_text": false,
-        "mobile_stacked": false,
-        "color_scheme": "white",
-        "full_width": true,
-        "transparent_content_color": "#ffffff",
-        "tint_color": "#000000",
-        "tint_opacity": 40,
-        "prevent_animation": false
+        "title": "Geschäftskunden",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "layout": "grid",
+        "column_size": "medium",
+        "column_align": "left",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "multi_column_3pPpjV": {
+      "type": "multi-column",
+      "blocks": {
+        "column_AVT4T6": {
+          "type": "column",
+          "settings": {
+            "enable_media": false,
+            "media_scale": 100,
+            "heading": "Kontakt: ",
+            "text": "<p><strong>E-Mail:</strong> info@gusti-leder.de</p><p><strong>Homepage</strong>: http://www.gusti-leder.de</p><p>*Bitte beachte, dass dies nicht die Telefonnummer ist, unter der Du unseren Kundensupport erreichst. </p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_GHTce7": {
+          "type": "column",
+          "settings": {
+            "enable_media": false,
+            "media_scale": 100,
+            "heading": "Adresse:",
+            "text": "<p>Gusti Leder GmbH <br/>Erich-Schlesinger-Str. 62 <br/>18059 Rostock Germany</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_AVT4T6",
+        "column_GHTce7"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "layout": "grid",
+        "column_size": "medium",
+        "column_align": "left",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
       }
     },
     "collection_list_RHeKBJ": {
@@ -116,6 +177,7 @@
         "collection_eAJ4fF",
         "collection_xbRB6E"
       ],
+      "disabled": true,
       "settings": {
         "title": "Collections",
         "heading_align": "text-start",
@@ -132,6 +194,7 @@
     },
     "featured_collection_fw9w9V": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Unsere Bestseller",
         "heading_align": "text-start",
@@ -155,7 +218,8 @@
   },
   "order": [
     "main",
-    "image_banner_h7bfNH",
+    "multi_column_kFHBnx",
+    "multi_column_3pPpjV",
     "collection_list_RHeKBJ",
     "featured_collection_fw9w9V"
   ]
