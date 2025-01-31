@@ -11,6 +11,7 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "show_page_title": true,
         "heading_align": "text-center"
@@ -51,6 +52,7 @@
         "text_i4fTGy",
         "button_446Ntx"
       ],
+      "disabled": true,
       "settings": {
         "url": "",
         "height_mode": "auto",
@@ -116,6 +118,7 @@
         "collection_eAJ4fF",
         "collection_xbRB6E"
       ],
+      "disabled": true,
       "settings": {
         "title": "Collections",
         "heading_align": "text-start",
@@ -132,6 +135,7 @@
     },
     "featured_collection_fw9w9V": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Unsere Bestseller",
         "heading_align": "text-start",
@@ -151,12 +155,499 @@
         "color_scheme": "2",
         "button_style": "btn btn--primary"
       }
+    },
+    "rich_text_GdPzi6": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_pfEyTm": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_Y87DeC": {
+          "type": "heading",
+          "settings": {
+            "heading": "Werde unser Franchisepartner",
+            "heading_size": "h2",
+            "heading_h1": false
+          }
+        },
+        "text_BdQzVW": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Bist Du daran interessiert, Lederwaren zu verkaufen? Bist Du ein aufstrebender Unternehmer, der im Rahmen eines Franchise-Geschäftsmodells arbeiten möchte?<br/><br/>Dann haben wir genau das, wonach Du suchst! Werde Teil der Gusti Familie und werde einer unserer Franchisenehmer. Du profitierst von der Nutzung unserer etablierten Marke und kannst so ohne Risiko Renditen erzielen.<br/><br/>Vom angehenden zum erfolgreichen Unternehmer – mit uns ist der Weg einfacher. Dank unserer bereits existierenden Marke kannst Du Lederwaren verkaufen, die bereits sehr beliebt sind. Eröffne Deinen eigenen Laden mit unseren Produkten und verkaufe gefragte modische Taschen, Rucksäcke, Reisetaschen und viele andere Lederaccessoires. Unsere zuverlässigen Vintage-Lederschönheiten passen sich perfekt an die Bedürfnisse der Kunden an.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_dYC3wA": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_pfEyTm",
+        "heading_Y87DeC",
+        "text_BdQzVW",
+        "button_dYC3wA"
+      ],
+      "settings": {
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "wide": false,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "media_with_text_nVetTX": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_j9iH8x": {
+          "type": "heading",
+          "settings": {
+            "heading": "Was wir dir bieten:",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "text_eMRjRQ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>- <strong>Etablierte Marke:</strong> Du wirst mit einer Marke in Verbindung gebracht, die in der Lederbranche bereits bekannt und renommiert ist.</p><p>- <strong>Eigener Gusti Leder Laden:</strong> Du wirst deinen eigenen Gusti Leder Store haben, in den du deine kreativen Ideen mit einbringen kannst und welcher dir die nötige Flexibilität bietet.</p><p>- <strong>Kundenanziehung:</strong> Dank unserer beliebten Produkte wirst Du Kunden in Scharen anziehen.</p><p>- <strong>Markenbekanntheit:</strong> Du bekommst eine hohe Markenbekanntheit und baust so einen eigenen Kundenstamm auf, so dass Dein Erfolg so schnell wie möglich gesichert ist.</p><p>- <strong>Hohe Renditen:</strong> Du kannst langfristig von hohen Renditen profitieren, da Du mit einer anerkannten Ledermarke zusammenarbeitest, die seit 2009 erfolgreich tätig ist.</p><p>- <strong>Langfristiges Potential:</strong> Ein erfolgreiches Franchise kann langfristig stabile Einnahmen und Wachstumsmöglichkeiten bieten, da das Geschäftsmodell kontinuierlich weiterentwickelt wird.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_8j7HzC": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Optional button",
+            "button_link": "",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_j9iH8x",
+        "text_eMRjRQ",
+        "button_8j7HzC"
+      ],
+      "settings": {
+        "video_external": "https://youtube.com/shorts/t2gdy-xf1hU?feature=shared",
+        "video_description": "",
+        "video_autoplay": true,
+        "layout": "left",
+        "image_fit": "cover",
+        "media_width": 50,
+        "media_scale": 100,
+        "text_align": "text-start",
+        "color_scheme": "none",
+        "only_content_color_scheme": false
+      }
+    },
+    "media_with_text_PnYHVN": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_dpcbeF": {
+          "type": "heading",
+          "settings": {
+            "heading": "Werde einer unserer Franchisepartner und sei Dein eigener Chef!",
+            "heading_size": "h4",
+            "heading_h1": false
+          }
+        },
+        "text_grWNqq": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Schicke uns eine E-Mail an:  <a href=\"mailto:a.goetze@gusti-leder.de\" target=\"_blank\" title=\"mailto:a.goetze@gusti-leder.de\"><strong>a.goetze@gusti-leder.de</strong></a><br/><br/>oder fülle folgendes Online Formular aus und wir melden uns bei dir: <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSd77t14rB7Zkw_kP0nFztYgO2HgJ4_GIEE7FVM-xiRDuUVprw/viewform\" target=\"_blank\" title=\"https://docs.google.com/forms/d/e/1FAIpQLSd77t14rB7Zkw_kP0nFztYgO2HgJ4_GIEE7FVM-xiRDuUVprw/viewform\"><strong>Werde Franchise Nehmer</strong></a></p>",
+            "enlarge_text": false
+          }
+        },
+        "button_pHtVNg": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Optional button",
+            "button_link": "",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_dpcbeF",
+        "text_grWNqq",
+        "button_pHtVNg"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Franchise-graphic-DE.jpg",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "right",
+        "image_fit": "contain",
+        "media_width": 50,
+        "media_scale": 100,
+        "text_align": "text-start",
+        "color_scheme": "none",
+        "only_content_color_scheme": false
+      }
+    },
+    "rich_text_CBxUiM": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_EMXnPA": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_dx43xQ": {
+          "type": "heading",
+          "settings": {
+            "heading": "Warum Gusti Leder wählen?",
+            "heading_size": "h4",
+            "heading_h1": false
+          }
+        },
+        "text_b3JkwN": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Einer der größten Vorteile, den Du bekommst, ist der Wiedererkennungswert der Marke. Du musst keine Zeit in den Aufbau einer Marke und eines Kundenstamms investieren.</p><p>Als unser Franchisepartner profitierst Du massiv von unserer durchdachten Infrastruktur, einschließlich Marketing, Reparaturservice und Produktdesign. Das bedeutet, dass Du keine Zeit und Mühe aufwenden musst, um ein Unternehmen aus dem Nichts zu gründen. Du kannst Dich auf den Verkauf der Produkte konzentrieren.</p><p>Mit einem Laden in guter Lage kannst Du bis zu 25.000 € Umsatz erzielen. Wir garantieren, dass Du als unser Franchisepartner die Früchte ernten wirst.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_zzCUA3": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_EMXnPA",
+        "heading_dx43xQ",
+        "text_b3JkwN",
+        "button_zzCUA3"
+      ],
+      "settings": {
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "wide": false,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "faq_GdMmkr": {
+      "type": "faq",
+      "blocks": {
+        "question_AtyqaG": {
+          "type": "question",
+          "settings": {
+            "icon": "none",
+            "heading": "Warum ein Franchiseunternehmen wählen?",
+            "text": "<p>Werde Franchisenehmer und profitiere von einem bewährten Geschäftsmodell, umfassender Unterstützung, geringem Risiko und schnellen Einstiegsmöglichkeiten in einen etablierten Markt. Hochwertige Lederwaren und eine transparente<a href=\"https://www.gusti-leder.at/lexikon/herstellung-von-leder/\">Produktion</a>sind unsere größten Stärken, die uns zur ersten Wahl für unsere Kunden und Kundinnen machen.</p>"
+          }
+        },
+        "question_NWBdXr": {
+          "type": "question",
+          "settings": {
+            "icon": "none",
+            "heading": "Wie unterstützen wir Dich?",
+            "text": "<p>Wir stehen Dir als Ansprechpartner zur Verfügung, unterstützen Dich mit unserer umfangreichen Erfahrung und etablierten Strukturen und stellen Dir ein Handbuch mit allen wichtigen Informationen zur Verfügung.</p>"
+          }
+        },
+        "question_yC3dTf": {
+          "type": "question",
+          "settings": {
+            "icon": "none",
+            "heading": "Wen suchen wir?",
+            "text": "<p>Ist es Deine Leidenschaft, unabhängig zu sein?</p><p>Wir suchen motivierte und engagierte Menschen, die in der Lederbranche tätig werden möchten. Wenn Du Dein eigenes Unternehmen erfolgreich führen willst und unternehmerisches Denken, Eigeninitiative sowie Begeisterung für hochwertige Produkte mitbringst, dann steig jetzt ein!</p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_AtyqaG",
+        "question_NWBdXr",
+        "question_yC3dTf"
+      ],
+      "settings": {
+        "heading": "Frequently Asked Questions",
+        "heading_align": "text-center",
+        "color_scheme": "1",
+        "full_width": true
+      }
+    },
+    "media_grid_4A47E8": {
+      "type": "media-grid",
+      "blocks": {
+        "media_b9Jzxf": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/franchise_Image_4.jpg",
+            "link_url": "",
+            "columns": 2,
+            "rows": 2,
+            "subheading": "Unsere Läden",
+            "title": "<p>Nachstehend findest Du eine Übersicht über unsere Läden</p>",
+            "heading_size": "h6",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_MDXFz6": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/franchise_Image_3.jpg",
+            "link_url": "",
+            "columns": 2,
+            "rows": 2,
+            "subheading": "Gustis Philosophie",
+            "title": "<p>Bei Gusti Leder dreht sich alles um langlebige Produkte, transparente Produktionsmethoden und nachhaltige Prozesse. Wenn Du mehr über diese und andere Themen erfahren möchtest, besuche bitte: <a href=\"https://www.gusti-leder.at/philosophie--\" target=\"_self\"><span style=\"text-decoration:underline\">Philosophie.</span></a></p>",
+            "heading_size": "h6",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_FxGNcD": {
+          "type": "media",
+          "disabled": true,
+          "settings": {
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Media heading</p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 40
+          }
+        },
+        "media_eqjrP3": {
+          "type": "media",
+          "disabled": true,
+          "settings": {
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Media heading</p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_E6Q7e8": {
+          "type": "media",
+          "disabled": true,
+          "settings": {
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Media heading</p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_qcbAYj": {
+          "type": "media",
+          "disabled": true,
+          "settings": {
+            "link_url": "",
+            "columns": 2,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Media heading</p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        }
+      },
+      "block_order": [
+        "media_b9Jzxf",
+        "media_MDXFz6",
+        "media_FxGNcD",
+        "media_eqjrP3",
+        "media_E6Q7e8",
+        "media_qcbAYj"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "gallery_cols_max": 4,
+        "mobile_carousel": false,
+        "gallery_cols_min": "1",
+        "fixed_height_desktop": 180,
+        "fixed_height_mobile": 300,
+        "section_color_scheme": "none",
+        "color_scheme": "white",
+        "transparent_content_color": "#ffffff"
+      }
+    },
+    "multi_column_b6Qyek": {
+      "type": "multi-column",
+      "blocks": {
+        "column_DRzAw7": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Bags.jpg",
+            "media_scale": 100,
+            "heading": "",
+            "text": "",
+            "button_label": "Taschen",
+            "button_link": "shopify://collections/taschen"
+          }
+        },
+        "column_wchb3G": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Backpack.jpg",
+            "media_scale": 100,
+            "heading": "",
+            "text": "",
+            "button_label": "Rucksack",
+            "button_link": "shopify://collections/rucksacke"
+          }
+        },
+        "column_txfWEj": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Bike.jpg",
+            "media_scale": 100,
+            "heading": "",
+            "text": "",
+            "button_label": "Fahrrad",
+            "button_link": "shopify://collections/fahrradrucksacke"
+          }
+        },
+        "column_7eRwBf": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Accessories_214dbaa9-bc1c-41b4-a10f-a762f68073d0.jpg",
+            "media_scale": 100,
+            "heading": "",
+            "text": "",
+            "button_label": "Accessoires",
+            "button_link": "shopify://collections/accessoires"
+          }
+        },
+        "column_47WG9A": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Stationery.jpg",
+            "media_scale": 100,
+            "heading": "",
+            "text": "",
+            "button_label": "Schreibwaren",
+            "button_link": "shopify://collections/schreibwaren"
+          }
+        },
+        "column_Dkfw9h": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Leather_care_c1cefc3f-ed45-4f2b-a7d6-f4149ad2df56.jpg",
+            "media_scale": 100,
+            "heading": "",
+            "text": "",
+            "button_label": "Lederpflege",
+            "button_link": "shopify://collections/lederpflege"
+          }
+        }
+      },
+      "block_order": [
+        "column_DRzAw7",
+        "column_wchb3G",
+        "column_txfWEj",
+        "column_7eRwBf",
+        "column_47WG9A",
+        "column_Dkfw9h"
+      ],
+      "settings": {
+        "title": "Einen Überblick über unsere Produktpalette findest Du hier",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "layout": "grid",
+        "column_size": "medium",
+        "column_align": "left",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
+      }
     }
   },
   "order": [
     "main",
     "image_banner_h7bfNH",
     "collection_list_RHeKBJ",
-    "featured_collection_fw9w9V"
+    "featured_collection_fw9w9V",
+    "rich_text_GdPzi6",
+    "media_with_text_nVetTX",
+    "media_with_text_PnYHVN",
+    "rich_text_CBxUiM",
+    "faq_GdMmkr",
+    "media_grid_4A47E8",
+    "multi_column_b6Qyek"
   ]
 }
