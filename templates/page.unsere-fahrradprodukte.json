@@ -238,6 +238,635 @@
         "color_scheme": "none",
         "only_content_color_scheme": false
       }
+    },
+    "media_with_text_nPCpdd": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_FagDzF": {
+          "type": "heading",
+          "settings": {
+            "heading": "Rahmentaschen",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "text_ahkiww": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Rahmentaschen bieten eine schlanke und praktische Aufbewahrungslösung, ohne Platz am Gepäckträger einzunehmen. Einfach mit den stabilen Lederriemen am Rahmenrohr befestigen. Leicht und kompakt schützen sie Deine Essentials, ohne Dich beim Fahren zu behindern.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_LieMHt": {
+          "type": "button",
+          "settings": {
+            "button_label": "zu den Rahmentaschen",
+            "button_link": "shopify://collections/rahmentaschen",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_FagDzF",
+        "text_ahkiww",
+        "button_LieMHt"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/frame_bags.jpg",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "left",
+        "image_fit": "contain",
+        "media_width": 50,
+        "media_scale": 100,
+        "text_align": "text-start",
+        "color_scheme": "none",
+        "only_content_color_scheme": false
+      }
+    },
+    "media_with_text_CMgzPa": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_QiAeed": {
+          "type": "heading",
+          "settings": {
+            "heading": "Satteltaschen",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "text_HaYe7F": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Klein, stilvoll und praktisch – unsere Ledersatteltaschen sind die perfekte Lösung für Deine wichtigsten Utensilien während der Fahrt. Egal ob Werkzeuge oder kleine Gegenstände, diese Taschen bieten einfachen Zugriff und einen schicken Look für jeden Radfahrer.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_jFqMqw": {
+          "type": "button",
+          "settings": {
+            "button_label": "zu den Satteltaschen",
+            "button_link": "shopify://collections/satteltaschen",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_QiAeed",
+        "text_HaYe7F",
+        "button_jFqMqw"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/frame_bags.jpg",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "right",
+        "image_fit": "contain",
+        "media_width": 50,
+        "media_scale": 100,
+        "text_align": "text-start",
+        "color_scheme": "none",
+        "only_content_color_scheme": false
+      }
+    },
+    "multi_column_Xc3zkD": {
+      "type": "multi-column",
+      "blocks": {
+        "column_iLiGQP": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/saddles_89087af4-d943-4294-a55e-3ede873a56dd.jpg",
+            "media_scale": 100,
+            "heading": "Sättel",
+            "text": "<p>Unsere Ledersättel sind so konzipiert, dass sie Dein Körpergewicht gleichmäßig verteilen und Dir eine angenehme Fahrt ermöglichen. Mit zeitlosen Designs und hochwertig verarbeitetem Leder passen sich unsere Sättel über die Zeit perfekt an Deinen Körper an und bieten Dir ein individuelles Fahrerlebnis.</p>",
+            "button_label": "zu den Sättel",
+            "button_link": "shopify://collections/satteltaschen"
+          }
+        },
+        "column_3Kr94J": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Handlebars_handles_handlebar_tape.jpg",
+            "media_scale": 100,
+            "heading": "Lenkergriffe & Lenkerbänder",
+            "text": "<p>Verbessere Dein Fahrerlebnis mit unseren hochwertigen Lederlenkerbändern und Griffen. Unser Lenkerband aus Büffelleder bietet selbst bei langen Fahrten und heißen Temperaturen optimalen Halt und Komfort. Es ist in verschiedenen Längen und Farben erhältlich, um perfekt zu Deinem Stil und Fahrrad zu passen. Unsere Griffe aus Leder und Aluminium sorgen für ergonomischen Komfort und passen sich ideal an die Form Deiner Hände an.</p>",
+            "button_label": "zu den Lenkergriffe & Lenkerbänder",
+            "button_link": "shopify://collections/lenkerbander"
+          }
+        },
+        "column_tTVi7G": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Accessories.jpg",
+            "media_scale": 100,
+            "heading": "Fahrradaccessoires",
+            "text": "<p>Rüste Dein Fahrrad mit unverzichtbaren Accessoires aus, um jede Fahrt einfacher zu machen. Von Flaschenhaltern über Sattelschoner bis hin zu Fahrradpumpen – bei uns findest Du alles, was Du brauchst. Entdecke unsere gesamte Kollektion an Fahrradaccessoires und bringe Dein Fahrerlebnis auf das nächste Level.</p>",
+            "button_label": "zu den Fahrradaccessoires",
+            "button_link": "shopify://collections/zubehor"
+          }
+        }
+      },
+      "block_order": [
+        "column_iLiGQP",
+        "column_3Kr94J",
+        "column_tTVi7G"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "layout": "carousel",
+        "column_size": "medium",
+        "column_align": "left",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "media_grid_B6AjK6": {
+      "type": "media-grid",
+      "blocks": {
+        "media_afMUqk": {
+          "type": "media",
+          "disabled": true,
+          "settings": {
+            "link_url": "",
+            "columns": 2,
+            "rows": 2,
+            "subheading": "",
+            "title": "<p>Media heading</p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_WaEHUn": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/2G31-20-4.jpg",
+            "link_url": "shopify://products/brasnicka-pod-sedlo-kola-na-riditka-na-kolo-na-cajky-kuze-vintage-cerna-2g31-20-6",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Lenkertasche</p>",
+            "heading_size": "h6",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_LGjJTx": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/2F37-20-6WP.jpg",
+            "link_url": "shopify://products/regenschutz-bezug-sattel-fahrrad-zubehoer-sattelschutzbezug-fuer-brooks-sattel-leder-schwarz-2f37-20-6wp",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Satteltasche mit Überzug</p>",
+            "heading_size": "h6",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_iAE3Gy": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/2F38-22-6-200.jpg",
+            "link_url": "shopify://products/lenkerband-groesse-200-cm-echtes-leder-inkl-korken-rennrad-lederband-griffband-fahrradzubehoer-zubehoer-fahrrad-lenker-braun-leder-2f38-22-6-200",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Gepolstertes Lenkerband</p>",
+            "heading_size": "h6",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 40
+          }
+        },
+        "media_NwUfCg": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/2G50-20-11-C1.jpg",
+            "link_url": "shopify://products/echtes-leder-lenkergriff-fahrradgriff-ledergriff-braun-metallring-schwarz-2g50-20-11-c2",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Elegante Lenkergriffe</p>",
+            "heading_size": "h6",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 40
+          }
+        },
+        "media_GK6cV3": {
+          "type": "media",
+          "disabled": true,
+          "settings": {
+            "link_url": "",
+            "columns": 2,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Media heading</p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        }
+      },
+      "block_order": [
+        "media_afMUqk",
+        "media_WaEHUn",
+        "media_LGjJTx",
+        "media_iAE3Gy",
+        "media_NwUfCg",
+        "media_GK6cV3"
+      ],
+      "settings": {
+        "title": "Geschenkideen bis 40€",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "gallery_cols_max": 4,
+        "mobile_carousel": false,
+        "gallery_cols_min": "1",
+        "fixed_height_desktop": 180,
+        "fixed_height_mobile": 300,
+        "section_color_scheme": "none",
+        "color_scheme": "white",
+        "transparent_content_color": "#ffffff"
+      }
+    },
+    "media_grid_MeqW3p": {
+      "type": "media-grid",
+      "blocks": {
+        "media_b9LEiw": {
+          "type": "media",
+          "disabled": true,
+          "settings": {
+            "link_url": "",
+            "columns": 2,
+            "rows": 2,
+            "subheading": "",
+            "title": "<p>Media heading</p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_7cFYWV": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/K67B.jpg",
+            "link_url": "shopify://products/fahrradtasche-satteltasche-umhaengetasche-vintage-klein-k67b",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Lässige Lenkertasche</p>",
+            "heading_size": "h6",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_PyQFh4": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/2F28-26-25.jpg",
+            "link_url": "shopify://products/lenkertasche-umhaengetasche-guerteltasche-bauchtasche-fahrradtasche-tasche-ledertasche-vintage-schwarz-leder-2f28-26-25",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Kompakte Lenkertasche</p>",
+            "heading_size": "h6",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_btkiJi": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/2F66-22-5.jpg",
+            "link_url": "shopify://products/echtes-leder-fahrradsattel-ledersattel-vintage-retro-sattel-fahrrad-cityrad-braun-2f66-22-5",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Herren-Fahrradsattel</p>",
+            "heading_size": "h6",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 40
+          }
+        },
+        "media_JechwB": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/2F3-20-23.jpg",
+            "link_url": "shopify://products/echtes-leder-fahrradsattel-ledersattel-vintage-retro-sattel-fahrrad-cityrad-braun-2f3-20-23",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Schicker, breiter Ledersattel</p>",
+            "heading_size": "h6",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 40
+          }
+        },
+        "media_GP4cUy": {
+          "type": "media",
+          "disabled": true,
+          "settings": {
+            "link_url": "",
+            "columns": 2,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Media heading</p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        }
+      },
+      "block_order": [
+        "media_b9LEiw",
+        "media_7cFYWV",
+        "media_PyQFh4",
+        "media_btkiJi",
+        "media_JechwB",
+        "media_GP4cUy"
+      ],
+      "settings": {
+        "title": "Geschenkideen bis 60€",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "gallery_cols_max": 4,
+        "mobile_carousel": false,
+        "gallery_cols_min": "1",
+        "fixed_height_desktop": 180,
+        "fixed_height_mobile": 300,
+        "section_color_scheme": "none",
+        "color_scheme": "white",
+        "transparent_content_color": "#ffffff"
+      }
+    },
+    "media_grid_wWTpdD": {
+      "type": "media-grid",
+      "blocks": {
+        "media_7RRCdn": {
+          "type": "media",
+          "disabled": true,
+          "settings": {
+            "link_url": "",
+            "columns": 2,
+            "rows": 2,
+            "subheading": "",
+            "title": "<p>Media heading</p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_nGiEGt": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/2B25-20-5wpol.jpg",
+            "link_url": "shopify://products/fahrradtasche-aktentasche-umhaengetasche-riementasche-schultertasche-businesstasche-messenger-bag-arbeitstasche-lehrertasche-unitasche-ledertasche-wasserfest-braun-leder-2b25-20-5wpol",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Praktische Gepäckträgertasche</p>",
+            "heading_size": "h6",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_dQqdah": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/2B78-20-5wpol.jpg",
+            "link_url": "shopify://products/2b78-20-5wpol",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Geräumige Gepäckträgertasche</p>",
+            "heading_size": "h6",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_Mhtzgb": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/2F41-22-31K.2.jpg",
+            "link_url": "shopify://products/rucksack-inkl-platte-fahrradrucksack-lederrucksack-cityrucksack-damen-braun-leder-2f41-22-31k-2",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Lenkertasche</p>",
+            "heading_size": "h6",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 40
+          }
+        },
+        "media_Jg8QkH": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/2A299-26-25.jpg",
+            "link_url": "shopify://products/rahmentasche-gepaecktraegertasche-fahrradtasche-ledertasche-vintage-schwarz-leder-2a299-26-25",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Schlanke Rahmentasche</p>",
+            "heading_size": "h6",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 40
+          }
+        },
+        "media_8GEa7V": {
+          "type": "media",
+          "disabled": true,
+          "settings": {
+            "link_url": "",
+            "columns": 2,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Media heading</p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        }
+      },
+      "block_order": [
+        "media_7RRCdn",
+        "media_nGiEGt",
+        "media_dQqdah",
+        "media_Mhtzgb",
+        "media_Jg8QkH",
+        "media_8GEa7V"
+      ],
+      "settings": {
+        "title": "Geschenkideen bis 100€",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "gallery_cols_max": 4,
+        "mobile_carousel": false,
+        "gallery_cols_min": "1",
+        "fixed_height_desktop": 180,
+        "fixed_height_mobile": 300,
+        "section_color_scheme": "none",
+        "color_scheme": "white",
+        "transparent_content_color": "#ffffff"
+      }
+    },
+    "rich_text_mTpyLT": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_kWY8nW": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_6wEH6E": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Rich text headline",
+            "heading_size": "h2",
+            "heading_h1": false
+          }
+        },
+        "text_z3xJEz": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Entdecke unsere gesamte Kollektion an Fahrradtaschen und Accessoires und mache Dein Fahrerlebnis mit Gusti Leder noch besser!</strong></p>",
+            "enlarge_text": true
+          }
+        },
+        "button_Enfzeb": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_kWY8nW",
+        "heading_6wEH6E",
+        "text_z3xJEz",
+        "button_Enfzeb"
+      ],
+      "settings": {
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "wide": false,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
     }
   },
   "order": [
@@ -246,6 +875,13 @@
     "featured_collection_fw9w9V",
     "rich_text_tbBWF8",
     "media_with_text_grJbWV",
-    "media_with_text_WBgM9e"
+    "media_with_text_WBgM9e",
+    "media_with_text_nPCpdd",
+    "media_with_text_CMgzPa",
+    "multi_column_Xc3zkD",
+    "media_grid_B6AjK6",
+    "media_grid_MeqW3p",
+    "media_grid_wWTpdD",
+    "rich_text_mTpyLT"
   ]
 }
