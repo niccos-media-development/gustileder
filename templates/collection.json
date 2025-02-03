@@ -25,7 +25,7 @@
     "collection-products": {
       "type": "main-collection-products",
       "custom_css": [
-        ".card__compare {display:none;}"
+        ".card__compare,.products-toolbar__compare input {display: none;}"
       ],
       "settings": {
         "products_per_page": 16,
