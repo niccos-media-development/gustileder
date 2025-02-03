@@ -163,17 +163,6 @@
         "button_style": "btn btn--primary"
       }
     },
-    "custom_liquid_h6NKQ8": {
-      "type": "custom-liquid",
-      "disabled": true,
-      "settings": {
-        "custom_liquid": "<div class=\"klaviyo-form-U9qEqe\"></div>",
-        "section_height": "default",
-        "full_width": true,
-        "dividers": "none",
-        "prevent_animation": true
-      }
-    },
     "1738579412b8cbca45": {
       "type": "apps",
       "blocks": {
@@ -666,7 +655,6 @@
   "order": [
     "slideshow",
     "product_list_xxEYAE",
-    "custom_liquid_h6NKQ8",
     "1738579412b8cbca45",
     "logo_list_9yDaAc",
     "collection_list_PkABBL",
