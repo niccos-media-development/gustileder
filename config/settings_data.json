@@ -369,7 +369,7 @@
     "show_breadcrumbs_article": false,
     "show_breadcrumbs_blog": false,
     "coll_border_color": "#f2f2f2",
-    "prod_card_image_ratio": "shortest",
+    "prod_card_image_ratio": "tallest",
     "prod_card_image_fit": "contain",
     "card_show_vendor": false,
     "card_show_subtitle": false,
