@@ -250,27 +250,28 @@
             "button_link": ""
           }
         },
-        "column_zP8mCB": {
+        "column_gxBcFb": {
           "type": "column",
           "settings": {
             "enable_media": true,
             "image": "shopify://shop_images/Ruben_51627710-0f66-4d5b-87a1-43246065699b.jpg",
             "media_scale": 100,
-            "heading": "Column",
-            "text": "<p>Pair text with an image to focus on a product, collection or blog post. Add details on availability, style, or even provide a review.</p>",
-            "button_label": "Ruben",
+            "heading": "Ruben",
+            "text": "",
+            "button_label": "Buy now",
             "button_link": "shopify://products/reisetasche-sporttasche-ledertasche-mit-wasserfestem-innenstoff-2r1-20-4wp"
           }
         },
-        "column_izaPfe": {
+        "column_GU9PRY": {
           "type": "column",
           "settings": {
             "enable_media": true,
+            "image": "shopify://shop_images/Victoria.jpg",
             "media_scale": 100,
-            "heading": "Column",
-            "text": "<p>Pair text with an image to focus on a product, collection or blog post. Add details on availability, style, or even provide a review.</p>",
-            "button_label": "",
-            "button_link": ""
+            "heading": "Victoria",
+            "text": "",
+            "button_label": "Buy now",
+            "button_link": "shopify://products/namenschild-anhaenger-adressanhaenger-2a141-22-6"
           }
         }
       },
@@ -278,8 +279,8 @@
         "column_tecFxL",
         "column_mttAzC",
         "column_eHaRGF",
-        "column_zP8mCB",
-        "column_izaPfe"
+        "column_gxBcFb",
+        "column_GU9PRY"
       ],
       "settings": {
         "title": "Ab ins Abenteuer",
@@ -288,9 +289,429 @@
         "button_link": "",
         "layout": "grid",
         "column_size": "medium",
-        "column_align": "left",
+        "column_align": "center",
         "media_align": "text-center",
-        "image_ratio": "1.77",
+        "image_ratio": "1",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "multi_column_WReqnL": {
+      "type": "multi-column",
+      "blocks": {
+        "column_jJAFfr": {
+          "type": "column",
+          "settings": {
+            "enable_media": false,
+            "media_scale": 100,
+            "heading": "",
+            "text": "<p>Entdecke unsere spannenden Sets von Büro-Essentials, die Deinen Arbeitsplatz aufwerten. Unsere Auswahl an funktionalen Produkten ist trendig und macht Deine Arbeitsumgebung lebendiger und schöner.</p><p>Diese stilvollen Kombis sind ein großartiges Firmengeschenk. Von trendigen Untersetzen bis hin zu eleganten Stiftehaltern bieten unsere hochwertigen Büro-Essentials eine perfekte Mischung aus Vintage-Design und Funktionalität. Diese Leder-Büro-Essentials können Deinem Büro oder Heimarbeitsplatz eine schicke Note von Klasse verleihen.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_9ytAbq": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Jordis.jpg",
+            "media_scale": 100,
+            "heading": "Jordis",
+            "text": "",
+            "button_label": "Buy now",
+            "button_link": "shopify://products/mauspad-mousepad-rechteckig-2e7-22-6"
+          }
+        },
+        "column_7ncGeR": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Ullia.jpg",
+            "media_scale": 100,
+            "heading": "Ulli",
+            "text": "",
+            "button_label": "Buy now",
+            "button_link": "shopify://products/stiftkoecher-stiftebecher-stiftehalter-2a74-26-3"
+          }
+        },
+        "column_BcxUnt": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Bosley.jpg",
+            "media_scale": 100,
+            "heading": "Bosley",
+            "text": "",
+            "button_label": "Buy now",
+            "button_link": "shopify://products/untersetzer-glasuntersetzer-6er-set-mit-halter-2a136-24-1"
+          }
+        },
+        "column_YqyznD": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Steel_mug.jpg",
+            "media_scale": 100,
+            "heading": "Mild Steel Mug",
+            "text": "",
+            "button_label": "Buy now",
+            "button_link": "shopify://products/eleganter-becher-aus-weichstahl-mit-dem-logo-gusti-leder-tasse-sm001"
+          }
+        }
+      },
+      "block_order": [
+        "column_jJAFfr",
+        "column_9ytAbq",
+        "column_7ncGeR",
+        "column_BcxUnt",
+        "column_YqyznD"
+      ],
+      "settings": {
+        "title": "Verwandle Deinen Schreibtisch",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "layout": "grid",
+        "column_size": "medium",
+        "column_align": "center",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "multi_column_yR9CEB": {
+      "type": "multi-column",
+      "blocks": {
+        "column_CXAQ6P": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/sophia.jpg",
+            "media_scale": 100,
+            "heading": "Sophia",
+            "text": "",
+            "button_label": "Buy now",
+            "button_link": "shopify://products/buch-poesiealbum-planer-din-a5-p11"
+          }
+        },
+        "column_WQxJxc": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Addison.jpg",
+            "media_scale": 100,
+            "heading": "Addison",
+            "text": "",
+            "button_label": "Buy now",
+            "button_link": "shopify://products/stiftemappe-federtasche-vintage-2s8-22-6"
+          }
+        },
+        "column_DdtqD9": {
+          "type": "column",
+          "settings": {
+            "enable_media": false,
+            "media_scale": 100,
+            "heading": "",
+            "text": "<p>Notiere Arbeitsnotizen oder Reisepläne mit unserem coolen Stifteetui und Journal-Set! Verwende dieses stilvolle Schreibwaren Set, um die Dinge festzuhalten, die Du nie vergessen möchtest. </p><p>Kaufe unser Vintage-Journal und Stifteetui-Set! Unsere Produktsets sind ein tolles Geschenk für Deine Liebsten, die es genießen, ihre Urlaubshighlights aufzuschreiben. Wir haben eine vielseitige Auswahl an Stifteetuis und Notizbüchern, die Deinen Bedürfnissen entsprechen und dazu dienen können, Deine Pläne für die Woche, den Monat und das Jahr zu organisieren. Unsere Leder-Schreibwaren gibt es in verschiedenen Größen und eleganten Designs, aus denen Du wählen kannst.</p><p>Verleihe Deinem Leder-Liebling ein längeres Leben und genieße es für immer mit unseren Nachfüllpacks. Wenn Dein Notizbuch voller Ideen und Gedanken ist, ersetze es durch leere Seiten, blanko oder liniert. Dein Lieblings-Notizbuch kann für immer Deins sein!</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_UJpEfM": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/lahja.jpg",
+            "media_scale": 100,
+            "heading": "Lahja",
+            "text": "",
+            "button_label": "Buy now",
+            "button_link": "shopify://products/notebook-cover-journal-leather-cover-brown-leather-2p77-24-28"
+          }
+        },
+        "column_g7p4HT": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/lahja_refill.jpg",
+            "media_scale": 100,
+            "heading": "Lahja Nachfüllpack",
+            "text": "",
+            "button_label": "Buy now",
+            "button_link": "shopify://products/notebook-refill-pack-for-notebook-uncoated-paper-2p77-24-a5"
+          }
+        }
+      },
+      "block_order": [
+        "column_CXAQ6P",
+        "column_WQxJxc",
+        "column_DdtqD9",
+        "column_UJpEfM",
+        "column_g7p4HT"
+      ],
+      "settings": {
+        "title": "Elegante Schreibwaren",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "layout": "grid",
+        "column_size": "medium",
+        "column_align": "center",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "multi_column_DgNMAJ": {
+      "type": "multi-column",
+      "blocks": {
+        "column_BxcL3N": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Mattis.jpg",
+            "media_scale": 100,
+            "heading": "Mattis",
+            "text": "",
+            "button_label": "Buy now",
+            "button_link": "shopify://products/rolltop-kurierrucksack-rucksack-lederrucksack-vintage-cityrucksack-outdoorrucksack-laptoptasche-unirucksack-wanderrucksack-braun-leder-18l-2m31-20-5wp"
+          }
+        },
+        "column_HBPLJP": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/foster.jpg",
+            "media_scale": 100,
+            "heading": "Foster",
+            "text": "",
+            "button_label": "Buy now",
+            "button_link": "shopify://products/geldboerse-portemonnaie-vintage-2a123-33-8"
+          }
+        },
+        "column_knxmHN": {
+          "type": "column",
+          "settings": {
+            "enable_media": false,
+            "media_scale": 100,
+            "heading": "",
+            "text": "<p>Entdecke unsere trendigen Rucksack- und Geldbörsen-Sets für Männer, die zu jedem Anlass passen, sei es Weihnachten, Geburtstag, Jahrestag oder ein anderer besonderer Tag.</p><p>Diese sorgfältig gestalteten Kombis für Männer helfen ihnen, ihren Look auf die nächste Stufe zu heben. Unsere hochwertigen Leder-Rucksäcke und Geldbörsen sehen schick aus und halten ein Leben lang. Dieses exquisite Kombi-Paket ist die perfekte Geschenkidee für Deinen Vater, Ehemann, Bruder und Freund.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_ffEWTW": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Fenno.jpg",
+            "media_scale": 100,
+            "heading": "Fenno",
+            "text": "",
+            "button_label": "Buy now",
+            "button_link": "shopify://products/pflanzlich-gegerbt-rucksack-lederrucksack-cityrucksack-outdoorrucksack-daypack-vintage-damen-herren-schwarz-leder-14-l-2m94-80-21"
+          }
+        },
+        "column_ULX7H6": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/regis.jpg",
+            "media_scale": 100,
+            "heading": "Regis",
+            "text": "",
+            "button_label": "Buy now",
+            "button_link": "shopify://products/portemonnaie-geldboerse-herren-2a187-33-2"
+          }
+        }
+      },
+      "block_order": [
+        "column_BxcL3N",
+        "column_HBPLJP",
+        "column_knxmHN",
+        "column_ffEWTW",
+        "column_ULX7H6"
+      ],
+      "settings": {
+        "title": "Für ihn",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "layout": "grid",
+        "column_size": "medium",
+        "column_align": "center",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "multi_column_T8QFaU": {
+      "type": "multi-column",
+      "blocks": {
+        "column_HL8URY": {
+          "type": "column",
+          "settings": {
+            "enable_media": false,
+            "media_scale": 100,
+            "heading": "",
+            "text": "<p>Glückliches Fahrrad, glückliches Leben! Füge Deinem Fahrrad eine einzigartige Retro-Note mit unseren Leder Sätteln, Lenkertaschen und -griffen und Gepäckträgertaschen hinzu.</p><p>Entdecke unser beliebtes Fahrradzubehör, das Deiner täglichen Fahrt mit dem Fahrrad ins Büro eine Vintage-Note verleiht. Rüste Dein Fahrrad komplett mit funktionalen und hochwertigen Zubehörteilen aus, die jede Fahrt noch angenehmer machen (auch wenn Du im Regen radelst). Unsere Auswahl an Fahrrad-Essentials macht Deine Fahrt komfortabler und sicherer.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_ykyKxB": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Bernard_H.jpg",
+            "media_scale": 100,
+            "heading": "Bernard H.",
+            "text": "",
+            "button_label": "Buy now",
+            "button_link": "shopify://products/echtes-leder-fahrradsattel-ledersattel-vintage-retro-sattel-fahrrad-cityrad-braun-2f3-20-23"
+          }
+        },
+        "column_g3jihU": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Adri_V.jpg",
+            "media_scale": 100,
+            "heading": "Adri V.",
+            "text": "",
+            "button_label": "Buy now",
+            "button_link": "shopify://products/lenkerband-groesse-200-cm-echtes-leder-inkl-korken-rennrad-lederband-griffband-fahrradzubehoer-zubehoer-fahrrad-lenker-braun-leder-2f38-22-6-200"
+          }
+        },
+        "column_C3hMga": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Moreno.jpg",
+            "media_scale": 100,
+            "heading": "Moreno A.",
+            "text": "",
+            "button_label": "Buy now",
+            "button_link": "shopify://products/rucksack-inkl-platte-fahrradrucksack-lederrucksack-cityrucksack-damen-braun-leder-2f41-22-31k-2"
+          }
+        },
+        "column_AfhzEn": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Raymond_P.jpg",
+            "media_scale": 100,
+            "heading": "Raymond P.",
+            "text": "",
+            "button_label": "Buy now",
+            "button_link": "shopify://products/fahrradtasche-satteltasche-vintage-fuer-brooks-saettel-diebstahlsicher-braun-leder-2g57-20-11"
+          }
+        }
+      },
+      "block_order": [
+        "column_HL8URY",
+        "column_ykyKxB",
+        "column_g3jihU",
+        "column_C3hMga",
+        "column_AfhzEn"
+      ],
+      "settings": {
+        "title": "Radfahren im Alltag",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "layout": "grid",
+        "column_size": "medium",
+        "column_align": "center",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "multi_column_qx44AX": {
+      "type": "multi-column",
+      "blocks": {
+        "column_Dxc7pD": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Gareth_T.jpg",
+            "media_scale": 100,
+            "heading": "Gareth T.",
+            "text": "",
+            "button_label": "Buy now",
+            "button_link": "shopify://products/echtes-leder-2-in-1-fahrradtasche-fahrradrucksack-rucksack-gepaecktraeger-leder-braun-2f44-20-5wpol"
+          }
+        },
+        "column_HDxbJy": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Maurice_G.jpg",
+            "media_scale": 100,
+            "heading": "Maurice G.",
+            "text": "",
+            "button_label": "Buy now",
+            "button_link": "shopify://products/taska-na-ram-kola-taska-na-kolo-kozena-taska-vintage-hnedy-kuze-2f6-20-5wp"
+          }
+        },
+        "column_74PWHX": {
+          "type": "column",
+          "settings": {
+            "enable_media": false,
+            "media_scale": 100,
+            "heading": "",
+            "text": "<p>Nimm alles mit, was Du für Deine nächste Fahrradtour brauchst und starte in Dein Abenteuer.</p><p>Fahre stilvoll durch die Straßen! Pimpe Dein Fahrrad für Deinen nächsten Bikepacking-Trip mit unseren klassischen Vintage-Fahrrädern und Accessoires auf. Unsere Sattel- und Lenkergriff-Combo ist der perfekte Weg, um Deinem Fahrrad einen neuen Look zu verleihen. Du wirst die Straße mit unseren Ledersätteln und Lenkerbändern beherrschen. Mach Dich auf eine Fahrradtour mit Freunden, Familie, Kollegen oder den besten Freunden und genieße die frische Luft.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_Ki8mVR": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Udo.jpg",
+            "media_scale": 100,
+            "heading": "Udo B.",
+            "text": "",
+            "button_label": "Buy now",
+            "button_link": "shopify://products/satteltasche-mit-wasserfestem-innenfutter-vintage-klein-2g13-20-2wp"
+          }
+        },
+        "column_ddhhPE": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Andre.jpg",
+            "media_scale": 100,
+            "heading": "Andre D.",
+            "text": "",
+            "button_label": "Buy now",
+            "button_link": "shopify://products/lenkertasche-gepaecktraegertasche-fahrradschloss-tasche-fahrradtsache-ledertasche-vintage-braun-leder-2f69-20-5wpk"
+          }
+        }
+      },
+      "block_order": [
+        "column_Dxc7pD",
+        "column_HDxbJy",
+        "column_74PWHX",
+        "column_Ki8mVR",
+        "column_ddhhPE"
+      ],
+      "settings": {
+        "title": "Zubehör für Bikepacking ",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "layout": "grid",
+        "column_size": "medium",
+        "column_align": "center",
+        "media_align": "text-center",
+        "image_ratio": "1",
         "color_scheme": "1",
         "button_style": "btn btn--secondary"
       }
@@ -387,6 +808,11 @@
     "rich_text_bNardi",
     "multi_column_AqdaNU",
     "multi_column_HwiaDe",
+    "multi_column_WReqnL",
+    "multi_column_yR9CEB",
+    "multi_column_DgNMAJ",
+    "multi_column_T8QFaU",
+    "multi_column_qx44AX",
     "collection_list_RHeKBJ",
     "featured_collection_fw9w9V"
   ]
