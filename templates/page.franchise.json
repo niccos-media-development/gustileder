@@ -135,7 +135,6 @@
     },
     "featured_collection_fw9w9V": {
       "type": "featured-collection",
-      "disabled": true,
       "settings": {
         "title": "Unsere Bestseller",
         "heading_align": "text-start",
@@ -641,13 +640,13 @@
     "main",
     "image_banner_h7bfNH",
     "collection_list_RHeKBJ",
-    "featured_collection_fw9w9V",
     "rich_text_GdPzi6",
     "media_with_text_nVetTX",
     "media_with_text_PnYHVN",
     "rich_text_CBxUiM",
     "faq_GdMmkr",
     "media_grid_4A47E8",
-    "multi_column_b6Qyek"
+    "multi_column_b6Qyek",
+    "featured_collection_fw9w9V"
   ]
 }
