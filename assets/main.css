@@ -4455,7 +4455,7 @@ label[data-swatch]::before {
 }
 
 .product-label--sale {
-  background-color: rgb(var(--sale-label-bg-color));
+  background-color: #000;
   color: rgb(var(--sale-label-text-color));
 }
 
