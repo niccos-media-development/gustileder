@@ -11,6 +11,7 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "show_page_title": true,
         "heading_align": "text-center"
@@ -21,6 +22,7 @@
       "blocks": {
         "heading_tkepFK": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "Image banner",
             "heading_size": "h1",
@@ -29,6 +31,7 @@
         },
         "text_i4fTGy": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
             "enlarge_text": true
@@ -36,6 +39,7 @@
         },
         "button_446Ntx": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_1_label": "Optional button",
             "button_1_link": "",
@@ -52,6 +56,7 @@
         "button_446Ntx"
       ],
       "settings": {
+        "image_desktop": "shopify://shop_images/combo_offers_Desktop_DE.jpg",
         "url": "",
         "height_mode": "auto",
         "fixed_height_desktop": 600,
@@ -66,6 +71,228 @@
         "tint_color": "#000000",
         "tint_opacity": 40,
         "prevent_animation": false
+      }
+    },
+    "rich_text_bNardi": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_8cjERX": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_4aNy7R": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Rich text headline",
+            "heading_size": "h2",
+            "heading_h1": false
+          }
+        },
+        "text_nPfEQ3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Suchst Du nach exquisiten passenden Lederartikeln für Deinen nächsten Ausflug?</p><p>Wir haben für Dich einen Liste mit Empfehlungen von Produkten erstellt, die sich gegenseitig ergänzen.</p><p>Unten findest Du unsere spannenden Leder-Kombis, die zu Deinen perfekten Begleitern werden. Jede Kombi umfasst verschiedene Größen und Designs, die  einzigartig Deinen Bedürfnissen entsprechen. Ergänze Deinen Stil mit unserem aufregenden Büro-Kombi, Journal-Kombi, Fahrrad-Kombi und vielem mehr, um Deinen Tag spaßig und funktionell zu gestalten. Unsere Kombi-Angebote sind auch das perfekte Geschenk für Dich und Deine Liebsten.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_gmfhUr": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_8cjERX",
+        "heading_4aNy7R",
+        "text_nPfEQ3",
+        "button_gmfhUr"
+      ],
+      "settings": {
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "wide": false,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "multi_column_AqdaNU": {
+      "type": "multi-column",
+      "blocks": {
+        "column_8Dzgrq": {
+          "type": "column",
+          "settings": {
+            "enable_media": false,
+            "media_scale": 100,
+            "heading": "",
+            "text": "<p> In unserer geräumigen Handtasche mit der passenden Geldbörse ist genügend Platz für deine täglichen Essentials. Nimm sie mit zum Einkaufen oder für einen lässigen Tag draußen.</p><p>Sieh Dir unsere aufregende Kombination aus Handtaschen und Geldbörsen an, die Funktion und Mode mühelos verbindet. Unsere Handtasche hat ein großes Hauptfach, und in der Geldbörse gibt es mehrere Taschen, sodass genügend Platz für alles vorhanden ist. Shoppe die Handtaschen- und Geldbörsen-Kombination, die dich mit ihrer Funktionalität und ihrem Vintage-Design beeindrucken wird.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_7cKFTJ": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Darby.jpg",
+            "media_scale": 100,
+            "heading": "Darby",
+            "text": "",
+            "button_label": "Buy now",
+            "button_link": "shopify://products/handbag-shoulder-bag-crossbody-bag-vintage-women-brown-leather-2h220-22-126"
+          }
+        },
+        "column_TDdEVz": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/cara.jpg",
+            "media_scale": 100,
+            "heading": "Cara",
+            "text": "",
+            "button_label": "Buy now",
+            "button_link": "shopify://products/geldboerse-portemonnaie-brieftasche-lang-geldbeutel-viele-faecher-damen-braun-leder-2a16-22-126"
+          }
+        },
+        "column_r8tPqk": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Gemma.jpg",
+            "media_scale": 100,
+            "heading": "Gemma",
+            "text": "",
+            "button_label": "Buy now",
+            "button_link": "shopify://products/wallet-purse-womens-wallet-black-leather-2a212-99-6"
+          }
+        },
+        "column_DUFgdA": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Josephine.jpg",
+            "media_scale": 100,
+            "heading": "Josephine",
+            "text": "",
+            "button_label": "Buy now",
+            "button_link": "shopify://products/beuteltasche-leder-umhaengetasche-shopper-ledertasche-vintage-schwarz-leder-m11-48-6"
+          }
+        }
+      },
+      "block_order": [
+        "column_8Dzgrq",
+        "column_7cKFTJ",
+        "column_TDdEVz",
+        "column_r8tPqk",
+        "column_DUFgdA"
+      ],
+      "settings": {
+        "title": "Twinning-Kombination",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "layout": "grid",
+        "column_size": "medium",
+        "column_align": "center",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "multi_column_HwiaDe": {
+      "type": "multi-column",
+      "blocks": {
+        "column_tecFxL": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Michael.jpg",
+            "media_scale": 100,
+            "heading": "Michael",
+            "text": "",
+            "button_label": "Buy now",
+            "button_link": "shopify://products/reisetasche-sporttasche-gepaecktasche-r32b"
+          }
+        },
+        "column_mttAzC": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Lucy.jpg",
+            "media_scale": 100,
+            "heading": "Lucy",
+            "text": "",
+            "button_label": "Buy now",
+            "button_link": "shopify://products/schminktasche-geldboerse-reisetasche-dokumentenmaeppchen-kosmetiktasche-utensilientasche-vintage-braun-leder-a137b"
+          }
+        },
+        "column_eHaRGF": {
+          "type": "column",
+          "settings": {
+            "enable_media": false,
+            "media_scale": 100,
+            "heading": "",
+            "text": "<p>Hol Dir das perfekte Leder Reiseset! Wir haben eine fantastische Auswahl an Produktkombinationen, die Deine Reiselust entfachen werden.</p><p>Gehst Du auf einen Wochenendausflug oder einen längeren Urlaub mit Freunden und Familie? Verleihe Deinem Look mit unseren trendigen Leder Reisetaschen einen stilvollen, aber praktischen Touch. Sieh stilvoll aus und fühle Dich wohl, wenn Du die Stadt erkundest oder Sehenswürdigkeiten besuchst. Unsere Produktkombinationen passen sich Deinen Bedürfnissen an. Von vielseitigen Ledertaschen bis zu trendigen Reiseaccessoires machen diese Artikel Deine nächste Reise stilvoll und stressfrei. Also packe Deine Reisetaschen und setze auf Deinem nächsten Abenteuer ein modisches Statement!</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_zP8mCB": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Ruben_51627710-0f66-4d5b-87a1-43246065699b.jpg",
+            "media_scale": 100,
+            "heading": "Column",
+            "text": "<p>Pair text with an image to focus on a product, collection or blog post. Add details on availability, style, or even provide a review.</p>",
+            "button_label": "Ruben",
+            "button_link": "shopify://products/reisetasche-sporttasche-ledertasche-mit-wasserfestem-innenstoff-2r1-20-4wp"
+          }
+        },
+        "column_izaPfe": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "media_scale": 100,
+            "heading": "Column",
+            "text": "<p>Pair text with an image to focus on a product, collection or blog post. Add details on availability, style, or even provide a review.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_tecFxL",
+        "column_mttAzC",
+        "column_eHaRGF",
+        "column_zP8mCB",
+        "column_izaPfe"
+      ],
+      "settings": {
+        "title": "Ab ins Abenteuer",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "layout": "grid",
+        "column_size": "medium",
+        "column_align": "left",
+        "media_align": "text-center",
+        "image_ratio": "1.77",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
       }
     },
     "collection_list_RHeKBJ": {
@@ -116,6 +343,7 @@
         "collection_eAJ4fF",
         "collection_xbRB6E"
       ],
+      "disabled": true,
       "settings": {
         "title": "Collections",
         "heading_align": "text-start",
@@ -156,6 +384,9 @@
   "order": [
     "main",
     "image_banner_h7bfNH",
+    "rich_text_bNardi",
+    "multi_column_AqdaNU",
+    "multi_column_HwiaDe",
     "collection_list_RHeKBJ",
     "featured_collection_fw9w9V"
   ]
