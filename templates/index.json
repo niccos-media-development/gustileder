@@ -165,12 +165,30 @@
     },
     "custom_liquid_h6NKQ8": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "custom_liquid": "<div class=\"klaviyo-form-U9qEqe\"></div>",
         "section_height": "default",
         "full_width": true,
         "dividers": "none",
         "prevent_animation": true
+      }
+    },
+    "1738579412b8cbca45": {
+      "type": "apps",
+      "blocks": {
+        "klaviyo_email_marketing_sms_form_embed_block_xh6Bdf": {
+          "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/form-embed-block/2632fe16-c075-4321-a88b-50b567f42507",
+          "settings": {
+            "formId": "U9qEqe"
+          }
+        }
+      },
+      "block_order": [
+        "klaviyo_email_marketing_sms_form_embed_block_xh6Bdf"
+      ],
+      "settings": {
+        "full_width": false
       }
     },
     "logo_list_9yDaAc": {
@@ -649,6 +667,7 @@
     "slideshow",
     "product_list_xxEYAE",
     "custom_liquid_h6NKQ8",
+    "1738579412b8cbca45",
     "logo_list_9yDaAc",
     "collection_list_PkABBL",
     "media_with_text_grNJ6d",
