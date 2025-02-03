@@ -213,6 +213,8 @@
             </p>
           {%- endif -%}
 
+          {{ product.metafields.next_cart.attr9 }}
+
           {%- if settings.card_show_weight -%}
             <p class="card__weight text-sm mb-1{% unless settings.show_dividers %} mt-1{% endunless %}">
               {%- render 'product-weight', product: product -%}
