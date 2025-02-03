@@ -333,7 +333,7 @@
     "color_scheme_1_bg_grad": "linear-gradient(180deg, rgba(244, 244, 244, 1), rgba(244, 244, 244, 1) 100%)",
     "color_scheme_1_heading": "#2a2b2a",
     "color_scheme_1_text": "#2a2b2a",
-    "color_scheme_1_btn_bg": "#ff580d",
+    "color_scheme_1_btn_bg": "#000000",
     "color_scheme_2_bg": "#2a2b2a",
     "color_scheme_2_bg_grad": "linear-gradient(225deg, rgba(51, 59, 67, 0.88) 8%, rgba(41, 47, 54, 1) 56%, rgba(20, 20, 20, 1) 92%)",
     "color_scheme_2_heading": "#ff580d",
