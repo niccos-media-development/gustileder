@@ -69,7 +69,7 @@
         "full_width": true,
         "transparent_content_color": "#ffffff",
         "tint_color": "#000000",
-        "tint_opacity": 40,
+        "tint_opacity": 10,
         "prevent_animation": false
       }
     },
@@ -206,7 +206,7 @@
         "button_pdCcWh": {
           "type": "button",
           "settings": {
-            "button_label": "Personifizieren",
+            "button_label": "Personalisieren",
             "button_link": "shopify://products/geldboerse-portemonnaie-brieftasche-2a117-33-3",
             "button_style": "btn btn--primary"
           }
