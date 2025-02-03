@@ -168,9 +168,9 @@
       "settings": {
         "custom_liquid": "<div class=\"klaviyo-form-U9qEqe\"></div>",
         "section_height": "default",
-        "full_width": false,
+        "full_width": true,
         "dividers": "none",
-        "prevent_animation": false
+        "prevent_animation": true
       }
     },
     "logo_list_9yDaAc": {
