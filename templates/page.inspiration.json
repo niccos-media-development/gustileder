@@ -53,15 +53,15 @@
     "media_grid_8WD7hp": {
       "type": "media-grid",
       "blocks": {
-        "media_7eq7pd": {
+        "media_iQJQP3": {
           "type": "media",
           "settings": {
-            "image": "shopify://shop_images/Gift_ideas_DE_60d1c551-0248-4645-b041-5afc54226381.jpg",
+            "image": "shopify://shop_images/Gift_ideas_Shopify.jpg",
             "link_url": "",
-            "columns": 2,
+            "columns": 1,
             "rows": 1,
             "subheading": "",
-            "title": "",
+            "title": "<p>Geschenkideen</p>",
             "heading_size": "h4",
             "button_label": "",
             "button_link": "",
@@ -69,18 +69,18 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 25
+            "tint_opacity": 40
           }
         },
         "media_z6kwmk": {
           "type": "media",
           "settings": {
-            "image": "shopify://shop_images/Valentines_Day_DE.jpg",
+            "image": "shopify://shop_images/Valentines_Day_Shopify.jpg",
             "link_url": "",
             "columns": 1,
             "rows": 1,
             "subheading": "",
-            "title": "",
+            "title": "<p>Valentinstag</p>",
             "heading_size": "h4",
             "button_label": "",
             "button_link": "",
@@ -94,12 +94,31 @@
         "media_UB3KjV": {
           "type": "media",
           "settings": {
-            "image": "shopify://shop_images/Christmas_collection_DE.jpg",
+            "image": "shopify://shop_images/Christmas_collection_Shopify.jpg",
             "link_url": "",
             "columns": 1,
             "rows": 1,
             "subheading": "",
-            "title": "",
+            "title": "<p>Weihnachtskollektion</p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 40
+          }
+        },
+        "media_3jUNTk": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Gravur_Shopify.jpg",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Gravur</p>",
             "heading_size": "h4",
             "button_label": "",
             "button_link": "",
@@ -113,12 +132,12 @@
         "media_GhQizW": {
           "type": "media",
           "settings": {
-            "image": "shopify://shop_images/Mothers_day_DE.jpg",
+            "image": "shopify://shop_images/Mothers_day_Shopify.jpg",
             "link_url": "",
             "columns": 1,
             "rows": 1,
             "subheading": "",
-            "title": "",
+            "title": "<p>Muttertags-geschenke</p>",
             "heading_size": "h4",
             "button_label": "",
             "button_link": "",
@@ -132,12 +151,12 @@
         "media_48z3MW": {
           "type": "media",
           "settings": {
-            "image": "shopify://shop_images/Fathers_day_DE.jpg",
+            "image": "shopify://shop_images/Fathers_day_Shopify.jpg",
             "link_url": "",
             "columns": 1,
             "rows": 1,
             "subheading": "",
-            "title": "",
+            "title": "<p>Vatertags-geschenke</p>",
             "heading_size": "h4",
             "button_label": "",
             "button_link": "",
@@ -148,15 +167,15 @@
             "tint_opacity": 25
           }
         },
-        "media_paEKC8": {
+        "media_Pgp4rc": {
           "type": "media",
           "settings": {
-            "image": "shopify://shop_images/Gravur_DE.jpg",
+            "image": "shopify://shop_images/Bullet_journal_Shopify.jpg",
             "link_url": "",
-            "columns": 2,
+            "columns": 1,
             "rows": 1,
             "subheading": "",
-            "title": "",
+            "title": "<p>Bullet Journal</p>",
             "heading_size": "h4",
             "button_label": "",
             "button_link": "",
@@ -164,17 +183,18 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 25
+            "tint_opacity": 40
           }
         }
       },
       "block_order": [
-        "media_7eq7pd",
+        "media_iQJQP3",
         "media_z6kwmk",
         "media_UB3KjV",
+        "media_3jUNTk",
         "media_GhQizW",
         "media_48z3MW",
-        "media_paEKC8"
+        "media_Pgp4rc"
       ],
       "settings": {
         "title": "",
@@ -197,12 +217,12 @@
         "media_UVLdr6": {
           "type": "media",
           "settings": {
-            "image": "shopify://shop_images/Bike_mobil_DE.jpg",
+            "image": "shopify://shop_images/Bike_Shopify.jpg",
             "link_url": "",
             "columns": 2,
             "rows": 2,
             "subheading": "",
-            "title": "",
+            "title": "<p>Unsere Fahrradprodukte</p>",
             "heading_size": "h4",
             "button_label": "",
             "button_link": "",
@@ -216,12 +236,12 @@
         "media_XQFPV8": {
           "type": "media",
           "settings": {
-            "image": "shopify://shop_images/Sattel_DE.jpg",
+            "image": "shopify://shop_images/Sattel_Shopify.jpg",
             "link_url": "",
             "columns": 1,
             "rows": 1,
             "subheading": "",
-            "title": "",
+            "title": "<p>Welcher Sattel passt zu mir?</p>",
             "heading_size": "h4",
             "button_label": "",
             "button_link": "",
@@ -235,12 +255,12 @@
         "media_HLFNhE": {
           "type": "media",
           "settings": {
-            "image": "shopify://shop_images/Lederpflege_Fahrrad_DE.jpg",
+            "image": "shopify://shop_images/Lederpflege_Fahrrad_Shopify.jpg",
             "link_url": "",
             "columns": 1,
             "rows": 1,
             "subheading": "",
-            "title": "",
+            "title": "<p>Reinigung</p>",
             "heading_size": "h4",
             "button_label": "",
             "button_link": "",
@@ -254,12 +274,12 @@
         "media_bPiGRf": {
           "type": "media",
           "settings": {
-            "image": "shopify://shop_images/Travel_tips_DE.jpg",
+            "image": "shopify://shop_images/Travel_tips_Shopify.jpg",
             "link_url": "",
             "columns": 1,
             "rows": 1,
             "subheading": "",
-            "title": "",
+            "title": "<p>Sicher auf Reisen</p>",
             "heading_size": "h4",
             "button_label": "",
             "button_link": "",
@@ -273,12 +293,12 @@
         "media_CfBnxN": {
           "type": "media",
           "settings": {
-            "image": "shopify://shop_images/Wanderlust.jpg",
+            "image": "shopify://shop_images/Wanderlust_Shopify.jpg",
             "link_url": "",
             "columns": 1,
             "rows": 1,
             "subheading": "",
-            "title": "",
+            "title": "<p>Wanderlust</p>",
             "heading_size": "h4",
             "button_label": "",
             "button_link": "",
@@ -338,12 +358,12 @@
         "media_QFLg9H": {
           "type": "media",
           "settings": {
-            "image": "shopify://shop_images/Woven_DE.jpg",
+            "image": "shopify://shop_images/Woven_shopify.jpg",
             "link_url": "",
             "columns": 1,
             "rows": 1,
             "subheading": "",
-            "title": "",
+            "title": "<p>Flechtoptik</p>",
             "heading_size": "h4",
             "button_label": "",
             "button_link": "",
@@ -357,12 +377,12 @@
         "media_FUVhde": {
           "type": "media",
           "settings": {
-            "image": "shopify://shop_images/Bestseller_DE_AT_CH.jpg",
+            "image": "shopify://shop_images/Bestseller_Shopify.jpg",
             "link_url": "",
             "columns": 1,
             "rows": 1,
             "subheading": "",
-            "title": "",
+            "title": "<p>Unsere Bestseller</p>",
             "heading_size": "h4",
             "button_label": "",
             "button_link": "",
@@ -376,12 +396,12 @@
         "media_aK9CeF": {
           "type": "media",
           "settings": {
-            "image": "shopify://shop_images/Combo_Offers_DE_CH_AT.jpg",
+            "image": "shopify://shop_images/Combo_Offers_Shopify.jpg",
             "link_url": "",
             "columns": 2,
             "rows": 2,
             "subheading": "",
-            "title": "",
+            "title": "<p>Kombinierbare Produkte</p>",
             "heading_size": "h4",
             "button_label": "",
             "button_link": "",
@@ -395,12 +415,12 @@
         "media_F3KBpT": {
           "type": "media",
           "settings": {
-            "image": "shopify://shop_images/Taschenvergleich_DE.jpg",
+            "image": "shopify://shop_images/Taschenvergleich_Shopify.jpg",
             "link_url": "",
             "columns": 1,
             "rows": 1,
             "subheading": "",
-            "title": "",
+            "title": "<p>Taschen-vergleich</p>",
             "heading_size": "h4",
             "button_label": "",
             "button_link": "",
@@ -414,12 +434,12 @@
         "media_WkGywp": {
           "type": "media",
           "settings": {
-            "image": "shopify://shop_images/Gusti_love.jpg",
+            "image": "shopify://shop_images/Gusti_love_Shopify.jpg",
             "link_url": "",
             "columns": 1,
             "rows": 1,
             "subheading": "",
-            "title": "",
+            "title": "<p>#gustilove</p>",
             "heading_size": "h4",
             "button_label": "",
             "button_link": "",
