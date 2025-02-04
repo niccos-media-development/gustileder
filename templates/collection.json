@@ -29,7 +29,7 @@
         "url": "",
         "height_mode": "fixed",
         "fixed_height_desktop": 400,
-        "fixed_height_mobile": 350,
+        "fixed_height_mobile": 300,
         "overlay_position": "justify-center items-center",
         "overlay_text_align": "text-center",
         "mob_center_text": false,
