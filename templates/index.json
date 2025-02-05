@@ -381,43 +381,6 @@
             "tint_color": "#000000",
             "tint_opacity": 25
           }
-        },
-        "media_XLmVaP": {
-          "type": "media",
-          "settings": {
-            "image": "shopify://shop_images/Insta_Bente_2G124-26-11-90-4-1.jpg",
-            "link_url": "",
-            "columns": 1,
-            "rows": 1,
-            "subheading": "",
-            "title": "<p>Gürtel</p>",
-            "heading_size": "h4",
-            "button_label": "",
-            "button_link": "",
-            "overlay_position": "justify-start items-end",
-            "text_alignment": "text-start",
-            "button_style": "btn btn--primary",
-            "tint_color": "#000000",
-            "tint_opacity": 25
-          }
-        },
-        "media_YcEtiK": {
-          "type": "media",
-          "settings": {
-            "link_url": "",
-            "columns": 3,
-            "rows": 1,
-            "subheading": "",
-            "title": "",
-            "heading_size": "h4",
-            "button_label": "",
-            "button_link": "",
-            "overlay_position": "justify-start items-end",
-            "text_alignment": "text-start",
-            "button_style": "btn btn--primary",
-            "tint_color": "#000000",
-            "tint_opacity": 25
-          }
         }
       },
       "block_order": [
@@ -425,9 +388,7 @@
         "media_CNTi8R",
         "media_gR66Ei",
         "media_KHMRJw",
-        "media_zAf3Ta",
-        "media_XLmVaP",
-        "media_YcEtiK"
+        "media_zAf3Ta"
       ],
       "settings": {
         "title": "Unsere Kategorien",
@@ -513,6 +474,62 @@
         "full_width": true
       }
     },
+    "multi_column_rHYmb9": {
+      "type": "multi-column",
+      "blocks": {
+        "column_q3GPVb": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "media_scale": 100,
+            "heading": "Column",
+            "text": "<p>Pair text with an image to focus on a product, collection or blog post. Add details on availability, style, or even provide a review.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_q8bE4w": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "media_scale": 100,
+            "heading": "Column",
+            "text": "<p>Pair text with an image to focus on a product, collection or blog post. Add details on availability, style, or even provide a review.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_CYewMA": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "media_scale": 100,
+            "heading": "Column",
+            "text": "<p>Pair text with an image to focus on a product, collection or blog post. Add details on availability, style, or even provide a review.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_q3GPVb",
+        "column_q8bE4w",
+        "column_CYewMA"
+      ],
+      "settings": {
+        "title": "Multi-column",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "layout": "carousel",
+        "column_size": "medium",
+        "column_align": "left",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
+      }
+    },
     "media_with_text_grNJ6d": {
       "type": "media-with-text",
       "blocks": {
@@ -536,6 +553,7 @@
         "heading_wMaDeC",
         "text_HWxHG8"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/2A54-22-9_wp.png",
         "video_external": "",
@@ -826,6 +844,7 @@
     "logo_list_9yDaAc",
     "media_grid_pYGibV",
     "collection_list_PkABBL",
+    "multi_column_rHYmb9",
     "media_with_text_grNJ6d",
     "product_list_gyXPw6",
     "media_with_text_GUbDBt",
