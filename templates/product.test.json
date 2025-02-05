@@ -80,8 +80,8 @@
           "settings": {
             "heading": "Lederpflege",
             "icon": "none",
-            "text": "<p>Kaufe die passenden Lederpfflege zu deinem Produkt</p>",
-            "page": "",
+            "text": "<p>Kaufe die passenden Lederpflege zu deinem Produkt</p>",
+            "page": "lederpflege",
             "open": false
           }
         }
@@ -139,12 +139,12 @@
             "show_reviews": true,
             "custom_reviews": "",
             "show_specification": true,
-            "spec_metafields": "",
-            "spec_right_align": false,
-            "spec_show_empty_metafields": true,
-            "spec_empty_field_text": "-",
+            "spec_metafields": "Abmessungen (B x H x T): next_cart.abmessungen-bxhxt.\nGewicht: next_cart.gewicht. \nFarbe: next_cart.attr6.\nLeder: next_cart.attr21.\nLederart: next_cart.attr22. \nVerschluss: next_cart.verschluss.\nKartenfächer: next_cart.kartenfacher.",
+            "spec_right_align": true,
+            "spec_show_empty_metafields": false,
+            "spec_empty_field_text": "",
             "tab_1_title": "Zertifikate",
-            "tab_1_text": "<p>{{ product.metafields.next_cart.leather_cert_date.value }}</p>",
+            "tab_1_text": "<p>Entdeckealles über hochwertiges Leder und zertifizierte Lieferanten.</p><p>Unser Leder ist TÜV zertifiziert. Datum des letzten Test:  {{ product.metafields.next_cart.leather_cert_date.value }}</p>",
             "tab_1_page": "",
             "tab_2_title": "",
             "tab_2_text": "",
