@@ -217,7 +217,7 @@
         "feature_Xz44CF": {
           "type": "feature",
           "settings": {
-            "heading": "{{ section.settings.product.metafields.next_cart.pro_beschreibung_1.value }}",
+            "heading": "{{ section.settings.product.metafields.next_cart.leder.value }}",
             "text": "",
             "content_align": "text-start",
             "hotspot_x": 47,
