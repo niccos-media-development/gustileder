@@ -21,6 +21,7 @@
       "blocks": {
         "heading_tkepFK": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "Image banner",
             "heading_size": "h1",
@@ -29,6 +30,7 @@
         },
         "text_i4fTGy": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
             "enlarge_text": true
@@ -36,6 +38,7 @@
         },
         "button_446Ntx": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_1_label": "Optional button",
             "button_1_link": "",
@@ -52,6 +55,7 @@
         "button_446Ntx"
       ],
       "settings": {
+        "image_desktop": "shopify://shop_images/Gusti-studio-desktop.jpg",
         "url": "",
         "height_mode": "auto",
         "fixed_height_desktop": 600,
@@ -66,6 +70,154 @@
         "tint_color": "#000000",
         "tint_opacity": 40,
         "prevent_animation": false
+      }
+    },
+    "rich_text_bgdjJj": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_ejt6wz": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_hLWRcE": {
+          "type": "heading",
+          "settings": {
+            "heading": "Gusti Leder studio",
+            "heading_size": "h2",
+            "heading_h1": false
+          }
+        },
+        "text_y6YP7N": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Gusti Leder studio ist neben unserer ersten Eigenmarke Gusti Leder nature unsere zweite Produktlinie. Gusti Leder studio erlaubt es Deine Wünsche noch besser erfüllen zu können und Dir eine breit gefächerte Auswahl zu bieten. Gusti Leder studio vereint Funktionalität mit urbanen Design. Urbanes Lebensgefühl vereint mit Funktionalität!</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_UMqFAd": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_ejt6wz",
+        "heading_hLWRcE",
+        "text_y6YP7N",
+        "button_UMqFAd"
+      ],
+      "settings": {
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "wide": false,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "media_with_text_X8fHzj": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_WiKfH4": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "text_jFGfAJ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Unsere tollen und vor allem einzigartigen Produkte der Gusti Leder studio Kollektion werden vorwiegend aus Büffel- und Rindsleder hergestellt. Die Produktion erfolgt in größeren Betrieben in Italien und Indien, die internationale Produktionsstandards wie SA 8000 einhalten. Bei der Produktion wird das Verfahren der Chromgerbung genutzt, durch das eine hohe Reißfestigkeit und Stabilität gewährleistet werden kann. In regelmäßigen Laboruntersuchungen wird sichergestellt, dass die Richtwerte bzgl. Chrom VI eingehalten werden. Diese Untersuchungen werden sowohl von anerkannten Laboren in Indien als auch von dem \"FILK - Forschungsinstitut für Leder und Kunststoffbahnen GmbH\" vorgenommen</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_Xywz8t": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Optional button",
+            "button_link": "",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_WiKfH4",
+        "text_jFGfAJ",
+        "button_Xywz8t"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Gusti_studio_1.jpg",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "left",
+        "image_fit": "contain",
+        "media_width": 50,
+        "media_scale": 100,
+        "text_align": "text-start",
+        "color_scheme": "none",
+        "only_content_color_scheme": false
+      }
+    },
+    "media_with_text_hzXXPK": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_9JDfki": {
+          "type": "heading",
+          "settings": {
+            "heading": "Urbaner Lifestyle",
+            "heading_size": "h4",
+            "heading_h1": false
+          }
+        },
+        "text_qPDPFU": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Unser Ziel ist es aus Leidenschaft für das wundervolle Material Leder etwas einmaliges zu schaffen. Bei unserer Gusti Leder studio Kollektion kreieren wir funktionale, an Deine Bedürfnisse angepasste Taschen, die einen urbanen Lifestyle widerspiegel und gleichzeitig sehr zeitlos sind und eine enorme Stabilität und Funktionalität haben.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_ghNRYw": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Optional button",
+            "button_link": "",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_9JDfki",
+        "text_qPDPFU",
+        "button_ghNRYw"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Gusti_studio_2.jpg",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "right",
+        "image_fit": "contain",
+        "media_width": 50,
+        "media_scale": 100,
+        "text_align": "text-start",
+        "color_scheme": "none",
+        "only_content_color_scheme": false
       }
     },
     "collection_list_RHeKBJ": {
@@ -116,6 +268,7 @@
         "collection_eAJ4fF",
         "collection_xbRB6E"
       ],
+      "disabled": true,
       "settings": {
         "title": "Collections",
         "heading_align": "text-start",
@@ -156,6 +309,9 @@
   "order": [
     "main",
     "image_banner_h7bfNH",
+    "rich_text_bgdjJj",
+    "media_with_text_X8fHzj",
+    "media_with_text_hzXXPK",
     "collection_list_RHeKBJ",
     "featured_collection_fw9w9V"
   ]
