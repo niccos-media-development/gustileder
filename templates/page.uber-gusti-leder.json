@@ -1,1 +1,785 @@
-{"sections":{"main":{"type":"main-page","settings":{"show_page_title":true,"heading_align":"text-center"}},"image_banner_h7bfNH":{"type":"image-banner","blocks":{"heading_tkepFK":{"type":"heading","settings":{"heading":"Unsere Geschichte","heading_size":"h1","heading_h1":false}},"text_i4fTGy":{"type":"text","disabled":true,"settings":{"text":"<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>","enlarge_text":true}},"button_446Ntx":{"type":"button","disabled":true,"settings":{"button_1_label":"Optional button","button_1_link":"","button_1_style":"btn btn--primary","button_2_label":"Optional button","button_2_link":"","button_2_style":"btn btn--primary"}}},"block_order":["heading_tkepFK","text_i4fTGy","button_446Ntx"],"settings":{"image_desktop":"shopify:\/\/shop_images\/about_us_DE.jpg","url":"","height_mode":"auto","fixed_height_desktop":600,"fixed_height_mobile":350,"overlay_position":"justify-center items-center","overlay_text_align":"text-center","mob_center_text":false,"mobile_stacked":false,"color_scheme":"white","full_width":true,"transparent_content_color":"#ffffff","tint_color":"#000000","tint_opacity":40,"prevent_animation":false}},"featured_collection_fw9w9V":{"type":"featured-collection","disabled":true,"settings":{"title":"Unsere Bestseller","heading_align":"text-start","show_view_all":true,"collection":"bestseller","layout":"carousel","card_size_mobile":"small","card_size":"small","products_to_show":8,"show_highlight_products":true,"show_promo_info":false,"image_ratio":"fill","promo_title":"A headline to grab attention","content":"<p>Use this card with an image to highlight your collections or introduce a promotion.<\/p>","link_url":"","button_label":"Button","color_scheme":"2","button_style":"btn btn--primary"}},"media_with_text_e7cyLP":{"type":"media-with-text","blocks":{"heading_iK9WPc":{"type":"heading","disabled":true,"settings":{"heading":"Media with text","heading_size":"h3","heading_h1":false}},"text_3ChzrP":{"type":"text","settings":{"text":"<p>Gusti Leder wurde 2009 von Christian Pietsch gegründet, der heute als CEO des Unternehmens tätig ist. Mit Sitz in Deutschland ist Gusti Leder zu einer weltweit vertrauenswürdigen Marke geworden und bietet in der gesamten Produktpalette langlebige Qualität und innovative Designs.<\/p><p>Alles Große beginnt ganz klein. Ähnlich war es auch bei uns, als Christian Pietsch als Student eine Reise nach Indien unternahm. Die Inspiration von den örtlichen Leder Herstellern weckte in ihm die Idee von Gusti Leder.<\/p><p>Unsere ersten Produkte waren verschiedene Leder Taschen und Rucksäcke. Doch später haben wir uns intensiv mit Fahrrad Produkten beschäftigt, die sich bis heute als einer der großen Erfolge von Gusti erwiesen haben.<\/p><p>Seit unserer Gründung haben wir uns zu einem weltweiten Marktführer entwickelt. Gusti Leder steht für eine enge Zusammenarbeit mit Produzenten und eine persönliche Kundenbetreuung.<\/p><p>Indem wir das Zeitgenössische mit Vintage vereinen, entwerfen wir bei Gusti Leder Lederprodukte, die nie aus der Mode kommen. Wir sind Marktführer für eine Vielzahl von Artikeln aus unserem breiten Sortiment an Taschen, Rucksäcke, Geldbörsen, Armbändern, <a href=\"https:\/\/www.gusti-leder.at\/lexikon\/bikepacking\/\">Fahrradtaschen<\/a> und Schreibwaren. Jedes Produkt von Gusti Leder besticht durch exquisite Gestaltung, elegante Farben, erstklassige Qualität und hohe Funktionalität.<\/p>","enlarge_text":false}},"button_8FAELG":{"type":"button","disabled":true,"settings":{"button_label":"Optional button","button_link":"","button_style":"btn btn--primary"}}},"block_order":["heading_iK9WPc","text_3ChzrP","button_8FAELG"],"settings":{"image":"shopify:\/\/shop_images\/About_us_DE___AT___CH.jpg","video_external":"","video_description":"","video_autoplay":false,"layout":"right","image_fit":"contain","media_width":50,"media_scale":100,"text_align":"text-start","color_scheme":"none","only_content_color_scheme":false}},"multi_column_wCkxny":{"type":"multi-column","blocks":{"column_t9ifqK":{"type":"column","settings":{"enable_media":false,"media_scale":100,"heading":"Unsere Mission","text":"<p><em>Kreiere faszinierende und innovative Lederprodukte, die dich gestylt aussehen lassen und dich stets im Trend halten.\"<\/em><\/p>","button_label":"","button_link":""}},"column_yq99Ga":{"type":"column","settings":{"enable_media":false,"media_scale":100,"heading":"Unsere Vision","text":"<p><em>\"Wir streben danach, eine hochproduktive und effektive Organisation zu werden, indem wir Fairness und Transparenz am Arbeitsplatz fördern.\"<\/em><\/p>","button_label":"","button_link":""}},"column_yaqUNw":{"type":"column","disabled":true,"settings":{"enable_media":true,"media_scale":100,"heading":"Column","text":"<p>Pair text with an image to focus on a product, collection or blog post. Add details on availability, style, or even provide a review.<\/p>","button_label":"","button_link":""}},"column_RWdfkw":{"type":"column","disabled":true,"settings":{"enable_media":true,"media_scale":100,"heading":"Column","text":"<p>Pair text with an image to focus on a product, collection or blog post. Add details on availability, style, or even provide a review.<\/p>","button_label":"","button_link":""}}},"block_order":["column_t9ifqK","column_yq99Ga","column_yaqUNw","column_RWdfkw"],"settings":{"title":"","heading_align":"text-start","button_label":"","button_link":"","layout":"grid","column_size":"medium","column_align":"left","media_align":"text-center","image_ratio":"1","color_scheme":"1","button_style":"btn btn--secondary"}},"rich_text_E8LzUM":{"type":"rich-text","blocks":{"subheading_re9D7F":{"type":"subheading","disabled":true,"settings":{"text":"Subheading"}},"heading_EF7Lj4":{"type":"heading","settings":{"heading":"Unsere Ziele","heading_size":"h2","heading_h1":false}},"text_frPCQi":{"type":"text","settings":{"text":"<p>Ein bedeutender Teil unseres Umsatzes stammt derzeit aus Produkten, die mithilfe von Chrom gegerbt wurden. Wir sind uns jedoch bewusst, dass diese Art der Gerbung negative Auswirkungen auf die Umwelt haben kann. Daher haben wir uns das Ziel gesetzt, zukünftig vermehrt Leder zu beziehen, das auf natürliche Weise und umweltfreundlich gegerbt wurde. Uns ist wichtig, unseren Beitrag zu einer nachhaltigeren Zukunft zu leisten und verstärkt auf pflanzlich gegerbtes Leder zu setzen, das ressourcenschonender und besser für die Umwelt ist. <br\/><br\/>Unser zweites bedeutendes Ziel ist es, unsere Abhängigkeit von herkömmlichen Online-Marketingstrategien zu reduzieren und vermehrt auf alternative Wege der Kundenansprache zu setzen. Stattdessen streben wir an, in verschiedenen Innenstädten präsenter zu sein. Eine großartige Möglichkeit, unsere Präsenz an verschiedenen Standorten zu stärken, besteht darin, Pop-up-Stores zu eröffnen. Diese temporären Geschäfte ermöglichen es uns, das Bewusstsein für unsere Marke zu steigern und immer mehr Kunden zu erreichen, die Leder lieben und zu ihren verlässlichen Begleitern machen. Indem wir uns vermehrt in den Innenstädten etablieren, möchten wir einzigartige Einkaufserlebnisse schaffen und unsere Philosophie des nachhaltigen Leders weit verbreiten.<\/p>","enlarge_text":false}},"button_jGrFVB":{"type":"button","disabled":true,"settings":{"button_1_label":"Optional button","button_1_link":"","button_1_style":"btn--primary","button_2_label":"Optional button","button_2_link":"","button_2_style":"btn btn--primary"}}},"block_order":["subheading_re9D7F","heading_EF7Lj4","text_frPCQi","button_jGrFVB"],"settings":{"text_position":"justify-center","text_align":"text-center","mob_center_text":true,"wide":false,"color_scheme":"none","full_width":true,"prevent_animation":false}},"slideshow_kYyn3T":{"type":"slideshow","settings":{"height_mode":"auto","fixed_height_desktop":600,"fixed_height_mobile":350,"mobile_stacked":false,"nav_style":"slideshow_nav_lines","pagination_color":"#ffffff","nav_position":"justify-center","transition":"slide-fade","autoplay":true,"slider_pause":false,"autoplay_speed":5,"color_scheme":"white","full_width":true,"tint_color":"#000000","tint_opacity":40,"accessibility_info":"","prevent_animation":true}},"multi_column_kaGyKe":{"type":"multi-column","blocks":{"column_PRzqjA":{"type":"column","settings":{"enable_media":false,"media_scale":100,"heading":"Anpassungsfähigkeit","text":"<p>An Veränderungen anpassen und schnell darauf reagieren<\/p>","button_label":"","button_link":""}},"column_RchTUD":{"type":"column","settings":{"enable_media":false,"media_scale":100,"heading":"Organisation","text":"<p>Ethisches Verhalten am Arbeitsplatz aufrechterhalten, pünktlich sein und unsere Verpflichtungen rechtzeitig erfüllen<\/p>","button_label":"","button_link":""}},"column_yzp4wz":{"type":"column","settings":{"enable_media":false,"media_scale":100,"heading":"Kommunikation","text":"<p>Team Kollaboration und Zusammenarbeit durch klare Kommunikation<\/p>","button_label":"","button_link":""}},"column_H9xnFT":{"type":"column","settings":{"enable_media":false,"media_scale":100,"heading":"Zuverlässigkeit","text":"<p>Integrität in unserem beruflichen Verhalten zeigen<\/p>","button_label":"","button_link":""}},"column_TdLaz7":{"type":"column","settings":{"enable_media":false,"media_scale":100,"heading":"Verbesserung","text":"<p>Berufliches Wachstum der Mitarbeiter durch Wissensaustausch und Zusammenarbeit am Arbeitsplatz fördern<\/p>","button_label":"","button_link":""}}},"block_order":["column_PRzqjA","column_RchTUD","column_yzp4wz","column_H9xnFT","column_TdLaz7"],"settings":{"title":"Unsere Werte","heading_align":"text-center","button_label":"","button_link":"","layout":"grid","column_size":"medium","column_align":"left","media_align":"text-center","image_ratio":"1","color_scheme":"1","button_style":"btn btn--secondary"}},"media_with_text_bRiVJW":{"type":"media-with-text","blocks":{"heading_yDxwBe":{"type":"heading","settings":{"heading":"Philosophie in der Praxis","heading_size":"h3","heading_h1":false}},"text_kGDAqF":{"type":"text","settings":{"text":"<p>Gusti Leder legt großen Wert auf transparente Produktion und die nachhaltige Verwendung von Materialien, die im Einklang mit Mensch und Natur stehen.<br\/><br\/>Leder - Das von uns verwendete Leder stammt ausschließlich von Tieren, die hauptsächlich für die Fleischproduktion und Zucht gehalten werden. Die Häute der Tiere sind Nebenprodukte, die bei Gusti zu hochwertigen Lederartikeln verarbeitet werden.<br\/><br\/>Transparenz - Wir setzen uns entschieden für Nachhaltigkeit, Ökologie, Tierschutz und Menschenrechte ein.<\/p>","enlarge_text":false}},"button_jPyzmQ":{"type":"button","disabled":true,"settings":{"button_label":"Optional button","button_link":"","button_style":"btn btn--primary"}}},"block_order":["heading_yDxwBe","text_kGDAqF","button_jPyzmQ"],"settings":{"image":"shopify:\/\/shop_images\/transparent_production_4.jpg","video_external":"","video_description":"","video_autoplay":false,"layout":"left","image_fit":"contain","media_width":50,"media_scale":100,"text_align":"text-start","color_scheme":"none","only_content_color_scheme":false}},"multi_column_bpNWfB":{"type":"multi-column","blocks":{"column_EtDWjF":{"type":"column","settings":{"enable_media":false,"media_scale":100,"heading":"Gusti Leder Nature","text":"<p>Unsere erste Marke war Gusti Leder Nature. Unsere Kollektion von Taschen in dieser Kategorie besteht hauptsächlich aus pflanzlich gegerbtem Ziegenleder.<\/p>","button_label":"","button_link":""}},"column_34hmMP":{"type":"column","settings":{"enable_media":false,"media_scale":100,"heading":"Gusti Leder Studio","text":"<p>Die zweite Produktlinie des Unternehmens ist Gusti Leder Studio. Die einzigartigen Produkte bestehen hauptsächlich aus Büffel- und Rindsleder und werden mit dem Chromgerbungsverfahren gegerbt.<\/p>","button_label":"","button_link":""}},"column_QQaR8W":{"type":"column","disabled":true,"settings":{"enable_media":true,"media_scale":100,"heading":"Column","text":"<p>Pair text with an image to focus on a product, collection or blog post. Add details on availability, style, or even provide a review.<\/p>","button_label":"","button_link":""}}},"block_order":["column_EtDWjF","column_34hmMP","column_QQaR8W"],"settings":{"title":"Entdecke unsere Produktlinien","heading_align":"text-center","button_label":"","button_link":"","layout":"grid","column_size":"medium","column_align":"left","media_align":"text-center","image_ratio":"1","color_scheme":"1","button_style":"btn btn--secondary"}},"rich_text_pEkKpf":{"type":"rich-text","blocks":{"subheading_VeBeQi":{"type":"subheading","disabled":true,"settings":{"text":"Subheading"}},"heading_NN338C":{"type":"heading","settings":{"heading":"Unsere Vertriebskanäle","heading_size":"h2","heading_h1":false}},"text_wkGhHf":{"type":"text","settings":{"text":"<p>Gusti Leder Produkte sind in allen wichtigen Online- und Offline-Kanälen erhältlich. Unsere E-Commerce-Plattformen bieten unsere Produktpalette direkt unseren Endkunden in europäischen Ländern, Großbritannien, den USA und vielen anderen Ländern weltweit an.<\/p><p>Du kannst auch in unseren Geschäften in Deutschland, Österreich und den Niederlanden vorbeischauen, um unser Sortiment an Lederprodukten zu entdecken. Neben dem Einkaufen kannst du die DIY-Ecke besuchen und kreative DIY-Projekte mit Lederteilen erstellen. Hier kannst du wunderschöne handgemachte Artikel wie Schlüsselanhänger oder kleine Taschen nach deinen persönlichen Wünschen gestalten<\/p>","enlarge_text":false}},"button_bRG47N":{"type":"button","disabled":true,"settings":{"button_1_label":"Optional button","button_1_link":"","button_1_style":"btn--primary","button_2_label":"Optional button","button_2_link":"","button_2_style":"btn btn--primary"}}},"block_order":["subheading_VeBeQi","heading_NN338C","text_wkGhHf","button_bRG47N"],"settings":{"text_position":"justify-center","text_align":"text-center","mob_center_text":true,"wide":false,"color_scheme":"none","full_width":true,"prevent_animation":false}},"media_grid_G7WhBk":{"type":"media-grid","blocks":{"media_wcE7rr":{"type":"media","disabled":true,"settings":{"link_url":"","columns":2,"rows":2,"subheading":"","title":"<p>Media heading<\/p>","heading_size":"h4","button_label":"","button_link":"","overlay_position":"justify-start items-end","text_alignment":"text-start","button_style":"btn btn--primary","tint_color":"#000000","tint_opacity":25}},"media_FHLJiG":{"type":"media","settings":{"image":"shopify:\/\/shop_images\/About_us_3.jpg","link_url":"","columns":1,"rows":1,"subheading":"","title":"<p><strong>Christian Pietsch, CEO Gusti Leder<\/strong><\/p>","heading_size":"h4","button_label":"","button_link":"","overlay_position":"justify-start items-end","text_alignment":"text-center","button_style":"btn btn--primary","tint_color":"#000000","tint_opacity":25}},"media_F93Taj":{"type":"media","disabled":true,"settings":{"link_url":"","columns":1,"rows":1,"subheading":"","title":"<p>Media heading<\/p>","heading_size":"h4","button_label":"","button_link":"","overlay_position":"justify-start items-end","text_alignment":"text-start","button_style":"btn btn--primary","tint_color":"#000000","tint_opacity":25}},"media_HzGH3f":{"type":"media","disabled":true,"settings":{"link_url":"","columns":2,"rows":1,"subheading":"","title":"<p>Media heading<\/p>","heading_size":"h4","button_label":"","button_link":"","overlay_position":"justify-start items-end","text_alignment":"text-start","button_style":"btn btn--primary","tint_color":"#000000","tint_opacity":25}}},"block_order":["media_wcE7rr","media_FHLJiG","media_F93Taj","media_HzGH3f"],"settings":{"title":"","heading_align":"text-start","button_label":"","button_link":"","gallery_cols_max":4,"mobile_carousel":false,"gallery_cols_min":"1","fixed_height_desktop":180,"fixed_height_mobile":300,"section_color_scheme":"none","color_scheme":"white","transparent_content_color":"#ffffff"}},"faq_abLMbT":{"type":"faq","blocks":{"category_ymgyzy":{"type":"category","disabled":true,"settings":{"text":"Shipping"}},"question_QDKJgp":{"type":"question","settings":{"icon":"none","heading":"Du hast Gusti Leder vor etwa 14 Jahren gegründet. Worauf bist du besonders stolz?","text":"<p>Ich bin stolz auf das Team, weil es geschafft hat, sich mit vielen verschiedenen Themen auseinanderzusetzen und unsere Produkte zu verbessern. Und ja! Das ist besonders wichtig für unsere Kunden.<\/p>"}},"question_VKMVrE":{"type":"question","settings":{"icon":"none","heading":"Du besuchst Indien sehr oft. Warum machst du das?","text":"<p>Weil es wichtig ist, sich selbst ein Bild von der Situation zu machen, sowohl bei unseren Herstellern als auch bei unserem Team, um sich persönlich zu treffen.<\/p>"}},"category_wAwT9x":{"type":"category","disabled":true,"settings":{"text":"Returns and Refunds"}},"question_t3gqqy":{"type":"question","settings":{"icon":"none","heading":"Also, deine Hersteller sind in Indien?","text":"<p>Ja, in Indien, genauso wie auch in Italien, und ganz neu haben wir einige Produzenten in Pakistan.<\/p>"}},"question_UHAnDB":{"type":"question","settings":{"icon":"none","heading":"Wie wichtig ist dir Nachhaltigkeit bei Gusti?","text":"<p>Nachhaltigkeit ist mir sehr wichtig. Aber es ist ein großes Wort. Ich denke, man sollte es in kleine Handlungen zerlegen. Also, was genau habe ich diesen Monat, dieses Quartal, dieses Jahr getan, um unser Unternehmen nachhaltiger zu machen? Es geht nicht nur darum, ob man nachhaltig gelabelt wird oder nicht. Es geht mehr darum, was man in diesem Quartal getan hat, um es nachhaltiger zu machen.<\/p>"}}},"block_order":["category_ymgyzy","question_QDKJgp","question_VKMVrE","category_wAwT9x","question_t3gqqy","question_UHAnDB"],"settings":{"heading":"","heading_align":"text-center","color_scheme":"1","full_width":true}},"faq_ptrpcB":{"type":"faq","blocks":{"category_NahT43":{"type":"category","disabled":true,"settings":{"text":"Shipping"}},"question_Gpym68":{"type":"question","settings":{"icon":"none","heading":"Was ist deine Position zur Nachhaltigkeit und was hast du bisher bei Gusti umgesetzt?","text":"<p>Ich denke, Nachhaltigkeit ist ein großes Thema. Zum Beispiel finde ich, dass wir keinen Nachhaltigkeitsmanager haben sollten. Stattdessen sollte jeder Teamleiter darüber nachdenken, was er tun kann, um die Nachhaltigkeit zu verbessern. In jedem Bereich arbeiten wir gleichzeitig an vielen verschiedenen Dingen.<\/p>"}},"question_LqxCTp":{"type":"question","settings":{"icon":"none","heading":"Kannst du mindestens eine Sache nennen?","text":"<p>Ich würde sagen, 60-70% unseres Umsatzes stammen derzeit von Artikeln, die mit Chrom gegerbt sind. Das schadet der<a href=\"https:\/\/www.gusti-leder.at\/lexikon\/umweltschutz-und-gerbverfahren\/\">Umwelt<\/a>, und deshalb ist unser Ziel für Gusti, zukünftig chromfreies Leder zu haben. Obwohl wir bereits 40%<a href=\"https:\/\/www.gusti-leder.at\/lexikon\/vegetabile-gerbung\/\">vegetabil<\/a>gegerbtes Leder haben, wollen wir 2024 komplett chromfrei sein.<\/p>"}},"category_iexFUd":{"type":"category","disabled":true,"settings":{"text":"Returns and Refunds"}},"question_QeWjiB":{"type":"question","settings":{"icon":"none","heading":"Was sind deine kurzfristigen Ziele für dieses Jahr?","text":"<p>Aktuell arbeiten wir auch an vielen kleinen Projekten. Zum Beispiel haben wir den Plastikanteil in unseren Artikeln reduziert und Plastiktüten komplett abgeschafft. Anstelle davon werden sie nun als Papiertüten verschickt. Aber dann haben wir erfahren, dass sogar Papier nicht nachhaltig ist. Also ist es am besten, sie als reines Leder ohne Verpackung zu erhalten. Jetzt versuchen wir, das mit unseren Vertriebskanälen abzustimmen.<\/p>"}},"question_g4nDYR":{"type":"question","settings":{"icon":"none","heading":"Was möchtest du in den nächsten Jahren erreichen?","text":"<p>Ich möchte Gusti weniger abhängig vom Online-Marketing machen. Für uns, für mich, ist es sehr nachhaltigkeitsunfreundlich, Google oder Facebook für Werbung zu bezahlen, obwohl wir es im Moment tun müssen. Also möchte ich mehr im Stadtzentrum präsent sein.<\/p>"}}},"block_order":["category_NahT43","question_Gpym68","question_LqxCTp","category_iexFUd","question_QeWjiB","question_g4nDYR"],"settings":{"heading":"","heading_align":"text-center","color_scheme":"1","full_width":true}},"faq_L9eYxG":{"type":"faq","blocks":{"category_AtrDbE":{"type":"category","disabled":true,"settings":{"text":"Shipping"}},"question_DPxUa7":{"type":"question","settings":{"icon":"none","heading":"Schlachtet ihr speziell Tiere für euer Leder, oder handelt es sich um Materialien, die bereits auf dem Markt verwendet werden? Und habt ihr diese Rohstoffe?","text":"<p>Für unser Leder wurde kein Tier getötet. Nicht extra für unser Leder. Das sieht man an unseren Preisen. Wenn ein Unternehmen beispielsweise eine Handtasche aus Krokodilleder verkauft, kosten solche Taschen 500-600 Euro, weil das Tier wegen seiner Haut getötet wurde. Wir hingegen nutzen die Abfälle der Fleischindustrie. Wenn wir diese Abfälle erhalten, ermöglicht es uns, erschwingliche und nachhaltige Artikel anzubieten, da Leder als Nebenprodukt der Fleischindustrie als nachhaltig betrachtet werden kann.<\/p>"}},"question_Bt9WiA":{"type":"question","settings":{"icon":"none","heading":"Was wurde bisher bei Gusti erreicht?","text":"<p>Ich würde sagen, das Größte, was wir erreicht haben, ist die Spezialisierung auf eine Nische. Wir haben wirklich mit Modeartikeln wie Rucksäcken angefangen und unsere Nische gefunden. Und darauf bin ich wirklich stolz, dass wir uns so intensiv auf Fahrradprodukte eingelassen haben, was ich glaube, ich nie offiziell gesagt habe. Aber vor drei Jahren hatte ich eine ziemlich schwierige Zeit und habe Motivation in Fahrrädern gefunden. Jetzt mit unseren Fahrradartikeln erfolgreich zu sein, ist wirklich, ja, wenn du mich fragst, einer unserer großen Erfolge.<\/p>"}},"category_4LaTTb":{"type":"category","disabled":true,"settings":{"text":"Returns and Refunds"}},"question_yJEixa":{"type":"question","settings":{"icon":"none","heading":"Was liebst du am meisten an Gusti Leder im Allgemeinen?","text":"<p>Ich denke, es gibt nicht nur ein Gusti Leder. Es hat verschiedene Facetten. Wir haben alle unsere Geschäfte, in denen unsere Geschäftsleiter und Teammitglieder jeden Tag arbeiten und ihr Bestes geben, um zu verbessern, zu basteln und zu verkaufen. Dann gibt es andere Teile des Unternehmens, zum Beispiel auf der Logistik Seite, wo es darum geht, Prozesse zu verbessern, damit wir unsere Artikel schneller versenden können. Wir versuchen unsere E-Mails schneller zu beantworten und in einem anderen Bereich so viele Artikel wie möglich zu reparieren. <\/p><p><strong>Unsere Geschichte<\/strong><\/p><p><strong>Unsere Werte<\/strong><\/p><p><strong>Organisation<\/strong><\/p><p>Ethisches Verhalten am Arbeitsplatz aufrechterhalten, pünktlich sein und unsere Verpflichtungen rechtzeitig erfüllen<\/p><p><strong>Kommunikation<\/strong><\/p><p>Team Kollaboration und Zusammenarbeit durch klare Kommunikation<\/p><p> <strong>Zuverlässigkeit<\/strong><\/p><p>Integrität in unserem beruflichen Verhalten zeigen<\/p><p><strong>Verbesserung<\/strong><\/p><p>Berufliches Wachstum der Mitarbeiter durch Wissensaustausch und Zusammenarbeit am Arbeitsplatz fördern<\/p><p><strong>Christian Pietsch, CEO Gusti Leder<\/strong><\/p>"}},"question_KenfhL":{"type":"question","disabled":true,"settings":{"icon":"none","heading":"Was möchtest du in den nächsten Jahren erreichen?","text":"<p>Ich möchte Gusti weniger abhängig vom Online-Marketing machen. Für uns, für mich, ist es sehr nachhaltigkeitsunfreundlich, Google oder Facebook für Werbung zu bezahlen, obwohl wir es im Moment tun müssen. Also möchte ich mehr im Stadtzentrum präsent sein.<\/p>"}}},"block_order":["category_AtrDbE","question_DPxUa7","question_Bt9WiA","category_4LaTTb","question_yJEixa","question_KenfhL"],"settings":{"heading":"","heading_align":"text-center","color_scheme":"1","full_width":true}}},"order":["main","image_banner_h7bfNH","featured_collection_fw9w9V","media_with_text_e7cyLP","multi_column_wCkxny","rich_text_E8LzUM","slideshow_kYyn3T","multi_column_kaGyKe","media_with_text_bRiVJW","multi_column_bpNWfB","rich_text_pEkKpf","media_grid_G7WhBk","faq_abLMbT","faq_ptrpcB","faq_L9eYxG"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_page_title": true,
+        "heading_align": "text-center"
+      }
+    },
+    "image_banner_h7bfNH": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_tkepFK": {
+          "type": "heading",
+          "settings": {
+            "heading": "Unsere Geschichte",
+            "heading_size": "h1",
+            "heading_h1": false
+          }
+        },
+        "text_i4fTGy": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "enlarge_text": true
+          }
+        },
+        "button_446Ntx": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_tkepFK",
+        "text_i4fTGy",
+        "button_446Ntx"
+      ],
+      "settings": {
+        "image_desktop": "shopify://shop_images/about_us_DE.jpg",
+        "url": "",
+        "height_mode": "auto",
+        "fixed_height_desktop": 600,
+        "fixed_height_mobile": 350,
+        "overlay_position": "justify-center items-center",
+        "overlay_text_align": "text-center",
+        "mob_center_text": false,
+        "mobile_stacked": false,
+        "color_scheme": "white",
+        "full_width": true,
+        "transparent_content_color": "#ffffff",
+        "tint_color": "#000000",
+        "tint_opacity": 25,
+        "prevent_animation": false
+      }
+    },
+    "featured_collection_fw9w9V": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "Unsere Bestseller",
+        "heading_align": "text-start",
+        "show_view_all": true,
+        "collection": "bestseller",
+        "layout": "carousel",
+        "card_size_mobile": "small",
+        "card_size": "small",
+        "products_to_show": 8,
+        "show_highlight_products": true,
+        "show_promo_info": false,
+        "image_ratio": "fill",
+        "promo_title": "A headline to grab attention",
+        "content": "<p>Use this card with an image to highlight your collections or introduce a promotion.</p>",
+        "link_url": "",
+        "button_label": "Button",
+        "color_scheme": "2",
+        "button_style": "btn btn--primary"
+      }
+    },
+    "media_with_text_e7cyLP": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_iK9WPc": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Media with text",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "text_3ChzrP": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Gusti Leder wurde 2009 von Christian Pietsch gegründet, der heute als CEO des Unternehmens tätig ist. Mit Sitz in Deutschland ist Gusti Leder zu einer weltweit vertrauenswürdigen Marke geworden und bietet in der gesamten Produktpalette langlebige Qualität und innovative Designs.</p><p>Alles Große beginnt ganz klein. Ähnlich war es auch bei uns, als Christian Pietsch als Student eine Reise nach Indien unternahm. Die Inspiration von den örtlichen Leder Herstellern weckte in ihm die Idee von Gusti Leder.</p><p>Unsere ersten Produkte waren verschiedene Leder Taschen und Rucksäcke. Doch später haben wir uns intensiv mit Fahrrad Produkten beschäftigt, die sich bis heute als einer der großen Erfolge von Gusti erwiesen haben.</p><p>Seit unserer Gründung haben wir uns zu einem weltweiten Marktführer entwickelt. Gusti Leder steht für eine enge Zusammenarbeit mit Produzenten und eine persönliche Kundenbetreuung.</p><p>Indem wir das Zeitgenössische mit Vintage vereinen, entwerfen wir bei Gusti Leder Lederprodukte, die nie aus der Mode kommen. Wir sind Marktführer für eine Vielzahl von Artikeln aus unserem breiten Sortiment an Taschen, Rucksäcke, Geldbörsen, Armbändern, <a href=\"https://www.gusti-leder.at/lexikon/bikepacking/\">Fahrradtaschen</a> und Schreibwaren. Jedes Produkt von Gusti Leder besticht durch exquisite Gestaltung, elegante Farben, erstklassige Qualität und hohe Funktionalität.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_8FAELG": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Optional button",
+            "button_link": "",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_iK9WPc",
+        "text_3ChzrP",
+        "button_8FAELG"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/About_us_DE___AT___CH.jpg",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "right",
+        "image_fit": "contain",
+        "media_width": 50,
+        "media_scale": 100,
+        "text_align": "text-start",
+        "color_scheme": "none",
+        "only_content_color_scheme": false
+      }
+    },
+    "multi_column_wCkxny": {
+      "type": "multi-column",
+      "blocks": {
+        "column_t9ifqK": {
+          "type": "column",
+          "settings": {
+            "enable_media": false,
+            "media_scale": 100,
+            "heading": "Unsere Mission",
+            "text": "<p><em>Kreiere faszinierende und innovative Lederprodukte, die dich gestylt aussehen lassen und dich stets im Trend halten.\"</em></p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_yq99Ga": {
+          "type": "column",
+          "settings": {
+            "enable_media": false,
+            "media_scale": 100,
+            "heading": "Unsere Vision",
+            "text": "<p><em>\"Wir streben danach, eine hochproduktive und effektive Organisation zu werden, indem wir Fairness und Transparenz am Arbeitsplatz fördern.\"</em></p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_yaqUNw": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "enable_media": true,
+            "media_scale": 100,
+            "heading": "Column",
+            "text": "<p>Pair text with an image to focus on a product, collection or blog post. Add details on availability, style, or even provide a review.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_RWdfkw": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "enable_media": true,
+            "media_scale": 100,
+            "heading": "Column",
+            "text": "<p>Pair text with an image to focus on a product, collection or blog post. Add details on availability, style, or even provide a review.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_t9ifqK",
+        "column_yq99Ga",
+        "column_yaqUNw",
+        "column_RWdfkw"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "layout": "grid",
+        "column_size": "medium",
+        "column_align": "left",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "rich_text_E8LzUM": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_re9D7F": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_EF7Lj4": {
+          "type": "heading",
+          "settings": {
+            "heading": "Unsere Ziele",
+            "heading_size": "h2",
+            "heading_h1": false
+          }
+        },
+        "text_frPCQi": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Ein bedeutender Teil unseres Umsatzes stammt derzeit aus Produkten, die mithilfe von Chrom gegerbt wurden. Wir sind uns jedoch bewusst, dass diese Art der Gerbung negative Auswirkungen auf die Umwelt haben kann. Daher haben wir uns das Ziel gesetzt, zukünftig vermehrt Leder zu beziehen, das auf natürliche Weise und umweltfreundlich gegerbt wurde. Uns ist wichtig, unseren Beitrag zu einer nachhaltigeren Zukunft zu leisten und verstärkt auf pflanzlich gegerbtes Leder zu setzen, das ressourcenschonender und besser für die Umwelt ist. <br/><br/>Unser zweites bedeutendes Ziel ist es, unsere Abhängigkeit von herkömmlichen Online-Marketingstrategien zu reduzieren und vermehrt auf alternative Wege der Kundenansprache zu setzen. Stattdessen streben wir an, in verschiedenen Innenstädten präsenter zu sein. Eine großartige Möglichkeit, unsere Präsenz an verschiedenen Standorten zu stärken, besteht darin, Pop-up-Stores zu eröffnen. Diese temporären Geschäfte ermöglichen es uns, das Bewusstsein für unsere Marke zu steigern und immer mehr Kunden zu erreichen, die Leder lieben und zu ihren verlässlichen Begleitern machen. Indem wir uns vermehrt in den Innenstädten etablieren, möchten wir einzigartige Einkaufserlebnisse schaffen und unsere Philosophie des nachhaltigen Leders weit verbreiten.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_jGrFVB": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_re9D7F",
+        "heading_EF7Lj4",
+        "text_frPCQi",
+        "button_jGrFVB"
+      ],
+      "settings": {
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "wide": false,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "slideshow_kYyn3T": {
+      "type": "slideshow",
+      "settings": {
+        "height_mode": "auto",
+        "fixed_height_desktop": 600,
+        "fixed_height_mobile": 350,
+        "mobile_stacked": false,
+        "nav_style": "slideshow_nav_lines",
+        "pagination_color": "#ffffff",
+        "nav_position": "justify-center",
+        "transition": "slide-fade",
+        "autoplay": true,
+        "slider_pause": false,
+        "autoplay_speed": 5,
+        "color_scheme": "white",
+        "full_width": true,
+        "tint_color": "#000000",
+        "tint_opacity": 40,
+        "accessibility_info": "",
+        "prevent_animation": true
+      }
+    },
+    "multi_column_kaGyKe": {
+      "type": "multi-column",
+      "blocks": {
+        "column_PRzqjA": {
+          "type": "column",
+          "settings": {
+            "enable_media": false,
+            "media_scale": 100,
+            "heading": "Anpassungsfähigkeit",
+            "text": "<p>An Veränderungen anpassen und schnell darauf reagieren</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_RchTUD": {
+          "type": "column",
+          "settings": {
+            "enable_media": false,
+            "media_scale": 100,
+            "heading": "Organisation",
+            "text": "<p>Ethisches Verhalten am Arbeitsplatz aufrechterhalten, pünktlich sein und unsere Verpflichtungen rechtzeitig erfüllen</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_yzp4wz": {
+          "type": "column",
+          "settings": {
+            "enable_media": false,
+            "media_scale": 100,
+            "heading": "Kommunikation",
+            "text": "<p>Team Kollaboration und Zusammenarbeit durch klare Kommunikation</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_H9xnFT": {
+          "type": "column",
+          "settings": {
+            "enable_media": false,
+            "media_scale": 100,
+            "heading": "Zuverlässigkeit",
+            "text": "<p>Integrität in unserem beruflichen Verhalten zeigen</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_TdLaz7": {
+          "type": "column",
+          "settings": {
+            "enable_media": false,
+            "media_scale": 100,
+            "heading": "Verbesserung",
+            "text": "<p>Berufliches Wachstum der Mitarbeiter durch Wissensaustausch und Zusammenarbeit am Arbeitsplatz fördern</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_PRzqjA",
+        "column_RchTUD",
+        "column_yzp4wz",
+        "column_H9xnFT",
+        "column_TdLaz7"
+      ],
+      "settings": {
+        "title": "Unsere Werte",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "layout": "grid",
+        "column_size": "medium",
+        "column_align": "left",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "media_with_text_bRiVJW": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_yDxwBe": {
+          "type": "heading",
+          "settings": {
+            "heading": "Philosophie in der Praxis",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "text_kGDAqF": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Gusti Leder legt großen Wert auf transparente Produktion und die nachhaltige Verwendung von Materialien, die im Einklang mit Mensch und Natur stehen.<br/><br/>Leder - Das von uns verwendete Leder stammt ausschließlich von Tieren, die hauptsächlich für die Fleischproduktion und Zucht gehalten werden. Die Häute der Tiere sind Nebenprodukte, die bei Gusti zu hochwertigen Lederartikeln verarbeitet werden.<br/><br/>Transparenz - Wir setzen uns entschieden für Nachhaltigkeit, Ökologie, Tierschutz und Menschenrechte ein.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_jPyzmQ": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Optional button",
+            "button_link": "",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_yDxwBe",
+        "text_kGDAqF",
+        "button_jPyzmQ"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/transparent_production_4.jpg",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "left",
+        "image_fit": "contain",
+        "media_width": 50,
+        "media_scale": 100,
+        "text_align": "text-start",
+        "color_scheme": "none",
+        "only_content_color_scheme": false
+      }
+    },
+    "multi_column_bpNWfB": {
+      "type": "multi-column",
+      "blocks": {
+        "column_EtDWjF": {
+          "type": "column",
+          "settings": {
+            "enable_media": false,
+            "media_scale": 100,
+            "heading": "Gusti Leder Nature",
+            "text": "<p>Unsere erste Marke war Gusti Leder Nature. Unsere Kollektion von Taschen in dieser Kategorie besteht hauptsächlich aus pflanzlich gegerbtem Ziegenleder.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_34hmMP": {
+          "type": "column",
+          "settings": {
+            "enable_media": false,
+            "media_scale": 100,
+            "heading": "Gusti Leder Studio",
+            "text": "<p>Die zweite Produktlinie des Unternehmens ist Gusti Leder Studio. Die einzigartigen Produkte bestehen hauptsächlich aus Büffel- und Rindsleder und werden mit dem Chromgerbungsverfahren gegerbt.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_QQaR8W": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "enable_media": true,
+            "media_scale": 100,
+            "heading": "Column",
+            "text": "<p>Pair text with an image to focus on a product, collection or blog post. Add details on availability, style, or even provide a review.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_EtDWjF",
+        "column_34hmMP",
+        "column_QQaR8W"
+      ],
+      "settings": {
+        "title": "Entdecke unsere Produktlinien",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "layout": "grid",
+        "column_size": "medium",
+        "column_align": "left",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "rich_text_pEkKpf": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_VeBeQi": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_NN338C": {
+          "type": "heading",
+          "settings": {
+            "heading": "Unsere Vertriebskanäle",
+            "heading_size": "h2",
+            "heading_h1": false
+          }
+        },
+        "text_wkGhHf": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Gusti Leder Produkte sind in allen wichtigen Online- und Offline-Kanälen erhältlich. Unsere E-Commerce-Plattformen bieten unsere Produktpalette direkt unseren Endkunden in europäischen Ländern, Großbritannien, den USA und vielen anderen Ländern weltweit an.</p><p>Du kannst auch in unseren Geschäften in Deutschland, Österreich und den Niederlanden vorbeischauen, um unser Sortiment an Lederprodukten zu entdecken. Neben dem Einkaufen kannst du die DIY-Ecke besuchen und kreative DIY-Projekte mit Lederteilen erstellen. Hier kannst du wunderschöne handgemachte Artikel wie Schlüsselanhänger oder kleine Taschen nach deinen persönlichen Wünschen gestalten</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_bRG47N": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_VeBeQi",
+        "heading_NN338C",
+        "text_wkGhHf",
+        "button_bRG47N"
+      ],
+      "settings": {
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "wide": false,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "media_grid_G7WhBk": {
+      "type": "media-grid",
+      "blocks": {
+        "media_FHLJiG": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/About_us_3.jpg",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p><strong>Christian Pietsch,<br/>CEO Gusti Leder</strong></p>",
+            "heading_size": "h6",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-center",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        }
+      },
+      "block_order": [
+        "media_FHLJiG"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "gallery_cols_max": 4,
+        "mobile_carousel": false,
+        "gallery_cols_min": "1",
+        "fixed_height_desktop": 180,
+        "fixed_height_mobile": 300,
+        "section_color_scheme": "none",
+        "color_scheme": "white",
+        "transparent_content_color": "#ffffff"
+      }
+    },
+    "faq_abLMbT": {
+      "type": "faq",
+      "blocks": {
+        "category_ymgyzy": {
+          "type": "category",
+          "disabled": true,
+          "settings": {
+            "text": "Shipping"
+          }
+        },
+        "question_QDKJgp": {
+          "type": "question",
+          "settings": {
+            "icon": "none",
+            "heading": "Du hast Gusti Leder vor etwa 14 Jahren gegründet. Worauf bist du besonders stolz?",
+            "text": "<p>Ich bin stolz auf das Team, weil es geschafft hat, sich mit vielen verschiedenen Themen auseinanderzusetzen und unsere Produkte zu verbessern. Und ja! Das ist besonders wichtig für unsere Kunden.</p>"
+          }
+        },
+        "question_VKMVrE": {
+          "type": "question",
+          "settings": {
+            "icon": "none",
+            "heading": "Du besuchst Indien sehr oft. Warum machst du das?",
+            "text": "<p>Weil es wichtig ist, sich selbst ein Bild von der Situation zu machen, sowohl bei unseren Herstellern als auch bei unserem Team, um sich persönlich zu treffen.</p>"
+          }
+        },
+        "category_wAwT9x": {
+          "type": "category",
+          "disabled": true,
+          "settings": {
+            "text": "Returns and Refunds"
+          }
+        },
+        "question_t3gqqy": {
+          "type": "question",
+          "settings": {
+            "icon": "none",
+            "heading": "Also, deine Hersteller sind in Indien?",
+            "text": "<p>Ja, in Indien, genauso wie auch in Italien, und ganz neu haben wir einige Produzenten in Pakistan.</p>"
+          }
+        },
+        "question_UHAnDB": {
+          "type": "question",
+          "settings": {
+            "icon": "none",
+            "heading": "Wie wichtig ist dir Nachhaltigkeit bei Gusti?",
+            "text": "<p>Nachhaltigkeit ist mir sehr wichtig. Aber es ist ein großes Wort. Ich denke, man sollte es in kleine Handlungen zerlegen. Also, was genau habe ich diesen Monat, dieses Quartal, dieses Jahr getan, um unser Unternehmen nachhaltiger zu machen? Es geht nicht nur darum, ob man nachhaltig gelabelt wird oder nicht. Es geht mehr darum, was man in diesem Quartal getan hat, um es nachhaltiger zu machen.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "category_ymgyzy",
+        "question_QDKJgp",
+        "question_VKMVrE",
+        "category_wAwT9x",
+        "question_t3gqqy",
+        "question_UHAnDB"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_align": "text-center",
+        "color_scheme": "1",
+        "full_width": true
+      }
+    },
+    "faq_ptrpcB": {
+      "type": "faq",
+      "blocks": {
+        "category_NahT43": {
+          "type": "category",
+          "disabled": true,
+          "settings": {
+            "text": "Shipping"
+          }
+        },
+        "question_Gpym68": {
+          "type": "question",
+          "settings": {
+            "icon": "none",
+            "heading": "Was ist deine Position zur Nachhaltigkeit und was hast du bisher bei Gusti umgesetzt?",
+            "text": "<p>Ich denke, Nachhaltigkeit ist ein großes Thema. Zum Beispiel finde ich, dass wir keinen Nachhaltigkeitsmanager haben sollten. Stattdessen sollte jeder Teamleiter darüber nachdenken, was er tun kann, um die Nachhaltigkeit zu verbessern. In jedem Bereich arbeiten wir gleichzeitig an vielen verschiedenen Dingen.</p>"
+          }
+        },
+        "question_LqxCTp": {
+          "type": "question",
+          "settings": {
+            "icon": "none",
+            "heading": "Kannst du mindestens eine Sache nennen?",
+            "text": "<p>Ich würde sagen, 60-70% unseres Umsatzes stammen derzeit von Artikeln, die mit Chrom gegerbt sind. Das schadet der<a href=\"https://www.gusti-leder.at/lexikon/umweltschutz-und-gerbverfahren/\">Umwelt</a>, und deshalb ist unser Ziel für Gusti, zukünftig chromfreies Leder zu haben. Obwohl wir bereits 40%<a href=\"https://www.gusti-leder.at/lexikon/vegetabile-gerbung/\">vegetabil</a>gegerbtes Leder haben, wollen wir 2024 komplett chromfrei sein.</p>"
+          }
+        },
+        "category_iexFUd": {
+          "type": "category",
+          "disabled": true,
+          "settings": {
+            "text": "Returns and Refunds"
+          }
+        },
+        "question_QeWjiB": {
+          "type": "question",
+          "settings": {
+            "icon": "none",
+            "heading": "Was sind deine kurzfristigen Ziele für dieses Jahr?",
+            "text": "<p>Aktuell arbeiten wir auch an vielen kleinen Projekten. Zum Beispiel haben wir den Plastikanteil in unseren Artikeln reduziert und Plastiktüten komplett abgeschafft. Anstelle davon werden sie nun als Papiertüten verschickt. Aber dann haben wir erfahren, dass sogar Papier nicht nachhaltig ist. Also ist es am besten, sie als reines Leder ohne Verpackung zu erhalten. Jetzt versuchen wir, das mit unseren Vertriebskanälen abzustimmen.</p>"
+          }
+        },
+        "question_g4nDYR": {
+          "type": "question",
+          "settings": {
+            "icon": "none",
+            "heading": "Was möchtest du in den nächsten Jahren erreichen?",
+            "text": "<p>Ich möchte Gusti weniger abhängig vom Online-Marketing machen. Für uns, für mich, ist es sehr nachhaltigkeitsunfreundlich, Google oder Facebook für Werbung zu bezahlen, obwohl wir es im Moment tun müssen. Also möchte ich mehr im Stadtzentrum präsent sein.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "category_NahT43",
+        "question_Gpym68",
+        "question_LqxCTp",
+        "category_iexFUd",
+        "question_QeWjiB",
+        "question_g4nDYR"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_align": "text-center",
+        "color_scheme": "1",
+        "full_width": true
+      }
+    },
+    "faq_L9eYxG": {
+      "type": "faq",
+      "blocks": {
+        "category_AtrDbE": {
+          "type": "category",
+          "disabled": true,
+          "settings": {
+            "text": "Shipping"
+          }
+        },
+        "question_DPxUa7": {
+          "type": "question",
+          "settings": {
+            "icon": "none",
+            "heading": "Schlachtet ihr speziell Tiere für euer Leder, oder handelt es sich um Materialien, die bereits auf dem Markt verwendet werden? Und habt ihr diese Rohstoffe?",
+            "text": "<p>Für unser Leder wurde kein Tier getötet. Nicht extra für unser Leder. Das sieht man an unseren Preisen. Wenn ein Unternehmen beispielsweise eine Handtasche aus Krokodilleder verkauft, kosten solche Taschen 500-600 Euro, weil das Tier wegen seiner Haut getötet wurde. Wir hingegen nutzen die Abfälle der Fleischindustrie. Wenn wir diese Abfälle erhalten, ermöglicht es uns, erschwingliche und nachhaltige Artikel anzubieten, da Leder als Nebenprodukt der Fleischindustrie als nachhaltig betrachtet werden kann.</p>"
+          }
+        },
+        "question_Bt9WiA": {
+          "type": "question",
+          "settings": {
+            "icon": "none",
+            "heading": "Was wurde bisher bei Gusti erreicht?",
+            "text": "<p>Ich würde sagen, das Größte, was wir erreicht haben, ist die Spezialisierung auf eine Nische. Wir haben wirklich mit Modeartikeln wie Rucksäcken angefangen und unsere Nische gefunden. Und darauf bin ich wirklich stolz, dass wir uns so intensiv auf Fahrradprodukte eingelassen haben, was ich glaube, ich nie offiziell gesagt habe. Aber vor drei Jahren hatte ich eine ziemlich schwierige Zeit und habe Motivation in Fahrrädern gefunden. Jetzt mit unseren Fahrradartikeln erfolgreich zu sein, ist wirklich, ja, wenn du mich fragst, einer unserer großen Erfolge.</p>"
+          }
+        },
+        "category_4LaTTb": {
+          "type": "category",
+          "disabled": true,
+          "settings": {
+            "text": "Returns and Refunds"
+          }
+        },
+        "question_yJEixa": {
+          "type": "question",
+          "settings": {
+            "icon": "none",
+            "heading": "Was liebst du am meisten an Gusti Leder im Allgemeinen?",
+            "text": "<p>Ich denke, es gibt nicht nur ein Gusti Leder. Es hat verschiedene Facetten. Wir haben alle unsere Geschäfte, in denen unsere Geschäftsleiter und Teammitglieder jeden Tag arbeiten und ihr Bestes geben, um zu verbessern, zu basteln und zu verkaufen. Dann gibt es andere Teile des Unternehmens, zum Beispiel auf der Logistik Seite, wo es darum geht, Prozesse zu verbessern, damit wir unsere Artikel schneller versenden können. Wir versuchen unsere E-Mails schneller zu beantworten und in einem anderen Bereich so viele Artikel wie möglich zu reparieren. </p><p><strong>Unsere Geschichte</strong></p><p><strong>Unsere Werte</strong></p><p><strong>Organisation</strong></p><p>Ethisches Verhalten am Arbeitsplatz aufrechterhalten, pünktlich sein und unsere Verpflichtungen rechtzeitig erfüllen</p><p><strong>Kommunikation</strong></p><p>Team Kollaboration und Zusammenarbeit durch klare Kommunikation</p><p> <strong>Zuverlässigkeit</strong></p><p>Integrität in unserem beruflichen Verhalten zeigen</p><p><strong>Verbesserung</strong></p><p>Berufliches Wachstum der Mitarbeiter durch Wissensaustausch und Zusammenarbeit am Arbeitsplatz fördern</p><p><strong>Christian Pietsch, CEO Gusti Leder</strong></p>"
+          }
+        },
+        "question_KenfhL": {
+          "type": "question",
+          "disabled": true,
+          "settings": {
+            "icon": "none",
+            "heading": "Was möchtest du in den nächsten Jahren erreichen?",
+            "text": "<p>Ich möchte Gusti weniger abhängig vom Online-Marketing machen. Für uns, für mich, ist es sehr nachhaltigkeitsunfreundlich, Google oder Facebook für Werbung zu bezahlen, obwohl wir es im Moment tun müssen. Also möchte ich mehr im Stadtzentrum präsent sein.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "category_AtrDbE",
+        "question_DPxUa7",
+        "question_Bt9WiA",
+        "category_4LaTTb",
+        "question_yJEixa",
+        "question_KenfhL"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_align": "text-center",
+        "color_scheme": "1",
+        "full_width": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_banner_h7bfNH",
+    "featured_collection_fw9w9V",
+    "media_with_text_e7cyLP",
+    "multi_column_wCkxny",
+    "rich_text_E8LzUM",
+    "slideshow_kYyn3T",
+    "multi_column_kaGyKe",
+    "media_with_text_bRiVJW",
+    "multi_column_bpNWfB",
+    "rich_text_pEkKpf",
+    "media_grid_G7WhBk",
+    "faq_abLMbT",
+    "faq_ptrpcB",
+    "faq_L9eYxG"
+  ]
+}
