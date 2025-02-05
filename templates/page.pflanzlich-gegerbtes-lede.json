@@ -22,13 +22,14 @@
         "heading_tkepFK": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "Pflanzlich gegerbtes Leder",
             "heading_size": "h1",
             "heading_h1": false
           }
         },
         "text_i4fTGy": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
             "enlarge_text": true
@@ -36,6 +37,7 @@
         },
         "button_446Ntx": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_1_label": "Optional button",
             "button_1_link": "",
@@ -52,6 +54,7 @@
         "button_446Ntx"
       ],
       "settings": {
+        "image_desktop": "shopify://shop_images/veg_tanning_Shopify.jpg",
         "url": "",
         "height_mode": "auto",
         "fixed_height_desktop": 600,
@@ -66,6 +69,372 @@
         "tint_color": "#000000",
         "tint_opacity": 40,
         "prevent_animation": false
+      }
+    },
+    "rich_text_UbQJWH": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_AaERAQ": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_JDPF73": {
+          "type": "heading",
+          "settings": {
+            "heading": "Was ist pflanzlich gegerbtes Leder?",
+            "heading_size": "h2",
+            "heading_h1": false
+          }
+        },
+        "text_tbdJRY": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pflanzlich gegerbtes Leder ist Leder, das mit Gerbstoffen (Tanninen) gegerbt wurde, die aus natürlichen Verbindungen in Baumrinden stammen.<br/><br/>Die pflanzliche Gerbung wird seit Jahrhunderten verwendet und gilt als umweltfreundlich. Sie ist langsamer als andere Gerbverfahren, benötigt über 30 Tage, um die Häute in Leder umzuwandeln, erfordert jedoch keine Chemikalien.<br/><br/>Alle unsere Produkte bei Gusti Leder sind aus pflanzlich gegerbtem Leder gefertigt. Wir haben diesen Prozess gewählt, weil er weniger schädlich für die Umwelt ist, keinen toxischen Abfall produziert und starkes, langlebiges Leder erzeugt, während die natürliche Farbe des Leders verstärkt wird.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_adYJQD": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_AaERAQ",
+        "heading_JDPF73",
+        "text_tbdJRY",
+        "button_adYJQD"
+      ],
+      "settings": {
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "wide": false,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "media_with_text_QEURCB": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_MXDhzj": {
+          "type": "heading",
+          "settings": {
+            "heading": "Wie ist der Prozess der pflanzlichen Gerbung bei Gusti?",
+            "heading_size": "h5",
+            "heading_h1": false
+          }
+        },
+        "text_4PgJBE": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Bei Gusti verwenden wir pflanzlich gegerbtes Leder aus Gruben. Wir beziehen unser pflanzlich gegerbtes Leder hauptsächlich aus zwei Quellen:<br/><br/>- Unsere lokale Gerberei kauft Häute von lokalen Metzgern.<br/><br/>- Sie erhalten auch Lederreste, die während der Eid-Feierlichkeiten entstehen. <br/><br/>Das bedeutet, dass jedes Stück Leder lokal aus den umliegenden Bezirken bezogen wird.</p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_MXDhzj",
+        "text_4PgJBE"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/vegetable_tanned_51595d5b-aad7-4f1f-822a-57478cec7544.jpg",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "left",
+        "image_fit": "contain",
+        "media_width": 50,
+        "media_scale": 100,
+        "text_align": "text-start",
+        "color_scheme": "none",
+        "only_content_color_scheme": false
+      }
+    },
+    "multi_column_8aF7gE": {
+      "type": "multi-column",
+      "blocks": {
+        "column_9q7pLm": {
+          "type": "column",
+          "settings": {
+            "enable_media": false,
+            "media_scale": 100,
+            "heading": "",
+            "text": "<p><strong>1.</strong> Die rohen Häute werden gesalzen, um sie zu konservieren, und dann an die Gerbereien gesendet.</p><p><strong>2.</strong> Die Häute werden in Trommeln entsalzt, um das zur Konservierung verwendete Salz zu entfernen.</p><p><strong>3.</strong> Die Häute werden mit einer Lösung aus Kalk, Schwefelsulfat und Enzymen gewaschen, um während des Äscherungsprozesses jegliches Haar zu entfernen.</p><p><strong>4.</strong> Überschüssiges Fleisch wird von der nassen Haut mit einer Fleischschälmaschine entfernt.</p><p><strong>5.</strong> Die Häute sind nun bereit, den Beizprozess zu beginnen.</p><p><strong>6.</strong> Die Haut wird zurück in die Gerberei gebracht, wo die Gerber die Häute nass machen und in einer Grube schichten.</p><p><strong>7.</strong> Die Häute werden übereinander gelegt, wobei zwischen jeder Haut Baumrinde gestreut wird. Dann wird Wasser in die Grube gegeben.</p><p><strong>8.</strong> Die Baumrinde, auch bekannt als Tannin, setzt den Gerbstoff frei, der von der Haut aufgenommen wird. Bei Gusti verwenden wir Baumrinde vom Babul- und Aaval-Baum und verzichten auf den Einsatz von Chemikalien.</p><p><strong>9.</strong> Sobald der gesamte Gerbstoff freigesetzt wurde, werden die Häute in eine andere trockene Grube verlegt und der Prozess wird wiederholt.</p><p><strong>10.</strong> Der gesamte Prozess wird für 25 bis 35 Tage wiederholt und ist abgeschlossen, sobald die Haut gegerbt ist und zu ihrer ursprünglichen Form zurückgekehrt ist. Dieser Prozess ist als Grubengerbung von pflanzlich gegerbtem Leder bekannt.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_bTCjpF": {
+          "type": "column",
+          "settings": {
+            "enable_media": false,
+            "media_scale": 100,
+            "heading": "",
+            "text": "<p><strong>11.</strong> Das überschüssige Fett wird dann von Hand von der Haut entfernt.</p><p><strong>12.</strong> Rizinusöl wird auf die Haut aufgetragen und diese wird zum Trocknen aufgehängt.</p><p><strong>13.</strong> Nach dem Trocknen wird jegliche Steifigkeit mit einem Messer von der Haut entfernt.</p><p>Die Haut ist dann gebrauchsfertig.</p><p><strong>14.</strong> Die Haut wird noch einmal gewaschen, in der Sonne getrocknet und dann zu Taschen verarbeitet.</p><p>Dieser Prozess führt zu 100% pflanzlich gegerbtem Ziegenleder aus der Grube.</p><p>Bei der Herstellung unseres pflanzlich gegerbten Leders halten wir uns an folgende Normen:</p><p>      - Unsere Produkte von <strong>Gusti Leder Nature</strong> sind zu 100% pflanzlich gegerbt.</p><p>      - Unsere Produkte von <strong>Gusti Leder Studio</strong> enthalten weniger als 3000 mg Chrom pro Kilogramm Leder + einer der Gerbprozesse, die die Häute durchlaufen, muss eine pflanzliche Gerbung sein.</p><p>Dieser Prozess führt zu 100% pflanzlich gegerbtem Ziegenleder aus der Grube.</p><p>Bei der Herstellung unseres pflanzlich gegerbten Leders halten wir uns an folgende Normen:</p><p>      - Unsere Produkte von <strong>Gusti Leder Nature</strong> sind zu 100% pflanzlich gegerbt.</p><p>      - Unsere Produkte von <strong>Gusti Leder Studio</strong> enthalten weniger als 3000 mg Chrom pro Kilogramm Leder + einer der Gerbprozesse, die die Häute durchlaufen, muss eine pflanzliche Gerbung sein.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_6nb89G": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/vegetable_tanned.jpg",
+            "media_scale": 100,
+            "heading": "Column",
+            "text": "<p>Pair text with an image to focus on a product, collection or blog post. Add details on availability, style, or even provide a review.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_9q7pLm",
+        "column_bTCjpF",
+        "column_6nb89G"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "layout": "grid",
+        "column_size": "medium",
+        "column_align": "left",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "media_grid_fMF4JQ": {
+      "type": "media-grid",
+      "blocks": {
+        "media_edk37P": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Harvey_R27b.jpg",
+            "link_url": "shopify://products/reisetasche-bordtasche-weekender-r27b",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p><strong>Harvey</strong></p>",
+            "heading_size": "h5",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_QUKyN7": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Evelyn_K54b.jpg",
+            "link_url": "shopify://products/umhaengetasche-handtasche-vintage-k54b",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Evelyn</p>",
+            "heading_size": "h5",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_eBAiRX": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Therese_H14.jpg",
+            "link_url": "shopify://products/henkeltasche-aus-leder-shopper-reissverschluss-h14",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Evelyn</p>",
+            "heading_size": "h5",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 40
+          }
+        },
+        "media_phqhVP": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Christofer_L8.jpg",
+            "link_url": "shopify://products/laptoptasche-13-macbook-pro-notebooktasche-vintage-l8",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Christofer</p>",
+            "heading_size": "h5",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 40
+          }
+        }
+      },
+      "block_order": [
+        "media_edk37P",
+        "media_QUKyN7",
+        "media_eBAiRX",
+        "media_phqhVP"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "gallery_cols_max": 4,
+        "mobile_carousel": false,
+        "gallery_cols_min": "1",
+        "fixed_height_desktop": 180,
+        "fixed_height_mobile": 300,
+        "section_color_scheme": "none",
+        "color_scheme": "white",
+        "transparent_content_color": "#ffffff"
+      }
+    },
+    "rich_text_GUHfCW": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_HnKUKc": {
+          "type": "heading",
+          "settings": {
+            "heading": "Wie stellen wir sicher, dass die Normen eingehalten werden?",
+            "heading_size": "h5",
+            "heading_h1": false
+          }
+        },
+        "text_AcBwU6": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wir testen regelmäßig unsere Lederprodukte, Du kannst sehen, welche Produkte getestet wurden, auf unseren Produktseiten. </p><p>Wenn wir feststellen, dass drei chromfreie Produkte einen Chromgehalt von mehr als 1000mg haben, verhängen wir eine Strafe, die 40% des Sendungs- Wertes entspricht.</p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_HnKUKc",
+        "text_AcBwU6"
+      ],
+      "settings": {
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "wide": false,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "media_with_text_G8EXDy": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_HBRm3P": {
+          "type": "heading",
+          "settings": {
+            "heading": "Ist pflanzlich gegerbtes Leder besser für die Umwelt?",
+            "heading_size": "h6",
+            "heading_h1": false
+          }
+        },
+        "text_pH49qM": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Die pflanzliche <a href=\"https://www.gusti-leder.at/lexikon/gerbung/\">Gerbung</a> gilt als Maßstab in der Lederindustrie, da sie weniger Umweltverschmutzung verursacht.</p><p><strong>Vorteile::</strong></p><p><strong>   Umweltfreundlich:</strong> Der pflanzliche Gerbprozess verwendet rein organische Materialien wie <a href=\"https://www.gusti-leder.at/lexikon/tannine/\">Tannine</a> aus Baumrinde und produziert keinen toxischen Abfall.</p><p><strong>   Biologische Abbaubarkeit:</strong> Pflanzlich gegerbtes Leder ist hochgradig biologisch abbaubar und zersetzt sich allmählich, ohne die <a href=\"https://www.gusti-leder.at/lexikon/umweltschutz-und-gerbverfahren/\">Umwelt</a> zu schädigen.</p><p><strong>   Einzigartiges Aussehen und </strong><a href=\"https://www.gusti-leder.at/lexikon/faerbung/\"><strong>Farbe</strong></a><strong>:</strong> Die pflanzliche <a href=\"https://www.gusti-leder.at/lexikon/gerbung/\">Gerbung</a> produziert starkes und haltbares Leder. Die natürliche <a href=\"https://www.gusti-leder.at/lexikon/farbe-des-leders/\">Farbe des Leders</a> verstärkt seinen authentischen Charakter. </p><p><strong>   Nachhaltigkeit: </strong>Die Technik der pflanzlichen <a href=\"https://www.gusti-leder.at/lexikon/gerbung/\">Gerbung</a> unterstützt nachhaltige Praktiken und verwendet keine chemischen Substanzen, die negative Auswirkungen auf die <a href=\"https://www.gusti-leder.at/lexikon/umweltschutz-und-gerbverfahren/\">Umwelt</a> haben könnten. </p><p><strong>  Gesundheitsvorteile: </strong>Pflanzlich gegerbtes Leder wird nicht mit schädlichen Chemikalien wie Chrom behandelt, daher verursacht es keine allergischen Reaktionen oder Hautirritationen, wenn Du damit in Kontakt kommst.</p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_HBRm3P",
+        "text_pH49qM"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/vegetable_tanned_2.jpg",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "right",
+        "image_fit": "contain",
+        "media_width": 50,
+        "media_scale": 100,
+        "text_align": "text-start",
+        "color_scheme": "none",
+        "only_content_color_scheme": false
+      }
+    },
+    "rich_text_Ja6Lqm": {
+      "type": "rich-text",
+      "blocks": {
+        "text_WDCzVD": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Ist pflanzlich gegerbtes Leder besser für die Umwelt?Die pflanzliche Gerbung ist im Vergleich zu anderen Gerbmethoden, wie der Chromgerbung, eine nachhaltigere Art der Lederverarbeitung.<br/><br/>Durch dieses Gerbverfahren vermeiden wir den Einsatz von Chemikalien und schaffen hochwertiges, langlebiges Leder. Die pflanzliche Gerbung verbessert die Haltbarkeit und das Aussehen des Leders, während sie seine Atmungsaktivität und seinen Komfort erhält.<br/><br/>Werde Teil der Slow-Fashion-Bewegung, triff bewusstere Entscheidungen und entdecke unsere Taschen und Accessoires aus pflanzlich gegerbtem Leder.</p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "text_WDCzVD"
+      ],
+      "settings": {
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "wide": false,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "featured_collection_fw9w9V": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Unsere Bestseller",
+        "heading_align": "text-start",
+        "show_view_all": true,
+        "collection": "bestseller",
+        "layout": "carousel",
+        "card_size_mobile": "small",
+        "card_size": "small",
+        "products_to_show": 8,
+        "show_highlight_products": true,
+        "show_promo_info": false,
+        "image_ratio": "fill",
+        "promo_title": "A headline to grab attention",
+        "content": "<p>Use this card with an image to highlight your collections or introduce a promotion.</p>",
+        "link_url": "",
+        "button_label": "Button",
+        "color_scheme": "2",
+        "button_style": "btn btn--primary"
       }
     },
     "collection_list_RHeKBJ": {
@@ -116,6 +485,7 @@
         "collection_eAJ4fF",
         "collection_xbRB6E"
       ],
+      "disabled": true,
       "settings": {
         "title": "Collections",
         "heading_align": "text-start",
@@ -129,34 +499,19 @@
         "color_scheme": "none",
         "full_width": true
       }
-    },
-    "featured_collection_fw9w9V": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Unsere Bestseller",
-        "heading_align": "text-start",
-        "show_view_all": true,
-        "collection": "bestseller",
-        "layout": "carousel",
-        "card_size_mobile": "small",
-        "card_size": "small",
-        "products_to_show": 8,
-        "show_highlight_products": true,
-        "show_promo_info": false,
-        "image_ratio": "fill",
-        "promo_title": "A headline to grab attention",
-        "content": "<p>Use this card with an image to highlight your collections or introduce a promotion.</p>",
-        "link_url": "",
-        "button_label": "Button",
-        "color_scheme": "2",
-        "button_style": "btn btn--primary"
-      }
     }
   },
   "order": [
     "main",
     "image_banner_h7bfNH",
-    "collection_list_RHeKBJ",
-    "featured_collection_fw9w9V"
+    "rich_text_UbQJWH",
+    "media_with_text_QEURCB",
+    "multi_column_8aF7gE",
+    "media_grid_fMF4JQ",
+    "rich_text_GUHfCW",
+    "media_with_text_G8EXDy",
+    "rich_text_Ja6Lqm",
+    "featured_collection_fw9w9V",
+    "collection_list_RHeKBJ"
   ]
 }
