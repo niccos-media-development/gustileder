@@ -23,7 +23,7 @@
         "heading_tkepFK": {
           "type": "heading",
           "settings": {
-            "heading": "Unsere Geschichte",
+            "heading": "Über Gusti - <br> Unsere Geschichte  <br>Unsere Leidenschaft",
             "heading_size": "h1",
             "heading_h1": false
           }
@@ -110,7 +110,7 @@
         "text_3ChzrP": {
           "type": "text",
           "settings": {
-            "text": "<p>Gusti Leder wurde 2009 von Christian Pietsch gegründet, der heute als CEO des Unternehmens tätig ist. Mit Sitz in Deutschland ist Gusti Leder zu einer weltweit vertrauenswürdigen Marke geworden und bietet in der gesamten Produktpalette langlebige Qualität und innovative Designs.</p><p>Alles Große beginnt ganz klein. Ähnlich war es auch bei uns, als Christian Pietsch als Student eine Reise nach Indien unternahm. Die Inspiration von den örtlichen Leder Herstellern weckte in ihm die Idee von Gusti Leder.</p><p>Unsere ersten Produkte waren verschiedene Leder Taschen und Rucksäcke. Doch später haben wir uns intensiv mit Fahrrad Produkten beschäftigt, die sich bis heute als einer der großen Erfolge von Gusti erwiesen haben.</p><p>Seit unserer Gründung haben wir uns zu einem weltweiten Marktführer entwickelt. Gusti Leder steht für eine enge Zusammenarbeit mit Produzenten und eine persönliche Kundenbetreuung.</p><p>Indem wir das Zeitgenössische mit Vintage vereinen, entwerfen wir bei Gusti Leder Lederprodukte, die nie aus der Mode kommen. Wir sind Marktführer für eine Vielzahl von Artikeln aus unserem breiten Sortiment an Taschen, Rucksäcke, Geldbörsen, Armbändern, <a href=\"https://www.gusti-leder.at/lexikon/bikepacking/\">Fahrradtaschen</a> und Schreibwaren. Jedes Produkt von Gusti Leder besticht durch exquisite Gestaltung, elegante Farben, erstklassige Qualität und hohe Funktionalität.</p>",
+            "text": "<h5>Von einer Reise inspiriert – Für die Welt geschaffen</h5><p><br/>Alles Große beginnt ganz klein – so auch bei Gusti Leder. Die Idee wurde geboren, als unser Gründer Christian Pietsch als Student durch Indien reiste. Die Handwerkskunst der lokalen Lederhersteller faszinierte ihn und legte den Grundstein für ein Unternehmen, das zeitlose Designs mit nachhaltiger Produktion verbindet.</p><p>Seit der Gründung im Jahr 2009 ist Gusti Leder zu einer weltweit vertrauenswürdigen Marke gewachsen. Mit Sitz in Deutschland stehen wir heute für handgefertigte Ledertaschen und Accessoires, die Tradition und Moderne vereinen. Unsere ersten Produkte waren Ledertaschen und Rucksäcke – inzwischen sind auch Fahrradprodukte ein fester Bestandteil unseres Sortiments und zählen zu unseren größten Erfolgen.</p><p>Unser Anspruch: Langlebige Qualität, durchdachte Designs und eine enge Zusammenarbeit mit unseren Produzenten. Jedes Produkt erzählt seine eigene Geschichte und besticht durch exquisite Gestaltung, elegante Farben und hohe Funktionalität. Mit unserer Leidenschaft für Leder schaffen wir Produkte, die nie aus der Mode kommen – für Menschen, die das Besondere schätzen.</p>",
             "enlarge_text": false
           }
         },
@@ -261,7 +261,7 @@
         "text_position": "justify-center",
         "text_align": "text-center",
         "mob_center_text": true,
-        "wide": false,
+        "wide": true,
         "color_scheme": "none",
         "full_width": true,
         "prevent_animation": false
@@ -298,7 +298,7 @@
             "enable_media": false,
             "media_scale": 100,
             "heading": "Anpassungsfähigkeit",
-            "text": "<p>An Veränderungen anpassen und schnell darauf reagieren</p>",
+            "text": "<p>Sich Veränderungen anpassen und zügig darauf reagieren</p>",
             "button_label": "",
             "button_link": ""
           }
@@ -309,7 +309,7 @@
             "enable_media": false,
             "media_scale": 100,
             "heading": "Organisation",
-            "text": "<p>Ethisches Verhalten am Arbeitsplatz aufrechterhalten, pünktlich sein und unsere Verpflichtungen rechtzeitig erfüllen</p>",
+            "text": "<p>Ethisches Verhalten am Arbeitsplatz wahren, Pünktlichkeit zeigen und Verpflichtungen fristgerecht erfüllen</p>",
             "button_label": "",
             "button_link": ""
           }
@@ -320,7 +320,7 @@
             "enable_media": false,
             "media_scale": 100,
             "heading": "Kommunikation",
-            "text": "<p>Team Kollaboration und Zusammenarbeit durch klare Kommunikation</p>",
+            "text": "<p>Teamarbeit und Zusammenarbeit durch klare Kommunikation fördern</p>",
             "button_label": "",
             "button_link": ""
           }
@@ -331,7 +331,7 @@
             "enable_media": false,
             "media_scale": 100,
             "heading": "Zuverlässigkeit",
-            "text": "<p>Integrität in unserem beruflichen Verhalten zeigen</p>",
+            "text": "<p>Integrität in unserem beruflichen Handeln wahren</p>",
             "button_label": "",
             "button_link": ""
           }
@@ -383,7 +383,7 @@
         "text_kGDAqF": {
           "type": "text",
           "settings": {
-            "text": "<p>Gusti Leder legt großen Wert auf transparente Produktion und die nachhaltige Verwendung von Materialien, die im Einklang mit Mensch und Natur stehen.<br/><br/>Leder - Das von uns verwendete Leder stammt ausschließlich von Tieren, die hauptsächlich für die Fleischproduktion und Zucht gehalten werden. Die Häute der Tiere sind Nebenprodukte, die bei Gusti zu hochwertigen Lederartikeln verarbeitet werden.<br/><br/>Transparenz - Wir setzen uns entschieden für Nachhaltigkeit, Ökologie, Tierschutz und Menschenrechte ein.</p>",
+            "text": "<p>Gusti Leder steht für eine transparente Produktion und den verantwortungsvollen Umgang mit Materialien – stets im Einklang mit Mensch und Natur.<br/><br/>Leder - Wir verwenden ausschließlich Leder von Tieren, die primär für die Fleischproduktion und Zucht gehalten werden. Die Häute sind ein Nebenprodukt, das wir zu hochwertigen Lederartikeln verarbeiten, um Ressourcen sinnvoll zu nutzen.<br/><br/>Transparenz - Nachhaltigkeit, Umweltschutz, Tierschutz und faire Arbeitsbedingungen sind für uns essenzielle Werte. Wir setzen uns aktiv für eine ethische und umweltbewusste Produktion ein.</p>",
             "enlarge_text": false
           }
         },
@@ -427,7 +427,7 @@
             "heading": "Gusti Leder Nature",
             "text": "<p>Unsere erste Marke war Gusti Leder Nature. Unsere Kollektion von Taschen in dieser Kategorie besteht hauptsächlich aus pflanzlich gegerbtem Ziegenleder.</p>",
             "button_label": "",
-            "button_link": ""
+            "button_link": "shopify://pages/gusti-leder-nature"
           }
         },
         "column_34hmMP": {
@@ -438,7 +438,7 @@
             "heading": "Gusti Leder Studio",
             "text": "<p>Die zweite Produktlinie des Unternehmens ist Gusti Leder Studio. Die einzigartigen Produkte bestehen hauptsächlich aus Büffel- und Rindsleder und werden mit dem Chromgerbungsverfahren gegerbt.</p>",
             "button_label": "",
-            "button_link": ""
+            "button_link": "shopify://pages/gusti-leder-studio"
           }
         },
         "column_QQaR8W": {
@@ -486,15 +486,15 @@
         "heading_NN338C": {
           "type": "heading",
           "settings": {
-            "heading": "Unsere Vertriebskanäle",
-            "heading_size": "h2",
+            "heading": "Gusti Leder – Online & vor Ort für Dich da",
+            "heading_size": "h5",
             "heading_h1": false
           }
         },
         "text_wkGhHf": {
           "type": "text",
           "settings": {
-            "text": "<p>Gusti Leder Produkte sind in allen wichtigen Online- und Offline-Kanälen erhältlich. Unsere E-Commerce-Plattformen bieten unsere Produktpalette direkt unseren Endkunden in europäischen Ländern, Großbritannien, den USA und vielen anderen Ländern weltweit an.</p><p>Du kannst auch in unseren Geschäften in Deutschland, Österreich und den Niederlanden vorbeischauen, um unser Sortiment an Lederprodukten zu entdecken. Neben dem Einkaufen kannst du die DIY-Ecke besuchen und kreative DIY-Projekte mit Lederteilen erstellen. Hier kannst du wunderschöne handgemachte Artikel wie Schlüsselanhänger oder kleine Taschen nach deinen persönlichen Wünschen gestalten</p>",
+            "text": "<p>Unsere Produkte sind über alle wichtigen Online- und Offline-Kanäle erhältlich. Über unsere E-Commerce-Plattformen bieten wir unser Sortiment direkt Endkunden in Europa, Großbritannien, den USA und vielen weiteren Ländern weltweit an.</p><p>Besuche uns auch in unseren Geschäften in Deutschland, Österreich und den Niederlanden, um unsere Lederprodukte hautnah zu erleben. Neben dem Einkaufen erwartet Dich unsere DIY-Ecke, in der Du kreative Projekte mit Lederteilen umsetzen kannst – gestalte handgemachte Unikate wie Schlüsselanhänger oder kleine Taschen ganz nach Deinen Wünschen.</p>",
             "enlarge_text": false
           }
         },
