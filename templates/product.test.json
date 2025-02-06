@@ -280,7 +280,7 @@
         "mob_center_text": false,
         "heading_size": "h1",
         "enlarge_text": false,
-        "image": "{{ section.settings.product.featured_image }}",
+        "image": "{{ section.settings.product.metafields.custom.produktfeatures.value }}",
         "title": "",
         "description": "",
         "button_label": "",
