@@ -218,7 +218,7 @@
           "type": "feature",
           "settings": {
             "heading": "",
-            "text": "<p>echtes Leder</p>",
+            "text": "<p>{{ section.settings.product.metafields.next_cart.pro_beschreibung_1.value }}</p>",
             "content_align": "text-start",
             "hotspot_x": 47,
             "hotspot_y": 37
@@ -281,7 +281,7 @@
         "heading_size": "h1",
         "enlarge_text": false,
         "image": "{{ section.settings.product.featured_image }}",
-        "title": "{{ section.settings.product.metafields.next_cart.pro_beschreibung_1.value }}",
+        "title": "",
         "description": "",
         "button_label": "",
         "button_link": "",
