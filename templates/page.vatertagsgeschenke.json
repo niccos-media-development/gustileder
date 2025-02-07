@@ -81,12 +81,12 @@
           "type": "column",
           "settings": {
             "enable_media": true,
-            "image": "shopify://shop_images/Jesse_2516f048-39e2-4ffa-803c-bad775bfa50a.jpg",
+            "image": "shopify://shop_images/Insta_Pawel-RFID_2A234-22-129-2.jpg",
             "media_scale": 100,
             "heading": "Geschenke für Papa - Wann ist Vatertag 2025?",
-            "text": "<p>Papa, Du bist der Beste! - Den Vatertag (Herrentag oder Männertag) feiert man in vielen Ländern der Welt an unterschiedlichen Tagen. Doch immer aus demselben Grund: wir wollen den Mann ehren, der unser großes Vorbild ist. In Österreich findet der Vatertag dieses Jahr am<strong>08.06.2025</strong> statt.</p><p><br/>Wie jedes Jahr wollen wir an diesem Tag mit einem kleinen Geschenk Danke sagen, für alles was Papa für uns tut und schon getan hat. Das<strong>richtige Geschenk für einen Mann</strong>zu finden ist nicht immer leicht. Deshalb haben wir haben für Euch einige Geschenkideen zusammengestellt, die ihm garantiert gefallen!</p>",
-            "button_label": "Buy",
-            "button_link": "shopify://products/tabaktasche-drehertasche-tabakbeutel-feinschnittbeutel-schwarz-leder-2t1-22-9"
+            "text": "<p>Papa, Du bist der Beste! - Den Vatertag (Herrentag oder Männertag) feiert man in vielen Ländern der Welt an unterschiedlichen Tagen. Doch immer aus demselben Grund: wir wollen den Mann ehren, der unser großes Vorbild ist. In Österreich findet der Vatertag dieses Jahr am <strong>08.06.2025</strong> statt.</p><p><br/>Wie jedes Jahr wollen wir an diesem Tag mit einem kleinen Geschenk Danke sagen, für alles was Papa für uns tut und schon getan hat. Das <strong>richtige Geschenk für einen Mann </strong>zu finden ist nicht immer leicht. Deshalb haben wir für Euch einige Geschenkideen zusammengestellt, die ihm garantiert gefallen!</p>",
+            "button_label": "Geldbörsen für Herren",
+            "button_link": "shopify://collections/geldborsen-fur-herren"
           }
         },
         "column_LFQnLe": {
@@ -96,8 +96,8 @@
             "image": "shopify://shop_images/Spencer_2g7-22-6_bbdc08f0-7b84-4648-a923-927407a9a3d6.jpg",
             "media_scale": 100,
             "heading": "Geschenkideen aus Leder, die Deinen Vater ein Leben lang begleiten",
-            "text": "<p>Es muss nicht immer ein teures alkoholisches Getränk oder ein Technik-Spielzeug sein. Geschenke für Männer sollten möglichst<strong>praktisch, schlicht und trotzdem elegant</strong>sein. Schenkt Euren Vätern dieses Jahr etwas, an dem er lange Freude hat!</p><p><br/>Produkte aus Leder sind<strong>langlebig und robust</strong>, da das Material selbst sehr widerstandsfähig ist. Gusti Leder zeigt Dir Geschenkideen aus hochwertigem, nachhaltigem Leder, die Deinen Papa ein Leben lang begleiten!</p>",
-            "button_label": "Buy",
+            "text": "<p>Es muss nicht immer ein teures alkoholisches Getränk oder ein Technik-Spielzeug sein. Geschenke für Männer sollten möglichst <strong>praktisch, schlicht und trotzdem elegant </strong>sein. Schenkt Euren Vätern dieses Jahr etwas, an dem er lange Freude hat!</p><p><br/>Produkte aus Leder sind <strong>langlebig und robust</strong>, da das Material selbst sehr widerstandsfähig ist. Gusti Leder zeigt Dir Geschenkideen aus hochwertigem, nachhaltigem Leder, die Deinen Papa ein Leben lang begleiten!</p>",
+            "button_label": "Schaue die dir Bauchtasche an",
             "button_link": "shopify://products/guerteltasche-bauchtasche-festivaltasche-2g7-22-6"
           }
         }
@@ -221,7 +221,7 @@
         "column_FYjhMA"
       ],
       "settings": {
-        "title": "Was man zum Vatertag schenken kann? Wie wäre es mit einem neuenAccessoire von Gusti Leder",
+        "title": "Was man zum Vatertag schenken kann? Wie wäre es mit einem neuen Accessoire von Gusti Leder",
         "heading_align": "text-start",
         "button_label": "",
         "button_link": "",
@@ -341,7 +341,7 @@
         "media_D6qXti"
       ],
       "settings": {
-        "title": "Du suchst Vatertagsgeschenke unter 20€? Bei unseren Portemonnaies aus Lederist für Jeden etwas dabei!",
+        "title": "Du suchst Vatertagsgeschenke unter 20€? Bei unseren Portemonnaies aus Leder ist für Jeden etwas dabei!",
         "heading_align": "text-start",
         "button_label": "",
         "button_link": "",
