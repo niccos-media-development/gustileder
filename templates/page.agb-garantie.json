@@ -51,6 +51,7 @@
         "text_i4fTGy",
         "button_446Ntx"
       ],
+      "disabled": true,
       "settings": {
         "url": "",
         "height_mode": "auto",
@@ -65,6 +66,168 @@
         "transparent_content_color": "#ffffff",
         "tint_color": "#000000",
         "tint_opacity": 40,
+        "prevent_animation": false
+      }
+    },
+    "rich_text_36UixG": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_YnDK7j": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_CBFtKE": {
+          "type": "heading",
+          "settings": {
+            "heading": "AGB & Garantie",
+            "heading_size": "h2",
+            "heading_h1": false
+          }
+        },
+        "text_8WXYWm": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Allgemeine Geschäftsbedingungen</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_JPXWN4": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_YnDK7j",
+        "heading_CBFtKE",
+        "text_8WXYWm",
+        "button_JPXWN4"
+      ],
+      "settings": {
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "wide": false,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "rich_text_Q7P9wQ": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_FedL98": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_HT3c6U": {
+          "type": "heading",
+          "settings": {
+            "heading": "Informationen für Verbraucher bei Fernabsatzverträgen sowie Kundeninformationen bei Verträgen im elektronischen Geschäftsverkehr",
+            "heading_size": "h6",
+            "heading_h1": false
+          }
+        },
+        "text_XY8R3N": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>§ 1 Geltungsbereich</strong></p><p>Für Geschäftsbeziehungen zwischen uns und dem Besteller gelten bei Bestellungen über den Internetshop die nachfolgenden Allgemeinen Geschäftsbedingungen in ihrer zum Zeitpunkt der Bestellung gültigen Fassung.</p><p><br/><strong>§ 2 Vertragsschluss</strong></p><p>Die Darstellung unserer Produkte in unserem Internetauftritt beinhaltet lediglich eine Aufforderung an den Kunden zur Abgabe eines Vertragsangebotes. Indem der Kunde eine Bestellung absendet, gibt er ein Angebot im Sinne des § 145 BGB ab. Der Kunde erhält eine Bestätigung des Empfangs der Bestellung per E-Mail. Der Vertrag mit uns kommt zustande, wenn wir das Angebot des Kunden innerhalb von 2 Werktagen nach Absenden der Bestellung schriftlich oder in Textform annehmen. Maßgeblich ist insoweit der Zeitpunkt des Zuganges der Annahmeerklärung beim Kunden Werktag ist jeder Kalendertag, der nicht Sonntag oder bundesweit geltender gesetzlicher Feiertag ist.</p><p><br/><strong>§ 3 Lieferung, Versandkosten, Gefahrenübergang</strong></p><p>Die Lieferung erfolgt zu den jeweils im Einzelfall ausgewiesenen Versandkosten. Sofern der Kunde Verbraucher ist, tragen wir unabhängig von der Versandart in jedem Fall das Versandrisiko. Sofern der Kunde Unternehmer ist, gehen alle Risiken und Gefahren der Versendung auf den Kunden über, sobald die Ware von uns an den beauftragten Logistikpartner übergeben worden ist.</p><p><br/><strong>§ 4 Eigentumsvorbehalt</strong></p><p>Die gelieferte Ware bleibt bis zur vollständigen Bezahlung des Kaufpreises unser Eigentum.</p><p><br/><strong>§ 5 Zahlungen</strong></p><p>Es werden nur die im Rahmen des Bestellvorgangs dem Kunden jeweils angezeigten Zahlungsarten akzeptiert.</p><p><br/><strong>§ 6 Mängelhaftung</strong></p><p>Es bestehen die gesetzlichen Mängelhaftungsrechte.</p><p><br/><strong>§ 7 Informationen für Verbraucher bei Fernabsatzverträgen sowie Kundeninformationen bei Verträgen im elektronischen Geschäftsverkehr</strong></p><p>a) Speziellen und vorstehend nicht erwähnten Verhaltenskodizes unterliegen wir nicht.<br/>b) Etwaige Eingabefehler bei Abgabe Ihrer Bestellung können Sie bei der abschließenden Bestätigung vor dem Absenden Ihrer Vertragserklärung erkennen und mit Hilfe der Lösch- und Änderungsfunktion vor Absendung der Bestellung jederzeit korrigieren.<br/>c) Die wesentlichen Eigenschaften der von uns angebotenen Waren sowie die Gültigkeitsdauer befristeter Angebote entnehmen Sie bitte den einzelnen Produktbeschreibungen im Rahmen unseres Internetangebots.<br/>d) Die für den Vertragsschluss zur Verfügung stehende Sprache ist Deutsch.<br/>e) Beanstandungen und Mängelhaftungsansprüche können Sie unter der in der Anbieterkennzeichnung angegebenen Adresse vorbringen.<br/>f) Der Vertragstext wird durch uns nicht gespeichert und ist daher Ihnen als Kunde nach dem Vertragsschluss über uns nicht zugänglich.<br/>g) Informationen zur Zahlung, Lieferung oder Erfüllung entnehmen Sie bitte dem Angebot.</p><p><br/><strong>§ 8 Information zum Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle</strong></p><p>Wir sind weder bereit noch verpflichtet, an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.</p><p><strong>§ 9 Rückzahlungen</strong></p><p>Etwaige Rückzahlungen veranlassen wir automatisch auf das von Ihnen zur Zahlung verwendete Konto. Bei Zahlung per Rechnung und Vorkasse, wird die Rücküberweisung an das Konto angewiesen, von dem die Überweisung getätigt wurde. Haben Sie per Paypal oder Kreditkarte gezahlt, erfolgt die Rückerstattung auf das damit verbundene Paypal- bzw. Kreditkartenkonto. Sollten Sie bei Ihrem Kauf einen Geschenkgutschein benutzt haben, so schreiben wir Ihnen den entsprechenden Betrag auf Ihrem Geschenkgutscheinkonto gut. Die Retourekosten betragen 2,90 € bei Bestellungen unter einen Gesamtwert von 60,00 €. Diese werden von der Gutschriftsumme abgezogen. Für Bestellungen mit einem Bestellwert über 60,00 € fallen keine Retourekosten an.</p><p><br/><strong>§ 10 Verschiedenes</strong></p><p>Auf das Vertragsverhältnis zwischen uns und dem Kunden sowie auf die jeweiligen Geschäftsbedingungen findet das Recht der Bundesrepublik Deutschland Anwendung. Sofern der Kunde Verbraucher ist, bleiben die nach dem Recht des Staates, in welchem der Verbraucher seinen gewöhnlichen Aufenthalt hat, zum Schutz des Verbrauchers anzuwendenden gesetzlichen Regelungen und Rechte, von welchen nicht durch Vereinbarung abgewichen werden darf, von dieser Vereinbarung unberührt. Die Anwendung von UN-Kaufrecht wird ausgeschlossen.<br/><br/>V SN 42</p><p><a href=\"https://payment.payolution.com/payolution-payment/infoport/agb?mId=R3VzdGkgTGVkZXIgR21iSA==\">Zusätzliche AGB für Rechnungs- & Ratenkauf</a></p><p><a href=\"https://www.gusti-leder.at/cat/index/sCategory/1352\">Teilnahmebedinungen für Gewinnspiele</a></p>",
+            "enlarge_text": false
+          }
+        },
+        "button_xJKXGE": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_FedL98",
+        "heading_HT3c6U",
+        "text_XY8R3N",
+        "button_xJKXGE"
+      ],
+      "settings": {
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "wide": false,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "rich_text_GbKgCi": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_RyTmaV": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_MyR6rE": {
+          "type": "heading",
+          "settings": {
+            "heading": "Garantieerklärung",
+            "heading_size": "h6",
+            "heading_h1": false
+          }
+        },
+        "text_KpCNe8": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>§1 Produktgarantie</strong></p><p>Zusätzlich zur gesetzlichen Gewährleistung bieten wir eine erweiterte Produktgarantie an. Um von dieser zusätzlichen Garantie zu profitieren, ist ein Abonnement unseres Newsletters von mindestens 6 Monaten erforderlich. Diese Garantie deckt Herstellungsfehler ab, schließt jedoch Schäden durch unsachgemäße Verwendung oder normale Abnutzung aus.</p><p> </p><p><strong>§2 Garantiezeitraum </strong></p><p>Die Garantie tritt im Anschluss an die gesetzliche Gewährleistung ein und erstreckt sich dann über 1 zusätzliches Jahr.</p><p> </p><p><strong>§3 Garantieanspruch</strong></p><p>Um einen Garantieanspruch geltend zu machen, kontaktieren Sie bitte unseren Kundensupport unter <a href=\"mailto:info@gusti.leder.de\">info@gusti-leder.de</a>. Wir benötigen einen Kaufnachweis für die Abwicklung des Anspruchs.</p><p> </p><p><strong>§4 Ausschlüsse und Einschränkungen</strong></p><p>Diese Garantie schließt Schäden durch unsachgemäße Handhabung, Modifikation des Produkts oder normale Abnutzung aus. Ebenso ausgeschlossen sind Schäden, die nicht auf Material- oder Verarbeitungsfehler zurückzuführen sind. Eine Kostenübernahme für die Reparatur des Reißverschlusses ist ausgenommen.</p><p> </p><p><strong>§5 Rücksendebedingungen</strong></p><p>Die Versandkosten für Rücksendungen im Rahmen der Garantie werden von uns übernommen.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_9mYdpP": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_RyTmaV",
+        "heading_MyR6rE",
+        "text_KpCNe8",
+        "button_9mYdpP"
+      ],
+      "settings": {
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "wide": false,
+        "color_scheme": "none",
+        "full_width": true,
         "prevent_animation": false
       }
     },
@@ -116,6 +279,7 @@
         "collection_eAJ4fF",
         "collection_xbRB6E"
       ],
+      "disabled": true,
       "settings": {
         "title": "Collections",
         "heading_align": "text-start",
@@ -156,6 +320,9 @@
   "order": [
     "main",
     "image_banner_h7bfNH",
+    "rich_text_36UixG",
+    "rich_text_Q7P9wQ",
+    "rich_text_GbKgCi",
     "collection_list_RHeKBJ",
     "featured_collection_fw9w9V"
   ]
