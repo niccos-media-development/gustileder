@@ -56,7 +56,7 @@
         "button_446Ntx"
       ],
       "settings": {
-        "image_desktop": "shopify://shop_images/GermanATCH.jpg",
+        "image_desktop": "shopify://shop_images/gravur_shopify_24008914-2d19-450b-ad65-c8f8bffcbecc.jpg",
         "url": "",
         "height_mode": "auto",
         "fixed_height_desktop": 600,
@@ -219,7 +219,7 @@
       ],
       "settings": {
         "image": "shopify://shop_images/fenja-2a117-33-3.jpg",
-        "video_external": "",
+        "video_external": "https://www.youtube.com/shorts/mW2rCd3WaCo",
         "video_description": "",
         "video_autoplay": true,
         "layout": "left",
