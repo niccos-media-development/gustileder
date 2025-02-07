@@ -23,7 +23,7 @@
         "heading_tkepFK": {
           "type": "heading",
           "settings": {
-            "heading": "Über Gusti - <br> Unsere Geschichte  <br>Unsere Leidenschaft",
+            "heading": "Über Gusti -  Unsere Geschichte  Unsere Leidenschaft",
             "heading_size": "h1",
             "heading_h1": false
           }
@@ -55,7 +55,7 @@
         "button_446Ntx"
       ],
       "settings": {
-        "image_desktop": "shopify://shop_images/about_us_DE.jpg",
+        "image_desktop": "shopify://shop_images/about_us_b5ad59e2-3e95-4c16-9113-799288492104.jpg",
         "url": "",
         "height_mode": "auto",
         "fixed_height_desktop": 600,
