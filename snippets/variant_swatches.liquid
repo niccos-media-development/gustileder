@@ -5,9 +5,8 @@
             {%- assign swatch_image = swatch.image -%}
 
             {%- if swatch_product and swatch_image -%}
-                <a href="{{ swatch_product.url }}" class="cust-swatch-item">
+                <a href="{{ swatch_product.url }}" class="cust-swatch-item" title="{{ swatch_product.title }}">
                     <img src="{{ swatch_image | image_url: width: 100 }}" alt="{{ swatch_product.title }}">
-                    <span>{{ swatch_product.title }}</span>
                 </a>
             {%- endif -%}
         {%- endfor -%}
