@@ -207,13 +207,13 @@
             </a>
           </p>
 
-          {%- if settings.card_show_subtitle and product.metafields.descriptors.subtitle != blank -%}
+          {%- if settings.card_show_subtitle and product.metafieldscustom.kategorie_teaser != blank -%}
             <p class="card__subtitle text-sm text-current mb-1{% unless settings.show_dividers %} mt-1{% endunless %}">
-              {{ product.metafields.descriptors.subtitle }}
+              {{ product.metafields.custom.kategorie_teaser }}
             </p>
           {%- endif -%}
 
-          {{ product.metafields.next_cart.attr9 }}
+          {{ product.metafields.custom.kategorie_teaser }}
 
           {%- if settings.card_show_weight -%}
             <p class="card__weight text-sm mb-1{% unless settings.show_dividers %} mt-1{% endunless %}">
