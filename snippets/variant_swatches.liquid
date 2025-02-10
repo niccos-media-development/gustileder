@@ -1,6 +1,5 @@
 {%- if product.metafields.custom.variant_swatches.value -%}
     <div class="cust-variant-swatches">
-       {%- for swatch in product.metafields.custom.variant_swatches -%}
         {%- for swatch in product.metafields.custom.variant_swatches.value -%}
             {%- assign swatch_product = swatch.product.value -%}
             {%- assign swatch_image = swatch.image -%}
@@ -10,6 +9,5 @@
                 </a>
             {%- endif -%}
         {%- endfor -%}
-       {%- endfor -%}
     </div>
 {%- endif -%}
