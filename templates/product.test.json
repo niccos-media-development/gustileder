@@ -44,6 +44,10 @@
             "show_tax_and_shipping": true
           }
         },
+        "variant_swatch_G8EArw": {
+          "type": "variant_swatch",
+          "settings": {}
+        },
         "variant-picker": {
           "type": "variant-picker",
           "settings": {
@@ -92,6 +96,7 @@
         "title",
         "richtext_PaJnYi",
         "price",
+        "variant_swatch_G8EArw",
         "variant-picker",
         "buy-buttons",
         "collapsible_content_XPKXBt",
