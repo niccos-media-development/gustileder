@@ -1,5 +1,13 @@
 {%- if product.metafields.custom.variant_swatches -%}
     <div class="cust-variant-swatches">
+       <a href="{{ product.url }}" class="cust-swatch-item active" title="{{ product.title }}">
+          {% if product.metafields.custom.swatch_featured_image %}
+            <img src="{{ product.metafields.custom.swatch_featured_image | img_url: 'master' }}" alt="{{ product.title }}">
+            {% else %}
+            <img src="{{ product.featured_image | img_url: 'master' }}" alt="{{ product.title }}">
+            {% else %}
+            {% endif %}
+        </a>
         {%- for swatch in product.metafields.custom.variant_swatches.value -%}
             {%- if swatch -%}
                 <a href="{{ swatch.url }}" class="cust-swatch-item" title="{{ swatch.title }}">

@@ -5578,10 +5578,12 @@ body > .os-scrollbar {
     flex-wrap: wrap;
     gap: 10px;
 }
-
+.cust-variant-swatches a.active{
+  border: 1px solid #000;
+}
 .cust-variant-swatches a {
     max-width: 60px;
-    border: 1px solid;
+    border: 1px solid gray;
     display: grid;
     align-items: center;
 }
