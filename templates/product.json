@@ -39,7 +39,7 @@
         "variant-picker": {
           "type": "variant-picker",
           "settings": {
-            "selector_style": "buttons",
+            "selector_style": "dropdown",
             "enable_dynamic_availability": true,
             "dynamic_availability_downwards": false,
             "show_backorder_text": true,
