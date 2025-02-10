@@ -233,7 +233,7 @@
           "type": "feature",
           "settings": {
             "heading": "",
-            "text": "",
+            "text": "<p>{{ section.settings.product.metafields.next_cart.pro_beschreibung_2.value }}</p>",
             "content_align": "text-start",
             "hotspot_x": 28,
             "hotspot_y": 38
@@ -243,7 +243,7 @@
           "type": "feature",
           "settings": {
             "heading": "",
-            "text": "",
+            "text": "<p>{{ section.settings.product.metafields.next_cart.pro_beschreibung_3.value }}</p>",
             "content_align": "text-start",
             "hotspot_x": 60,
             "hotspot_y": 29
@@ -252,8 +252,8 @@
         "product-features-feature-2": {
           "type": "feature",
           "settings": {
-            "heading": "Feature name",
-            "text": "",
+            "heading": "",
+            "text": "<p>{{ section.settings.product.metafields.next_cart.pro_beschreibung_4.value }}</p>",
             "content_align": "text-start",
             "hotspot_x": 73,
             "hotspot_y": 54
@@ -262,8 +262,8 @@
         "product-features-feature-3": {
           "type": "feature",
           "settings": {
-            "heading": "Feature name",
-            "text": "",
+            "heading": "",
+            "text": "<p>{{ section.settings.product.metafields.next_cart.pro_beschreibung_5.value }}</p>",
             "content_align": "text-start",
             "hotspot_x": 50,
             "hotspot_y": 66
