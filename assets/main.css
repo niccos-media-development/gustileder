@@ -5582,4 +5582,6 @@ body > .os-scrollbar {
 .cust-variant-swatches a {
     max-width: 60px;
     border: 1px solid;
+    display: grid;
+    align-items: center;
 }
