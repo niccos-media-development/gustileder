@@ -11,6 +11,7 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "show_page_title": true,
         "heading_align": "text-center"
@@ -51,6 +52,7 @@
         "text_i4fTGy",
         "button_446Ntx"
       ],
+      "disabled": true,
       "settings": {
         "url": "",
         "height_mode": "auto",
@@ -116,6 +118,7 @@
         "collection_eAJ4fF",
         "collection_xbRB6E"
       ],
+      "disabled": true,
       "settings": {
         "title": "Collections",
         "heading_align": "text-start",
@@ -151,12 +154,244 @@
         "color_scheme": "2",
         "button_style": "btn btn--primary"
       }
+    },
+    "multi_column_MYey8n": {
+      "type": "multi-column",
+      "blocks": {
+        "column_dkKGyf": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/About_Us_f4cb9bd4-7a3b-48a6-81a5-3ae895b2d09e.jpg",
+            "media_scale": 100,
+            "heading": "Über Uns",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_hbRfrr": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Our_stores.jpg",
+            "media_scale": 100,
+            "heading": "Unsere Läden",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_H37489": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/The_Name_Gusti.jpg",
+            "media_scale": 100,
+            "heading": "Preispolitik",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_MtDFjQ": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/repairs.jpg",
+            "media_scale": 100,
+            "heading": "Reparatur",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_dkKGyf",
+        "column_hbRfrr",
+        "column_H37489",
+        "column_MtDFjQ"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "layout": "grid",
+        "column_size": "medium",
+        "column_align": "left",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "multi_column_yg9hYX": {
+      "type": "multi-column",
+      "blocks": {
+        "column_B7xcai": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/gusti_leather_nature.jpg",
+            "media_scale": 100,
+            "heading": "Gusti Leder Nature",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_jGVkF9": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/gusti_leather_studio.jpg",
+            "media_scale": 100,
+            "heading": "Gusti Leder Studio",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_hd8HtG": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Vegetable_tanned_95a8c833-b789-45eb-9bf7-8f7a33532da4.jpg",
+            "media_scale": 100,
+            "heading": "Pflanzlich gegerbtes Leder",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_KENRmg": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Slow_fashion.jpg",
+            "media_scale": 100,
+            "heading": "Slow Fashion",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_B7xcai",
+        "column_jGVkF9",
+        "column_hd8HtG",
+        "column_KENRmg"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "layout": "grid",
+        "column_size": "medium",
+        "column_align": "left",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "multi_column_HrE8d8": {
+      "type": "multi-column",
+      "blocks": {
+        "column_ikrKBD": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Transparent_production.jpg",
+            "media_scale": 100,
+            "heading": "Transparente Produktion",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_eGrn3A": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Sustainability_at_Gusti_44bbec89-e18b-4aee-9ffb-9340b39b8bfc.jpg",
+            "media_scale": 100,
+            "heading": "Nachhaltigkeit bei Gusti",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_WAAy4L": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Press.jpg",
+            "media_scale": 100,
+            "heading": "Presse",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_XzyG6q": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Pricing_policy.jpg",
+            "media_scale": 100,
+            "heading": "Preispolitik",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_e8waC4": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Against_child_labour.jpg",
+            "media_scale": 100,
+            "heading": "Gegen Kinderarbeit",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_ikrKBD",
+        "column_eGrn3A",
+        "column_WAAy4L",
+        "column_XzyG6q",
+        "column_e8waC4"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "layout": "grid",
+        "column_size": "medium",
+        "column_align": "left",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
+      }
     }
   },
   "order": [
     "main",
     "image_banner_h7bfNH",
-    "collection_list_RHeKBJ",
-    "featured_collection_fw9w9V"
+    "multi_column_MYey8n",
+    "multi_column_yg9hYX",
+    "multi_column_HrE8d8",
+    "featured_collection_fw9w9V",
+    "collection_list_RHeKBJ"
   ]
 }
