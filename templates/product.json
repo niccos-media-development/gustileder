@@ -278,14 +278,13 @@
         "product-features-feature-3"
       ],
       "settings": {
-        "product": "",
+        "product": "{{ product }}",
         "show_content": false,
         "layout": "text_first",
         "text_align": "text-center",
         "mob_center_text": false,
         "heading_size": "h1",
         "enlarge_text": false,
-        "image": "{{ section.settings.product.metafields.custom.produktfeatures.value }}",
         "title": "",
         "description": "",
         "button_label": "",
