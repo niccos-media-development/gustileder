@@ -1,5 +1,5 @@
 {{ product.metafields.custom.variant_swatches.value }}
-{%- if product.metafields.custom.variant_swatches.value.size > 0 -%}
+{%- if product.metafields.custom.variant_swatches.value -%}
     <div class="cust-variant-swatches">
         {%- for swatch in product.metafields.custom.variant_swatches.value -%}
             {%- assign swatch_product = swatch.product.value -%}
