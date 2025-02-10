@@ -219,7 +219,7 @@
               <span class="product-info__barcode-value">{% if current_variant.barcode %}{{ current_variant.barcode }}{% endif %}</span>
             </div>
           {%- when 'variant_swatch' -%}
-          {% render 'variant_swatches' %}
+          {% render 'variant_swatches', product: product %}
           {%- when 'price' -%}
             <div class="product-info__block product-info__block--sm product-price" {{ block.shopify_attributes }}>
               <div class="product-info__price">
