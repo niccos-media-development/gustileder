@@ -5586,4 +5586,5 @@ body > .os-scrollbar {
     border: 1px solid;
     display: grid;
     align-items: center;
+    padding:2px;
 }
