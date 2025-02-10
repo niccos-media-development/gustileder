@@ -5579,11 +5579,11 @@ body > .os-scrollbar {
     gap: 10px;
 }
 .cust-variant-swatches a.active{
-  border: 1px solid #000;
+  border: 2px solid;
 }
 .cust-variant-swatches a {
     max-width: 60px;
-    border: 1px solid gray;
+    border: 1px solid;
     display: grid;
     align-items: center;
 }
