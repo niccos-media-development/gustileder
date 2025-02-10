@@ -51,6 +51,7 @@
         "text_i4fTGy",
         "button_446Ntx"
       ],
+      "disabled": true,
       "settings": {
         "url": "",
         "height_mode": "auto",
@@ -66,6 +67,101 @@
         "tint_color": "#000000",
         "tint_opacity": 40,
         "prevent_animation": false
+      }
+    },
+    "rich_text_hRhgen": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_wkdDkb": {
+          "type": "heading",
+          "settings": {
+            "heading": "Impressum",
+            "heading_size": "h2",
+            "heading_h1": false
+          }
+        },
+        "subheading_LkdTeK": {
+          "type": "subheading",
+          "settings": {
+            "text": "Adresse für Widerruf / Retouren (Unsere Anbieterkennzeichnung finden Sie unterhalb der nachfolgenden Angaben):"
+          }
+        },
+        "text_YT4QLY": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Gusti Leder<br/>Rosówek 42<br/>72-001 Rosówek<br/>Polen</p><p> <strong>Anbieterkennzeichnung: </strong></p><p><strong>Gusti Leder Stores GmbH</strong>Erich-Schlesinger-Str. 6218059 Rostock<strong>Bitte beachte, dass dies nicht unsere Adresse für Rücksendungen oder Reparaturen ist. Bitte beachte, dass dies nicht die Telefonnummer ist, unter der Du unseren Kundensupport erreichst. </strong>Telefon: +49 (0) 381 / 799 90031E-Mail: info@gusti-leder.deUST-ID: DE309027253Geschäftsführerin: Felicity PietschHandelsregistergericht: Amtsgericht Berlin-CharlottenburgHandelsregisternummer: HRB 181370 B Unsere Läden findest Du hier: &gt;&gt; <a href=\"https://www.gusti-leder.de/inspiration/die-welt-von-gusti/unsere-laeden/\">Unsere Läden</a><strong>(keine Retourenabwicklung)</strong></p>",
+            "enlarge_text": false
+          }
+        },
+        "button_W6WPhx": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_wkdDkb",
+        "subheading_LkdTeK",
+        "text_YT4QLY",
+        "button_W6WPhx"
+      ],
+      "settings": {
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "wide": false,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "custom_liquid_xrAxt9": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<p style=\"margin-top: 1em;\"><iframe src=\"https://www.google.com/maps/d/u/0/embed?mid=1nSKo1A_2YeX2R_sQGKdPfXISJMy1qycH\" width=\"600\" height=\"450\"></iframe></p>\n<p>&nbsp;</p>\n<hr />\n<p>&nbsp;</p>",
+        "section_height": "default",
+        "full_width": false,
+        "dividers": "none",
+        "prevent_animation": false
+      }
+    },
+    "multi_column_BBbJAH": {
+      "type": "multi-column",
+      "blocks": {
+        "column_gVwUBe": {
+          "type": "column",
+          "settings": {
+            "enable_media": false,
+            "media_scale": 100,
+            "heading": "",
+            "text": "<p>Die auf den Seiten von Gusti Leder GmbH veröffentlichten Bildmaterialien sind uneingeschränktes Eigentum der Gusti Leder GmbH. Produkte der Marke Gusti Leder werden im Internet ausschließlich durch lizenzierte Unternehmen vertrieben. Unberechtigte Nutzungen von Bild- und Textmaterialien oder Teilen davon werden zivil- und ggf. strafrechtlich verfolgt.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_gVwUBe"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "layout": "grid",
+        "column_size": "medium",
+        "column_align": "left",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
       }
     },
     "collection_list_RHeKBJ": {
@@ -116,6 +212,7 @@
         "collection_eAJ4fF",
         "collection_xbRB6E"
       ],
+      "disabled": true,
       "settings": {
         "title": "Collections",
         "heading_align": "text-start",
@@ -156,6 +253,9 @@
   "order": [
     "main",
     "image_banner_h7bfNH",
+    "rich_text_hRhgen",
+    "custom_liquid_xrAxt9",
+    "multi_column_BBbJAH",
     "collection_list_RHeKBJ",
     "featured_collection_fw9w9V"
   ]
