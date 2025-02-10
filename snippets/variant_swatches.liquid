@@ -1,14 +1,15 @@
 {%- if product.metafields.custom.variant_swatches.value -%}
     <div class="cust-variant-swatches">
+       {%- for swatch in product.metafields.custom.variant_swatches -%}
         {%- for swatch in product.metafields.custom.variant_swatches.value -%}
             {%- assign swatch_product = swatch.product.value -%}
             {%- assign swatch_image = swatch.image -%}
-
             {%- if swatch_product and swatch_image -%}
                 <a href="{{ swatch_product.url }}" class="cust-swatch-item" title="{{ swatch_product.title }}">
                     <img src="{{ swatch_image | image_url: width: 100 }}" alt="{{ swatch_product.title }}">
                 </a>
             {%- endif -%}
         {%- endfor -%}
+       {%- endfor -%}
     </div>
 {%- endif -%}
