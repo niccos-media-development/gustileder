@@ -44,10 +44,6 @@
             "show_tax_and_shipping": true
           }
         },
-        "variant_swatch_G8EArw": {
-          "type": "variant_swatch",
-          "settings": {}
-        },
         "variant-picker": {
           "type": "variant-picker",
           "settings": {
@@ -59,6 +55,10 @@
             "size_chart_variant": "Size",
             "size_chart_page": ""
           }
+        },
+        "variant_swatch_G8EArw": {
+          "type": "variant_swatch",
+          "settings": {}
         },
         "buy-buttons": {
           "type": "buy-buttons",
@@ -96,8 +96,8 @@
         "title",
         "richtext_PaJnYi",
         "price",
-        "variant_swatch_G8EArw",
         "variant-picker",
+        "variant_swatch_G8EArw",
         "buy-buttons",
         "collapsible_content_XPKXBt",
         "collapsible_content_BpERyX"
