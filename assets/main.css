@@ -5572,3 +5572,14 @@ body > .os-scrollbar {
     align-content: center;
     align-items: center;
 }
+/*  Custom Variant Swatches */
+.cust-variant-swatches {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.cust-variant-swatches a {
+    max-width: 60px;
+    border: 1px solid;
+}
