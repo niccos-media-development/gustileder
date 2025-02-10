@@ -11,6 +11,7 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "show_page_title": true,
         "heading_align": "text-center"
@@ -21,6 +22,7 @@
       "blocks": {
         "heading_tkepFK": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "Image banner",
             "heading_size": "h1",
@@ -29,6 +31,7 @@
         },
         "text_i4fTGy": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
             "enlarge_text": true
@@ -36,6 +39,7 @@
         },
         "button_446Ntx": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_1_label": "Optional button",
             "button_1_link": "",
@@ -52,6 +56,7 @@
         "button_446Ntx"
       ],
       "settings": {
+        "image_desktop": "shopify://shop_images/DIY-DE.jpg",
         "url": "",
         "height_mode": "auto",
         "fixed_height_desktop": 600,
@@ -66,6 +71,100 @@
         "tint_color": "#000000",
         "tint_opacity": 40,
         "prevent_animation": false
+      }
+    },
+    "media_with_text_KtmFTz": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_aQxdfn": {
+          "type": "heading",
+          "settings": {
+            "heading": "Do It Yourself - Basteln mit Leder",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "text_VJqU3w": {
+          "type": "text",
+          "settings": {
+            "text": "<h5>Die Gusti Leder Bastel-Ecke</h5><p>Der Hintergedanke bei unserer Bastel-Ecke in den Läden ist ganz klar:<br/><strong>alle Ressourcen zu nutzen und maximal wertzuschätzen</strong>. Daher wollen wir kein Leder wegwerfen oder entsorgen, sondern es so lange wie möglich in Gebrauch halten.<br/>Wenn also ein Gusti-Produkt nicht reparabel ist, sollen es unsere Kunden und Mitarbeiter weiterverwerten. Leder ist für seine Langlebigkeit bekannt und das schätzen wir sehr!</p><p>Daher für alle Kreativen und “Bastelfreudigen” unter Euch: <strong>kommt vorbei und tobt Euch aus!</strong> In unseren Läden versorgen Euch mit verschiedenen Lederarten, Werkzeug und Vielem mehr. Du willst herausfinden, ob du auch etwas Tolles aus Leder kreieren kannst oder hattest schon immer mal Lust mit Leder zu arbeiten?! Dann statte einer Gusti Filiale in deiner Nähe einen Besuch ab! Ganz nach dem Berliner Motto: Gönn Dir !</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_Bp6AHV": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Optional button",
+            "button_link": "",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_aQxdfn",
+        "text_VJqU3w",
+        "button_Bp6AHV"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/DIY_1.jpg",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "left",
+        "image_fit": "contain",
+        "media_width": 50,
+        "media_scale": 100,
+        "text_align": "text-start",
+        "color_scheme": "none",
+        "only_content_color_scheme": false
+      }
+    },
+    "media_with_text_mY8naQ": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_96zigX": {
+          "type": "heading",
+          "settings": {
+            "heading": "Ideen zum selber machen: Basteln mit Leder zu Hause",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "text_7HaN7K": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Schnelle Erfolgserlebnisse beim Basteln mit Leder erzielen, können aber auch die nicht so Kreativen und handwerklich Begabten unter uns! Durch seine hohe Belastbarkeit ist Leder während der Bearbeitung sehr angenehm. Da es nicht so einfach reißt, kann man mit dem Material auch etwas gröber arbeiten - das kann es gut vertragen.<br/>Zum Basteln mit Leder brauchst Du natürlich noch<strong>die richtigen Materialien und Werkzeuge</strong>! Für die ersten Schritte brauchst Du aber gar nicht viel und einiges hast Du bestimmt schon zu Hause.<br/>Auf Pinterest, Youtube etc. findest Du unglaublich viel Inspiration, Ideen, Vorschläge und sogar “Step by Step” - “ Schritt für Schritt “ Anleitungen.. Da kann also eigentlich nichts schief gehen!</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_qBgThU": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Optional button",
+            "button_link": "",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_96zigX",
+        "text_7HaN7K",
+        "button_qBgThU"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/DIY.jpg",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "right",
+        "image_fit": "contain",
+        "media_width": 50,
+        "media_scale": 100,
+        "text_align": "text-start",
+        "color_scheme": "none",
+        "only_content_color_scheme": false
       }
     },
     "collection_list_RHeKBJ": {
@@ -116,6 +215,7 @@
         "collection_eAJ4fF",
         "collection_xbRB6E"
       ],
+      "disabled": true,
       "settings": {
         "title": "Collections",
         "heading_align": "text-start",
@@ -156,6 +256,8 @@
   "order": [
     "main",
     "image_banner_h7bfNH",
+    "media_with_text_KtmFTz",
+    "media_with_text_mY8naQ",
     "collection_list_RHeKBJ",
     "featured_collection_fw9w9V"
   ]
