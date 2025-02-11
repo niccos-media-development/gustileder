@@ -22,7 +22,7 @@
         {%- endfor -%}
     </div>
 {%- endif -%}
-{%- if product.metafields.custom.custom.variant_option_swatches -%}
+{%- if product.metafields.custom.variant_option_swatches -%}
     <div class="cust-variant-swatches {% if block.settings.shape == 'circle' %} circle_swatch {% else %} square_swatch {% endif %}">
          <a href="{{ product.url }}" class="cust-swatch-item active" title="{{ product.title }}">
           {% if product.metafields.custom.swatch_featured_image %}
@@ -32,7 +32,7 @@
             {% else %}
             {% endif %}
         </a>
-        {%- for swatch in product.metafields.custom.custom.variant_option_swatches.value -%}
+        {%- for swatch in product.metafields.custom.variant_option_swatches.value -%}
             {%- if swatch -%}
                 <a href="{{ swatch.url }}" class="cust-swatch-item {% if swatch.id == product.selected_or_first_available_variant.id %} active {% endif %}" title="{{ swatch.title }}">
                     {% if swatch.metafields.custom.swatch_featured_image %}
