@@ -1,5 +1,5 @@
 {%- if product.metafields.custom.variant_swatches -%}
-    <div class="cust-variant-swatches {% if block.shape == 'circle' %} circle_swatch {% else %} square_swatch {% endif %}">
+    <div class="cust-variant-swatches {% if block.settings.shape == 'circle' %} circle_swatch {% else %} square_swatch {% endif %}">
        <a href="{{ product.url }}" class="cust-swatch-item active" title="{{ product.title }}">
           {% if product.metafields.custom.swatch_featured_image %}
             <img src="{{ product.metafields.custom.swatch_featured_image | img_url: 'master' }}" alt="{{ product.title }}">
