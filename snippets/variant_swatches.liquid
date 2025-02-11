@@ -34,8 +34,6 @@
         </a>
         {%- for swatch in product.metafields.custom.variant_option_swatches.value -%}
             {%- if swatch -%}
-               {%- assign variant_product = swatch.object -%} 
-              {{ variant_product.title }}
                 <a href="{{ swatch.url }}" class="cust-swatch-item" title="{{ swatch.title }}">
                     {% if swatch.metafields.custom.swatch_featured_image %}
                         <img src="{{ swatch.metafields.custom.swatch_featured_image | img_url: 'master' }}" alt="{{ swatch.title }}">
