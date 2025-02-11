@@ -58,7 +58,9 @@
         },
         "variant_swatch_G8EArw": {
           "type": "variant_swatch",
-          "settings": {}
+          "settings": {
+            "shape": "circle"
+          }
         },
         "buy-buttons": {
           "type": "buy-buttons",
