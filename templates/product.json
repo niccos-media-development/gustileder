@@ -399,7 +399,7 @@
         "slide_7LFPED": {
           "type": "slide",
           "settings": {
-            "url": "{{ product.metafields.custom.kostentransparenzbild.value }}",
+            "url": "",
             "overlay_position": "justify-center items-center",
             "overlay_text_align": "text-center",
             "mob_center_text": false,
