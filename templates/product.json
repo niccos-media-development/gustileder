@@ -71,6 +71,7 @@
         },
         "collapsible_content_XPKXBt": {
           "type": "collapsible-content",
+          "disabled": true,
           "settings": {
             "heading": "Versand",
             "icon": "none",
@@ -81,12 +82,13 @@
         },
         "collapsible_content_BpERyX": {
           "type": "collapsible-content",
+          "disabled": true,
           "settings": {
             "heading": "Lederpflege",
             "icon": "none",
             "text": "<p>Kaufe die passende Lederpflege zu deinem Produkt</p><p></p>",
             "page": "lederpflege",
-            "open": true
+            "open": false
           }
         }
       },
@@ -138,7 +140,7 @@
         "tabs": {
           "type": "tabs",
           "settings": {
-            "style": "tabs",
+            "style": "collapsible",
             "open_first": false,
             "show_description": true,
             "show_reviews": true,
@@ -177,12 +179,21 @@
             "link": ""
           }
         },
-        "item_iNPeCQ": {
+        "item_nb3qVK": {
           "type": "item",
           "settings": {
-            "icon": "leaf",
+            "icon": "map_pin",
             "heading": "",
-            "text": "<p>Leather working group </p>",
+            "text": "<p>Entdecke unsere Läden </p>",
+            "link": ""
+          }
+        },
+        "item_xNMXFP": {
+          "type": "item",
+          "settings": {
+            "icon": "check_mark_in_circle",
+            "heading": "",
+            "text": "<p>Reparaturservice</p>",
             "link": ""
           }
         },
@@ -190,16 +201,27 @@
           "type": "item",
           "settings": {
             "icon": "gift",
-            "heading": "Personalisierbar",
-            "text": "<p>mit individueller Gravur </p>",
+            "heading": "",
+            "text": "<p>Personalisierbar mit individueller Gravur </p>",
+            "link": ""
+          }
+        },
+        "item_hE3Lf7": {
+          "type": "item",
+          "settings": {
+            "icon": "dollar_sign",
+            "heading": "",
+            "text": "<p>bezahle in 30 Tagen</p>",
             "link": ""
           }
         }
       },
       "block_order": [
         "item_HfezCx",
-        "item_iNPeCQ",
-        "item_pFq7mt"
+        "item_nb3qVK",
+        "item_xNMXFP",
+        "item_pFq7mt",
+        "item_hE3Lf7"
       ],
       "settings": {
         "heading": "",
