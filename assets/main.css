@@ -5581,8 +5581,8 @@ body > .os-scrollbar {
 .cust-variant-swatches.square_swatch  img {
     aspect-ratio: 1/1;
 }
-.cust-variant-swatches.square_swatch  img {
-    aspect-ratio: 1/1;
+.cust-variant-swatches.circle_swatch .cust-swatch-item,.cust-variant-swatches.circle_swatch img {
+    border-radius: 100%;
 }
 .cust-variant-swatches a.active{
   border: 2px solid;
