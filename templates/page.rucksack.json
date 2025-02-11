@@ -185,6 +185,52 @@
         "button_style": "btn btn--secondary"
       }
     },
+    "multi_column_YhwE3w": {
+      "type": "multi-column",
+      "blocks": {
+        "column_68ht9j": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Henning_5a84c9c1-9a5c-4f93-a68b-d40f935fdec3.jpg",
+            "media_scale": 100,
+            "heading": "Henning",
+            "text": "<p>Wir haben besonderen Wert auf Form und Design gelegt, als wir unseren klassischen Rolltop-Rucksack \"<strong>Henning</strong>” kreiert haben. Dieser Rucksack bietet viel Platz für alles, was Du während eines geschäftigen Tages im Büro oder an der Uni brauchst. Er verfügt über ein geräumiges Hauptfach mit zusätzlichen Fächern und Innentaschen mit Reißverschluss, in denen Du Deine Sachen griffbereit aufbewahren kannst. Unser durchdacht gestalteter Vintage-Rucksack ist ein unglaubliches Accessoire, das zu deinem Stil passt.</p><p><strong>Größe             </strong>27 x 40 x 9 cm</p><p><strong>Lederart        </strong>Rindsleder</p><p><strong>Innen Fächer </strong>3</p><p><strong>Außenfach </strong>1</p><p><strong>Verschluss  </strong>Reiß- und Schnappverschluss</p>",
+            "button_label": "",
+            "button_link": "shopify://products/backpack-rucksack-messenger-bag-leather-backpack-leather-rucksack-vintage-backpack-hiking-backpack-laptop-bag-college-bag-brown-leather-13-litres-2m109-80-4"
+          }
+        },
+        "column_VizkFe": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/milo.jpg",
+            "media_scale": 100,
+            "heading": "Roven",
+            "text": "<p>Die Stadt erkunden oder einfach nur die Geschäfte besuchen? Der Rucksack \"Milo\" bietet ausreichend Platz für Deine Essentials, egal wofür. Er verfügt über robuste Schulterriemen, die super bequem sind, sowie ein geräumiges Reißverschluss-Hauptfach und eine aufgesetzte Tasche auf der Vorderseite. Dieser schicke Leder-Rucksack wird ganz leicht zu Deinem bevorzugten Accessoire für jedes Abenteuer.<br/><br/>Halte Deine Lederlieblinge weich und schütze sie vor Feuchtigkeit und Kratzern, indem Du Gustis Natur Wachs aufträgst!<br/><br/><strong>Größe             </strong>31 x 38 x 11 cm</p><p><strong>Lederart        </strong>Ziegenleder</p><p><strong>Innen Fächer </strong>1</p><p><strong>Außenfach </strong>1</p><p><strong>Verschluss  </strong>Reißverschluss</p>",
+            "button_label": "",
+            "button_link": "shopify://products/kurierrucksack-rucksack-lederrucksack-vintage-cityrucksack-outdoorrucksack-laptoptasche-unirucksack-wanderrucksack-braun-leder-m119-1-1"
+          }
+        }
+      },
+      "block_order": [
+        "column_68ht9j",
+        "column_VizkFe"
+      ],
+      "settings": {
+        "title": "Die Geräumigen",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "layout": "carousel",
+        "column_size": "medium",
+        "column_align": "left",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
+      }
+    },
     "collection_list_RHeKBJ": {
       "type": "collection-list",
       "blocks": {
@@ -277,6 +323,7 @@
     "image_banner_h7bfNH",
     "rich_text_xRkaqE",
     "multi_column_ThbWAU",
+    "multi_column_YhwE3w",
     "collection_list_RHeKBJ",
     "featured_collection_fw9w9V"
   ]
