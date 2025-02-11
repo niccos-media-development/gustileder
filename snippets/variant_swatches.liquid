@@ -22,3 +22,27 @@
         {%- endfor -%}
     </div>
 {%- endif -%}
+{%- if product.metafields.custom.custom.variant_option_swatches -%}
+    <div class="cust-variant-swatches {% if block.settings.shape == 'circle' %} circle_swatch {% else %} square_swatch {% endif %}">
+         <a href="{{ product.url }}" class="cust-swatch-item active" title="{{ product.title }}">
+          {% if product.metafields.custom.swatch_featured_image %}
+            <img src="{{ product.metafields.custom.swatch_featured_image | img_url: 'master' }}" alt="{{ product.title }}">
+            {% else %}
+            <img src="{{ product.featured_image | img_url: 'master' }}" alt="{{ product.title }}">
+            {% else %}
+            {% endif %}
+        </a>
+        {%- for swatch in product.metafields.custom.custom.variant_option_swatches.value -%}
+            {%- if swatch -%}
+                <a href="{{ swatch.url }}" class="cust-swatch-item {% if swatch.id == product.selected_or_first_available_variant.id %} active {% endif %}" title="{{ swatch.title }}">
+                    {% if swatch.metafields.custom.swatch_featured_image %}
+                        <img src="{{ swatch.metafields.custom.swatch_featured_image | img_url: 'master' }}" alt="{{ swatch.title }}">
+                    {% elsif swatch.featured_image %}
+                        <img src="{{ swatch.featured_image | img_url: 'master' }}" alt="{{ swatch.title }}">
+                    {% endif %}
+                </a>
+            {%- endif -%}
+        {%- endfor -%}
+
+    </div>
+{%- endif -%}
