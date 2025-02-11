@@ -5578,6 +5578,12 @@ body > .os-scrollbar {
     flex-wrap: wrap;
     gap: 10px;
 }
+.cust-variant-swatches.square_swatch  img {
+    aspect-ratio: 1/1;
+}
+.cust-variant-swatches.square_swatch  img {
+    aspect-ratio: 1/1;
+}
 .cust-variant-swatches a.active{
   border: 2px solid;
 }
