@@ -220,7 +220,7 @@
             </div>
           {%- when 'variant_swatch' -%}
            <div class="product-info__block product-info__block--sm product-custom-swatches" {{ block.shopify_attributes }}>
-                {% render 'variant_swatches', product: product %}
+                {% render 'variant_swatches', product: product, block: block %}
            </div>
           {%- when 'price' -%}
             <div class="product-info__block product-info__block--sm product-price" {{ block.shopify_attributes }}>
@@ -1702,6 +1702,22 @@
         {
           "type": "paragraph",
           "content": "Using Metafield (Variant Swatches)"
+        },
+         {
+          "type": "select",
+          "id": "shape",
+          "label": "Swatches shape",
+          "options": [
+            {
+              "value": "circle",
+              "label": "Circle"
+            },
+            {
+              "value": "square",
+              "label": "Square"
+            }
+          ],
+          "default": "square"
         }
         ]
     },
