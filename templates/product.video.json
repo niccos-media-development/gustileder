@@ -1,0 +1,478 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor-sku": {
+          "type": "vendor-sku",
+          "settings": {
+            "show_vendor": true,
+            "show_sku": true,
+            "show_barcode": false
+          }
+        },
+        "product-labels": {
+          "type": "product-labels",
+          "settings": {
+            "show_variant_icon": true
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "show_weight": false
+          }
+        },
+        "richtext_PaJnYi": {
+          "type": "richtext",
+          "settings": {
+            "text": "<p>{{ product.metafields.next_cart.attr9.value }}</p>"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_tax_and_shipping": true
+          }
+        },
+        "variant-picker": {
+          "type": "variant-picker",
+          "settings": {
+            "selector_style": "dropdown",
+            "enable_dynamic_availability": true,
+            "dynamic_availability_downwards": false,
+            "show_backorder_text": true,
+            "enable_size_chart": false,
+            "size_chart_variant": "Size",
+            "size_chart_page": ""
+          }
+        },
+        "variant_swatch_G8EArw": {
+          "type": "variant_swatch",
+          "settings": {}
+        },
+        "buy-buttons": {
+          "type": "buy-buttons",
+          "settings": {
+            "show_qty_selector": true,
+            "enable_dynamic_checkout": true,
+            "show_pickup_availability": true,
+            "show_gift_card_recipient": false
+          }
+        },
+        "collapsible_content_XPKXBt": {
+          "type": "collapsible-content",
+          "disabled": true,
+          "settings": {
+            "heading": "Versand",
+            "icon": "none",
+            "text": "<p>UPS-Versand: 5,90€. Für kleine und leichte Pakete gibt es eine günstigere Option für 4,00€. Beide Versandarten enthalten eine Sendungsverfolgungsnummer.<br/><br/></p>",
+            "page": "",
+            "open": false
+          }
+        },
+        "collapsible_content_BpERyX": {
+          "type": "collapsible-content",
+          "disabled": true,
+          "settings": {
+            "heading": "Lederpflege",
+            "icon": "none",
+            "text": "<p>Kaufe die passende Lederpflege zu deinem Produkt</p><p></p>",
+            "page": "lederpflege",
+            "open": false
+          }
+        }
+      },
+      "block_order": [
+        "vendor-sku",
+        "product-labels",
+        "title",
+        "richtext_PaJnYi",
+        "price",
+        "variant-picker",
+        "variant_swatch_G8EArw",
+        "buy-buttons",
+        "collapsible_content_XPKXBt",
+        "collapsible_content_BpERyX"
+      ],
+      "custom_css": [],
+      "settings": {
+        "stick_on_scroll": true,
+        "select_first_variant": true,
+        "sticky_atc_panel": true,
+        "sticky_atc_position": "end",
+        "sticky_atc_mobile": true,
+        "media_layout": "slider",
+        "media_size": "default",
+        "media_ratio": "0.75",
+        "media_crop": "none",
+        "enable_video_looping": true,
+        "enable_zoom": true,
+        "zoom_mode": "click",
+        "enable_lightbox_mobile": true,
+        "hover_zoom": "original",
+        "stacked_scroll": "always",
+        "underline_active": true,
+        "media_arrows": "desktop",
+        "show_slide_count": false,
+        "media_thumbs": "desktop",
+        "lightbox_thumbnails": true,
+        "thumb_ratio": "1",
+        "thumb_crop": "none",
+        "border_color": "rgba(0,0,0,0)",
+        "bg_color": "rgba(0,0,0,0)",
+        "enable_media_grouping": true,
+        "media_grouping_option": "Color,Colour,Couleur,Farbe"
+      }
+    },
+    "details": {
+      "type": "product-details",
+      "blocks": {
+        "tabs": {
+          "type": "tabs",
+          "settings": {
+            "style": "collapsible",
+            "open_first": false,
+            "show_description": true,
+            "show_reviews": true,
+            "custom_reviews": "",
+            "show_specification": true,
+            "spec_metafields": "Abmessungen (B x H x T): next_cart.abmessungen-bxhxt.\nGewicht: next_cart.gewicht. \nFarbe: next_cart.attr6.\nLeder: next_cart.attr21.\nLederart: next_cart.attr22. \nVerschluss: next_cart.verschluss.\nKartenfächer: next_cart.kartenfacher.",
+            "spec_right_align": false,
+            "spec_show_empty_metafields": false,
+            "spec_empty_field_text": "",
+            "tab_1_title": "Zertifikate",
+            "tab_1_text": "<p>Unser Leder ist TÜV zertifiziert. Datum des letzten Test:  {{ product.metafields.next_cart.leather_cert_date.value }}</p>",
+            "tab_1_page": "",
+            "tab_2_title": "",
+            "tab_2_text": "",
+            "tab_2_page": "",
+            "tab_3_title": "",
+            "tab_3_text": "",
+            "tab_3_page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tabs"
+      ],
+      "settings": {}
+    },
+    "icons_with_text_YwygDr": {
+      "type": "icons-with-text",
+      "blocks": {
+        "item_HfezCx": {
+          "type": "item",
+          "settings": {
+            "icon": "leather",
+            "heading": "",
+            "text": "<p>chromfreies Leder</p>",
+            "link": ""
+          }
+        },
+        "item_nb3qVK": {
+          "type": "item",
+          "settings": {
+            "icon": "map_pin",
+            "heading": "",
+            "text": "<p>Entdecke unsere Läden </p>",
+            "link": ""
+          }
+        },
+        "item_xNMXFP": {
+          "type": "item",
+          "settings": {
+            "icon": "check_mark_in_circle",
+            "heading": "",
+            "text": "<p>Reparaturservice</p>",
+            "link": ""
+          }
+        },
+        "item_pFq7mt": {
+          "type": "item",
+          "settings": {
+            "icon": "gift",
+            "heading": "",
+            "text": "<p>Personalisierbar mit individueller Gravur </p>",
+            "link": ""
+          }
+        },
+        "item_hE3Lf7": {
+          "type": "item",
+          "settings": {
+            "icon": "dollar_sign",
+            "heading": "",
+            "text": "<p>bezahle in 30 Tagen</p>",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_HfezCx",
+        "item_nb3qVK",
+        "item_xNMXFP",
+        "item_pFq7mt",
+        "item_hE3Lf7"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_align": "text-start",
+        "icon_size": 48,
+        "title_type_scale": "medium",
+        "text_type_scale": "medium",
+        "icon_position": "beside",
+        "mobile_stack": false,
+        "section_height": "medium",
+        "color_scheme": "1",
+        "full_width": true,
+        "dividers": "none",
+        "prevent_animation": false
+      }
+    },
+    "product-features": {
+      "type": "product-features",
+      "blocks": {
+        "feature_Xz44CF": {
+          "type": "feature",
+          "settings": {
+            "heading": "",
+            "text": "<p>{{ section.settings.product.metafields.next_cart.pro_beschreibung_1.value }}</p>",
+            "content_align": "text-start",
+            "hotspot_x": 47,
+            "hotspot_y": 37
+          }
+        },
+        "product-features-feature-0": {
+          "type": "feature",
+          "settings": {
+            "heading": "",
+            "text": "<p>{{ section.settings.product.metafields.next_cart.pro_beschreibung_2.value }}</p>",
+            "content_align": "text-start",
+            "hotspot_x": 28,
+            "hotspot_y": 38
+          }
+        },
+        "product-features-feature-1": {
+          "type": "feature",
+          "settings": {
+            "heading": "",
+            "text": "<p>{{ section.settings.product.metafields.next_cart.pro_beschreibung_3.value }}</p>",
+            "content_align": "text-start",
+            "hotspot_x": 60,
+            "hotspot_y": 29
+          }
+        },
+        "product-features-feature-2": {
+          "type": "feature",
+          "settings": {
+            "heading": "",
+            "text": "<p>{{ section.settings.product.metafields.next_cart.pro_beschreibung_4.value }}</p>",
+            "content_align": "text-start",
+            "hotspot_x": 73,
+            "hotspot_y": 54
+          }
+        },
+        "product-features-feature-3": {
+          "type": "feature",
+          "settings": {
+            "heading": "",
+            "text": "<p>{{ section.settings.product.metafields.next_cart.pro_beschreibung_5.value }}</p>",
+            "content_align": "text-start",
+            "hotspot_x": 50,
+            "hotspot_y": 66
+          }
+        }
+      },
+      "block_order": [
+        "feature_Xz44CF",
+        "product-features-feature-0",
+        "product-features-feature-1",
+        "product-features-feature-2",
+        "product-features-feature-3"
+      ],
+      "settings": {
+        "product": "{{ product }}",
+        "show_content": false,
+        "layout": "text_first",
+        "text_align": "text-center",
+        "mob_center_text": false,
+        "heading_size": "h1",
+        "enlarge_text": false,
+        "title": "",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "hotspot_color": "#070707",
+        "color_scheme": "none",
+        "button_style": "btn btn--primary"
+      }
+    },
+    "recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "heading": "Finde ähnliche Produkte",
+        "heading_align": "text-start",
+        "layout": "carousel",
+        "card_size_mobile": "small",
+        "card_size": "small",
+        "products_to_show": 8
+      }
+    },
+    "slideshow_FGXjXJ": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_iify6q": {
+          "type": "slide",
+          "settings": {
+            "image_desktop": "shopify://shop_images/autumn-trees-hillside.jpg",
+            "url": "",
+            "overlay_position": "justify-center items-center",
+            "overlay_text_align": "text-center",
+            "mob_center_text": false,
+            "subheading": "Subheading",
+            "heading": "Nachhaltigkeit",
+            "heading_size": "h0",
+            "heading_h1": false,
+            "text": "<p>Gusti Leder steht für Nachhaltigkeit, Fairness und Qualität. Wir fördern umweltfreundliche Prozesse, faire Arbeitsbedingungen und nutzen Leder als Nebenprodukt, um eine nachhaltige Zukunft zu gestalten.</p>",
+            "enlarge_text": true,
+            "button_1_label": "Nachhaltigkeit bei Gusti",
+            "button_1_link": "",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "Transparente Produktion",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary",
+            "transparent_content_color": "#ffffff",
+            "countdown_show": false,
+            "countdown_end_date": "",
+            "countdown_end_time": "",
+            "countdown_end_text": "",
+            "enlarge_end_text": false,
+            "countdown_hide_on_end": false,
+            "use_custom_colors": false,
+            "count_color": "#ffffff",
+            "bg_color": "#070707",
+            "bg_grad": ""
+          }
+        },
+        "slide_FeXVKB": {
+          "type": "slide",
+          "settings": {
+            "image_desktop": "shopify://shop_images/tall-grasses-by-sandy-beach.jpg",
+            "url": "",
+            "overlay_position": "justify-center items-center",
+            "overlay_text_align": "text-center",
+            "mob_center_text": false,
+            "subheading": "Inspiriert von der Natur",
+            "heading": "Designed in Rostock",
+            "heading_size": "h0",
+            "heading_h1": false,
+            "text": "<p>Unsere Designs entstehen in Rostock, geprägt von der Nähe zum Meer und der Natur. Diese Verbindung spiegelt sich in unseren zeitlosen Lederkreationen wider – natürlich, authentisch und mit viel Liebe zum Detail.</p>",
+            "enlarge_text": true,
+            "button_1_label": "Über Gusti",
+            "button_1_link": "",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "Slow Fashion",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary",
+            "transparent_content_color": "#ffffff",
+            "countdown_show": false,
+            "countdown_end_date": "",
+            "countdown_end_time": "",
+            "countdown_end_text": "",
+            "enlarge_end_text": false,
+            "countdown_hide_on_end": false,
+            "use_custom_colors": false,
+            "count_color": "#ffffff",
+            "bg_color": "#070707",
+            "bg_grad": ""
+          }
+        },
+        "slide_7LFPED": {
+          "type": "slide",
+          "settings": {
+            "url": "",
+            "overlay_position": "justify-center items-center",
+            "overlay_text_align": "text-center",
+            "mob_center_text": false,
+            "subheading": "Subheading",
+            "heading": "Slideshow",
+            "heading_size": "h0",
+            "heading_h1": false,
+            "text": "<p>Share announcements and information with your customers and welcome them to your store.</p>",
+            "enlarge_text": true,
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary",
+            "transparent_content_color": "#ffffff",
+            "countdown_show": false,
+            "countdown_end_date": "",
+            "countdown_end_time": "",
+            "countdown_end_text": "",
+            "enlarge_end_text": false,
+            "countdown_hide_on_end": false,
+            "use_custom_colors": false,
+            "count_color": "#ffffff",
+            "bg_color": "#070707",
+            "bg_grad": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide_iify6q",
+        "slide_FeXVKB",
+        "slide_7LFPED"
+      ],
+      "settings": {
+        "height_mode": "auto",
+        "fixed_height_desktop": 600,
+        "fixed_height_mobile": 350,
+        "mobile_stacked": false,
+        "nav_style": "slideshow_nav_lines",
+        "pagination_color": "#ffffff",
+        "nav_position": "justify-center",
+        "transition": "slide-fade",
+        "autoplay": true,
+        "slider_pause": false,
+        "autoplay_speed": 5,
+        "color_scheme": "white",
+        "full_width": true,
+        "tint_color": "#000000",
+        "tint_opacity": 40,
+        "accessibility_info": "",
+        "prevent_animation": true
+      }
+    },
+    "recently_viewed_AxjKk3": {
+      "type": "recently-viewed",
+      "settings": {
+        "heading": "Zuletzte angesehen Produkte",
+        "heading_align": "text-start",
+        "layout": "carousel",
+        "card_size_mobile": "small",
+        "card_size": "small",
+        "limit": 8
+      }
+    }
+  },
+  "order": [
+    "main",
+    "details",
+    "icons_with_text_YwygDr",
+    "product-features",
+    "recommendations",
+    "slideshow_FGXjXJ",
+    "recently_viewed_AxjKk3"
+  ]
+}
