@@ -195,20 +195,10 @@
 <video
   class="{{ video_class }}"
  playsinline="playsinline" controls="controls" autoplay="autoplay" loop="loop" preload="none" muted="muted" 
-  poster={{ preview_image | img_url: 'master' }} 
+  poster="{{ preview_image | img_url: 'master' }}"
   >
     <source src="{{ media }}" type="video/mp4">
-   {% render 'image',
-      image: preview_image,
-      widths: widths,
-      mobile_widths: '690, 800',
-      src_width: src_width,
-      sizes: sizes,
-      lazy_load: lazy_load,
-      class: img_class,
-      alt_text: media.alt,
-      disable_focal_point: true
-    %}
+   <img src="{{ preview_image | img_url: 'master' }}">
 </video>
     </template>
 {% else %}
