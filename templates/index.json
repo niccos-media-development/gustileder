@@ -895,7 +895,7 @@
             "countdown_hide_on_end": false,
             "use_custom_colors": false,
             "count_color": "#fff",
-            "bg_color": "#070707",
+            "bg_color": "rgba(0,0,0,0)",
             "bg_grad": ""
           }
         }
