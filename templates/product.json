@@ -172,7 +172,7 @@
     "product_list_nd7Epg": {
       "type": "product-list",
       "settings": {
-        "title": "Product list",
+        "title": "Passend zu Deinem Gusti Produkt {{ product.title }}",
         "heading_align": "text-start",
         "view_all_url": "",
         "product_list": "{{ product.metafields[\"shopify--discovery--product_recommendation\"].complementary_products.value }}",
@@ -193,15 +193,6 @@
     "icons_with_text_YwygDr": {
       "type": "icons-with-text",
       "blocks": {
-        "item_HfezCx": {
-          "type": "item",
-          "settings": {
-            "icon": "leather",
-            "heading": "",
-            "text": "<p>chromfreies Leder</p>",
-            "link": ""
-          }
-        },
         "item_nb3qVK": {
           "type": "item",
           "settings": {
@@ -225,7 +216,7 @@
           "settings": {
             "icon": "gift",
             "heading": "",
-            "text": "<p>Personalisierbar mit individueller Gravur </p>",
+            "text": "<p>Individuelle Gravur </p>",
             "link": ""
           }
         },
@@ -237,24 +228,33 @@
             "text": "<p>bezahle in 30 Tagen</p>",
             "link": ""
           }
+        },
+        "item_HfezCx": {
+          "type": "item",
+          "settings": {
+            "icon": "leather",
+            "heading": "",
+            "text": "<p>chromfreies Leder</p>",
+            "link": ""
+          }
         }
       },
       "block_order": [
-        "item_HfezCx",
         "item_nb3qVK",
         "item_xNMXFP",
         "item_pFq7mt",
-        "item_hE3Lf7"
+        "item_hE3Lf7",
+        "item_HfezCx"
       ],
       "settings": {
         "heading": "",
         "heading_align": "text-start",
-        "icon_size": 48,
+        "icon_size": 32,
         "title_type_scale": "medium",
         "text_type_scale": "medium",
         "icon_position": "beside",
-        "mobile_stack": false,
-        "section_height": "medium",
+        "mobile_stack": true,
+        "section_height": "xsmall",
         "color_scheme": "1",
         "full_width": true,
         "dividers": "none",
@@ -342,7 +342,7 @@
     "recommendations": {
       "type": "product-recommendations",
       "settings": {
-        "heading": "Finde ähnliche Produkte",
+        "heading": "Entdecke ähnliche Produkte zu {{ product.title }}",
         "heading_align": "text-start",
         "layout": "carousel",
         "card_size_mobile": "small",
