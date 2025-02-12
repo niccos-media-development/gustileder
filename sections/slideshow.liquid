@@ -193,14 +193,10 @@
          {%- if block.settings.video_desktop != blank or block.settings.video_mobile != blank -%}
             <div class="cust-video-wrapper relative w-full h-full">
               {%- if block.settings.video_placeholder != blank -%}
-                <img 
-                  class="cust-video-placeholder absolute top-0 left-0 w-full h-full object-cover transition-opacity duration-500 ease-in-out"
-                  src="{{ block.settings.video_placeholder | img_url: 'master' }}" 
-                  alt="Video Placeholder"
-                >
+                
                 {% assign img = block.settings.video_placeholder %}
                  {%- render 'image-desktop-and-mobile',
-                    class: 'img-fit',
+                    class: 'img-fit cust-video-placeholder',
                     desktop_image: img,
                     mobile_image: img,
                     src_width_mobile: 980,
