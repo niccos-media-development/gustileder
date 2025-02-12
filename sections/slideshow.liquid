@@ -198,6 +198,20 @@
                   src="{{ block.settings.video_placeholder | img_url: 'master' }}" 
                   alt="Video Placeholder"
                 >
+                {% assign img = block.settings.video_placeholder %}
+                 {%- render 'image-desktop-and-mobile',
+                    class: 'img-fit',
+                    desktop_image: img,
+                    mobile_image: img,
+                    src_width_mobile: 980,
+                    widths_mobile: '480, 980, 1200, 1400',
+                    src_width_desktop: 1400,
+                    widths_desktop: '480, 980, 1200, 1400, 1600, 1920, 2560, 3200',
+                    lazy_load: lazy_load,
+                    fetchpriority: fetchpriority,
+                    sizes: sizes,
+                    block: block
+                  -%}
               {%- endif -%}
             
               <video
