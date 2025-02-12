@@ -171,20 +171,15 @@
           {%- endif -%}
 
          {%- if block.settings.video_url != blank -%}
-              <div class="cust-video-wrapper relative w-full h-full">
-                  <video 
-                    class="cust-video absolute top-0 left-0 w-full h-full object-cover"
-                    src="{{ block.settings.video_url }}"
-                    {% if block.settings.video_autoplay %}autoplay{% endif %}
-                    {% if block.settings.video_loop %}loop{% endif %}
-                    {% if block.settings.video_muted %}muted{% endif %}
-                    playsinline>
-                  </video>
-                  <button class="cust-play-button absolute inset-0 flex items-center justify-center w-full h-full bg-black bg-opacity-50 text-white text-4xl transition-opacity duration-300">
-                    ▶
-                  </button>
-                </div>
-            {%- elsif img != blank -%}
+            <video 
+              class="cust-video-banner absolute top-0 left-0 w-full h-full object-cover"
+              src="{{ block.settings.video_url }}"
+              {% if block.settings.video_autoplay %}autoplay{% endif %}
+              {% if block.settings.video_loop %}loop{% endif %}
+              {% if block.settings.video_muted %}muted{% endif %}
+              playsinline>
+            </video>
+          {%- elsif img != blank -%}
 
             {%- liquid
               if section.settings.full_width

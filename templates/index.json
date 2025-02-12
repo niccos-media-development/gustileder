@@ -870,7 +870,7 @@
             "video_url": "https://pt.gusti-leder.de/download/streaming-playlists/hls/videos/7f860a70-e42e-4a34-9aab-710b1add157e-720-fragmented.mp4",
             "video_autoplay": true,
             "video_loop": true,
-            "video_muted": false,
+            "video_muted": true,
             "overlay_position": "justify-center items-center",
             "overlay_text_align": "text-center",
             "mob_center_text": false,
