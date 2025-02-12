@@ -194,7 +194,7 @@
     <template>
 <video
   class="{{ video_class }}"
- playsinline="playsinline" controls="controls" autoplay="autoplay" loop="loop" preload="none" muted="muted" 
+ playsinline="playsinline" controls="controls" autoplay="autoplay" loop="loop" preload="none" muted="muted" aria-label="{{ product.title }}"
   {% if preview_image %} poster="{{ preview_image | img_url: 'master' }}"{% endif %}
   >
     <source src="{{ media }}" type="video/mp4">
