@@ -203,6 +203,7 @@
     -%}
     {% if product.metafields.custom.video %}
       {% assign media = product.metafields.custom.video %}
+      {{ media }}
     {%  echo media | external_video_url: autoplay: true, loop: loop, playlist: media.external_id | external_video_tag: class: video_class, loading: 'lazy' %}
     {% endif %}
   </template>
