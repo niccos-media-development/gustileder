@@ -116,6 +116,24 @@
   {%- if bg_color -%}
     #{{ section.id }} .text-overlay { background: {{ bg_color }}; }
   {%- endif -%}
+        .cust-video-placeholder {
+        opacity: 1;
+        transition: opacity 0.5s ease-in-out;
+      }
+      
+      .cust-video-banner {
+        opacity: 0;
+        transition: opacity 0.5s ease-in-out;
+      }
+      
+      .cust-video-banner.cust-video-loaded {
+        opacity: 1;
+      }
+      
+      .cust-video-loaded + .cust-video-placeholder {
+        opacity: 0;
+      }
+
 {%- endstyle -%}
 
 <div class="slideshow-section section {% if section.settings.full_width %}section--full-width{% else %}container{% endif %}{% if section.settings.mobile_stacked and section.settings.height_mode != 'screen' %} mobile-stacked{% endif %}{% unless color_scheme == 'default' %} color-scheme color-scheme--{{ color_scheme }}{% endunless %}" id="{{ section.id }}">
@@ -171,25 +189,36 @@
           {%- endif -%}
 
          {%- if block.settings.video_desktop != blank or block.settings.video_mobile != blank -%}
+            <div class="cust-video-wrapper relative w-full h-full">
+              {%- if block.settings.video_placeholder != blank -%}
+                <img 
+                  class="cust-video-placeholder absolute top-0 left-0 w-full h-full object-cover transition-opacity duration-500 ease-in-out"
+                  src="{{ block.settings.video_placeholder | img_url: 'master' }}" 
+                  alt="Video Placeholder"
+                >
+              {%- endif -%}
+            
               <video
-                class="cust-video-banner absolute top-0 left-0 w-full h-full object-cover"
+                class="cust-video-banner absolute top-0 left-0 w-full h-full object-cover opacity-0 transition-opacity duration-500 ease-in-out"
                 {% if block.settings.video_autoplay %}autoplay{% endif %}
                 {% if block.settings.video_loop %}loop{% endif %}
                 {% if block.settings.video_muted %}muted{% endif %}
-                playsinline>
-                
+                playsinline
+                onloadeddata="this.classList.add('cust-video-loaded')"
+              >
                 {%- if block.settings.video_desktop != blank -%}
-                  <source src="{{ block.settings.video_desktop }}"  {%- if block.settings.video_mobile != blank -%}media="(min-width: 601px)"{% endif %} type="video/mp4">
+                  <source src="{{ block.settings.video_desktop }}" media="(min-width: 601px)" type="video/mp4">
                 {%- endif -%}
                 
                 {%- if block.settings.video_mobile != blank -%}
                   <source src="{{ block.settings.video_mobile }}" media="(max-width: 600px)" type="video/mp4">
-                  {% else %}
                 {%- endif -%}
             
                 <!-- Fallback text -->
                 Your browser does not support the video tag.
               </video>
+            </div>
+
           {%- elsif img != blank -%}
 
             {%- liquid
@@ -620,6 +649,12 @@
           "type": "url",
           "id": "video_mobile",
           "label": "Mobile Video URL (MP4 format)"
+        },
+        {
+          "type": "image_picker",
+          "id": "video_placeholder",
+          "label": "Placeholder Image",
+          "info": "Shown while the video loads."
         },
         {
           "type": "checkbox",
