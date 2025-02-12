@@ -201,13 +201,14 @@
               {%- endif -%}
             
               <video
-                class="cust-video-banner absolute top-0 left-0 w-full h-full object-cover opacity-0 transition-opacity duration-500 ease-in-out"
-                {% if block.settings.video_autoplay %}autoplay{% endif %}
-                {% if block.settings.video_loop %}loop{% endif %}
-                {% if block.settings.video_muted %}muted{% endif %}
-                playsinline
-                onloadeddata="this.classList.add('cust-video-loaded')"
-              >
+                  class="cust-video-banner absolute top-0 left-0 w-full h-full object-cover opacity-0 transition-opacity duration-500 ease-in-out"
+                  {% if block.settings.video_autoplay %}autoplay{% endif %}
+                  {% if block.settings.video_loop %}loop{% endif %}
+                  {% if block.settings.video_muted %}muted{% endif %}
+                  playsinline
+                  preload="none"  <!-- Prevents preloading until needed -->
+                  onloadeddata="this.classList.add('cust-video-loaded')"
+                >
                 {%- if block.settings.video_desktop != blank -%}
                   <source src="{{ block.settings.video_desktop }}"{%- if block.settings.video_mobile != blank -%} media="(min-width: 601px)"{%- endif -%}type="video/mp4">
                 {%- endif -%}
