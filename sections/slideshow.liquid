@@ -209,7 +209,7 @@
                 onloadeddata="this.classList.add('cust-video-loaded')"
               >
                 {%- if block.settings.video_desktop != blank -%}
-                  <source src="{{ block.settings.video_desktop }}" media="(min-width: 601px)" type="video/mp4">
+                  <source src="{{ block.settings.video_desktop }}"{%- if block.settings.video_mobile != blank -%} media="(min-width: 601px)"{%- endif -%}type="video/mp4">
                 {%- endif -%}
                 
                 {%- if block.settings.video_mobile != blank -%}
