@@ -173,7 +173,7 @@
       </span>
     {%- endif -%}
     {% if preview_image %}
-{% assign preview_image = media.preview_image %}
+{% assign preview_image = preview_image %}
     {% else %}
       {% assign preview_image = media.preview_image %}
     {% endif %}
@@ -197,6 +197,7 @@
  playsinline="playsinline" controls="controls" autoplay="autoplay" loop="loop" preload="none" muted="muted"
 >
     <source src="{{ media }}" type="video/mp4">
+  <img src="//gustileder.myshopify.com/cdn/shop/files/preview_images/3e23dbc2fd1c4db4a9b584a92d79b56f.thumbnail.0000000000_1726x.jpg?v=1738053470">
 </video>
     </template>
 {% else %}
