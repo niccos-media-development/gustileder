@@ -133,7 +133,9 @@
       .cust-video-loaded + .cust-video-placeholder {
         opacity: 0;
       }
-
+      .cust-video-wrapper:has(video.cust-video-loaded) img {
+    display: none;
+}
 {%- endstyle -%}
 
 <div class="slideshow-section section {% if section.settings.full_width %}section--full-width{% else %}container{% endif %}{% if section.settings.mobile_stacked and section.settings.height_mode != 'screen' %} mobile-stacked{% endif %}{% unless color_scheme == 'default' %} color-scheme color-scheme--{{ color_scheme }}{% endunless %}" id="{{ section.id }}">
