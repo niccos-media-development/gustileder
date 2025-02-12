@@ -192,17 +192,18 @@
       
 {% if media_type %}
     <template>
+      {% unless preview_image %}
+        {% assign preview_image = product.featured_image %}
+      {% endunless %}
+    
 <video
   class="{{ video_class }}"
  playsinline="playsinline" controls="controls" autoplay="autoplay" loop="loop" preload="none" muted="muted" aria-label="{{ product.title }}"
-  {% if preview_image %} poster="{{ product.featured_image | img_url: 'master' }}"{% endif %}
+  {% if preview_image %} poster="{{ preview_image | img_url: 'master' }}"{% endif %}
   >
     <source src="{{ media }}" type="video/mp4">
-  {% if preview_image %}
    <img src="{{ preview_image | img_url: 'master' }}">
-{% else %}
-     <img src="{{ product.featured_image | img_url: 'master' }}">
-    {% endif %}
+
 </video>
     </template>
 {% else %}
