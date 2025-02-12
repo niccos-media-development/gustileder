@@ -18,6 +18,10 @@
             "image_desktop": "shopify://shop_images/Desktop1_2.jpg",
             "image_mobile": "shopify://shop_images/mob1_1.jpg",
             "url": "",
+            "video_url": "",
+            "video_autoplay": false,
+            "video_loop": false,
+            "video_muted": true,
             "overlay_position": "justify-start items-center",
             "overlay_text_align": "text-center",
             "mob_center_text": false,
@@ -52,6 +56,10 @@
             "image_desktop": "shopify://shop_images/Desktop3_1.jpg",
             "image_mobile": "shopify://shop_images/mob3_1.jpg",
             "url": "",
+            "video_url": "",
+            "video_autoplay": false,
+            "video_loop": false,
+            "video_muted": true,
             "overlay_position": "justify-center items-center",
             "overlay_text_align": "text-center",
             "mob_center_text": false,
@@ -86,6 +94,10 @@
             "image_desktop": "shopify://shop_images/Desktop4_1.jpg",
             "image_mobile": "shopify://shop_images/mob4_1.jpg",
             "url": "",
+            "video_url": "",
+            "video_autoplay": false,
+            "video_loop": false,
+            "video_muted": true,
             "overlay_position": "justify-center items-center",
             "overlay_text_align": "text-center",
             "mob_center_text": false,
@@ -640,6 +652,10 @@
           "settings": {
             "image_desktop": "shopify://shop_images/banner_gravur.png",
             "url": "",
+            "video_url": "",
+            "video_autoplay": false,
+            "video_loop": false,
+            "video_muted": true,
             "overlay_position": "justify-center items-center",
             "overlay_text_align": "text-center",
             "mob_center_text": false,
@@ -673,6 +689,10 @@
           "settings": {
             "image_desktop": "shopify://shop_images/Startseite-Banner-9.png",
             "url": "",
+            "video_url": "",
+            "video_autoplay": false,
+            "video_loop": false,
+            "video_muted": true,
             "overlay_position": "justify-center items-center",
             "overlay_text_align": "text-center",
             "mob_center_text": false,
@@ -706,6 +726,10 @@
           "settings": {
             "image_desktop": "shopify://shop_images/Startseite-Banner-3.png",
             "url": "",
+            "video_url": "",
+            "video_autoplay": false,
+            "video_loop": false,
+            "video_muted": true,
             "overlay_position": "justify-center items-center",
             "overlay_text_align": "text-center",
             "mob_center_text": false,
@@ -835,6 +859,69 @@
         "dividers": "none",
         "prevent_animation": false
       }
+    },
+    "slideshow_NyxLdH": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_4UDXaQ": {
+          "type": "slide",
+          "settings": {
+            "url": "",
+            "video_url": "https://pt.gusti-leder.de/download/streaming-playlists/hls/videos/7f860a70-e42e-4a34-9aab-710b1add157e-720-fragmented.mp4",
+            "video_autoplay": true,
+            "video_loop": true,
+            "video_muted": true,
+            "overlay_position": "justify-center items-center",
+            "overlay_text_align": "text-center",
+            "mob_center_text": false,
+            "subheading": "Subheading",
+            "heading": "Slideshow",
+            "heading_size": "h0",
+            "heading_h1": false,
+            "text": "<p>Share announcements and information with your customers and welcome them to your store.</p>",
+            "enlarge_text": true,
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary",
+            "transparent_content_color": "#ffffff",
+            "countdown_show": false,
+            "countdown_end_date": "",
+            "countdown_end_time": "",
+            "countdown_end_text": "",
+            "enlarge_end_text": false,
+            "countdown_hide_on_end": false,
+            "use_custom_colors": false,
+            "count_color": "#fff",
+            "bg_color": "#070707",
+            "bg_grad": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide_4UDXaQ"
+      ],
+      "settings": {
+        "height_mode": "auto",
+        "fixed_height_desktop": 600,
+        "fixed_height_mobile": 350,
+        "mobile_stacked": false,
+        "nav_style": "slideshow_nav_lines",
+        "pagination_color": "#ffffff",
+        "nav_position": "justify-center",
+        "transition": "slide-fade",
+        "autoplay": true,
+        "slider_pause": false,
+        "autoplay_speed": 5,
+        "color_scheme": "white",
+        "full_width": true,
+        "tint_color": "#000000",
+        "tint_opacity": 40,
+        "accessibility_info": "",
+        "prevent_animation": true
+      }
     }
   },
   "order": [
@@ -849,6 +936,7 @@
     "product_list_gyXPw6",
     "media_with_text_GUbDBt",
     "slideshow_FXxDXH",
-    "icons_with_text_LJnyXR"
+    "icons_with_text_LJnyXR",
+    "slideshow_NyxLdH"
   ]
 }
