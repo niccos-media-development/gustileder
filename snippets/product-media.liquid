@@ -193,11 +193,7 @@
 {% if media_type %}
 <video
   class="{{ video_class }}"
-  loading='lazy'
-  autoplay
-  loop
-  muted
-  playsinline
+ playsinline="playsinline" controls="controls" autoplay="autoplay" loop="loop" preload="none" muted="muted"
 >
     <source src="{{ media }}" type="video/mp4">
 </video>
