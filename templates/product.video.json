@@ -58,7 +58,9 @@
         },
         "variant_swatch_G8EArw": {
           "type": "variant_swatch",
-          "settings": {}
+          "settings": {
+            "shape": "square"
+          }
         },
         "buy-buttons": {
           "type": "buy-buttons",
@@ -173,9 +175,9 @@
         "item_HfezCx": {
           "type": "item",
           "settings": {
-            "icon": "leather",
+            "icon": "box",
             "heading": "",
-            "text": "<p>chromfreies Leder</p>",
+            "text": "<p>schneller Versand </p>",
             "link": ""
           }
         },
@@ -202,7 +204,7 @@
           "settings": {
             "icon": "gift",
             "heading": "",
-            "text": "<p>Personalisierbar mit individueller Gravur </p>",
+            "text": "<p>individuelle Gravur </p>",
             "link": ""
           }
         },
@@ -226,16 +228,48 @@
       "settings": {
         "heading": "",
         "heading_align": "text-start",
-        "icon_size": 48,
+        "icon_size": 24,
         "title_type_scale": "medium",
         "text_type_scale": "medium",
         "icon_position": "beside",
-        "mobile_stack": false,
-        "section_height": "medium",
+        "mobile_stack": true,
+        "section_height": "xsmall",
         "color_scheme": "1",
         "full_width": true,
         "dividers": "none",
         "prevent_animation": false
+      }
+    },
+    "video_ezPgRg": {
+      "type": "video",
+      "blocks": {
+        "heading_Gt7N8c": {
+          "type": "heading",
+          "settings": {
+            "heading": "Video",
+            "heading_size": "h1",
+            "heading_h1": false
+          }
+        },
+        "text_MyGQ6j": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Add text to a video to showcase a detail of your brand or product line.</p>",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_Gt7N8c",
+        "text_MyGQ6j"
+      ],
+      "settings": {
+        "video_external": "",
+        "video_description": "",
+        "video_size": "md",
+        "video_autoplay": true,
+        "text_align": "text-center",
+        "color_scheme": "1"
       }
     },
     "product-features": {
@@ -307,6 +341,7 @@
         "mob_center_text": false,
         "heading_size": "h1",
         "enlarge_text": false,
+        "image": "{{ section.settings.product.metafields.custom.produktfeatures.value }}",
         "title": "",
         "description": "",
         "button_label": "",
@@ -395,44 +430,11 @@
             "bg_color": "#070707",
             "bg_grad": ""
           }
-        },
-        "slide_7LFPED": {
-          "type": "slide",
-          "settings": {
-            "url": "",
-            "overlay_position": "justify-center items-center",
-            "overlay_text_align": "text-center",
-            "mob_center_text": false,
-            "subheading": "Subheading",
-            "heading": "Slideshow",
-            "heading_size": "h0",
-            "heading_h1": false,
-            "text": "<p>Share announcements and information with your customers and welcome them to your store.</p>",
-            "enlarge_text": true,
-            "button_1_label": "Optional button",
-            "button_1_link": "",
-            "button_1_style": "btn btn--primary",
-            "button_2_label": "Optional button",
-            "button_2_link": "",
-            "button_2_style": "btn btn--primary",
-            "transparent_content_color": "#ffffff",
-            "countdown_show": false,
-            "countdown_end_date": "",
-            "countdown_end_time": "",
-            "countdown_end_text": "",
-            "enlarge_end_text": false,
-            "countdown_hide_on_end": false,
-            "use_custom_colors": false,
-            "count_color": "#ffffff",
-            "bg_color": "#070707",
-            "bg_grad": ""
-          }
         }
       },
       "block_order": [
         "slide_iify6q",
-        "slide_FeXVKB",
-        "slide_7LFPED"
+        "slide_FeXVKB"
       ],
       "settings": {
         "height_mode": "auto",
@@ -454,6 +456,51 @@
         "prevent_animation": true
       }
     },
+    "media_with_text_pPQFh3": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_mKFfga": {
+          "type": "heading",
+          "settings": {
+            "heading": "Media with text",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "text_c9iBL8": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_MmcTQH": {
+          "type": "button",
+          "settings": {
+            "button_label": "Optional button",
+            "button_link": "",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_mKFfga",
+        "text_c9iBL8",
+        "button_MmcTQH"
+      ],
+      "settings": {
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "left",
+        "image_fit": "contain",
+        "media_width": 50,
+        "media_scale": 100,
+        "text_align": "text-start",
+        "color_scheme": "none",
+        "only_content_color_scheme": false
+      }
+    },
     "recently_viewed_AxjKk3": {
       "type": "recently-viewed",
       "settings": {
@@ -470,9 +517,11 @@
     "main",
     "details",
     "icons_with_text_YwygDr",
+    "video_ezPgRg",
     "product-features",
     "recommendations",
     "slideshow_FGXjXJ",
+    "media_with_text_pPQFh3",
     "recently_viewed_AxjKk3"
   ]
 }
