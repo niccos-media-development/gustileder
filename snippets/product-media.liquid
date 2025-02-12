@@ -197,7 +197,17 @@
  playsinline="playsinline" controls="controls" autoplay="autoplay" loop="loop" preload="none" muted="muted"
 >
     <source src="{{ media }}" type="video/mp4">
-  <img src="//gustileder.myshopify.com/cdn/shop/files/preview_images/3e23dbc2fd1c4db4a9b584a92d79b56f.thumbnail.0000000000_1726x.jpg?v=1738053470">
+   {% render 'image',
+      image: preview_image,
+      widths: widths,
+      mobile_widths: '690, 800',
+      src_width: src_width,
+      sizes: sizes,
+      lazy_load: lazy_load,
+      class: img_class,
+      alt_text: media.alt,
+      disable_focal_point: true
+    %}
 </video>
     </template>
 {% else %}
