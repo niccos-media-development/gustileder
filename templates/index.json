@@ -626,13 +626,16 @@
       "settings": {
         "title": "Schnäppchenalarm bei Gusti Leder",
         "heading_align": "text-start",
-        "view_all_url": "",
+        "view_all_url": "shopify://collections/sale-test",
         "product_list": [
-          "agatha-1",
           "shopper-handtasche-henkeltasche-2h52-33-1",
-          "geldboerse-portemonnaie-brieftasche-2a139-22-6",
-          "geldboerse-portemonnaie-brieftasche-2a54-22-6",
-          "guerteltasche-bauchtasche-festivaltasche-2g7-22-5"
+          "travel-bag-carry-on-bag-carryall-cabin-bag-holdall-hand-luggage-sports-bag-sports-holdall-leather-bag-brown-leather-2r40-20-5wp",
+          "handtasche-shopper-umhaengetasche-damen-vintage-schwarz-leder-2m48-72-1",
+          "umhaengetasche-handtasche-schultertasche-partytasche-festivaltasche-ledertasche-leder-schwarz-2g153-22-98",
+          "backpack-laptop-bag-city-backpack-leather-backpack-briefcase-womens-mens-brown-leather-12-litre-2m93-20-64",
+          "wallet-purse-mini-purse-mini-wallet-change-purse-small-wallet-womens-black-leather-2a327-20-65",
+          "shoulder-bag-handbag-purse-small-evening-bag-leather-bag-vintage-grey-leather-2h172-20-61",
+          "stiftemappe-federtasche-federmappe-stiftetui-braun-leder-2s2-22-96"
         ],
         "layout": "carousel",
         "card_size_mobile": "small",
