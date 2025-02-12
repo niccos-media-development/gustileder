@@ -9,7 +9,7 @@
             {% endif %}
         </a>
         {%- for swatch in product.metafields.custom.variant_swatches.value -%}
-            {%- if swatch.available -%}
+            {%- if swatch -%}
                 <a href="{{ swatch.url }}" class="cust-swatch-item" title="{{ swatch.title }}">
                   {% if swatch.metafields.custom.swatch_featured_image %}
                     <img src="{{ swatch.metafields.custom.swatch_featured_image | img_url: 'master' }}" alt="{{ swatch.title }}">
