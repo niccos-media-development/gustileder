@@ -24,6 +24,7 @@
       "block_order": [
         "heading_MTUJwa"
       ],
+      "disabled": true,
       "settings": {
         "url": "",
         "height_mode": "fixed",
@@ -43,13 +44,12 @@
     },
     "collection-banner": {
       "type": "main-collection-banner",
-      "disabled": true,
       "settings": {
         "show_collection_title": true,
         "show_product_count": true,
         "show_collection_description": false,
-        "text_align": "text-start",
-        "collection_image": "1.77",
+        "text_align": "items-center text-center",
+        "collection_image": "none",
         "use_product_image": false,
         "text_width": "standard",
         "color_scheme": "default"
