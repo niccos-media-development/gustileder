@@ -200,6 +200,8 @@
     <source src="{{ media }}" type="video/mp4">
   {% if preview_image %}
    <img src="{{ preview_image | img_url: 'master' }}">
+{% else %}
+     <img src="{{ product.featured_image | img_url: 'master' }}">
     {% endif %}
 </video>
     </template>
