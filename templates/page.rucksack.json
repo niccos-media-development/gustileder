@@ -192,12 +192,12 @@
           "type": "column",
           "settings": {
             "enable_media": true,
-            "image": "shopify://shop_images/Henning_5a84c9c1-9a5c-4f93-a68b-d40f935fdec3.jpg",
+            "image": "shopify://shop_images/bendik_dcc60c54-4301-4120-b2df-ffa5fff86660.jpg",
             "media_scale": 100,
-            "heading": "Henning",
-            "text": "<p>Wir haben besonderen Wert auf Form und Design gelegt, als wir unseren klassischen Rolltop-Rucksack \"<strong>Henning</strong>” kreiert haben. Dieser Rucksack bietet viel Platz für alles, was Du während eines geschäftigen Tages im Büro oder an der Uni brauchst. Er verfügt über ein geräumiges Hauptfach mit zusätzlichen Fächern und Innentaschen mit Reißverschluss, in denen Du Deine Sachen griffbereit aufbewahren kannst. Unser durchdacht gestalteter Vintage-Rucksack ist ein unglaubliches Accessoire, das zu deinem Stil passt.</p><p><strong>Größe             </strong>27 x 40 x 9 cm</p><p><strong>Lederart        </strong>Rindsleder</p><p><strong>Innen Fächer </strong>3</p><p><strong>Außenfach </strong>1</p><p><strong>Verschluss  </strong>Reiß- und Schnappverschluss</p>",
+            "heading": "Bendik",
+            "text": "<p>Darf es ein bisschen mehr sein? Unsere größeren Modelle bieten Dir auch für einen Wochenendtrip ausreichend Platz und Komfort.</p><p>Unser \"<strong>Bendik</strong>\" ist Urlaub für Deinen Rücken. Gepolsterte, längenverstellbare Schulterriemen und die Canvas-Rückseite mit Polsterung sorgen für optimalen Tragekomfort. Außerdem bringt unser Lederrucksack \"Bendik\" definitiv Ordnung in Dein Chaos. Ein geräumiges Innenfach mit zusätzlichen Steckfächern und ein separates Laptopfach lassen keine Wünsche offen. Der einfache Verschlussmechanismus am Hauptfach schützt Deine Habseligkeiten und bietet Dir schnellen Zugang.</p><p><strong>Größe            </strong>38,5 x 49 x 10 cm</p><p><strong>Lederart        </strong>Büffelleder</p><p><strong>Innen Fächer </strong>1</p><p><strong>Außenfach </strong>-</p><p><strong>Verschluss  </strong>Metallschließe</p>",
             "button_label": "",
-            "button_link": "shopify://products/backpack-rucksack-messenger-bag-leather-backpack-leather-rucksack-vintage-backpack-hiking-backpack-laptop-bag-college-bag-brown-leather-13-litres-2m109-80-4"
+            "button_link": "shopify://products/kurierrucksack-rucksack-lederrucksack-vintage-cityrucksack-outdoorrucksack-laptoptasche-unirucksack-wanderrucksack-braun-leder-2m111-20-5wp"
           }
         },
         "column_VizkFe": {
@@ -206,10 +206,10 @@
             "enable_media": true,
             "image": "shopify://shop_images/milo.jpg",
             "media_scale": 100,
-            "heading": "Roven",
-            "text": "<p>Die Stadt erkunden oder einfach nur die Geschäfte besuchen? Der Rucksack \"Milo\" bietet ausreichend Platz für Deine Essentials, egal wofür. Er verfügt über robuste Schulterriemen, die super bequem sind, sowie ein geräumiges Reißverschluss-Hauptfach und eine aufgesetzte Tasche auf der Vorderseite. Dieser schicke Leder-Rucksack wird ganz leicht zu Deinem bevorzugten Accessoire für jedes Abenteuer.<br/><br/>Halte Deine Lederlieblinge weich und schütze sie vor Feuchtigkeit und Kratzern, indem Du Gustis Natur Wachs aufträgst!<br/><br/><strong>Größe             </strong>31 x 38 x 11 cm</p><p><strong>Lederart        </strong>Ziegenleder</p><p><strong>Innen Fächer </strong>1</p><p><strong>Außenfach </strong>1</p><p><strong>Verschluss  </strong>Reißverschluss</p>",
+            "heading": "Niki",
+            "text": "<p>Wenn Du nach einem klassischen und praktischen Rucksack mit Reißverschluss suchst, ist unser \"<strong>Niki</strong>” genau das, was Du gesucht hast. Dieser Rucksack wird dank seines eleganten Designs und seiner Funktionalität schnell zu deinem Lieblingsaccessoire. Mit einem Gewicht von weniger als 1,28 kg ist \"Niki\" super bequem zu tragen. Innen gibt es fünf Fächer unterschiedlicher Größe, sodass in diesem Vintage-Leder Rucksack viel Platz für Deine Sachen ist.<br/><br/><strong>Größe             </strong>35 x 40 x 14 cm</p><p><strong>Lederart        </strong>Büffelleder</p><p><strong>Innen Fächer </strong>5</p><p><strong>Außenfach </strong>2</p><p><strong>Verschluss  </strong>Reißverschluss</p>",
             "button_label": "",
-            "button_link": "shopify://products/kurierrucksack-rucksack-lederrucksack-vintage-cityrucksack-outdoorrucksack-laptoptasche-unirucksack-wanderrucksack-braun-leder-m119-1-1"
+            "button_link": "shopify://products/rucksack-lederrucksack-herren-damen-vintage-braun-leder-2m40-20-5wp"
           }
         }
       },
@@ -229,6 +229,166 @@
         "image_ratio": "1",
         "color_scheme": "1",
         "button_style": "btn btn--secondary"
+      }
+    },
+    "multi_column_Bkd6pV": {
+      "type": "multi-column",
+      "blocks": {
+        "column_cxdJdd": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/jaime.jpg",
+            "media_scale": 100,
+            "heading": "Jaime",
+            "text": "<p>Du suchst einen modernen Look im Vintage Style? Dann bist Du bei uns goldrichtig. Auch hier setzen wir auf robustes Büffelleder.<br/><br/>Unser \"Jaime\" ist an Lässigkeit kaum zu überbieten und kommt ganz ohne Schnick Schnack aus. Der einfache Kordelzug mit zusätzlichem Steckverschluss in schicker Dornschnallenoptik ist ein echter Hingucker und lässt diesen Lederrucksack auch gut aussehen, wenn er mal nur</p><p><strong>Größe            </strong>28 x 38 x 15,5 cm</p><p><strong>Lederart        </strong>Büffelleder</p><p><strong>Innen Fächer </strong>1</p><p><strong>Außenfach </strong>-</p><p><strong>Verschluss  </strong>Schnappschloss</p>",
+            "button_label": "",
+            "button_link": "shopify://products/messenger-bag-backpack-leather-backpack-vintage-city-backpack-hiking-backpack-laptop-case-college-bag-brown-leather-17-liter-2m21-20-5wp-male"
+          }
+        },
+        "column_djcq7h": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Larisa.jpg",
+            "media_scale": 100,
+            "heading": "Larisa",
+            "text": "<p>Schau Dir \"<strong>Larisa</strong>\" an, eine zeitlose, klassische Tasche mit vielen modernen Funktionen. Unser kompakter Lederrucksack ist stilvoll und funktional. Dieser klassische schwarze Rucksack mag klein aussehen, bietet aber viel Platz, um Deine wichtigsten Dinge sicher zu verstauen. Du kannst dieses schöne Lederaccessoire ins Büro mitnehmen oder beim Erkunden der Stadt tragen.<br/><br/><strong>Größe             </strong>29 x 44 x 13,5 cm</p><p><strong>Lederart        </strong>Rindsleder</p><p><strong>Innen Fächer </strong>4</p><p><strong>Außenfach </strong>1</p><p><strong>Verschluss  </strong>Reißverschluss</p>",
+            "button_label": "",
+            "button_link": "shopify://products/backpack-leather-backpack-rucksack-bag-black-leather-2m129-20-55"
+          }
+        },
+        "column_g9rmCU": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Mattis_063a07de-a9c8-4467-940f-fa2b501f1d31.jpg",
+            "media_scale": 100,
+            "heading": "Mattis",
+            "text": "<p>\"<strong>Mattis</strong>\" ist unser einziger Lederrucksack mit einem stabilem Schnappverschluss aus Kunststoff. Zudem gibt er Dir durch deine Reißverschlussfach auf der Vorderseite die Möglichkeit, Kleinigkeiten schnell zu verstauen. Ansonsten bietet Dir dieser klassische, robuste Daypack reichlich Platz für einen DIN A4-Ordner oder ein 15\"-Notebook und schont deine Schulterpartie durch großzügigen Tragekomfort.<br/><br/><strong>Größe             </strong>32 x 44 x 13 cm</p><p><strong>Lederart        </strong>Büffelleder</p><p><strong>Innen Fächer </strong>1</p><p><strong>Außenfach </strong>1</p><p><strong>Verschluss  </strong>Schnappschloss</p>",
+            "button_label": "",
+            "button_link": "shopify://products/rolltop-kurierrucksack-rucksack-lederrucksack-vintage-cityrucksack-outdoorrucksack-laptoptasche-unirucksack-wanderrucksack-braun-leder-18l-2m31-20-5wp"
+          }
+        }
+      },
+      "block_order": [
+        "column_cxdJdd",
+        "column_djcq7h",
+        "column_g9rmCU"
+      ],
+      "settings": {
+        "title": "Die Eleganten",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "layout": "carousel",
+        "column_size": "medium",
+        "column_align": "left",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "multi_column_xqWpfB": {
+      "type": "multi-column",
+      "blocks": {
+        "column_ABNVgH": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Kieran_86d110e0-7b2c-466c-852f-bd3cd6389c49.jpg",
+            "media_scale": 100,
+            "heading": "Kieran",
+            "text": "<p>Du möchtest deinen lässigen Kleidungsstil mit einem mindestens genauso lässigen Lederrucksack kombinieren? Dann wirst du sicher bei uns fündig!</p><p>\"<strong>Kieran</strong>\" ist elegant und kann jedes Outfit perfekt ergänzen. Der Rucksack bietet ausreichend Platz für alle Deine Essentials, während du die lebhaften Städte erkundest. Dieser klassische und elegante Rucksack ist absolut angenehm zu tragen.</p><p><strong>Größe            </strong>30,5 x 36 x 10 cm</p><p><strong>Lederart        </strong>Ziegenleder</p><p><strong>Innen Fächer </strong>3</p><p><strong>Außenfach </strong>1</p><p><strong>Verschluss  </strong>Reißverschluss</p>",
+            "button_label": "",
+            "button_link": "shopify://products/2m82-20-39"
+          }
+        },
+        "column_AHznND": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/joy.jpg",
+            "media_scale": 100,
+            "heading": "Joy",
+            "text": "<p>Bei \"<strong>Joy</strong>\" ist der Name Programm. Dieser Rucksack mit angesagtem Fliptop wird Dir viele Jahre Freude bereiten. Sein genialer Magnetverschluss lässt Dich blitzschnell zum Innenfach gelangen. Dieses besticht durch ein zusätzliches Steck-und Reißverschlussfach. Dort finden problemlos ein DIN A4 Block oder dein 15\"-Notebook Platz. Das seitliche Reißverschlussfach außen ist zudem ein echter Gamechanger. So kannst Du wichtige Dinge, wie Handy, Schlüssel oder Geldbörse, mit nur einem Handgriff verstauen.<br/><br/><strong>Größe             </strong>28 x 42 x 19 cm</p><p><strong>Lederart       </strong>Büffelleder</p><p><strong>Innen Fächer </strong>2</p><p><strong>Außenfach </strong>1</p><p><strong>Verschluss  </strong>Reißverschluss</p>",
+            "button_label": "",
+            "button_link": "shopify://products/backpack-leather-backpack-rucksack-bag-brown-leather-2m112-20-5wpb"
+          }
+        }
+      },
+      "block_order": [
+        "column_ABNVgH",
+        "column_AHznND"
+      ],
+      "settings": {
+        "title": "Die Lässigen",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "layout": "carousel",
+        "column_size": "medium",
+        "column_align": "left",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "rich_text_gzbGfc": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_hJqhCe": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_4QQnn9": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Rich text headline",
+            "heading_size": "h2",
+            "heading_h1": false
+          }
+        },
+        "text_zWAgmf": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Egal ob online oder in einem unserer Stores in deiner Nähe: Bei uns kannst Du diese und zahlreiche weitere Lederrucksäcke entdecken. Also nimm Dir Zeit, lass Dich inspirieren und finde Deinen persönlichen Favoriten. Denn unsere Lederrucksäcke werden Dich lange begleiten und unterstützen. Wir freuen uns, dass Du, genau wie wir, auf Nachhaltigkeit setzt und Dich an einem langlebigen, fair produzierten Produkt interessierst. Dein Rücken und Dein Wohlbefinden werden dir dafür danken!</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_YFmzTp": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_hJqhCe",
+        "heading_4QQnn9",
+        "text_zWAgmf",
+        "button_YFmzTp"
+      ],
+      "settings": {
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "wide": false,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
       }
     },
     "collection_list_RHeKBJ": {
@@ -324,6 +484,9 @@
     "rich_text_xRkaqE",
     "multi_column_ThbWAU",
     "multi_column_YhwE3w",
+    "multi_column_Bkd6pV",
+    "multi_column_xqWpfB",
+    "rich_text_gzbGfc",
     "collection_list_RHeKBJ",
     "featured_collection_fw9w9V"
   ]
