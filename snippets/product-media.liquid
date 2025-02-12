@@ -191,12 +191,14 @@
   </button>
       
 {% if media_type %}
+    <template>
 <video
   class="{{ video_class }}"
  playsinline="playsinline" controls="controls" autoplay="autoplay" loop="loop" preload="none" muted="muted"
 >
     <source src="{{ media }}" type="video/mp4">
 </video>
+    </template>
 {% else %}
   <template>
     {%- liquid
