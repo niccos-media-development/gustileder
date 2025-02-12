@@ -361,7 +361,7 @@
             "overlay_position": "justify-center items-center",
             "overlay_text_align": "text-center",
             "mob_center_text": false,
-            "subheading": "Subheading",
+            "subheading": "",
             "heading": "Nachhaltigkeit",
             "heading_size": "h0",
             "heading_h1": false,
@@ -418,44 +418,11 @@
             "bg_color": "#070707",
             "bg_grad": ""
           }
-        },
-        "slide_7LFPED": {
-          "type": "slide",
-          "settings": {
-            "url": "",
-            "overlay_position": "justify-center items-center",
-            "overlay_text_align": "text-center",
-            "mob_center_text": false,
-            "subheading": "Subheading",
-            "heading": "Slideshow",
-            "heading_size": "h0",
-            "heading_h1": false,
-            "text": "<p>Share announcements and information with your customers and welcome them to your store.</p>",
-            "enlarge_text": true,
-            "button_1_label": "Optional button",
-            "button_1_link": "",
-            "button_1_style": "btn btn--primary",
-            "button_2_label": "Optional button",
-            "button_2_link": "",
-            "button_2_style": "btn btn--primary",
-            "transparent_content_color": "#ffffff",
-            "countdown_show": false,
-            "countdown_end_date": "",
-            "countdown_end_time": "",
-            "countdown_end_text": "",
-            "enlarge_end_text": false,
-            "countdown_hide_on_end": false,
-            "use_custom_colors": false,
-            "count_color": "#ffffff",
-            "bg_color": "#070707",
-            "bg_grad": ""
-          }
         }
       },
       "block_order": [
         "slide_iify6q",
-        "slide_FeXVKB",
-        "slide_7LFPED"
+        "slide_FeXVKB"
       ],
       "settings": {
         "height_mode": "auto",
