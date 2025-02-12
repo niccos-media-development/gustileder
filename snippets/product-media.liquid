@@ -172,9 +172,13 @@
         {%- render 'icon-video' -%}
       </span>
     {%- endif -%}
-
+    {% if preview_image %}
+{% assign preview_image = media.preview_image %}
+    {% else %}
+      {% assign preview_image = media.preview_image %}
+    {% endif %}
     {% render 'image',
-      image: media.preview_image,
+      image: preview_image,
       widths: widths,
       mobile_widths: '690, 800',
       src_width: src_width,
