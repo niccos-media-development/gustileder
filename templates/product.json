@@ -358,6 +358,11 @@
           "settings": {
             "image_desktop": "shopify://shop_images/autumn-trees-hillside.jpg",
             "url": "",
+            "video_desktop": "",
+            "video_mobile": "",
+            "video_autoplay": false,
+            "video_loop": false,
+            "video_muted": true,
             "overlay_position": "justify-center items-center",
             "overlay_text_align": "text-center",
             "mob_center_text": false,
@@ -391,6 +396,11 @@
           "settings": {
             "image_desktop": "shopify://shop_images/tall-grasses-by-sandy-beach.jpg",
             "url": "",
+            "video_desktop": "",
+            "video_mobile": "",
+            "video_autoplay": false,
+            "video_loop": false,
+            "video_muted": true,
             "overlay_position": "justify-center items-center",
             "overlay_text_align": "text-center",
             "mob_center_text": false,
@@ -444,6 +454,52 @@
         "prevent_animation": true
       }
     },
+    "media_with_text_TM333A": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_mWPQGr": {
+          "type": "heading",
+          "settings": {
+            "heading": "Warum sind unsere Preise so attraktiv?",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "text_jAU7Y3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Hochwertiges Leder muss nicht teuer sein! Unsere Preise sind transparent, konstant und bewusst kalkuliert – ohne versteckte Kosten. Dank eigener Produktion, nachhaltiger Verpackung und einem durchdachten Logistiksystem können wir unsere Lederprodukte zu einem unschlagbaren Preis anbieten. So erhältst DU beste Qualität, ohne Kompromisse einzugehen. Unser Ziel? Dass dein neues Lederprodukt nicht nur erschwinglich ist, sondern auch dein täglicher Begleiter wird!</p><p><strong>Überzeuge dich selbst und entdecke unsere Lederfavoriten jetzt!</strong></p>",
+            "enlarge_text": false
+          }
+        },
+        "button_nGBhib": {
+          "type": "button",
+          "settings": {
+            "button_label": "Unsere Bestseller",
+            "button_link": "shopify://collections/bestseller",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_mWPQGr",
+        "text_jAU7Y3",
+        "button_nGBhib"
+      ],
+      "settings": {
+        "image": "{{ product.metafields.custom.kostentransparenzbilder.value }}",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "left",
+        "image_fit": "contain",
+        "media_width": 50,
+        "media_scale": 100,
+        "text_align": "text-start",
+        "color_scheme": "none",
+        "only_content_color_scheme": false
+      }
+    },
     "recently_viewed_AxjKk3": {
       "type": "recently-viewed",
       "settings": {
@@ -464,6 +520,7 @@
     "product-features",
     "recommendations",
     "slideshow_FGXjXJ",
+    "media_with_text_TM333A",
     "recently_viewed_AxjKk3"
   ]
 }
