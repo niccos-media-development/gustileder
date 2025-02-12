@@ -194,8 +194,9 @@
     <template>
 <video
   class="{{ video_class }}"
- playsinline="playsinline" controls="controls" autoplay="autoplay" loop="loop" preload="none" muted="muted"
->
+ playsinline="playsinline" controls="controls" autoplay="autoplay" loop="loop" preload="none" muted="muted" 
+  poster={{ preview_image | img_url: 'master' }} 
+  >
     <source src="{{ media }}" type="video/mp4">
    {% render 'image',
       image: preview_image,
