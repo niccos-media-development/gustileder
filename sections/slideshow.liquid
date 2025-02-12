@@ -206,7 +206,6 @@
                 {% if block.settings.video_loop %}loop{% endif %}
                 {% if block.settings.video_muted %}muted{% endif %}
                 playsinline
-                preload="none"  <!-- Prevents preloading until needed -->
                 onloadeddata="this.classList.add('cust-video-loaded')"
               >
                 {%- if block.settings.video_desktop != blank -%}
