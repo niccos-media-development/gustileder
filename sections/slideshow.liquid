@@ -170,7 +170,17 @@
             <div class="image-banner__image media media--has-overlay absolute top-0 left-0 w-full h-full has-motion">
           {%- endif -%}
 
-          {%- if img != blank -%}
+         {%- if block.settings.video_url != blank -%}
+              <video 
+                class="cust-video-banner absolute top-0 left-0 w-full h-full object-cover"
+                src="{{ block.settings.video_url }}"
+                {% if block.settings.video_autoplay %}autoplay{% endif %}
+                {% if block.settings.video_loop %}loop{% endif %}
+                {% if block.settings.video_muted %}muted{% endif %}
+                playsinline>
+              </video>
+            {%- elsif img != blank -%}
+
             {%- liquid
               if section.settings.full_width
                 if section.settings.height_mode == 'screen'
@@ -585,6 +595,29 @@
           "type": "url",
           "id": "url",
           "label": "Image link (optional)"
+        },
+        {
+          "type": "url",
+          "id": "video_url",
+          "label": "Video URL (MP4 format only)"
+        },
+        {
+          "type": "checkbox",
+          "id": "video_autoplay",
+          "label": "Autoplay Video",
+          "default": false
+        },
+        {
+          "type": "checkbox",
+          "id": "video_loop",
+          "label": "Loop Video",
+          "default": false
+        },
+        {
+          "type": "checkbox",
+          "id": "video_muted",
+          "label": "Mute Video",
+          "default": true
         },
         {
           "type": "header",
