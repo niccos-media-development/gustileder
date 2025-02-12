@@ -240,6 +240,27 @@
         "prevent_animation": false
       }
     },
+    "product_list_YFt9jT": {
+      "type": "product-list",
+      "settings": {
+        "title": "Passend zu",
+        "heading_align": "text-start",
+        "view_all_url": "",
+        "product_list": "{{ product.metafields.next_cart.complementary_products.value }}",
+        "layout": "carousel",
+        "card_size_mobile": "small",
+        "card_size": "small",
+        "show_highlight_products": true,
+        "show_promo_info": false,
+        "image_ratio": "fill",
+        "promo_title": "A headline to grab attention",
+        "content": "<p>Use this card with an image to highlight your product list or introduce a promotion.</p>",
+        "link_url": "",
+        "button_label": "Button",
+        "color_scheme": "2",
+        "button_style": "btn btn--primary"
+      }
+    },
     "video_ezPgRg": {
       "type": "video",
       "blocks": {
@@ -263,6 +284,7 @@
         "heading_Gt7N8c",
         "text_MyGQ6j"
       ],
+      "disabled": true,
       "settings": {
         "video_external": "",
         "video_description": "",
@@ -501,6 +523,84 @@
         "only_content_color_scheme": false
       }
     },
+    "media_grid_jLapXY": {
+      "type": "media-grid",
+      "blocks": {
+        "media_T6wMwG": {
+          "type": "media",
+          "settings": {
+            "link_url": "",
+            "columns": 2,
+            "rows": 2,
+            "subheading": "",
+            "title": "<p>Media heading</p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_DFdJfB": {
+          "type": "media",
+          "settings": {
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Media heading</p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_naCcCf": {
+          "type": "media",
+          "settings": {
+            "link_url": "",
+            "columns": 2,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Media heading</p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        }
+      },
+      "block_order": [
+        "media_T6wMwG",
+        "media_DFdJfB",
+        "media_naCcCf"
+      ],
+      "settings": {
+        "title": "Media grid",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "gallery_cols_max": 4,
+        "mobile_carousel": false,
+        "gallery_cols_min": "1",
+        "fixed_height_desktop": 180,
+        "fixed_height_mobile": 300,
+        "section_color_scheme": "none",
+        "color_scheme": "white",
+        "transparent_content_color": "#ffffff"
+      }
+    },
     "recently_viewed_AxjKk3": {
       "type": "recently-viewed",
       "settings": {
@@ -517,11 +617,13 @@
     "main",
     "details",
     "icons_with_text_YwygDr",
+    "product_list_YFt9jT",
     "video_ezPgRg",
     "product-features",
     "recommendations",
     "slideshow_FGXjXJ",
     "media_with_text_pPQFh3",
+    "media_grid_jLapXY",
     "recently_viewed_AxjKk3"
   ]
 }

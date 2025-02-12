@@ -25,7 +25,6 @@
         "heading_MTUJwa"
       ],
       "settings": {
-        "image_desktop": "{{ collection.image }}",
         "url": "",
         "height_mode": "fixed",
         "fixed_height_desktop": 400,

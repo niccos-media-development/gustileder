@@ -169,6 +169,27 @@
       ],
       "settings": {}
     },
+    "product_list_nd7Epg": {
+      "type": "product-list",
+      "settings": {
+        "title": "Product list",
+        "heading_align": "text-start",
+        "view_all_url": "",
+        "product_list": "{{ product.metafields[\"shopify--discovery--product_recommendation\"].complementary_products.value }}",
+        "layout": "carousel",
+        "card_size_mobile": "small",
+        "card_size": "small",
+        "show_highlight_products": true,
+        "show_promo_info": false,
+        "image_ratio": "fill",
+        "promo_title": "A headline to grab attention",
+        "content": "<p>Use this card with an image to highlight your product list or introduce a promotion.</p>",
+        "link_url": "",
+        "button_label": "Button",
+        "color_scheme": "2",
+        "button_style": "btn btn--primary"
+      }
+    },
     "icons_with_text_YwygDr": {
       "type": "icons-with-text",
       "blocks": {
@@ -471,6 +492,7 @@
   "order": [
     "main",
     "details",
+    "product_list_nd7Epg",
     "icons_with_text_YwygDr",
     "product-features",
     "recommendations",
