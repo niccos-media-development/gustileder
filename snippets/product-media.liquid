@@ -165,7 +165,8 @@
       <span class="media-poster__btn absolute flex items-center justify-center pointer-events-none">
         {%- render 'icon-3d-model' -%}
       </span>
-    {%- elsif media.media_type == 'video' or media.media_type == 'external_video' -%}
+
+    {%- elsif media.media_type == 'video' or media.media_type == 'external_video' or media_type == 'external_video'  -%}
       <span class="visually-hidden">{{ 'products.product.media.play_video' | t }}</span>
       <span class="media-poster__btn absolute flex items-center justify-center pointer-events-none">
         {%- render 'icon-video' -%}
@@ -184,10 +185,14 @@
       disable_focal_point: true
     %}
   </button>
-
+      {% if media_type %}
+{% assign media_type = media.media_type %}
+      {% else %}
+        {% assign media_type = media_type %}
+        {% endif %}
   <template>
     {%- liquid
-      case media.media_type
+      case media_type
         when 'external_video'
           assign video_class = 'js-' | append: media.host
           if media.host == 'youtube'
