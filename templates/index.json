@@ -135,6 +135,7 @@
             "url": "",
             "video_desktop": "https://pt.gusti-leder.de/download/streaming-playlists/hls/videos/7f860a70-e42e-4a34-9aab-710b1add157e-720-fragmented.mp4",
             "video_mobile": "",
+            "video_placeholder": "shopify://shop_images/Alexandra_b842fb3b-cce1-4e97-a269-37c8fbedea84.jpg",
             "video_autoplay": true,
             "video_loop": true,
             "video_muted": true,
