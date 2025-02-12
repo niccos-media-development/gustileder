@@ -179,11 +179,12 @@
                 playsinline>
                 
                 {%- if block.settings.video_desktop != blank -%}
-                  <source src="{{ block.settings.video_desktop }}" media="(min-width: 601px)" type="video/mp4">
+                  <source src="{{ block.settings.video_desktop }}"  {%- if block.settings.video_mobile != blank -%}media="(min-width: 601px)"{% endif %} type="video/mp4">
                 {%- endif -%}
                 
                 {%- if block.settings.video_mobile != blank -%}
                   <source src="{{ block.settings.video_mobile }}" media="(max-width: 600px)" type="video/mp4">
+                  {% else %}
                 {%- endif -%}
             
                 <!-- Fallback text -->

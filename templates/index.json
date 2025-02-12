@@ -18,6 +18,8 @@
             "image_desktop": "shopify://shop_images/Desktop1_2.jpg",
             "image_mobile": "shopify://shop_images/mob1_1.jpg",
             "url": "",
+            "video_desktop": "",
+            "video_mobile": "",
             "video_autoplay": false,
             "video_loop": false,
             "video_muted": true,
@@ -55,6 +57,8 @@
             "image_desktop": "shopify://shop_images/Desktop3_1.jpg",
             "image_mobile": "shopify://shop_images/mob3_1.jpg",
             "url": "",
+            "video_desktop": "",
+            "video_mobile": "",
             "video_autoplay": false,
             "video_loop": false,
             "video_muted": true,
@@ -92,6 +96,8 @@
             "image_desktop": "shopify://shop_images/Desktop4_1.jpg",
             "image_mobile": "shopify://shop_images/mob4_1.jpg",
             "url": "",
+            "video_desktop": "",
+            "video_mobile": "",
             "video_autoplay": false,
             "video_loop": false,
             "video_muted": true,
@@ -127,6 +133,8 @@
           "type": "slide",
           "settings": {
             "url": "",
+            "video_desktop": "https://pt.gusti-leder.de/download/streaming-playlists/hls/videos/7f860a70-e42e-4a34-9aab-710b1add157e-720-fragmented.mp4",
+            "video_mobile": "",
             "video_autoplay": true,
             "video_loop": true,
             "video_muted": true,
@@ -153,7 +161,7 @@
             "enlarge_end_text": false,
             "countdown_hide_on_end": false,
             "use_custom_colors": false,
-            "count_color": "#fff",
+            "count_color": "#ffffff",
             "bg_color": "#070707",
             "bg_grad": ""
           }
@@ -685,6 +693,8 @@
           "settings": {
             "image_desktop": "shopify://shop_images/banner_gravur.png",
             "url": "",
+            "video_desktop": "",
+            "video_mobile": "",
             "video_autoplay": false,
             "video_loop": false,
             "video_muted": true,
@@ -721,6 +731,8 @@
           "settings": {
             "image_desktop": "shopify://shop_images/Startseite-Banner-9.png",
             "url": "",
+            "video_desktop": "",
+            "video_mobile": "",
             "video_autoplay": false,
             "video_loop": false,
             "video_muted": true,
@@ -757,6 +769,8 @@
           "settings": {
             "image_desktop": "shopify://shop_images/Startseite-Banner-3.png",
             "url": "",
+            "video_desktop": "",
+            "video_mobile": "",
             "video_autoplay": false,
             "video_loop": false,
             "video_muted": true,
@@ -897,6 +911,8 @@
           "type": "slide",
           "settings": {
             "url": "",
+            "video_desktop": "",
+            "video_mobile": "",
             "video_autoplay": true,
             "video_loop": true,
             "video_muted": true,
@@ -923,7 +939,7 @@
             "enlarge_end_text": false,
             "countdown_hide_on_end": false,
             "use_custom_colors": false,
-            "count_color": "#fff",
+            "count_color": "#ffffff",
             "bg_color": "rgba(0,0,0,0)",
             "bg_grad": ""
           }
@@ -932,6 +948,8 @@
           "type": "slide",
           "settings": {
             "url": "",
+            "video_desktop": "",
+            "video_mobile": "",
             "video_autoplay": false,
             "video_loop": false,
             "video_muted": true,
@@ -958,7 +976,7 @@
             "enlarge_end_text": false,
             "countdown_hide_on_end": false,
             "use_custom_colors": false,
-            "count_color": "#fff",
+            "count_color": "#ffffff",
             "bg_color": "#070707",
             "bg_grad": ""
           }
