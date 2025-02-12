@@ -313,8 +313,13 @@
             </li>
           {%- endfor -%}
            {% if product.metafields.custom.video %}
+             {% if product.metafields.custom.video_thumbnail %}
       {% assign media =  product.metafields.custom.video_thumbnail %}
-               {% assign video_thumbnail = product.metafields.custom.video_thumbnail %}
+               {% else %}
+                {% assign media =  product.featured_image %}
+              
+               {% endif %}
+              {% assign video_thumbnail = product.metafields.custom.video_thumbnail %}
           <li class="media-thumbs__item{% if section.settings.hide_variants and variant_images contains media.src %} media-thumbs__item--variant{% endif %}" data-media-id="{{ media.id }}">
               <button class="media-thumbs__btn media relative w-full{% if settings.blend_product_images %} image-blend{% endif %}{% if active and section.settings.enable_media_grouping == false %} is-active{% endif %}"{% if active %} aria-current="true"{% endif %} aria-controls="gallery-viewer"{% if section.settings.thumb_ratio != 'natural' %} style="padding-top: {{ 1 | divided_by: thumb_ratio | times: 100 }}%;"{% endif %}>
                 <span class="visually-hidden">
