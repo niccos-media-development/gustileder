@@ -167,10 +167,11 @@
                   if i == '0'
                     assign title = 'products.product.description' | t
                   elsif i == '4' and specification == blank
-                    assign title = block.settings.specification_title
+                    assign title = 'products.product.specification' | t
                     assign prevent_tab_render = true
                   elsif i == '4'
-                    assign title = 'products.product.specification' | t
+                     assign title = block.settings.specification_title
+                    
                   elsif i == '5' and block.settings.show_reviews
                     assign rating_count = product.metafields.reviews.rating_count | plus: 0
                     assign title = 'products.product.reviews' | t | append: ' (' | append: rating_count | append: ')'
