@@ -167,7 +167,7 @@
                   if i == '0'
                     assign title = 'products.product.description' | t
                   elsif i == '4' and specification == blank
-                    assign title = 'products.product.specification' | t
+                    assign title = block.settings.specification_title
                     assign prevent_tab_render = true
                   elsif i == '4'
                     assign title = 'products.product.specification' | t
@@ -502,6 +502,12 @@
           "id": "show_specification",
           "label": "Show specifications tab",
           "default": false
+        },
+        {
+          "type": "text",
+          "id": "specification_title",
+          "label": "Title",
+          "default": "Specifications"
         },
         {
           "type": "textarea",
