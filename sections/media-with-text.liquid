@@ -84,6 +84,8 @@
             {%- capture sizes -%}
               {%- render 'sizes-attribute', min: 'page', sm: 'page', md: sizes_md, lg: '536px', xl: false, max: false -%}
             {%- endcapture -%}
+            {% if section.settings.image_1 != blank %}
+              {% else %}
             {% render 'image',
               image: image,
               quality: quality,
@@ -94,6 +96,7 @@
               section_index: section.index,
               class: 'img-fit'
             %}
+              {% endif %}
           {%- elsif media_type == 'image' -%}
             {{ 'image' | placeholder_svg_tag: 'media__placeholder dark' }}
           {%- endif -%}
