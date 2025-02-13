@@ -24,14 +24,14 @@
         "link_list_83wgpJ": {
           "type": "link_list",
           "settings": {
-            "heading": "Footer links",
+            "heading": "Informationen",
             "menu": "footer-1"
           }
         },
         "link-list-2": {
           "type": "link_list",
           "settings": {
-            "heading": "Information",
+            "heading": "Über Gusti",
             "menu": "information"
           }
         },
