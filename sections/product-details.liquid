@@ -170,7 +170,7 @@
                     assign title = 'products.product.specification' | t
                     assign prevent_tab_render = true
                   elsif i == '4'
-                     assign title = block.settings.specification_title
+                     assign title = 'products.product.specification' | t
                     
                   elsif i == '5' and block.settings.show_reviews
                     assign rating_count = product.metafields.reviews.rating_count | plus: 0
@@ -188,7 +188,12 @@
                     <details class="disclosure disclosure--row"{% if first_tab_rendered == false and block.settings.open_first %} open{% endif %}>
                       <summary>
                         <div class="flex justify-between items-center">
-                          <h2 class="disclosure__title h5 mb-0">{{ title }}</h2>
+                          {% if block.settings.specification != blank and block.settings.specification_title != blank %}
+                             <h2 class="disclosure__title h5 mb-0">{{ block.settings.specification_title }}</h2>
+                            {% else %}
+                             <h2 class="disclosure__title h5 mb-0">{{ title }}</h2>
+                          {% endif %}
+                         
                           <span class="disclosure__toggle">
                             {%- if settings.disclosure_toggle == 'plus' -%}
                               {% render 'icon-plus' %}
