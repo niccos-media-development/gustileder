@@ -51,6 +51,9 @@
           -%}
 
           {%- if block.settings.show_specification and block.settings.spec_metafields -%}
+            {% capture specification_title %}
+              {{ block.settings.specification_title }}
+            {% endcapture %}
             {%- capture specification -%}
               {%- assign metafield_array = block.settings.spec_metafields | newline_to_br | strip_newlines | split: '<br />' -%}
               {%- for key_value in metafield_array -%}
@@ -167,10 +170,10 @@
                   if i == '0'
                     assign title = 'products.product.description' | t
                   elsif i == '4' and specification == blank
-                    assign title = block.settings.specification_title
+                    assign title = 'products.product.specification' | t
                     assign prevent_tab_render = true
                   elsif i == '4'
-                     assign title = block.settings.specification_title
+                     assign title = specification_title
                     
                   elsif i == '5' and block.settings.show_reviews
                     assign rating_count = product.metafields.reviews.rating_count | plus: 0
