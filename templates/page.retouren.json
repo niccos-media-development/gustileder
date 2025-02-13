@@ -54,7 +54,7 @@
       "type": "custom-liquid",
       "settings": {
         "custom_liquid": "<p><iframe src=\"https://returns.gusti-leder.de/\" width=\"100%\" height=\"1000px\" style=\"border: none;\"> </iframe></p>",
-        "section_height": "default",
+        "section_height": "medium",
         "full_width": false,
         "dividers": "none",
         "prevent_animation": false
