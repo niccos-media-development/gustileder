@@ -176,10 +176,10 @@
         "video_external": "{{ product.metafields.custom.video_url.value }}",
         "video_description": "",
         "poster_image": "{{ product.metafields.custom.video_thumbnail.value }}",
-        "video_size": "md",
+        "video_size": "sm",
         "video_autoplay": false,
         "text_align": "text-center",
-        "color_scheme": "1"
+        "color_scheme": "default"
       }
     },
     "product_list_nd7Epg": {
