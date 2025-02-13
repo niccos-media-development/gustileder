@@ -85,6 +85,17 @@
               {%- render 'sizes-attribute', min: 'page', sm: 'page', md: sizes_md, lg: '536px', xl: false, max: false -%}
             {%- endcapture -%}
             {% if section.settings.image_1 != blank %}
+            {% render 'image',
+              image: image,
+              custom_img: true,
+              quality: quality,
+              widths: '536, 800, 1072, 1280',
+              mobile_widths: '690, 800',
+              src_width: 536,
+              sizes: sizes,
+              section_index: section.index,
+              class: 'img-fit'
+            %}
               {% else %}
             {% render 'image',
               image: image,
