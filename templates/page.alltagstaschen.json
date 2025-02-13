@@ -137,7 +137,7 @@
             "image": "shopify://shop_images/Candice.jpg",
             "media_scale": 100,
             "heading": "Candice",
-            "text": "<p>Funktional und modisch, unsere Umhängetasche \"<strong>Candice</strong>\" ist der perfekte Begleiter, wenn Du die Stadt erkundest, einen Tag mit Freunden verbringst oder die Landschaft entdeckst. Diese Leder-Schönheit ist leicht und kompakt, bietet aber dennoch viel Platz im Inneren für Deine Dinge. Der verstellbare Riemen ist angenehm zu tragen.</p>",
+            "text": "<p>Funktional und modisch, unsere Umhängetasche \"<strong>Candice</strong>\" ist der perfekte Begleiter, wenn Du die Stadt erkundest, einen Tag mit Freunden verbringst oder die Landschaft entdeckst. Diese Leder-Schönheit ist leicht und kompakt, bietet aber dennoch viel Platz im Inneren für Deine Dinge. Der verstellbare Riemen ist angenehm zu tragen.</p><p><strong>Größe             </strong>24 x 20,5 x 6 cm</p><p><strong>Lederart        </strong>Rindsleder</p><p><strong>Innen Fächer </strong>3</p><p><strong>Verschluss  </strong>Magnet </p>",
             "button_label": "",
             "button_link": "shopify://products/handtasche-umhaengetasche-schultertasche-tasche-partytasche-henkeltasche-festivaltasche-tragetasche-ledertasche-braun-leder-2h119-48-5"
           }
@@ -146,22 +146,24 @@
           "type": "column",
           "settings": {
             "enable_media": true,
+            "image": "shopify://shop_images/Evelyn_3f1811a8-ebd7-4b08-aaef-2644bee97735.jpg",
             "media_scale": 100,
-            "heading": "Column",
-            "text": "<p>Pair text with an image to focus on a product, collection or blog post. Add details on availability, style, or even provide a review.</p>",
+            "heading": "Evelyn",
+            "text": "<p>\"<strong>Evelyn</strong>\" vereint perfekt Praktikabilität und Stil. Diese Umhängetasche ist eine ausgezeichnete Wahl für Deine nächste Reise, da sie alles aufnehmen kann, was Du für einen Tag voller Erkundungen an aufregenden neuen Orten benötigst. Sie liegt bequem über Deinem Körper, sodass Du Dich frei bewegen kannst, während Du unterwegs bist. \"Evelyn\" ist wirklich entzückend und hilft Dir, Deine Sachen zu organisieren, damit sie sicher und leicht zu finden sind.</p><p><strong>Größe             </strong>27 x 18 x 8 cm</p><p><strong>Lederart        </strong>Ziegenleder</p><p><strong>Innen Fächer </strong>4</p><p><strong>Verschluss  </strong>Schnalle(n)</p>",
             "button_label": "",
-            "button_link": ""
+            "button_link": "shopify://products/umhaengetasche-handtasche-ledertasche-vintage-braun-leder-m23"
           }
         },
         "column_knbWw7": {
           "type": "column",
           "settings": {
             "enable_media": true,
+            "image": "shopify://shop_images/emilia_10.jpg",
             "media_scale": 100,
-            "heading": "Column",
-            "text": "<p>Pair text with an image to focus on a product, collection or blog post. Add details on availability, style, or even provide a review.</p>",
+            "heading": "Emilia 10",
+            "text": "<p>Unsere Umhängetasche \"<strong>Emilia 10</strong>\" eignet sich perfekt für entspannte Spaziergänge in der Stadt. Sie hält Deine Essentials organisiert und leicht zu finden, wenn Du unterwegs bist. Diese Tages-Tasche bewahrt Deine Habseligkeiten dank der originellen Schnallen sicher und geschützt auf. Unsere zeitlose, retroartige Handtasche \"Emilia 10\" bietet viel Platz für alles, was du für einen Tag voller Sightseeing benötigst. Sie ist geräumig und dennoch kompakt, sodass sie nicht stört.</p><p><strong>Größe             </strong>28 x 24 x 8 cm</p><p><strong>Lederart        </strong>Ziegenleder</p><p><strong>Innen Fächer </strong>5</p><p><strong>Verschluss  </strong>Schnalle(n)</p>",
             "button_label": "",
-            "button_link": ""
+            "button_link": "shopify://products/kabelka-taska-na-rameno-kozena-taska-vintage-hneda-kuze-h9-1-1"
           }
         }
       },
@@ -172,6 +174,157 @@
       ],
       "settings": {
         "title": "Umhängetaschen",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "layout": "carousel",
+        "column_size": "medium",
+        "column_align": "left",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "multi_column_epyPF6": {
+      "type": "multi-column",
+      "blocks": {
+        "column_WdyrFW": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Mary_M.jpg",
+            "media_scale": 100,
+            "heading": "Mary M",
+            "text": "<p>Unsere kompakte Vintage-Schultertasche \"<strong>Mary M</strong>\" verleiht Deinem Outfit einen schicken, eleganten Touch. Diese kleine Schultertasche eignet sich perfekt zum Bummeln durch die Straßen oder zum Tanzen in der Nacht im Club. Schön und elegant, \"Mary M\" verfügt über zusätzliche Fächer für Dein Tagebuch, Deine Brieftasche, Schlüssel, Handy, Kaugummi und mehr. Sie ist äußerst vielseitig und passt zu jedem Outfit.</p><p><strong>Größe             </strong>23 x 16 x 5 cm</p><p><strong>Lederart        </strong>Ziegenleder</p><p><strong>Innen Fächer </strong>4</p><p><strong>Verschluss  </strong>Schnalle(n) </p>",
+            "button_label": "",
+            "button_link": "shopify://products/handtasche-umhaengetasche-vintage-h19"
+          }
+        },
+        "column_WQmDxC": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/mary_s.jpg",
+            "media_scale": 100,
+            "heading": "Mary S",
+            "text": "<p>\"<strong>Mary S</strong>\" ist der Zwilling von \"Mary M\". Schick und elegant, diese kompakte Vintage-Ledertasche besteht aus weichemZiegenleder. Ihr Hauptfach und Reißverschlusstaschen helfen Dir, Deine Essentials organisiert zu halten. \"Mary S\" ist atemberaubend und langlebig. Sie ist die perfekte Wahl, wenn Du eine kleine, modische Alltagstasche suchst. Diese kompakte Ledertasche lässt sich bequem tragen, wenn Du unterwegs bist.</p><p><strong>Größe             </strong>19 x 14 x 7 cm</p><p><strong>Lederart        </strong>Ziegenleder</p><p><strong>Innen Fächer </strong>4</p><p><strong>Verschluss  </strong>Schnalle(n) </p>",
+            "button_label": "",
+            "button_link": "shopify://products/handtasche-umhaengetasche-vintage-h17"
+          }
+        }
+      },
+      "block_order": [
+        "column_WdyrFW",
+        "column_WQmDxC"
+      ],
+      "settings": {
+        "title": "Zwillings-Schönheit",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "layout": "carousel",
+        "column_size": "medium",
+        "column_align": "left",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "multi_column_dRgjUL": {
+      "type": "multi-column",
+      "blocks": {
+        "column_NRekim": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Wiebke.jpg",
+            "media_scale": 100,
+            "heading": "Wiebke",
+            "text": "<p>Unsere trendige und praktische Schultertasche \"<strong>Wiebke</strong>\" lässt Dich wie eine wahre Fashionista aussehen. Diese schicke Handtasche ist ein treuer Begleiter, während Du die Naturwunder der Welt erkundest oder die Sehenswürdigkeiten der Stadt genießt. Unsere schlanke, aber robuste Schultertasche \"Wiebke\" ergänzt jedes Outfit und ist somit das perfekte schicke und dennoch funktionale Accessoire. Verwende diese Tasche, um deine Essentials mitzunehmen, wenn Du unterwegs bist. Sie wurde ausRindsledergefertigt und hält Deine Habseligkeiten sicher mit einem Magnet- und Hakenverschluss.</p><p><strong>Größe             </strong>25 x 22 x 7 cm</p><p><strong>Lederart        </strong>Rindsleder</p><p><strong>Innen Fächer </strong>2</p><p><strong>Verschluss  </strong>Magnet + Schnalle</p>",
+            "button_label": "",
+            "button_link": "shopify://products/kabelka-taska-pres-rameno-na-vecer-mala-kozena-taska-vintage-cerna-kuze-2h105-33-7"
+          }
+        },
+        "column_PAenJt": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/summer_m.jpg",
+            "media_scale": 100,
+            "heading": "Summer M",
+            "text": "<p>Kombiniere unsere braune Schultertasche \"<strong>Summer M</strong>\" sowohl mit legeren Outfits als auch mit einem Abendkleid. Diese robuste Tasche wird eine Bereicherung im Alltag und verleiht Deinem Look eine stilvolle Note. \"Summer M\" wird mit einem Magnetverschluss gesichert und verfügt über zwei Reißverschlusstaschen und eine Seitentasche innen. Diese vielseitige Tasche bietet viel Platz für Deine persönlichen Gegenstände.</p><p><strong>Größe             </strong>22 x 17 x 5 cm</p><p><strong>Lederart        </strong>Ziegenleder</p><p><strong>Innen Fächer </strong>4</p><p><strong>Verschluss  </strong>Magnet</p>",
+            "button_label": "",
+            "button_link": "shopify://products/echtleder-handtasche-h18"
+          }
+        },
+        "column_gnAahP": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/holly.jpg",
+            "media_scale": 100,
+            "heading": "Holly",
+            "text": "<p>Einfach göttlich wird unsere Schultertasche \"<strong>Holly</strong>\" schnell zu Deinem täglichen Must-Have-Accessoire, sei es im Alltag oder zu besonderen Anlässen. Diese braune Tasche lässt sich mit jeder Farbe kombinieren und ist somit ein unverzichtbarer Bestandteil Deines Kleiderschranks. Diese Tasche verfügt über ein geräumiges Hauptfach und eine schmale Seitentasche sowie zwei innere Reißverschlussfächer, die zur Aufbewahrung Deiner persönlichen Gegenstände dienen können.</p><p><strong>Größe             </strong>27 x 20 x 6,5 cm</p><p><strong>Lederart        </strong>Ziegenleder</p><p><strong>Innen Fächer </strong>4</p><p><strong>Verschluss  </strong>Magnet</p>",
+            "button_label": "",
+            "button_link": "shopify://products/handtasche-umhaengetasche-vintage-k68b"
+          }
+        }
+      },
+      "block_order": [
+        "column_NRekim",
+        "column_PAenJt",
+        "column_gnAahP"
+      ],
+      "settings": {
+        "title": "Schultertaschen",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "layout": "carousel",
+        "column_size": "medium",
+        "column_align": "left",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "multi_column_aBBpRK": {
+      "type": "multi-column",
+      "blocks": {
+        "column_n3mnYM": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Zoey.jpg",
+            "media_scale": 100,
+            "heading": "Zoey",
+            "text": "<p>Geht es zu einem Treffen am Abend? Dann nimm unsere schwarze Leder Handtasche \"<strong>Zoey</strong>\" mit. Die Vintage-Tasche verleiht Deinem Look eine elegante Note. \"Zoey\" ist eine modische Damenhandtasche mit einem Hauptfach mit zusätzlicher Tasche und einer externen Tasche für Deine Essentials.</p><p><strong>Größe             </strong>27 x 18 x 6 cm</p><p><strong>Lederart        </strong>Rindsleder</p><p><strong>Innen Fächer </strong>2</p><p><strong>Verschluss  </strong>Schnappschloss</p>",
+            "button_label": "",
+            "button_link": "shopify://products/umhaengetasche-handtasche-ledertasche-2h87-33-7"
+          }
+        },
+        "column_gBXF6r": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/dominic.jpg",
+            "media_scale": 100,
+            "heading": "Dominic",
+            "text": "<p>Unsere stilvolle Schultertasche \"<strong>Dominic</strong>\" ist die perfekte Abendtasche. Nimm diese elegante Schönheit zu Deiner nächsten Verabredung mit und verleihe Deinem Stil eine eigene Note. Nicht zu klein, nicht zu groß, \"Dominic\" bleibt klassisch. Diese elegante Abendtasche setzt ein Statement und ist das perfekte Accessoire, um Deinen Look zu ergänzen.</p><p><strong>Größe             </strong>20 x 11,5 x 4,5 cm</p><p><strong>Lederart        </strong>Rindsleder</p><p><strong>Innen Fächer </strong>2</p><p><strong>Verschluss  </strong>Reißverschluss</p>",
+            "button_label": "",
+            "button_link": "shopify://products/taska-na-rameno-kabelka-kozena-taska-vintage-hneda-kuze-2h85-48-2"
+          }
+        }
+      },
+      "block_order": [
+        "column_n3mnYM",
+        "column_gBXF6r"
+      ],
+      "settings": {
+        "title": "Abendtaschen",
         "heading_align": "text-center",
         "button_label": "",
         "button_link": "",
@@ -275,6 +428,9 @@
     "image_banner_h7bfNH",
     "rich_text_Mc9xiP",
     "multi_column_nyax98",
+    "multi_column_epyPF6",
+    "multi_column_dRgjUL",
+    "multi_column_aBBpRK",
     "collection_list_RHeKBJ",
     "featured_collection_fw9w9V"
   ]
