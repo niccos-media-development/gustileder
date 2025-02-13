@@ -9,12 +9,9 @@
   assign gutter_sm = 20
 
   assign media_type = 'image'
-  if section.settings.image_1  != blank
-   assign image = section.settings.image_1
-    
-  else
+
    assign image = section.settings.image
-  endif
+
 
   if section.settings.video_external != blank or section.settings.video_shopify != blank
     assign media_type = 'video'
@@ -86,6 +83,7 @@
               {%- render 'sizes-attribute', min: 'page', sm: 'page', md: sizes_md, lg: '536px', xl: false, max: false -%}
             {%- endcapture -%}
             {% if section.settings.image_1 != blank %}
+            {% assign image = section.settings.image_1 %}
             {% render 'image',
               image: image,
               custom_img: true,
