@@ -164,7 +164,11 @@
   {%- else -%}
     <img {% if srcset %}srcset="{{ srcset }}" {% endif -%}
          {% if sizes and srcset %}sizes="{{ sizes }}" {% endif -%}
+      {% if custom_img %}
+         src="{{ image }}"
+        {% else %}
          src="{{ image | image_url: width: src_width }}"
+      {% endif %}
          {% if class %}class="{{ class }}" {% endif -%}
          {% if attributes %}{{ attributes }} {% endif -%}
          {% if disable_focal_point == false and image.presentation %}style="object-position: {{ image.presentation.focal_point }}" {% endif -%}
