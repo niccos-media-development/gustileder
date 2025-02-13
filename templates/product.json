@@ -15,7 +15,7 @@
         "vendor-sku": {
           "type": "vendor-sku",
           "settings": {
-            "show_vendor": true,
+            "show_vendor": false,
             "show_sku": true,
             "show_barcode": false
           }
@@ -148,7 +148,7 @@
             "show_reviews": true,
             "custom_reviews": "",
             "show_specification": true,
-            "specification_title": "Specification",
+            "specification_title": "Eigenschaften",
             "spec_metafields": "Abmessungen (B x H x T): next_cart.abmessungen-bxhxt.\nGewicht: next_cart.gewicht. \nFarbe: next_cart.attr6.\nLeder: next_cart.attr21.\nLederart: next_cart.attr22. \nVerschluss: next_cart.verschluss.\nKartenfächer: next_cart.kartenfacher.",
             "spec_right_align": false,
             "spec_show_empty_metafields": false,
