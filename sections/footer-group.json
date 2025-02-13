@@ -39,7 +39,7 @@
           "type": "newsletter",
           "settings": {
             "heading": "Newsletter",
-            "text": "<p>Sign up for exclusive offers, original stories, events and more.</p>",
+            "text": "<p>Melde dich an und verpasse keine exklusiven Angebote, spannende Geschichten, Events und mehr!</p>",
             "collapse_mobile": true
           }
         }
