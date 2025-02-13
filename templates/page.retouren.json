@@ -39,7 +39,7 @@
           "type": "text",
           "settings": {
             "text": "<p>Du möchtest einen oder mehrere Produkte Deiner Bestellung an uns zurücksenden? Hier kannst Du eine Retoure für einzelne Produkte in Deiner Bestellung aufgeben. Wir finden es zwar sehr schade, dass Du Deinen Lederliebling retournieren möchtest. Gerne helfen wir Dir aber weiter.</p>",
-            "enlarge_text": true
+            "enlarge_text": false
           }
         },
         "button_MFJHbd": {
@@ -68,6 +68,16 @@
         "wide": false,
         "color_scheme": "none",
         "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "custom_liquid_tnzyTg": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<p data-pm-slice=\"1 1 []\">&nbsp;</p>\n<p><iframe src=\"https://returns.gusti-leder.de/\" width=\"100%\" height=\"1000px\" style=\"border: none;\"> </iframe></p>",
+        "section_height": "default",
+        "full_width": false,
+        "dividers": "none",
         "prevent_animation": false
       }
     },
@@ -160,6 +170,7 @@
   "order": [
     "main",
     "rich_text_RNRD3J",
+    "custom_liquid_tnzyTg",
     "collection_list_RHeKBJ",
     "featured_collection_fw9w9V"
   ]
