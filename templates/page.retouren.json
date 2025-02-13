@@ -20,13 +20,6 @@
     "rich_text_RNRD3J": {
       "type": "rich-text",
       "blocks": {
-        "subheading_yGw4ep": {
-          "type": "subheading",
-          "disabled": true,
-          "settings": {
-            "text": "Subheading"
-          }
-        },
         "heading_jX4taE": {
           "type": "heading",
           "settings": {
@@ -41,25 +34,11 @@
             "text": "<p>Du möchtest einen oder mehrere Produkte Deiner Bestellung an uns zurücksenden? Hier kannst Du eine Retoure für einzelne Produkte in Deiner Bestellung aufgeben. Wir finden es zwar sehr schade, dass Du Deinen Lederliebling retournieren möchtest. Gerne helfen wir Dir aber weiter.</p>",
             "enlarge_text": false
           }
-        },
-        "button_MFJHbd": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_1_label": "Optional button",
-            "button_1_link": "",
-            "button_1_style": "btn--primary",
-            "button_2_label": "Optional button",
-            "button_2_link": "",
-            "button_2_style": "btn btn--primary"
-          }
         }
       },
       "block_order": [
-        "subheading_yGw4ep",
         "heading_jX4taE",
-        "text_BzPaBG",
-        "button_MFJHbd"
+        "text_BzPaBG"
       ],
       "settings": {
         "text_position": "justify-center",
@@ -74,74 +53,11 @@
     "custom_liquid_tnzyTg": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<p data-pm-slice=\"1 1 []\">&nbsp;</p>\n<p><iframe src=\"https://returns.gusti-leder.de/\" width=\"100%\" height=\"1000px\" style=\"border: none;\"> </iframe></p>",
+        "custom_liquid": "<p><iframe src=\"https://returns.gusti-leder.de/\" width=\"100%\" height=\"1000px\" style=\"border: none;\"> </iframe></p>",
         "section_height": "default",
         "full_width": false,
         "dividers": "none",
         "prevent_animation": false
-      }
-    },
-    "collection_list_RHeKBJ": {
-      "type": "collection-list",
-      "blocks": {
-        "collection_Bnwkxe": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "collection_XxnyQd": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "collection_tqX3rW": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "collection_XHnx9f": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "collection_eAJ4fF": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "collection_xbRB6E": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "collection_Bnwkxe",
-        "collection_XxnyQd",
-        "collection_tqX3rW",
-        "collection_XHnx9f",
-        "collection_eAJ4fF",
-        "collection_xbRB6E"
-      ],
-      "disabled": true,
-      "settings": {
-        "title": "Collections",
-        "heading_align": "text-start",
-        "button_label": "",
-        "button_link": "",
-        "layout": "carousel",
-        "card_size": "small",
-        "use_product_image": false,
-        "circle_image": true,
-        "show_border": true,
-        "color_scheme": "none",
-        "full_width": true
       }
     },
     "featured_collection_fw9w9V": {
@@ -171,7 +87,6 @@
     "main",
     "rich_text_RNRD3J",
     "custom_liquid_tnzyTg",
-    "collection_list_RHeKBJ",
     "featured_collection_fw9w9V"
   ]
 }
