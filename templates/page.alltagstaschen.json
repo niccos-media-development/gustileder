@@ -11,6 +11,7 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "show_page_title": true,
         "heading_align": "text-center"
@@ -21,6 +22,7 @@
       "blocks": {
         "heading_tkepFK": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "Image banner",
             "heading_size": "h1",
@@ -29,6 +31,7 @@
         },
         "text_i4fTGy": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
             "enlarge_text": true
@@ -36,6 +39,7 @@
         },
         "button_446Ntx": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_1_label": "Optional button",
             "button_1_link": "",
@@ -52,6 +56,7 @@
         "button_446Ntx"
       ],
       "settings": {
+        "image_desktop": "shopify://shop_images/everyday_bags_3331a01e-b20e-46de-82e8-25601a99116f.jpg",
         "url": "",
         "height_mode": "auto",
         "fixed_height_desktop": 600,
@@ -66,6 +71,117 @@
         "tint_color": "#000000",
         "tint_opacity": 40,
         "prevent_animation": false
+      }
+    },
+    "rich_text_Mc9xiP": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_nqRUVg": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_dNxYga": {
+          "type": "heading",
+          "settings": {
+            "heading": "Alltagstaschen",
+            "heading_size": "h2",
+            "heading_h1": false
+          }
+        },
+        "text_UmkpFV": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Du suchst den idealen Alltagsbegleiter? Unser Taschenvergleich hilft Dir, die Tasche zu finden, die am besten zu Deinem Lebensstil passt. Wir haben eine Reihe attraktiver und eleganter Designs zur Auswahl, die es Dir leicht machen, den mit den Jahreszeiten wechselnden Trends zu folgen. Diese vielseitigen Handtaschen, Umhängetaschen und Tragetaschen mit Innenfächern bieten Platz für Smartphone, Schlüssel, iPad, Geldbörse und andere Dinge des täglichen Bedarfs.</p><p>Entdecke unsere vielseitige Kollektion und finde die richtige Alltagstasche!</p><p>Die perfekte Alltagstasche bietet ausreichend Platz für Deine Arbeitsplatz-Essentials. Unsere trendigen und eleganten Taschen bieten sowohl innen als auch außen viel Raum. Kombiniere unsere Umhängetaschen, Schultertaschen und Satteltaschen mit jedem Outfit.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_kPiKwk": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_nqRUVg",
+        "heading_dNxYga",
+        "text_UmkpFV",
+        "button_kPiKwk"
+      ],
+      "settings": {
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "wide": false,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "multi_column_nyax98": {
+      "type": "multi-column",
+      "blocks": {
+        "column_tUPzqW": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Candice.jpg",
+            "media_scale": 100,
+            "heading": "Candice",
+            "text": "<p>Funktional und modisch, unsere Umhängetasche \"<strong>Candice</strong>\" ist der perfekte Begleiter, wenn Du die Stadt erkundest, einen Tag mit Freunden verbringst oder die Landschaft entdeckst. Diese Leder-Schönheit ist leicht und kompakt, bietet aber dennoch viel Platz im Inneren für Deine Dinge. Der verstellbare Riemen ist angenehm zu tragen.</p>",
+            "button_label": "",
+            "button_link": "shopify://products/handtasche-umhaengetasche-schultertasche-tasche-partytasche-henkeltasche-festivaltasche-tragetasche-ledertasche-braun-leder-2h119-48-5"
+          }
+        },
+        "column_Dj9ELb": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "media_scale": 100,
+            "heading": "Column",
+            "text": "<p>Pair text with an image to focus on a product, collection or blog post. Add details on availability, style, or even provide a review.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_knbWw7": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "media_scale": 100,
+            "heading": "Column",
+            "text": "<p>Pair text with an image to focus on a product, collection or blog post. Add details on availability, style, or even provide a review.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_tUPzqW",
+        "column_Dj9ELb",
+        "column_knbWw7"
+      ],
+      "settings": {
+        "title": "Umhängetaschen",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "layout": "carousel",
+        "column_size": "medium",
+        "column_align": "left",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
       }
     },
     "collection_list_RHeKBJ": {
@@ -116,6 +232,7 @@
         "collection_eAJ4fF",
         "collection_xbRB6E"
       ],
+      "disabled": true,
       "settings": {
         "title": "Collections",
         "heading_align": "text-start",
@@ -156,6 +273,8 @@
   "order": [
     "main",
     "image_banner_h7bfNH",
+    "rich_text_Mc9xiP",
+    "multi_column_nyax98",
     "collection_list_RHeKBJ",
     "featured_collection_fw9w9V"
   ]
