@@ -9,7 +9,11 @@
   assign gutter_sm = 20
 
   assign media_type = 'image'
-  assign image = section.settings.image
+  if section.settings.image  != blank
+    assign image = section.settings.image
+  else
+    assign image = section.settings.image_1
+  endif
 
   if section.settings.video_external != blank or section.settings.video_shopify != blank
     assign media_type = 'video'
@@ -176,6 +180,11 @@
       "type": "image_picker",
       "id": "image",
       "label": "Image"
+    },
+     {
+      "type": "url",
+      "id": "image_1",
+      "label": "Image (If not image slected)"
     },
     {
       "type": "header",
