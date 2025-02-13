@@ -21,6 +21,7 @@
       "blocks": {
         "heading_tkepFK": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "Image banner",
             "heading_size": "h1",
@@ -29,6 +30,7 @@
         },
         "text_i4fTGy": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
             "enlarge_text": true
@@ -36,6 +38,7 @@
         },
         "button_446Ntx": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_1_label": "Optional button",
             "button_1_link": "",
@@ -52,6 +55,7 @@
         "button_446Ntx"
       ],
       "settings": {
+        "image_desktop": "shopify://shop_images/Shopping_bags_b348abdb-f235-4bcd-afad-8d84dc600ec3.jpg",
         "url": "",
         "height_mode": "auto",
         "fixed_height_desktop": 600,
@@ -116,6 +120,7 @@
         "collection_eAJ4fF",
         "collection_xbRB6E"
       ],
+      "disabled": true,
       "settings": {
         "title": "Collections",
         "heading_align": "text-start",
@@ -156,7 +161,7 @@
   "order": [
     "main",
     "image_banner_h7bfNH",
-    "collection_list_RHeKBJ",
-    "featured_collection_fw9w9V"
+    "featured_collection_fw9w9V",
+    "collection_list_RHeKBJ"
   ]
 }
