@@ -17,7 +17,7 @@
         "announcement-1": {
           "type": "announcement",
           "settings": {
-            "text": "<p>Lederwissen | DIY | Philosophie | <a href=\"/pages/inspiration\" title=\"Inspiration\">Inspiration</a></p>"
+            "text": "<p><a href=\"/blogs/lederlexikon\" title=\"Lederlexikon\">Lederwissen</a> | DIY | Philosophie | <a href=\"/pages/inspiration\" title=\"Inspiration\">Inspiration</a></p>"
           }
         }
       },
