@@ -9,10 +9,11 @@
   assign gutter_sm = 20
 
   assign media_type = 'image'
-  if section.settings.image  != blank
-    assign image = section.settings.image
+  if section.settings.image_1  != blank
+   assign image = section.settings.image_1
+    
   else
-    assign image = section.settings.image_1
+   assign image = section.settings.image
   endif
 
   if section.settings.video_external != blank or section.settings.video_shopify != blank
