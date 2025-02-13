@@ -5594,3 +5594,6 @@ body > .os-scrollbar {
     align-items: center;
     padding:2px;
 }
+.product-description h3 {
+    font-size: var(--h6-font-size);
+}
