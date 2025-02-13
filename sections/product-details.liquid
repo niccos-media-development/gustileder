@@ -189,7 +189,7 @@
                       <summary>
                         <div class="flex justify-between items-center">
                           {% if block.settings.specification and block.settings.specification_title != blank %}
-                             <h2 class="disclosure__title h5 mb-0">{{ block.settings.specification_title }}</h2>
+                             <h2 class="disclosure__title h5 mb-0 {{ block.settings.specification }}-{{  block.settings.specification_title }}">{{ block.settings.specification_title }}</h2>
                             {% else %}
                              <h2 class="disclosure__title h5 mb-0">{{ title }}</h2>
                           {% endif %}
