@@ -382,7 +382,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 25
+            "tint_opacity": 10
           }
         },
         "media_CNTi8R": {
@@ -401,7 +401,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 40
+            "tint_opacity": 10
           }
         },
         "media_gR66Ei": {
@@ -420,7 +420,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 40
+            "tint_opacity": 10
           }
         },
         "media_KHMRJw": {
@@ -439,7 +439,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 40
+            "tint_opacity": 10
           }
         },
         "media_zAf3Ta": {
@@ -458,7 +458,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 25
+            "tint_opacity": 10
           }
         }
       },
@@ -561,8 +561,8 @@
           "settings": {
             "enable_media": true,
             "media_scale": 100,
-            "heading": "Column",
-            "text": "<p>Pair text with an image to focus on a product, collection or blog post. Add details on availability, style, or even provide a review.</p>",
+            "heading": "Hochwertige Lederprodukte für den Alltag",
+            "text": "<p>Du suchst eine <strong>Ledertasche, einen Rucksack oder eine Geldbörse</strong>, die langlebig, stilvoll und fair produziert ist? Bei <strong>Gusti Leder</strong> findest du Accessoires, die nicht nur gut aussehen, sondern dich über Jahre hinweg begleiten. Wir setzen auf echte Handwerkskunst, nachhaltige Materialien und durchdachte Designs – für hochwertige Lederprodukte, die sich deinem Leben perfekt anpassen.</p>",
             "button_label": "",
             "button_link": ""
           }
@@ -572,19 +572,19 @@
           "settings": {
             "enable_media": true,
             "media_scale": 100,
-            "heading": "Column",
-            "text": "<p>Pair text with an image to focus on a product, collection or blog post. Add details on availability, style, or even provide a review.</p>",
+            "heading": "Nachhaltigkeit trifft auf Qualität",
+            "text": "<p>Leder ist ein natürliches Material mit Charakter. Durch faire Produktionsbedingungen und verantwortungsvollen Materialeinsatz schaffen wir langlebige Produkte, die nicht nur funktional, sondern auch nachhaltig sind. Mit der richtigen Pflege wird dein Lederaccessoire über Jahre hinweg zu einem treuen Begleiter.</p>",
             "button_label": "",
             "button_link": ""
           }
         },
-        "column_CYewMA": {
+        "column_eiEC6P": {
           "type": "column",
           "settings": {
             "enable_media": true,
             "media_scale": 100,
-            "heading": "Column",
-            "text": "<p>Pair text with an image to focus on a product, collection or blog post. Add details on availability, style, or even provide a review.</p>",
+            "heading": "Finde dein neues Lieblingsstück",
+            "text": "<p>Ob <strong>praktische Umhängetasche, robuster Rucksack oder stilvolle Geldbörse</strong> – bei uns findest du hochwertige Lederprodukte, die Funktionalität und Design vereinen. Entdecke zeitlose Klassiker und moderne Begleiter für Alltag, Beruf und Reisen.</p>",
             "button_label": "",
             "button_link": ""
           }
@@ -593,14 +593,14 @@
       "block_order": [
         "column_q3GPVb",
         "column_q8bE4w",
-        "column_CYewMA"
+        "column_eiEC6P"
       ],
       "settings": {
-        "title": "Multi-column",
-        "heading_align": "text-start",
+        "title": "Lederprodukte, die dich ein Leben lang begleiten",
+        "heading_align": "text-center",
         "button_label": "",
         "button_link": "",
-        "layout": "carousel",
+        "layout": "grid",
         "column_size": "medium",
         "column_align": "left",
         "media_align": "text-center",
