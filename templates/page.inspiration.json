@@ -69,7 +69,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 40
+            "tint_opacity": 0
           }
         },
         "media_z6kwmk": {
@@ -88,7 +88,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 25
+            "tint_opacity": 0
           }
         },
         "media_UB3KjV": {
@@ -107,7 +107,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 40
+            "tint_opacity": 0
           }
         },
         "media_3jUNTk": {
@@ -126,7 +126,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 40
+            "tint_opacity": 0
           }
         },
         "media_GhQizW": {
@@ -145,7 +145,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 40
+            "tint_opacity": 0
           }
         },
         "media_48z3MW": {
@@ -164,7 +164,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 25
+            "tint_opacity": 0
           }
         },
         "media_Pgp4rc": {
@@ -183,7 +183,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 40
+            "tint_opacity": 0
           }
         }
       },
@@ -208,7 +208,7 @@
         "fixed_height_mobile": 300,
         "section_color_scheme": "none",
         "color_scheme": "white",
-        "transparent_content_color": "#ffffff"
+        "transparent_content_color": "#000000"
       }
     },
     "media_grid_AE4zBV": {
@@ -230,7 +230,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 25
+            "tint_opacity": 0
           }
         },
         "media_XQFPV8": {
@@ -249,7 +249,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 25
+            "tint_opacity": 0
           }
         },
         "media_HLFNhE": {
@@ -268,7 +268,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 25
+            "tint_opacity": 0
           }
         },
         "media_bPiGRf": {
@@ -287,7 +287,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 25
+            "tint_opacity": 0
           }
         },
         "media_CfBnxN": {
@@ -306,7 +306,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 25
+            "tint_opacity": 0
           }
         },
         "media_kKncEh": {
@@ -349,7 +349,7 @@
         "fixed_height_mobile": 300,
         "section_color_scheme": "none",
         "color_scheme": "white",
-        "transparent_content_color": "#ffffff"
+        "transparent_content_color": "#000000"
       }
     },
     "media_grid_6Eee3U": {
@@ -371,7 +371,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 25
+            "tint_opacity": 0
           }
         },
         "media_FUVhde": {
@@ -390,7 +390,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 25
+            "tint_opacity": 0
           }
         },
         "media_aK9CeF": {
@@ -409,7 +409,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 25
+            "tint_opacity": 0
           }
         },
         "media_F3KBpT": {
@@ -428,7 +428,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 25
+            "tint_opacity": 0
           }
         },
         "media_WkGywp": {
@@ -447,7 +447,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 25
+            "tint_opacity": 0
           }
         },
         "media_wGkW48": {
@@ -490,7 +490,7 @@
         "fixed_height_mobile": 300,
         "section_color_scheme": "none",
         "color_scheme": "white",
-        "transparent_content_color": "#ffffff"
+        "transparent_content_color": "#000000"
       }
     },
     "collection_list_RHeKBJ": {
