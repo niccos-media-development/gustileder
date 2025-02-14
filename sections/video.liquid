@@ -112,9 +112,9 @@
             {%- liquid
               assign sizes = false
                 if section.settings.image_ratio
-                  assign class = 'img-fit object-center'
-                else
                   assign class = 'object-center'
+                else
+                  assign class = 'img-fit object-center'
                 endif
             -%}
             {%- if section.settings.poster_image != blank or section.settings.video_shopify != blank -%}
