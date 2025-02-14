@@ -46,7 +46,7 @@
 
   <div class="section{% unless color_scheme == 'default' %} section--full-width section--padded color-scheme color-scheme--{{ color_scheme }}{% endunless %}" id="{{ section.id }}">
     <div class="container">
-      <div class="video-section relative flex mx-auto overflow-hidden flex-col{% if section.settings.video_size == 'sm' %} max-w-screen-md{% elsif section.settings.video_size == 'md' %} max-w-screen-lg{% endif %}">
+      <div class="video-section relative flex mx-auto overflow-hidden flex-col{% if section.settings.video_size == 'sm' %} max-w-screen-md{% elsif section.settings.video_size == 'md' %} max-w-screen-lg{% elsif section.settings.video_size == 'ssm' %} max-w-screen-ssm{% endif %}">
         {%- if section.blocks.size > 0 -%}
             <div class="video-section__text {{ section.settings.text_align }}"{% if settings.animations_enabled != "disabled" %} data-cc-animate{% endif %}>
               {%- for block in section.blocks -%}
@@ -173,6 +173,10 @@
       "label": "Video size",
       "info": "Applies to large screens only.",
       "options": [
+        {
+          "value": "ssm",
+          "label": "Small"
+        },
         {
           "value": "sm",
           "label": "Small"
