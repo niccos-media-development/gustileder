@@ -194,10 +194,35 @@
         "prevent_animation": true
       }
     },
+    "rich_text_KdE8aY": {
+      "type": "rich-text",
+      "blocks": {
+        "text_9AMeRh": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wir bei Gusti Leder wollen dazu beitragen etwas in der Welt zu verändern! Sei auch Du ein Teil der SLOW Fashion Bewegung</p>",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "text_9AMeRh"
+      ],
+      "custom_css": [],
+      "settings": {
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "wide": true,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
     "product_list_xxEYAE": {
       "type": "product-list",
       "settings": {
-        "title": "Wir bei Gusti Leder wollen dazu beitragen etwas in der Welt zu verändern! Sei auch Du ein Teil der SLOW Fashion Bewegung",
+        "title": "",
         "heading_align": "text-center",
         "view_all_url": "",
         "product_list": [
@@ -215,8 +240,8 @@
         "show_highlight_products": true,
         "show_promo_info": false,
         "image_ratio": "fill",
-        "promo_title": "A headline to grab attention",
-        "content": "<p>Use this card with an image to highlight your product list or introduce a promotion.</p>",
+        "promo_title": "",
+        "content": "",
         "link_url": "",
         "button_label": "Button",
         "color_scheme": "2",
@@ -610,6 +635,7 @@
       "disabled": true,
       "settings": {
         "image": "shopify://shop_images/2A54-22-9_wp.png",
+        "image_1": "",
         "video_external": "",
         "video_description": "",
         "video_autoplay": false,
@@ -677,6 +703,7 @@
       ],
       "settings": {
         "image": "shopify://shop_images/Slow-fashion-mindmap-DE.png",
+        "image_1": "",
         "video_external": "",
         "video_description": "",
         "video_autoplay": false,
@@ -1014,6 +1041,7 @@
   },
   "order": [
     "slideshow",
+    "rich_text_KdE8aY",
     "product_list_xxEYAE",
     "1738579412b8cbca45",
     "logo_list_9yDaAc",
