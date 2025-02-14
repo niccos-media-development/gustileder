@@ -423,6 +423,7 @@
     "card_colors_style": "swatches",
     "filter_color_style": "swatches",
     "swatch_colors": "Weiß:#fff",
+    "show_search_types": false,
     "enable_predictive_search": true,
     "search_input_placeholder_1": "Suche nach Produkten",
     "search_input_placeholder_2": "Suche nach Taschen",
