@@ -19,7 +19,7 @@
   -%}
 
   {%- capture video_component -%}
-    <video-component class="{% if using_video_tag %}has-video{% else %}has-iframe{% endif %} block w-full h-full"
+    <video-component class="{{ section.settings.video_shopify }} {% if using_video_tag %}has-video{% else %}has-iframe{% endif %} block w-full h-full"
                      {%- unless using_video_tag %}data-video-url="{{ section.settings.video_external | escape }}" {% endunless -%}
                      data-video-id="{{ section.id }}"
                      data-autoplay="{% if autoplay %}true{% else %}false{% endif %}"
