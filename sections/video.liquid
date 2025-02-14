@@ -85,7 +85,7 @@
             </div>
         {%- endif -%}
 
-        <div class="video-section__media block w-full relative"{% if settings.animations_enabled != "disabled" %} data-cc-animate{% endif %}>
+        <div class="video-section__media block w-full relative"{% if settings.animations_enabled != "disabled" %} data-cc-animate{% endif %} {%  if section.settings.image_ratio  %}style="padding-top: 100%;"{% endif %}>
           {%- if autoplay -%}
             <deferred-media class="absolute block top-0 left-0 w-full h-full no-js-hidden">
               <template>{{ video_component }}</template>
@@ -111,7 +111,11 @@
           <div class="media media--has-overlay absolute top-0 left-0 w-full h-full video-played-hidden">
             {%- liquid
               assign sizes = false
-              assign class = 'img-fit object-center'
+                if section.settings.image_ratio
+                  assign class = 'img-fit object-center'
+                else
+                  assign class = 'object-center'
+                endif
             -%}
             {%- if section.settings.poster_image != blank or section.settings.video_shopify != blank -%}
               {%- assign poster_image = section.settings.poster_image | default: section.settings.video_shopify.preview_image -%}
@@ -166,6 +170,11 @@
       "id": "poster_image",
       "label": "Cover image",
       "info": "Required. Shows while the video is loading, or if it cannot autoplay."
+    },
+     {
+      "type": "checkbox",
+      "id": "image_ratio",
+      "label": "Image Ratio Auto"
     },
     {
       "type": "select",
