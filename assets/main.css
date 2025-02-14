@@ -851,6 +851,9 @@ address {
 .max-w-screen-md{
   max-width: 769px;
 }
+.max-w-screen-ssm{
+  max-width: 500px;
+}
 .flex-auto{
   flex: 1 1 auto;
 }
