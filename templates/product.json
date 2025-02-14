@@ -176,7 +176,8 @@
         "video_external": "{{ product.metafields.custom.video_url.value }}",
         "video_description": "",
         "poster_image": "{{ product.metafields.custom.video_thumbnail.value }}",
-        "video_size": "sm",
+        "image_ratio": true,
+        "video_size": "ssm",
         "video_autoplay": false,
         "text_align": "text-center",
         "color_scheme": "default"
@@ -208,6 +209,7 @@
       "settings": {
         "video_external": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "video_description": "",
+        "image_ratio": false,
         "video_size": "md",
         "video_autoplay": true,
         "text_align": "text-center",
