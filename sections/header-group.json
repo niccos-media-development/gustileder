@@ -244,7 +244,7 @@
         "columns_ghFCUK"
       ],
       "settings": {
-        "enable_sticky": false,
+        "enable_sticky": true,
         "mobile_menu_position": "burger-left",
         "logo_text": "",
         "logo_type_scale": "2",
