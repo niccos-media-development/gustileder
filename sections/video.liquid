@@ -19,6 +19,17 @@
   -%}
 
   {%- capture video_component -%}
+     {% if section.settings.video_external != blank %}
+          <video
+  class="{{ video_class }}"
+ playsinline="playsinline" controls="controls" autoplay="autoplay" loop="loop" preload="none" muted="muted" aria-label="{{ product.title }}"
+  {% if preview_image %} poster="{{ preview_image | img_url: 'master' }}"{% endif %}
+  >
+    <source src="{{ media }}" type="video/mp4">
+   <img src="{{ preview_image | img_url: 'master' }}">
+
+</video>
+                {% else %}
     <video-component class="{{ section.settings.video_shopify }} {% if using_video_tag %}has-video{% else %}has-iframe{% endif %} block w-full h-full"
                      {%- unless using_video_tag %}data-video-url="{{ section.settings.video_external | escape }}" {% endunless -%}
                      data-video-id="{{ section.id }}"
@@ -30,6 +41,7 @@
       {%- else -%}
         <div></div>
       {%- endif -%}
+      {% endif %}
     </video-component>
   {%- endcapture -%}
 
