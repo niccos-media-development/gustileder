@@ -11,6 +11,7 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "show_page_title": true,
         "heading_align": "text-center"
@@ -70,6 +71,141 @@
         "tint_color": "#000000",
         "tint_opacity": 40,
         "prevent_animation": false
+      }
+    },
+    "rich_text_xi3DDC": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_jKGae8": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_rz3NiR": {
+          "type": "heading",
+          "settings": {
+            "heading": "Shopper",
+            "heading_size": "h2",
+            "heading_h1": false
+          }
+        },
+        "text_mPpqPL": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Einkaufen mit Stil!</p><p>Finde deinen besten Einkaufsbegleiter in unserem exklusiven Ledertaschensortiment. Diese strapazierfähigen und sinnvoll aufgeteilten Taschen erfüllen perfekt alle Bedürfnisse von Shopaholics. Vergleiche die Taschen, und wähle Deinen Lieblingsbegleiter aus einer Vielzahl von Designs und Stilen, die für Männer und Frauen entworfen wurden. Eine dieser Einkaufstaschen wird sicherlich zum besten Stück Deiner Accessoire-Sammlung avancieren.</p><p>Erlebe, wie Funktionalität auf Mode trifft, wie nirgendwo sonst. Jetzt kaufen!</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_AmnBr3": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_jKGae8",
+        "heading_rz3NiR",
+        "text_mPpqPL",
+        "button_AmnBr3"
+      ],
+      "settings": {
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "wide": false,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "multi_column_bWDNYL": {
+      "type": "multi-column",
+      "blocks": {
+        "column_Tp88jH": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Cecilia.jpg",
+            "media_scale": 100,
+            "heading": "Cecilia",
+            "text": "<p>Möchtest Du lieber eine einfache Ledertasche dabei haben oder etwas Beeindruckendes, das Deinen Stil und Deine Persönlichkeit unterstreicht? Wir haben eine tolle Kollektion von Handtaschen für Shopaholics, die niemals aus der Mode kommen.</p><p>Vielseitig und wunderschön kommt unsere \"<strong>Cecilia</strong>\" im zeitlosen Design daher, die perfekt zu Deinen Outfits passt. Ihr geräumiges Innenfach verfügt über eine Reißverschlusstasche und zwei Seitentaschen, in denen Du ein 15-Zoll-Gerät, Kosmetiktaschen und vieles mehr verstauen kannst. Diese Vintage-Ledertasche ist ein perfektes Geschenk für Deine Freunde und Familie. Vielleicht gönnst Du Dir selbst auch ein Geschenk!</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_bim6eP": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Therese_c9fd45ca-370f-4aff-9acc-4ab62026a1e3.jpg",
+            "media_scale": 100,
+            "heading": "Therese",
+            "text": "<p>Bei Shopaholics sehr beliebt ist \"<strong>Therese</strong>\", eine multifunktionale Ledertasche, der Du nicht widerstehen kannst. Ihr großes Hauptfach verfügt über zwei kleine Reißverschlusstaschen innen, in denen Du bequem Bücher, Geldbörse, Schlüssel, Wasserflasche, Kosmetiktasche und vieles mehr verstauen kannst. \"Therese\" ist der perfekte Begleiter für Deinen nächsten Einkaufsbummel oder den Bürobesuch.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_MAr4kV": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/greta.jpg",
+            "media_scale": 100,
+            "heading": "Greta",
+            "text": "<p>Unsere elegante und coole Shopper-Tasche \"<strong>Greta</strong>\" hat ein großes Hauptfach und mehrere Taschen im Inneren. Bewahre Deine Wertsachen wie Handy, Planer und andere Essentials sicher und organisiert in dieser geräumigen Handtasche auf. Ihr klassisches zeitloses Design ergänzt deinen Stil, wenn du mit \"Greta\" unterwegs bist. Graviere \"Greta\" mit deinem Lieblingszitat oder einer persönlichen Nachricht und mache sie zu etwas Einzigartigem!</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_Tp88jH",
+        "column_bim6eP",
+        "column_MAr4kV"
+      ],
+      "settings": {
+        "title": "Accessoire für deinen lässigen Look",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "layout": "carousel",
+        "column_size": "medium",
+        "column_align": "left",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "featured_collection_fw9w9V": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Unsere Bestseller",
+        "heading_align": "text-start",
+        "show_view_all": true,
+        "collection": "bestseller",
+        "layout": "carousel",
+        "card_size_mobile": "small",
+        "card_size": "small",
+        "products_to_show": 8,
+        "show_highlight_products": true,
+        "show_promo_info": false,
+        "image_ratio": "fill",
+        "promo_title": "A headline to grab attention",
+        "content": "<p>Use this card with an image to highlight your collections or introduce a promotion.</p>",
+        "link_url": "",
+        "button_label": "Button",
+        "color_scheme": "2",
+        "button_style": "btn btn--primary"
       }
     },
     "collection_list_RHeKBJ": {
@@ -134,33 +270,13 @@
         "color_scheme": "none",
         "full_width": true
       }
-    },
-    "featured_collection_fw9w9V": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Unsere Bestseller",
-        "heading_align": "text-start",
-        "show_view_all": true,
-        "collection": "bestseller",
-        "layout": "carousel",
-        "card_size_mobile": "small",
-        "card_size": "small",
-        "products_to_show": 8,
-        "show_highlight_products": true,
-        "show_promo_info": false,
-        "image_ratio": "fill",
-        "promo_title": "A headline to grab attention",
-        "content": "<p>Use this card with an image to highlight your collections or introduce a promotion.</p>",
-        "link_url": "",
-        "button_label": "Button",
-        "color_scheme": "2",
-        "button_style": "btn btn--primary"
-      }
     }
   },
   "order": [
     "main",
     "image_banner_h7bfNH",
+    "rich_text_xi3DDC",
+    "multi_column_bWDNYL",
     "featured_collection_fw9w9V",
     "collection_list_RHeKBJ"
   ]
