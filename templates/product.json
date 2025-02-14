@@ -182,6 +182,38 @@
         "color_scheme": "default"
       }
     },
+    "video_x3WXjV": {
+      "type": "video",
+      "blocks": {
+        "heading_3cwNxA": {
+          "type": "heading",
+          "settings": {
+            "heading": "Video",
+            "heading_size": "h1",
+            "heading_h1": false
+          }
+        },
+        "text_WgkLNM": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Add text to a video to showcase a detail of your brand or product line.</p>",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_3cwNxA",
+        "text_WgkLNM"
+      ],
+      "settings": {
+        "video_external": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "video_description": "",
+        "video_size": "md",
+        "video_autoplay": true,
+        "text_align": "text-center",
+        "color_scheme": "1"
+      }
+    },
     "product_list_nd7Epg": {
       "type": "product-list",
       "settings": {
@@ -530,6 +562,7 @@
     "main",
     "details",
     "video_FdLm63",
+    "video_x3WXjV",
     "product_list_nd7Epg",
     "icons_with_text_YwygDr",
     "product-features",
