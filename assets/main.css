@@ -5603,3 +5603,6 @@ body > .os-scrollbar {
 .custom_class_mediaimg {
     object-fit: contain;
 }
+.cc-product-card-grid .section__heading {
+    font-family: 'Museo 300' !important;
+}
