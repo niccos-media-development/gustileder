@@ -664,9 +664,9 @@
           "shoulder-bag-handbag-purse-small-evening-bag-leather-bag-vintage-grey-leather-2h172-20-61",
           "stiftemappe-federtasche-federmappe-stiftetui-braun-leder-2s2-22-96"
         ],
-        "layout": "carousel",
-        "card_size_mobile": "small",
-        "card_size": "small",
+        "layout": "carousel_on_mobile",
+        "card_size_mobile": "large",
+        "card_size": "medium",
         "show_highlight_products": true,
         "show_promo_info": false,
         "image_ratio": "fill",
