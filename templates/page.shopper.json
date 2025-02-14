@@ -137,9 +137,9 @@
             "image": "shopify://shop_images/Cecilia.jpg",
             "media_scale": 100,
             "heading": "Cecilia",
-            "text": "<p>Möchtest Du lieber eine einfache Ledertasche dabei haben oder etwas Beeindruckendes, das Deinen Stil und Deine Persönlichkeit unterstreicht? Wir haben eine tolle Kollektion von Handtaschen für Shopaholics, die niemals aus der Mode kommen.</p><p>Vielseitig und wunderschön kommt unsere \"<strong>Cecilia</strong>\" im zeitlosen Design daher, die perfekt zu Deinen Outfits passt. Ihr geräumiges Innenfach verfügt über eine Reißverschlusstasche und zwei Seitentaschen, in denen Du ein 15-Zoll-Gerät, Kosmetiktaschen und vieles mehr verstauen kannst. Diese Vintage-Ledertasche ist ein perfektes Geschenk für Deine Freunde und Familie. Vielleicht gönnst Du Dir selbst auch ein Geschenk!</p>",
+            "text": "<p>Möchtest Du lieber eine einfache Ledertasche dabei haben oder etwas Beeindruckendes, das Deinen Stil und Deine Persönlichkeit unterstreicht? Wir haben eine tolle Kollektion von Handtaschen für Shopaholics, die niemals aus der Mode kommen.</p><p>Vielseitig und wunderschön kommt unsere \"<strong>Cecilia</strong>\" im zeitlosen Design daher, die perfekt zu Deinen Outfits passt. Ihr geräumiges Innenfach verfügt über eine Reißverschlusstasche und zwei Seitentaschen, in denen Du ein 15-Zoll-Gerät, Kosmetiktaschen und vieles mehr verstauen kannst. Diese Vintage-Ledertasche ist ein perfektes Geschenk für Deine Freunde und Familie. Vielleicht gönnst Du Dir selbst auch ein Geschenk!</p><p><strong>Größe             </strong>43 x 32 x 15 cm</p><p><strong>Lederart        </strong>Büffelleder</p><p><strong>Innen Fächer </strong>4</p><p><strong>Verschluss  </strong>Reißverschluss</p><p></p>",
             "button_label": "",
-            "button_link": ""
+            "button_link": "shopify://products/shopper-handtasche-ledertasche-henkeltasche-2m43-26-23"
           }
         },
         "column_bim6eP": {
@@ -149,9 +149,9 @@
             "image": "shopify://shop_images/Therese_c9fd45ca-370f-4aff-9acc-4ab62026a1e3.jpg",
             "media_scale": 100,
             "heading": "Therese",
-            "text": "<p>Bei Shopaholics sehr beliebt ist \"<strong>Therese</strong>\", eine multifunktionale Ledertasche, der Du nicht widerstehen kannst. Ihr großes Hauptfach verfügt über zwei kleine Reißverschlusstaschen innen, in denen Du bequem Bücher, Geldbörse, Schlüssel, Wasserflasche, Kosmetiktasche und vieles mehr verstauen kannst. \"Therese\" ist der perfekte Begleiter für Deinen nächsten Einkaufsbummel oder den Bürobesuch.</p>",
+            "text": "<p>Bei Shopaholics sehr beliebt ist \"<strong>Therese</strong>\", eine multifunktionale Ledertasche, der Du nicht widerstehen kannst. Ihr großes Hauptfach verfügt über zwei kleine Reißverschlusstaschen innen, in denen Du bequem Bücher, Geldbörse, Schlüssel, Wasserflasche, Kosmetiktasche und vieles mehr verstauen kannst. \"Therese\" ist der perfekte Begleiter für Deinen nächsten Einkaufsbummel oder den Bürobesuch.</p><p><strong>Größe             </strong>28 x 30 x 14 cm</p><p><strong>Lederart        </strong>Ziegenleder</p><p><strong>Innen Fächer </strong>3</p><p><strong>Verschluss  </strong>Reißverschluss</p>",
             "button_label": "",
-            "button_link": ""
+            "button_link": "shopify://products/henkeltasche-aus-leder-shopper-reissverschluss-h14"
           }
         },
         "column_MAr4kV": {
@@ -161,9 +161,9 @@
             "image": "shopify://shop_images/greta.jpg",
             "media_scale": 100,
             "heading": "Greta",
-            "text": "<p>Unsere elegante und coole Shopper-Tasche \"<strong>Greta</strong>\" hat ein großes Hauptfach und mehrere Taschen im Inneren. Bewahre Deine Wertsachen wie Handy, Planer und andere Essentials sicher und organisiert in dieser geräumigen Handtasche auf. Ihr klassisches zeitloses Design ergänzt deinen Stil, wenn du mit \"Greta\" unterwegs bist. Graviere \"Greta\" mit deinem Lieblingszitat oder einer persönlichen Nachricht und mache sie zu etwas Einzigartigem!</p>",
+            "text": "<p>Unsere elegante und coole Shopper-Tasche \"<strong>Greta</strong>\" hat ein großes Hauptfach und mehrere Taschen im Inneren. Bewahre Deine Wertsachen wie Handy, Planer und andere Essentials sicher und organisiert in dieser geräumigen Handtasche auf. Ihr klassisches zeitloses Design ergänzt deinen Stil, wenn du mit \"Greta\" unterwegs bist. Graviere \"Greta\" mit deinem Lieblingszitat oder einer persönlichen Nachricht und mache sie zu etwas Einzigartigem!</p><p><strong>Größe             </strong>33 x 28 x 8,5 cm</p><p><strong>Lederart        </strong>Rindsleder</p><p><strong>Innen Fächer </strong>1</p><p><strong>Verschluss  </strong>Reißverschluss</p>",
             "button_label": "",
-            "button_link": ""
+            "button_link": "shopify://products/shopper-handtasche-ledertasche-henkeltasche-mit-reissverschluss-schwarz-leder-2h68-33-7"
           }
         }
       },
@@ -174,6 +174,52 @@
       ],
       "settings": {
         "title": "Accessoire für deinen lässigen Look",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "layout": "carousel",
+        "column_size": "medium",
+        "column_align": "left",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "multi_column_XE3AD9": {
+      "type": "multi-column",
+      "blocks": {
+        "column_9VkaWW": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/maola.jpg",
+            "media_scale": 100,
+            "heading": "Maola",
+            "text": "<p>Erkunde die Stadt mit deinen Kindern oder gehe mit Deinen Liebsten shoppen? Unsere wunderschöne Tasche \"<strong>Maola</strong>\" ist der perfekte Begleiter. Organisiere deine Habseligkeiten in ihrem geräumigen Hauptfach. Diese Tasche lässt sich weit öffnen und verfügt über zwei Seitentaschen sowie eine Reißverschlusstasche innen und außen, sodass Du einen guten Überblick über den Inhalt hast. Es gibt genügend Platz für 13-Zoll-Geräte, deine Geldbörse, dein Handy, eine kleine Wasserflasche und vieles mehr.</p><p><strong>Größe             </strong>34 x 36 x 7 cm</p><p><strong>Lederart        </strong>Rindsleder</p><p><strong>Innen Fächer </strong>4</p><p><strong>Verschluss  </strong>Reißverschluss</p><p></p>",
+            "button_label": "",
+            "button_link": "shopify://products/handtasche-ledertasche-umhaengetasche-2m69-48-5"
+          }
+        },
+        "column_fKMdVh": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Paris.jpg",
+            "media_scale": 100,
+            "heading": "Paris",
+            "text": "<p>Suchst Du nach einer Tragetasche für Deinen nächsten Einkaufsbummel? “<strong>Paris</strong>” ist ein praktischer Begleiter für Deinen nächsten Einkaufstrip. Diese schicke Tasche verfügt über ein geräumiges Hauptfach mit mehreren Innenfächern, um Dein Portemonnaie, Handy, kleine Wasserflasche und andere Essentials organisiert zu halten.</p><p><strong>Größe             </strong>36 x 38 x 9 cm</p><p><strong>Lederart        </strong>Rindsleder</p><p><strong>Innen Fächer </strong>3</p><p><strong>Verschluss  </strong>Reißverschluss</p>",
+            "button_label": "",
+            "button_link": "shopify://products/handtasche-umhaengetasche-shopper-ledertasche-braun-leder-2h136-48-5"
+          }
+        }
+      },
+      "block_order": [
+        "column_9VkaWW",
+        "column_fKMdVh"
+      ],
+      "settings": {
+        "title": "Dein Begleiter für Kurztrips",
         "heading_align": "text-center",
         "button_label": "",
         "button_link": "",
@@ -277,6 +323,7 @@
     "image_banner_h7bfNH",
     "rich_text_xi3DDC",
     "multi_column_bWDNYL",
+    "multi_column_XE3AD9",
     "featured_collection_fw9w9V",
     "collection_list_RHeKBJ"
   ]
