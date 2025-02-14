@@ -25,8 +25,8 @@
  playsinline="playsinline" controls="controls" autoplay="autoplay" loop="loop" preload="none" muted="muted" aria-label="{{ product.title }}"
   {% if preview_image %} poster="{{ preview_image | img_url: 'master' }}"{% endif %}
   >
-    <source src="{{ media }}" type="video/mp4">
-   <img src="{{ preview_image | img_url: 'master' }}">
+    <source src="{{ section.settings.video_external }}" type="video/mp4">
+  
 
 </video>
                 {% else %}
