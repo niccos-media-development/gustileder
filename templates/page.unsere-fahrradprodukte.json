@@ -181,6 +181,7 @@
       ],
       "settings": {
         "image": "shopify://shop_images/Panniers.jpg",
+        "image_1": "",
         "video_external": "",
         "video_description": "",
         "video_autoplay": false,
@@ -227,6 +228,7 @@
       ],
       "settings": {
         "image": "shopify://shop_images/handlebar_bags.jpg",
+        "image_1": "",
         "video_external": "",
         "video_description": "",
         "video_autoplay": false,
@@ -273,6 +275,7 @@
       ],
       "settings": {
         "image": "shopify://shop_images/frame_bags.jpg",
+        "image_1": "",
         "video_external": "",
         "video_description": "",
         "video_autoplay": false,
@@ -319,6 +322,7 @@
       ],
       "settings": {
         "image": "shopify://shop_images/frame_bags.jpg",
+        "image_1": "",
         "video_external": "",
         "video_description": "",
         "video_autoplay": false,
@@ -415,7 +419,7 @@
         "media_WaEHUn": {
           "type": "media",
           "settings": {
-            "image": "shopify://shop_images/2G31-20-4.jpg",
+            "image": "shopify://shop_images/WolfgangL._2G31-20-4.jpg",
             "link_url": "shopify://products/brasnicka-pod-sedlo-kola-na-riditka-na-kolo-na-cajky-kuze-vintage-cerna-2g31-20-6",
             "columns": 1,
             "rows": 1,
@@ -434,7 +438,7 @@
         "media_LGjJTx": {
           "type": "media",
           "settings": {
-            "image": "shopify://shop_images/2F37-20-6WP.jpg",
+            "image": "shopify://shop_images/2F37-20-6wp_Regan.jpg",
             "link_url": "shopify://products/regenschutz-bezug-sattel-fahrrad-zubehoer-sattelschutzbezug-fuer-brooks-sattel-leder-schwarz-2f37-20-6wp",
             "columns": 1,
             "rows": 1,
@@ -453,7 +457,7 @@
         "media_iAE3Gy": {
           "type": "media",
           "settings": {
-            "image": "shopify://shop_images/2F38-22-6-200.jpg",
+            "image": "shopify://shop_images/Adri-V._2F38-22-6-200_4.jpg",
             "link_url": "shopify://products/lenkerband-groesse-200-cm-echtes-leder-inkl-korken-rennrad-lederband-griffband-fahrradzubehoer-zubehoer-fahrrad-lenker-braun-leder-2f38-22-6-200",
             "columns": 1,
             "rows": 1,
