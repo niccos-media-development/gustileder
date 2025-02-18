@@ -70,7 +70,8 @@
         "button_MYJkQC"
       ],
       "settings": {
-        "image": "shopify://shop_images/Saddles.jpg",
+        "image": "shopify://shop_images/saddles_1ba48121-6858-4af2-a650-65b82278d9af.jpg",
+        "image_1": "",
         "video_external": "",
         "video_description": "",
         "video_autoplay": false,
@@ -162,7 +163,7 @@
         "media_PMEbPX": {
           "type": "media",
           "settings": {
-            "image": "shopify://shop_images/Regina_S.-2f35-48-5_756424b0-4d38-490b-b73c-00481cb55365.jpg",
+            "image": "shopify://shop_images/2F35-48-5_MP_BIKE-1_4061147007778.jpg",
             "link_url": "shopify://products/echtes-leder-fahrradsattel-ledersattel-fuer-damen-sattel-fahrrad-cityrad-trekkingrad-braun-2f35-48-5",
             "columns": 2,
             "rows": 1,
@@ -181,7 +182,7 @@
         "media_jmh9ab": {
           "type": "media",
           "settings": {
-            "image": "shopify://shop_images/Bernard_H-2f3-20-42_d5510b52-bdc1-48aa-bd12-a1899d5fc7d6.jpg",
+            "image": "shopify://shop_images/2F3-20-42_DEF_BIKE_4061147445877.jpg",
             "link_url": "shopify://products/echtes-leder-fahrradsattel-ledersattel-vintage-retro-sattel-fahrrad-cityrad-braun-2f3-20-42",
             "columns": 2,
             "rows": 1,
@@ -243,7 +244,7 @@
         "media_xNemzJ": {
           "type": "media",
           "settings": {
-            "image": "shopify://shop_images/Michael_M-2f56-20-42_85ed958e-27c1-4c73-a79a-adfe009da12b.jpg",
+            "image": "shopify://shop_images/2F56-20-42_bike-sattel-leder_6cc1240b-9e0c-404b-be5a-d84f5c609e6c.jpg",
             "link_url": "shopify://products/real-leather-bike-saddle-leather-bicycle-saddle-vintage-retro-saddle-bike-city-bike-brown-2f56-20-42",
             "columns": 2,
             "rows": 1,
@@ -262,7 +263,7 @@
         "media_grMGGf": {
           "type": "media",
           "settings": {
-            "image": "shopify://shop_images/Geraint_T-2f31-22-5_e8c43f0a-b440-4831-ae28-625eadb76565.jpg",
+            "image": "shopify://shop_images/2F31-22-5_bike-sattle-leder.jpg",
             "link_url": "shopify://products/echtes-leder-fahrradsattel-ledersattel-weich-sattel-fahrrad-rennrad-trekkingrad-braun-2f31-22-5",
             "columns": 2,
             "rows": 1,
@@ -324,7 +325,7 @@
         "media_fmzbqG": {
           "type": "media",
           "settings": {
-            "image": "shopify://shop_images/Elsy_J-2f71-20-42_1dae21a3-a7ef-4fcb-a746-edbabf83cfc0.jpg",
+            "image": "shopify://shop_images/2F71-20-42_bike-sattel-leder_f8ac76e9-c724-4d44-90bd-d2ae157b02f9.jpg",
             "link_url": "shopify://products/real-leather-bicycle-saddle-vintage-retro-leather-saddle-bicycle-saddle-city-bike-brown-2f71-20-42",
             "columns": 2,
             "rows": 1,
@@ -343,7 +344,7 @@
         "media_KKgFpm": {
           "type": "media",
           "settings": {
-            "image": "shopify://shop_images/Walter_G-2F101-20-34.jpg",
+            "image": "shopify://shop_images/2F101-20-34_BIKE_MP_4061147846230.jpg",
             "link_url": "shopify://products/echtes-leder-fahrradsattel-ledersattel-vintage-retro-sattel-fahrrad-cityrad-schwarz-2f101-20-34",
             "columns": 2,
             "rows": 1,
@@ -405,7 +406,7 @@
         "media_wLPKdU": {
           "type": "media",
           "settings": {
-            "image": "shopify://shop_images/Anton_P-2f65-20-6.jpg",
+            "image": "shopify://shop_images/2F65-20-6_bike1-sattel-leder_594c86ff-69bf-4bc3-9e60-fe6f65ba0298.jpg",
             "link_url": "shopify://products/real-leather-bicycle-saddle-leather-saddle-soft-sports-saddle-bike-racing-bike-trekking-bike-black-2f65-20-6",
             "columns": 2,
             "rows": 1,
@@ -424,7 +425,7 @@
         "media_gM6HAP": {
           "type": "media",
           "settings": {
-            "image": "shopify://shop_images/Sean_Y-2F34-22-9.jpg",
+            "image": "shopify://shop_images/2F34-22-9_fahrrad1-sattel-leder.jpg",
             "link_url": "shopify://products/echtes-leder-fahrradsattel-ledersattel-retro-design-weich-sattel-fahrrad-cityrad-rennrad-trekkingrad-mtb-schwarz-2f34-22-9",
             "columns": 2,
             "rows": 1,
@@ -486,7 +487,7 @@
         "media_8UMj4M": {
           "type": "media",
           "settings": {
-            "image": "shopify://shop_images/Connie_C-2f60-20-2.jpg",
+            "image": "shopify://shop_images/2F60-20-2_DEF_BIKE-1_4061147009048.jpg",
             "link_url": "shopify://products/echtes-leder-fahrradsattel-ledersattel-vintage-retro-sattel-fahrrad-cityrad-braun-2f60-20-2",
             "columns": 2,
             "rows": 1,
@@ -505,7 +506,7 @@
         "media_TQTVi8": {
           "type": "media",
           "settings": {
-            "image": "shopify://shop_images/Eloi_M-2F64-20-42.jpg",
+            "image": "shopify://shop_images/2F64-20-42_bike1-sattel-leder_a43de638-c6e4-4f34-8a3e-d2b409925f03.jpg",
             "link_url": "shopify://products/real-leather-bicycle-saddle-vintage-retro-leather-saddle-bicycle-saddle-city-bike-brown-2f64-20-42",
             "columns": 2,
             "rows": 1,
@@ -567,7 +568,7 @@
         "media_dpPt6E": {
           "type": "media",
           "settings": {
-            "image": "shopify://shop_images/Louison_B-2F21-70-1.jpg",
+            "image": "shopify://shop_images/Insta_Louison-B._2F21-70-1_2.jpg",
             "link_url": "shopify://products/echtes-leder-fahrradsattel-ledersattel-vintage-retro-sattel-fahrrad-cityrad-braun-2f21-70-1",
             "columns": 2,
             "rows": 1,
@@ -586,7 +587,7 @@
         "media_TED4Th": {
           "type": "media",
           "settings": {
-            "image": "shopify://shop_images/Mark_C-2f23-70-1.jpg",
+            "image": "shopify://shop_images/Intsa_Mark-C._2F23-70-1_MP_1.jpg",
             "link_url": "shopify://products/echtes-leder-fahrradsattel-ledersattel-vintage-retro-sattel-fahrrad-cityrad-braun-2f23-70-1",
             "columns": 2,
             "rows": 1,
