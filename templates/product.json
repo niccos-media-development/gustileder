@@ -534,7 +534,7 @@
         "button_nGBhib"
       ],
       "settings": {
-        "image": "shopify://shop_images/summer_m.jpg",
+        "image": "{{ product.metafields.custom.kostentransparenzbilder.value }}",
         "image_1": "",
         "video_external": "",
         "video_description": "",
