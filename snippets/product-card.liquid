@@ -206,7 +206,7 @@
               {{- product.title | escape -}}
             </a>
           </p>
-           {% render 'variant_swatches', product: product %}
+           {% render 'variant_swatches', product: product, classes: "card_swatch" %}
           {%- if settings.card_show_subtitle and product.metafieldscustom.kategorie_teaser != blank -%}
             <p class="card__subtitle text-sm text-current mb-1{% unless settings.show_dividers %} mt-1{% endunless %}">
               {{ product.metafields.custom.kategorie_teaser }}
