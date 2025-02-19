@@ -543,7 +543,7 @@
       ],
       "settings": {
         "image": "{{ product.metafields.custom.kostentransparenzbilder.value }}",
-        "image_1": "",
+        "image_1": "https://static.gusti-leder.at/tb/U31/U31_WEB_COST_DE.jpg",
         "video_external": "",
         "video_description": "",
         "video_autoplay": false,

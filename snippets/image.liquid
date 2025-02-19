@@ -165,7 +165,7 @@
     <img {% if srcset %}srcset="{{ srcset }}" {% endif -%}
          {% if sizes and srcset %}sizes="{{ sizes }}" {% endif -%}
       {% if custom_img %}
-         src="{{ image }}"
+         src="{{ cust_image }}"
         {% else %}
          src="{{ image | image_url: width: src_width }}"
       {% endif %}
