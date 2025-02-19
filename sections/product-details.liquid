@@ -326,7 +326,7 @@
                         </div>
                       </summary>
                       <div class="disclosure__panel has-motion">
-                        <div class="disclosure__content{% unless i == "4" %} rte product-description{% endunless %}">
+                        <div class="disclosure__content{% unless i == "4" or i == "6"  %} rte product-description{% endunless %}">
                           {%- if forloop.first and block.settings.show_description -%}
                             {{ product.description }}
                           {%- elsif i == "4"  and specification != blank -%}
