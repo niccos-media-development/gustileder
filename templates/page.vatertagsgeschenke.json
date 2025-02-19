@@ -81,7 +81,7 @@
           "type": "column",
           "settings": {
             "enable_media": true,
-            "image": "shopify://shop_images/Insta_Pawel-RFID_2A234-22-129-2.jpg",
+            "image": "shopify://shop_images/Pawel_RFID.jpg",
             "media_scale": 100,
             "heading": "Geschenke für Papa - Wann ist Vatertag 2025?",
             "text": "<p>Papa, Du bist der Beste! - Den Vatertag (Herrentag oder Männertag) feiert man in vielen Ländern der Welt an unterschiedlichen Tagen. Doch immer aus demselben Grund: wir wollen den Mann ehren, der unser großes Vorbild ist. In Österreich findet der Vatertag dieses Jahr am <strong>08.06.2025</strong> statt.</p><p><br/>Wie jedes Jahr wollen wir an diesem Tag mit einem kleinen Geschenk Danke sagen, für alles was Papa für uns tut und schon getan hat. Das <strong>richtige Geschenk für einen Mann </strong>zu finden ist nicht immer leicht. Deshalb haben wir für Euch einige Geschenkideen zusammengestellt, die ihm garantiert gefallen!</p>",
@@ -93,7 +93,7 @@
           "type": "column",
           "settings": {
             "enable_media": true,
-            "image": "shopify://shop_images/Spencer_2g7-22-6_bbdc08f0-7b84-4648-a923-927407a9a3d6.jpg",
+            "image": "shopify://shop_images/Spencer_2G7-22-6_7e99904d-7806-4192-8551-872d12200da6.jpg",
             "media_scale": 100,
             "heading": "Geschenkideen aus Leder, die Deinen Vater ein Leben lang begleiten",
             "text": "<p>Es muss nicht immer ein teures alkoholisches Getränk oder ein Technik-Spielzeug sein. Geschenke für Männer sollten möglichst <strong>praktisch, schlicht und trotzdem elegant </strong>sein. Schenkt Euren Vätern dieses Jahr etwas, an dem er lange Freude hat!</p><p><br/>Produkte aus Leder sind <strong>langlebig und robust</strong>, da das Material selbst sehr widerstandsfähig ist. Gusti Leder zeigt Dir Geschenkideen aus hochwertigem, nachhaltigem Leder, die Deinen Papa ein Leben lang begleiten!</p>",
@@ -182,7 +182,7 @@
           "type": "column",
           "settings": {
             "enable_media": true,
-            "image": "shopify://shop_images/Casper_7c3c4af9-27ea-421e-8d28-12d869c33ce4.jpg",
+            "image": "shopify://shop_images/Casper_2S2-22-6.jpg",
             "media_scale": 100,
             "heading": "Casper",
             "text": "",
@@ -194,7 +194,7 @@
           "type": "column",
           "settings": {
             "enable_media": true,
-            "image": "shopify://shop_images/accessory_1_d0252310-f382-4e69-a857-328b3892bee8.jpg",
+            "image": "shopify://shop_images/Kara_2G114-26-12-115.jpg",
             "media_scale": 100,
             "heading": "Kara",
             "text": "",
@@ -206,7 +206,7 @@
           "type": "column",
           "settings": {
             "enable_media": true,
-            "image": "shopify://shop_images/accessory_2.jpg",
+            "image": "shopify://shop_images/Chester_2H30-20-4wp.jpg",
             "media_scale": 100,
             "heading": "Chester",
             "text": "",
@@ -240,7 +240,7 @@
         "media_TrMThQ": {
           "type": "media",
           "settings": {
-            "image": "shopify://shop_images/wallet_3_3fd10d05-6153-4cb7-aaed-484f053cc8d3.jpg",
+            "image": "shopify://shop_images/Moritz_2A126-33-2_MP.jpg",
             "link_url": "shopify://products/geldboerse-portemonnaie-brieftasche-geldbeutel-herren-schwarz-leder-2a126-33-2",
             "columns": 2,
             "rows": 2,
@@ -672,6 +672,7 @@
         "button_DMNGJL"
       ],
       "settings": {
+        "image_1": "",
         "video_external": "https://youtu.be/ui6K0CYX5Vo",
         "video_description": "",
         "video_autoplay": true,
