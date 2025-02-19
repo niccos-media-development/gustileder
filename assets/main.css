@@ -5579,7 +5579,7 @@ body > .os-scrollbar {
 .cust-variant-swatches {
     display: flex;
     flex-wrap: wrap;
-    gap: 10px;
+    gap: 1px;
 }
 .cust-variant-swatches.square_swatch  img {
     aspect-ratio: 1/1;
