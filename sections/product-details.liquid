@@ -53,20 +53,16 @@
             assign tab_indices = tabs | remove_first: ',' | split: ','
           -%}
 
-          {%- if block.settings.show_specification and block.settings.spec_metafields or block.settings.show_specification_1 and block.settings.spec_metafields_1 -%}
+                    {%- if block.settings.show_specification and block.settings.spec_metafields -%}
             {% capture specification_title %}
               {{ block.settings.specification_title }}
             {% endcapture %}
-            {% capture specification_title_1 %}
-              {{ block.settings.specification_title_1 }}
-            {% endcapture %}
+
             {%- capture specification -%}
-              {% if block.settings.spec_metafields %}
+
               {%- assign metafield_array = block.settings.spec_metafields | newline_to_br | strip_newlines | split: '<br />' -%}
-              {% endif %}
-              {% if block.settings.spec_metafields_1 %}
-              {%- assign metafield_array = block.settings.spec_metafields_1 | newline_to_br | strip_newlines | split: '<br />' -%}
-              {% endif %}
+
+            
               {%- for key_value in metafield_array -%}
                 {%- liquid
                   assign is_variant_metafield = false
@@ -140,9 +136,9 @@
                         -%}
                         {%- if variant_metafield == blank -%}
                           {{ block.settings.spec_empty_field_text }}
-                           {{ block.settings.spec_empty_field_text_1 }}
+                        
                         {%- else -%}
-                          <div class="{% if metafield.type contains "color" %}flex flex-wrap gap-3{% endif %}{% if block.settings.spec_right_align or block.settings.spec_right_align_1 %} text-end justify-end grow{% endif %}">
+                          <div class="{% if metafield.type contains "color" %}flex flex-wrap gap-3{% endif %}{% if block.settings.spec_right_align %} text-end justify-end grow{% endif %}">
                             {{ variant_metafield }}
                           </div>
                         {%- endif -%}
@@ -152,15 +148,14 @@
                 {%- endif -%}
 
                 {%- unless metafield_output contains "Liquid error" -%}
-                  {%- unless metafield_output == blank and block.settings.spec_show_empty_metafields == false or  metafield_output == blank and block.settings.spec_show_empty_metafields_1 == false  -%}
+                  {%- unless metafield_output == blank and block.settings.spec_show_empty_metafields == false -%}
                     <li class="product-spec__item flex flex-col gap-x-theme md:flex-row pb-4 mb-4 last:pb-0 last:mb-0">
-                      <div class="product-spec__label{% if block.settings.spec_right_align or block.settings.spec_right_align_1 %} product-spec__label--right{% endif %} mb-2 block font-bold">
+                      <div class="product-spec__label{% if block.settings.spec_right_align %} product-spec__label--right{% endif %} mb-2 block font-bold">
                         {{ label }}
                       </div>
-                      <div class="product-spec__value {% if is_variant_metafield == false and metafield.type contains "color" %}flex flex-wrap gap-3{% else %}block{% endif %}{% if block.settings.spec_right_align or block.settings.spec_right_align_1 %} text-end justify-end grow{% endif %}">
+                      <div class="product-spec__value {% if is_variant_metafield == false and metafield.type contains "color" %}flex flex-wrap gap-3{% else %}block{% endif %}{% if block.settings.spec_right_align %} text-end justify-end grow{% endif %}">
                         {%- if metafield_output == blank -%}
                           {{ block.settings.spec_empty_field_text }}
-                           {{ block.settings.spec_empty_field_text_1 }}
                         {%- else -%}
                           {{ metafield_output }}
                         {%- endif -%}
@@ -171,7 +166,119 @@
               {%- endfor -%}
             {%- endcapture -%}
           {%- endif -%}
+                  {%- if block.settings.show_specification_1 and block.settings.spec_metafields_1 -%}
+            {% capture specification_title %}
+              {{ block.settings.specification_title_1 }}
+            {% endcapture %}
 
+            {%- capture specification_1 -%}
+
+              {%- assign metafield_array = block.settings.spec_metafields_1 | newline_to_br | strip_newlines | split: '<br />' -%}
+
+            
+              {%- for key_value in metafield_array -%}
+                {%- liquid
+                  assign is_variant_metafield = false
+                  assign parts = key_value | split: ':'
+                  assign label = parts.first | strip | replace: '"', ''
+                  assign metafield_key = parts.last | strip
+                  assign metafield_key_parts = metafield_key | split: "."
+                  assign metafield_namespace_index = metafield_key_parts | size | minus: 2
+                  assign metafield_key = metafield_key_parts | last
+                  assign metafield_namespace = metafield_key_parts[metafield_namespace_index]
+                  assign metafield = product.metafields[metafield_namespace][metafield_key]
+
+                  if metafield == blank
+                    for variant in product.variants
+                      assign metafield = variant.metafields[metafield_namespace][metafield_key]
+                      if metafield != blank
+                        assign is_variant_metafield = true
+                        break
+                      endif
+                    endfor
+                  endif
+
+                  if is_variant_metafield == false
+                    capture metafield_output
+                      if metafield.type contains "list.metaobject_reference"
+                        render 'render-metafield', metafield: metafield, metafield_type: metafield.type, metafield_value: metafield.value
+                      elsif metafield.type contains "list."
+                        for item in metafield.value
+                          assign metafield_type = metafield.type | replace: "list.", ""
+                          assign comma = ""
+                          if forloop.last == false
+                            assign comma = ", "
+                          endif
+                          render 'render-metafield', metafield: metafield, metafield_type: metafield_type, metafield_value: item, comma: comma
+                          if forloop.last == false and metafield_type == "file_reference"
+                            echo "<div class='mt-2'></div>"
+                          endif
+                        endfor
+                      elsif metafield.value
+                        render 'render-metafield', metafield: metafield, metafield_type: metafield.type, metafield_value: metafield.value
+                      endif
+                    endcapture
+                  endif
+                -%}
+
+                {%- if is_variant_metafield -%}
+                  {%- capture metafield_output -%}
+                    {%- for variant in product.variants -%}
+                      {%- assign metafield = variant.metafields[metafield_namespace][metafield_key] -%}
+                      <div {% if product.selected_or_first_available_variant != variant %}class="hidden"{% endif %} data-variant-metafield="{{ variant.id }}">
+                        {%- liquid
+                          capture variant_metafield
+                            if metafield.type contains "list.metaobject_reference"
+                              render 'render-metafield', metafield: metafield, metafield_type: metafield.type, metafield_value: metafield.value
+                            elsif metafield.type contains "list."
+                              for item in metafield.value
+                                assign metafield_type = metafield.type | replace: "list.", ""
+                                assign comma = ""
+                                if forloop.last == false
+                                  assign comma = ", "
+                                endif
+                                render 'render-metafield', metafield: metafield, metafield_type: metafield_type, metafield_value: item, comma: comma
+                                if forloop.last == false and metafield_type == "file_reference"
+                                  echo "<div class='mt-2'></div>"
+                                endif
+                              endfor
+                            elsif metafield.value
+                              render 'render-metafield', metafield: metafield, metafield_type: metafield.type, metafield_value: metafield.value
+                            endif
+                          endcapture
+                        -%}
+                        {%- if variant_metafield == blank -%}
+                          {{ block.settings.spec_empty_field_text_1 }}
+                        
+                        {%- else -%}
+                          <div class="{% if metafield.type contains "color" %}flex flex-wrap gap-3{% endif %}{% if block.settings.spec_right_align_1 %} text-end justify-end grow{% endif %}">
+                            {{ variant_metafield }}
+                          </div>
+                        {%- endif -%}
+                      </div>
+                    {%- endfor -%}
+                  {%- endcapture -%}
+                {%- endif -%}
+
+                {%- unless metafield_output contains "Liquid error" -%}
+                  {%- unless metafield_output == blank and block.settings.spec_show_empty_metafields_1 == false -%}
+                    <li class="product-spec__item flex flex-col gap-x-theme md:flex-row pb-4 mb-4 last:pb-0 last:mb-0">
+                      <div class="product-spec__label{% if block.settings.spec_right_align_1 %} product-spec__label--right{% endif %} mb-2 block font-bold">
+                        {{ label }}
+                      </div>
+                      <div class="product-spec__value {% if is_variant_metafield == false and metafield.type contains "color" %}flex flex-wrap gap-3{% else %}block{% endif %}{% if block.settings.spec_right_align_1 %} text-end justify-end grow{% endif %}">
+                        {%- if metafield_output == blank -%}
+                          {{ block.settings.spec_empty_field_text_1 }}
+                        {%- else -%}
+                          {{ metafield_output }}
+                        {%- endif -%}
+                      </div>
+                    </li>
+                  {%- endunless -%}
+                {%- endunless -%}
+              {%- endfor -%}
+            {%- endcapture -%}
+          {%- endif -%}
           {%- assign first_tab_rendered = false -%}
 
           {%- if tabs.size > 0 -%}
@@ -226,9 +333,9 @@
                             <ul class="product-spec">
                               {{ specification }}
                             </ul>
-                          {%- elsif i == "6"  and specification != blank -%}
+                          {%- elsif i == "6"  and specification_1 != blank -%}
                             <ul class="product-spec">
-                              {{ specification }}
+                              {{ specification_1 }}
                             </ul>
                           {%- elsif i == "5" and block.settings.show_reviews -%}
                             {%- if block.settings.custom_reviews == blank -%}
@@ -279,6 +386,10 @@
                       {%- elsif i == "4" and specification != blank -%}
                         <ul class="product-spec">
                           {{ specification }}
+                        </ul>
+                       {%- elsif i == "6" and specification_1 != blank -%}
+                        <ul class="product-spec">
+                          {{ specification_1 }}
                         </ul>
                       {%- elsif i == "5" and block.settings.show_reviews -%}
                         {%- if block.settings.custom_reviews == blank -%}
