@@ -226,6 +226,10 @@
                             <ul class="product-spec">
                               {{ specification }}
                             </ul>
+                          {%- elsif i == "6"  and specification != blank -%}
+                            <ul class="product-spec">
+                              {{ specification }}
+                            </ul>
                           {%- elsif i == "5" and block.settings.show_reviews -%}
                             {%- if block.settings.custom_reviews == blank -%}
                               <div class="spr-reviews" id="shopify-product-reviews" data-id="{{ product.id }}">
