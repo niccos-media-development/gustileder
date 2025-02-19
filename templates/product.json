@@ -542,7 +542,8 @@
         "button_nGBhib"
       ],
       "settings": {
-        "image_1": "https://static.gusti-leder.at/tb/U31/U31_WEB_COST_DE.jpg",
+        "image": "{{ product.metafields.custom.kostentransparenzbilder.value }}",
+        "image_1": "",
         "video_external": "",
         "video_description": "",
         "video_autoplay": false,
