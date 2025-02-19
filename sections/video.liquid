@@ -21,7 +21,7 @@
   {%- capture video_component -%}
      {% if section.settings.video_external != blank %}
           <video
-  class="{{ video_class }}"
+  class="{{ video_class }}" id="cust-video"
  playsinline="playsinline" controls="controls" autoplay="{{ autoplay }}" loop="loop" preload="none" muted="muted" aria-label="{{ product.title }}"
   >
     <source src="{{ section.settings.video_external }}" type="video/mp4">
