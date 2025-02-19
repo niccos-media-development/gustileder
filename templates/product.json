@@ -322,7 +322,7 @@
           "type": "feature",
           "settings": {
             "heading": "",
-            "text": "<p>{{ section.settings.product.metafields.next_cart.pro_beschreibung_1.value }}</p>",
+            "text": "<p>{{ product.metafields.next_cart.pro_beschreibung_1.value }}</p>",
             "content_align": "text-start",
             "hotspot_x": 47,
             "hotspot_y": 37
@@ -332,7 +332,7 @@
           "type": "feature",
           "settings": {
             "heading": "",
-            "text": "<p>{{ section.settings.product.metafields.next_cart.pro_beschreibung_2.value }}</p>",
+            "text": "<p>{{ product.metafields.next_cart.pro_beschreibung_2.value }}</p>",
             "content_align": "text-start",
             "hotspot_x": 28,
             "hotspot_y": 38
@@ -342,7 +342,7 @@
           "type": "feature",
           "settings": {
             "heading": "",
-            "text": "<p>{{ section.settings.product.metafields.next_cart.pro_beschreibung_3.value }}</p>",
+            "text": "<p>{{ product.metafields.next_cart.pro_beschreibung_3.value }}</p>",
             "content_align": "text-start",
             "hotspot_x": 60,
             "hotspot_y": 29
@@ -352,7 +352,7 @@
           "type": "feature",
           "settings": {
             "heading": "",
-            "text": "<p>{{ section.settings.product.metafields.next_cart.pro_beschreibung_4.value }}</p>",
+            "text": "<p>{{ product.metafields.next_cart.pro_beschreibung_4.value }}</p>",
             "content_align": "text-start",
             "hotspot_x": 73,
             "hotspot_y": 54
@@ -362,7 +362,7 @@
           "type": "feature",
           "settings": {
             "heading": "",
-            "text": "<p>{{ section.settings.product.metafields.next_cart.pro_beschreibung_5.value }}</p>",
+            "text": "<p>{{ product.metafields.next_cart.pro_beschreibung_5.value }}</p>",
             "content_align": "text-start",
             "hotspot_x": 50,
             "hotspot_y": 66
