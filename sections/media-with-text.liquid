@@ -77,7 +77,7 @@
     <div class="media-with-text{% if section.settings.layout == 'right' %} media-with-text--reverse{% endif %}"{% if settings.animations_enabled != "disabled" %} data-cc-animate{% endif %} style="--media-width: {{ section.settings.media_width }}%">
       <div class="media-with-text__media{% if media_type == 'video' %} video-section{% endif %} relative flex flex-col justify-center overflow-hidden" style="--media-scale: {{ section.settings.media_scale | times: 0.01 }}">
         <div class="media w-full{% if media_type == 'video' %} absolute{% if section.settings.image_fit == "cover" %} top-0 left-0 h-full{% else %} video-section__media{% endif %} video-played-hidden{% else %} relative{% if section.settings.image_fit == "cover" %} h-full video-section__media--cover{% endif %}{% endif %}"{% if media_type == 'image' and image != blank %} style="padding-top: {{ 1 | divided_by: image.aspect_ratio | times: 100 }}%;"{% endif %}>
-          {%- if image != blank -%}
+          {%- if image == blank -%}
             {%- capture sizes_md %}calc((50vw - {{ gutter_sm | times: 2 }}px) + 9px){% endcapture -%}
             {%- capture sizes -%}
               {%- render 'sizes-attribute', min: 'page', sm: 'page', md: sizes_md, lg: '536px', xl: false, max: false -%}
@@ -96,7 +96,7 @@
               section_index: section.index,
               class: 'img-fit'
             %}
-              {% else %}
+          {% elsif image != blank %}
             {% render 'image',
               image: image,
               quality: quality,
