@@ -5591,8 +5591,7 @@ body > .os-scrollbar {
   border: 2px solid;
 }
 .cust-variant-swatches a {
-    max-width: 60px;
-    border: 1px solid;
+    max-width: 40px;
     display: grid;
     align-items: center;
     padding:2px;
