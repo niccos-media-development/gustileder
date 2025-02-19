@@ -89,7 +89,7 @@
               </span>
               {% render 'icon-plus' %}
             </button>
-            <div class="hotspot__card hotspot__card--wide absolute no-js-hidden {{ block.settings.content_align }}" aria-hidden="true">
+            <div class="{{ block.settings.text }} - hotspot__card hotspot__card--wide absolute no-js-hidden {{ block.settings.content_align }}" aria-hidden="true">
               {%- if block.settings.image != empty -%}
                 {%- liquid
                   if block.settings.image.width > 320
