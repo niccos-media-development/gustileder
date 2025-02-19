@@ -48,6 +48,44 @@ body, button, input, select, textarea, p,a  {
 .card-link:after {
     position: relative;
 }
+/*  */
+.cust-variant-slider-container {
+  display: flex;
+  align-items: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.cust-variant-swatches {
+  display: flex;
+  transition: transform 0.3s ease;
+  overflow: hidden;
+  flex-wrap: nowrap;
+}
+
+
+
+button.cust-slider-prev,
+button.cust-slider-next {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  z-index: 10;
+}
+
+button.cust-slider-prev {
+  left: 0;
+}
+
+button.cust-slider-next {
+  right: 0;
+}
+
 @media (max-width: 768.98px) {
   .card__info p.card__title {
     font-size: 14px;
