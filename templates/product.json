@@ -542,8 +542,7 @@
         "button_nGBhib"
       ],
       "settings": {
-        "image": "{{ product.metafields.custom.kostentransparenzbilder.value }}",
-        "image_1": "",
+        "image_1": "{{ product.metafields.custom.kostentransparenzbilder_1.value }}",
         "video_external": "",
         "video_description": "",
         "video_autoplay": false,
