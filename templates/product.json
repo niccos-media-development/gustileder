@@ -149,7 +149,7 @@
             "custom_reviews": "",
             "show_specification": true,
             "specification_title": "Eigenschaften",
-            "spec_metafields": "Abmessungen (B x H x T): next_cart.abmessungen-bxhxt.\nGewicht: next_cart.gewicht. \nFarbe: next_cart.attr6.\nLeder: next_cart.attr21.\nLederart: next_cart.attr22. \nVerschluss: next_cart.verschluss.\nKartenfächer: next_cart.kartenfacher.",
+            "spec_metafields": "Abmessungen (B x H x T): next_cart.abmessungen-bxhxt.\nGewicht: next_cart.gewicht. \nFarbe: next_cart.attr6.\nLeder: next_cart.attr21.\nLederart: next_cart.attr22. \nGerbung: next_cart.gerbung\nHerstellungsland: next_cart.herstellungsland\nEigene Gerberei: next_cart.eigene-gerberei\nProduzent: next_cart.produzent\nVerschluss: next_cart.verschluss.\nKartenfächer: next_cart.kartenfacher.",
             "spec_right_align": false,
             "spec_show_empty_metafields": false,
             "spec_empty_field_text": "",
