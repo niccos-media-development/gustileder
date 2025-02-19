@@ -5605,3 +5605,8 @@ body > .os-scrollbar {
 .cc-product-card-grid .section__heading {
     font-family: 'Museo 300' !important;
 }
+@media (max-width: 767px){
+  .cust-variant-swatches a{
+    max-width: 30px;
+  }
+}
