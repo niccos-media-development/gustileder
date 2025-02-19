@@ -70,28 +70,6 @@
             "show_pickup_availability": true,
             "show_gift_card_recipient": false
           }
-        },
-        "collapsible_content_XPKXBt": {
-          "type": "collapsible-content",
-          "disabled": true,
-          "settings": {
-            "heading": "Versand",
-            "icon": "none",
-            "text": "<p>UPS-Versand: 5,90€. Für kleine und leichte Pakete gibt es eine günstigere Option für 4,00€. Beide Versandarten enthalten eine Sendungsverfolgungsnummer.<br/><br/></p>",
-            "page": "",
-            "open": false
-          }
-        },
-        "collapsible_content_BpERyX": {
-          "type": "collapsible-content",
-          "disabled": true,
-          "settings": {
-            "heading": "Lederpflege",
-            "icon": "none",
-            "text": "<p>Kaufe die passende Lederpflege zu deinem Produkt</p><p></p>",
-            "page": "lederpflege",
-            "open": false
-          }
         }
       },
       "block_order": [
@@ -102,9 +80,7 @@
         "price",
         "variant-picker",
         "variant_swatch_G8EArw",
-        "buy-buttons",
-        "collapsible_content_XPKXBt",
-        "collapsible_content_BpERyX"
+        "buy-buttons"
       ],
       "custom_css": [],
       "settings": {
@@ -154,13 +130,13 @@
             "spec_show_empty_metafields": false,
             "spec_empty_field_text": "",
             "show_specification_1": true,
-            "specification_title_1": "Information",
+            "specification_title_1": "Leder & Zertifikate",
             "spec_metafields_1": "Zertifikat: next_cart.zertifikat\nLeder: next_cart.attr21.\nLederart: next_cart.attr22. \nGerbung: next_cart.gerbung\nHerstellungsland: next_cart.herstellungsland\nEigene Gerberei: next_cart.eigene-gerberei\nProduzent: next_cart.produzent",
             "spec_right_align_1": false,
             "spec_show_empty_metafields_1": false,
             "spec_empty_field_text_1": "",
-            "tab_1_title": "Zertifikate",
-            "tab_1_text": "<p>Unser Leder ist TÜV zertifiziert. Datum des letzten Test:  {{ product.metafields.next_cart.leather_cert_date.value }}</p>",
+            "tab_1_title": "",
+            "tab_1_text": "",
             "tab_1_page": "",
             "tab_2_title": "",
             "tab_2_text": "",
