@@ -156,7 +156,7 @@
             "tab_1_title": "Zertifikate",
             "tab_1_text": "<p>Unser Leder ist TÜV zertifiziert. Datum des letzten Test:  {{ product.metafields.next_cart.leather_cert_date.value }}</p>",
             "tab_1_page": "",
-            "tab_2_title": "",
+            "tab_2_title": "Information",
             "tab_2_text": "",
             "tab_2_page": "",
             "tab_3_title": "",
