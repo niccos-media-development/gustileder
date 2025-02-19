@@ -168,8 +168,9 @@
          src="{{ cust_image }}"
         {% else %}
          src="{{ image | image_url: width: src_width }}"
+        {% if class %}class="{{ class }}" {% endif -%}
       {% endif %}
-         {% if class %}class="{{ class }}" {% endif -%}
+         
          {% if attributes %}{{ attributes }} {% endif -%}
          {% if disable_focal_point == false and image.presentation %}style="object-position: {{ image.presentation.focal_point }}" {% endif -%}
          loading="{% if lazy_load %}lazy{% else %}eager{% endif %}"
