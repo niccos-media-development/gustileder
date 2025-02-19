@@ -35,6 +35,9 @@
             if block.settings.show_specification
               assign tabs = tabs | append: ',4'
             endif
+             if block.settings.show_specification_1
+              assign tabs = tabs | append: ',6'
+            endif
             if block.settings.show_reviews
               assign tabs = tabs | append: ',5'
             endif
@@ -50,12 +53,20 @@
             assign tab_indices = tabs | remove_first: ',' | split: ','
           -%}
 
-          {%- if block.settings.show_specification and block.settings.spec_metafields -%}
+          {%- if block.settings.show_specification and block.settings.spec_metafields or block.settings.show_specification_1 and block.settings.spec_metafields_1 -%}
             {% capture specification_title %}
               {{ block.settings.specification_title }}
             {% endcapture %}
+            {% capture specification_title_1 %}
+              {{ block.settings.specification_title_1 }}
+            {% endcapture %}
             {%- capture specification -%}
+              {% if block.settings.spec_metafields %}
               {%- assign metafield_array = block.settings.spec_metafields | newline_to_br | strip_newlines | split: '<br />' -%}
+              {% endif %}
+              {% if block.settings.spec_metafields_1 %}
+              {%- assign metafield_array = block.settings.spec_metafields_1 | newline_to_br | strip_newlines | split: '<br />' -%}
+              {% endif %}
               {%- for key_value in metafield_array -%}
                 {%- liquid
                   assign is_variant_metafield = false
@@ -129,8 +140,9 @@
                         -%}
                         {%- if variant_metafield == blank -%}
                           {{ block.settings.spec_empty_field_text }}
+                           {{ block.settings.spec_empty_field_text_1 }}
                         {%- else -%}
-                          <div class="{% if metafield.type contains "color" %}flex flex-wrap gap-3{% endif %}{% if block.settings.spec_right_align %} text-end justify-end grow{% endif %}">
+                          <div class="{% if metafield.type contains "color" %}flex flex-wrap gap-3{% endif %}{% if block.settings.spec_right_align or block.settings.spec_right_align_1 %} text-end justify-end grow{% endif %}">
                             {{ variant_metafield }}
                           </div>
                         {%- endif -%}
@@ -140,14 +152,15 @@
                 {%- endif -%}
 
                 {%- unless metafield_output contains "Liquid error" -%}
-                  {%- unless metafield_output == blank and block.settings.spec_show_empty_metafields == false -%}
+                  {%- unless metafield_output == blank and block.settings.spec_show_empty_metafields == false or  metafield_output == blank and block.settings.spec_show_empty_metafields_1 == false  -%}
                     <li class="product-spec__item flex flex-col gap-x-theme md:flex-row pb-4 mb-4 last:pb-0 last:mb-0">
-                      <div class="product-spec__label{% if block.settings.spec_right_align %} product-spec__label--right{% endif %} mb-2 block font-bold">
+                      <div class="product-spec__label{% if block.settings.spec_right_align or block.settings.spec_right_align_1 %} product-spec__label--right{% endif %} mb-2 block font-bold">
                         {{ label }}
                       </div>
-                      <div class="product-spec__value {% if is_variant_metafield == false and metafield.type contains "color" %}flex flex-wrap gap-3{% else %}block{% endif %}{% if block.settings.spec_right_align %} text-end justify-end grow{% endif %}">
+                      <div class="product-spec__value {% if is_variant_metafield == false and metafield.type contains "color" %}flex flex-wrap gap-3{% else %}block{% endif %}{% if block.settings.spec_right_align or block.settings.spec_right_align_1 %} text-end justify-end grow{% endif %}">
                         {%- if metafield_output == blank -%}
                           {{ block.settings.spec_empty_field_text }}
+                           {{ block.settings.spec_empty_field_text_1 }}
                         {%- else -%}
                           {{ metafield_output }}
                         {%- endif -%}
@@ -174,7 +187,8 @@
                     assign prevent_tab_render = true
                   elsif i == '4'
                      assign title = specification_title
-                    
+                  elsif i == '6'
+                     assign title = specification_title_1
                   elsif i == '5' and block.settings.show_reviews
                     assign rating_count = product.metafields.reviews.rating_count | plus: 0
                     assign title = 'products.product.reviews' | t | append: ' (' | append: rating_count | append: ')'
@@ -536,6 +550,49 @@
         {
           "type": "text",
           "id": "spec_empty_field_text",
+          "label": "Text to use for empty fields",
+          "default": "-"
+        },
+        {
+          "type": "header",
+          "content": "Specifications tab 1"
+        },
+        {
+          "type": "paragraph",
+          "content": "Include a list of labels and product metafield keys below, separated by a colon, one per line. E.g. Trim color:custom.trim_color. [Read more](https://cleancanvas.co.uk/support/enterprise/templates/product-page)"
+        },
+        {
+          "type": "checkbox",
+          "id": "show_specification_1",
+          "label": "Show specifications tab",
+          "default": false
+        },
+        {
+          "type": "text",
+          "id": "specification_title_1",
+          "label": "Title",
+          "default": "Specifications"
+        },
+        {
+          "type": "textarea",
+          "id": "spec_metafields_1",
+          "label": "Metafields"
+        },
+        {
+          "type": "checkbox",
+          "id": "spec_right_align_1",
+          "label": "Right align values",
+          "default": false
+        },
+        {
+          "type": "checkbox",
+          "id": "spec_show_empty_metafields_1",
+          "label": "Show empty metafields",
+          "default": true
+        },
+        {
+          "type": "text",
+          "id": "spec_empty_field_text_1",
           "label": "Text to use for empty fields",
           "default": "-"
         },
