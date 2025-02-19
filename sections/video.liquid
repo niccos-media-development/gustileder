@@ -28,6 +28,42 @@
   
 
 </video>
+       <script>
+  document.addEventListener("DOMContentLoaded", function() {
+    let video = document.getElementById("cust-video");
+    let posterImg = document.getElementById("cust-video-poster");
+    
+    video.addEventListener("loadeddata", function() {
+      let canvas = document.createElement("canvas");
+      let ctx = canvas.getContext("2d");
+
+      // Set canvas size same as video
+      canvas.width = video.videoWidth;
+      canvas.height = video.videoHeight;
+
+      // Draw first frame of the video
+      ctx.drawImage(video, 0, 0, canvas.width, canvas.height);
+      
+      // Set image src
+      posterImg.src = canvas.toDataURL("image/png");
+      posterImg.style.display = "block";
+      posterImg.style.width = "100%";
+      posterImg.style.position = "absolute";
+      posterImg.style.top = "0";
+      posterImg.style.left = "0";
+      
+      // Hide video until play
+      video.style.display = "none";
+
+      // Show video when clicked
+      posterImg.addEventListener("click", function() {
+        posterImg.style.display = "none";
+        video.style.display = "block";
+        video.play();
+      });
+    });
+  });
+</script>
                 {% else %}
     <video-component class="{{ section.settings.video_shopify }} {% if using_video_tag %}has-video{% else %}has-iframe{% endif %} block w-full h-full"
                      {%- unless using_video_tag %}data-video-url="{{ section.settings.video_external | escape }}" {% endunless -%}
