@@ -5594,7 +5594,8 @@ body > .os-scrollbar {
     max-width: 40px;
     display: grid;
     align-items: center;
-    padding:2px;
+        padding: 1px;
+    border: 1px solid lightgray;
 }
 .product-description h3 {
     font-size: var(--h6-font-size);
