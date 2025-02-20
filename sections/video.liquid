@@ -22,7 +22,7 @@
      {% if section.settings.video_external != blank %}
           <video
   class="{{ video_class }}"
- playsinline="playsinline" controls="controls" autoplay="{{ autoplay }}" loop="loop" preload="true" aria-label="{{ product.title }}"
+ playsinline="playsinline" controls="controls" autoplay="{{ autoplay }}" loop="loop" preload="metadata" aria-label="{{ product.title }}"
   >
     <source src="{{ section.settings.video_external }}" type="video/mp4">
   
