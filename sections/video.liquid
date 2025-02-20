@@ -107,7 +107,7 @@
               </template>
             </deferred-media>
           {%- endif -%}
-
+ {%- if section.settings.poster_image != blank or section.settings.video_shopify != blank -%}
           <div class="media media--has-overlay absolute top-0 left-0 w-full h-full video-played-hidden">
             {%- liquid
               assign sizes = false
@@ -131,10 +131,11 @@
                 class: class
               %}
             {%- else -%}
-              <!-- {%- assign class = class | prepend: 'media__placeholder ' -%}
-              {{ 'lifestyle-1' | placeholder_svg_tag: class }} -->
+              {%- assign class = class | prepend: 'media__placeholder ' -%}
+              {{ 'lifestyle-1' | placeholder_svg_tag: class }}
             {%- endif -%}
           </div>
+          {%- endif -%}
         </div>
       </div>
     </div>
