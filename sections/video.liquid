@@ -88,7 +88,11 @@
         <div class="video-section__media block w-full relative"{% if settings.animations_enabled != "disabled" %} data-cc-animate{% endif %} {%  if section.settings.image_ratio  %}style="padding-top: 100%;"{% endif %}>
           {%- if autoplay -%}
             <deferred-media class="absolute block top-0 left-0 w-full h-full no-js-hidden">
+              {%- if section.settings.poster_image != blank or section.settings.video_shopify != blank -%}
               <template>{{ video_component }}</template>
+              {%- else -%}
+                {{ video_component }}
+              {%- endif -%}
             </deferred-media>
 
             <noscript>
