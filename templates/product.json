@@ -157,7 +157,6 @@
       "settings": {
         "video_external": "{{ product.metafields.custom.video_url.value }}",
         "video_description": "",
-        "poster_image": "{{ product.metafields.custom.video_thumbnail.value }}",
         "image_ratio": true,
         "video_size": "ssm",
         "video_autoplay": false,
