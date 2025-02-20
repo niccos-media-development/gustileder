@@ -42,13 +42,23 @@
   endif
 
   if image_ratio == nil
-    if settings.prod_card_image_ratio == 'shortest' or settings.prod_card_image_ratio == 'tallest'
-      assign image_ratio = 1
-    else
-      assign image_ratio = settings.prod_card_image_ratio
-    endif
-  elsif image_ratio == 0 or image_ratio == 99
-    assign image_ratio = 1
+if settings.prod_card_image_ratio == 'shortest'
+    assign image_ratio = 0
+    for product in product_list
+      if product.featured_media.preview_image.aspect_ratio > image_ratio
+        assign image_ratio = product.featured_media.preview_image.aspect_ratio
+      endif
+    endfor
+  elsif settings.prod_card_image_ratio == 'tallest'
+    assign image_ratio = 99
+    for product in product_list
+      if product.featured_media.preview_image.aspect_ratio < image_ratio
+        assign image_ratio = product.featured_media.preview_image.aspect_ratio
+      endif
+    endfor
+  else
+    assign image_ratio = settings.prod_card_image_ratio
+  endif
   endif
 
   if section.settings.card_size == 'small'
