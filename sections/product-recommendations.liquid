@@ -91,7 +91,7 @@
       <ul class="{% if carousel %}slider__grid {% endif %}grid {{ grid_classes }}{% if section.settings.layout == 'carousel_on_mobile' and section.settings.card_size_mobile == 'small' and settings.card_contain %} sm:gap-x-theme sm:gap-y-8{% else %} gap-x-theme gap-y-8{% endif %}{% if section.settings.card_size_mobile == 'small' and settings.card_contain %} small__grid{% endif %}" role="list">
         {%- for product in recommendations.products -%}
           <li{% if carousel %} class="slider__item"{% endif %}>
-            {% render 'product-card', product: product %}
+            {% render 'product-card', product: product, image_ratio : 0.75 %}
           </li>
         {%- endfor -%}
       </ul>
