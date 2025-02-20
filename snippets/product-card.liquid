@@ -41,7 +41,7 @@
     assign show_slideshow = true
   endif
 
-  if image_ratio == nil
+
 if settings.prod_card_image_ratio == 'shortest'
     assign image_ratio = 0
     for product in product_list
@@ -59,7 +59,7 @@ if settings.prod_card_image_ratio == 'shortest'
   else
     assign image_ratio = settings.prod_card_image_ratio
   endif
-  endif
+
 
   if section.settings.card_size == 'small'
     assign swatch_limit = 4
