@@ -102,13 +102,18 @@
             </noscript>
           {%- else -%}
             <deferred-media class="height-clip absolute top-0 left-0 w-full h-full no-js-hidden"{% if using_video_tag and autoplay == false %} data-hide-controls-instantly="true"{% endif %}>
-              <button type="button" class="video-section__play-btn absolute top-0 left-0 flex justify-center items-center w-full h-full video-played-hidden js-load-media">
-                <span class="visually-hidden">{{ 'general.icon_labels.play' | t }}</span>
-                {%- render 'icon-play' -%}
-              </button>
-              <template>
+               {%- if section.settings.poster_image != blank or section.settings.video_shopify != blank -%}
+                  <button type="button" class="video-section__play-btn absolute top-0 left-0 flex justify-center items-center w-full h-full video-played-hidden js-load-media">
+                    <span class="visually-hidden">{{ 'general.icon_labels.play' | t }}</span>
+                    {%- render 'icon-play' -%}
+                  </button>
+                  <template>
+                    {{ video_component }}
+                  </template>
+              {%- else -%}
                 {{ video_component }}
-              </template>
+              {%- endif -%}
+             
             </deferred-media>
           {%- endif -%}
  {%- if section.settings.poster_image != blank or section.settings.video_shopify != blank -%}
