@@ -46,7 +46,7 @@
       "type": "main-collection-banner",
       "settings": {
         "show_collection_title": true,
-        "show_product_count": true,
+        "show_product_count": false,
         "show_collection_description": false,
         "text_align": "items-center text-center",
         "collection_image": "none",
