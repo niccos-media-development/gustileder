@@ -131,7 +131,11 @@
           image_quality: image_quality
         -%}
       {%- else -%}
-        <a href="{{ product_url }}" aria-label="{{ product.title | escape }}" class="media block relative{% if settings.blend_product_images %} image-blend{% endif %} js-prod-link" style="padding-top: {{ 1 | divided_by: image_ratio | times: 100 }}%;" tabindex="-1">
+        {% assign image_ratio_cust = 1 | divided_by: image_ratio | times: 100 %}
+        {% if image_ratio_cust > 125 %}
+           {% assign image_ratio_cust = 123 %}
+        {% endif %}
+        <a href="{{ product_url }}" aria-label="{{ product.title | escape }}" class="media block relative{% if settings.blend_product_images %} image-blend{% endif %} js-prod-link" style="padding-top: {{ image_ratio_cust }}%;" tabindex="-1">
           {%- if product.featured_media -%}
             {%- capture attributes %}data-media-id="{{ product.featured_media.id }}"{% endcapture -%}
             {% render 'image',
