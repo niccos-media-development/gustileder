@@ -106,7 +106,8 @@
         "text_8Y8zy7"
       ],
       "settings": {
-        "image": "shopify://shop_images/Repair_1.jpg",
+        "image": "shopify://shop_images/reapir.jpg",
+        "image_1": "",
         "video_external": "",
         "video_description": "",
         "video_autoplay": false,
@@ -179,7 +180,7 @@
         "media_TRnnxh": {
           "type": "media",
           "settings": {
-            "image": "shopify://shop_images/Repair_3.jpg",
+            "image": "shopify://shop_images/repair_2_168e8f3f-bb78-443d-a7bb-9413915784d6.jpg",
             "link_url": "",
             "columns": 2,
             "rows": 2,
@@ -236,7 +237,7 @@
         "media_68LH3P": {
           "type": "media",
           "settings": {
-            "image": "shopify://shop_images/Repair_6.jpg",
+            "image": "shopify://shop_images/IMG_0121.jpg",
             "link_url": "",
             "columns": 2,
             "rows": 1,
@@ -281,7 +282,7 @@
           "type": "column",
           "settings": {
             "enable_media": true,
-            "image": "shopify://shop_images/Repair_1_b3f3919c-9b67-4323-8cdd-81b47cc1a5d7.jpg",
+            "image": "shopify://shop_images/repair_3_afedfde6-0741-485c-aca6-059c590bada1.jpg",
             "media_scale": 100,
             "heading": "",
             "text": "",
@@ -293,7 +294,7 @@
           "type": "column",
           "settings": {
             "enable_media": true,
-            "image": "shopify://shop_images/Repair_7.jpg",
+            "image": "shopify://shop_images/IMG_1078_1.jpg",
             "media_scale": 100,
             "heading": "Wegwerfen war gestern, Reparieren ist heute!",
             "text": "",
@@ -305,7 +306,7 @@
           "type": "column",
           "settings": {
             "enable_media": true,
-            "image": "shopify://shop_images/Repair_2.jpg",
+            "image": "shopify://shop_images/IMG_1095.jpg",
             "media_scale": 100,
             "heading": "",
             "text": "",
