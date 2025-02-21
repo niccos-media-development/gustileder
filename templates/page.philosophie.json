@@ -13,146 +13,8 @@
       "type": "main-page",
       "disabled": true,
       "settings": {
-        "show_page_title": true,
+        "show_page_title": false,
         "heading_align": "text-center"
-      }
-    },
-    "image_banner_h7bfNH": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_tkepFK": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image banner",
-            "heading_size": "h1",
-            "heading_h1": false
-          }
-        },
-        "text_i4fTGy": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
-            "enlarge_text": true
-          }
-        },
-        "button_446Ntx": {
-          "type": "button",
-          "settings": {
-            "button_1_label": "Optional button",
-            "button_1_link": "",
-            "button_1_style": "btn btn--primary",
-            "button_2_label": "Optional button",
-            "button_2_link": "",
-            "button_2_style": "btn btn--primary"
-          }
-        }
-      },
-      "block_order": [
-        "heading_tkepFK",
-        "text_i4fTGy",
-        "button_446Ntx"
-      ],
-      "disabled": true,
-      "settings": {
-        "url": "",
-        "height_mode": "auto",
-        "fixed_height_desktop": 600,
-        "fixed_height_mobile": 350,
-        "overlay_position": "justify-center items-center",
-        "overlay_text_align": "text-center",
-        "mob_center_text": false,
-        "mobile_stacked": false,
-        "color_scheme": "white",
-        "full_width": true,
-        "transparent_content_color": "#ffffff",
-        "tint_color": "#000000",
-        "tint_opacity": 40,
-        "prevent_animation": false
-      }
-    },
-    "collection_list_RHeKBJ": {
-      "type": "collection-list",
-      "blocks": {
-        "collection_Bnwkxe": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "collection_XxnyQd": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "collection_tqX3rW": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "collection_XHnx9f": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "collection_eAJ4fF": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "collection_xbRB6E": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "collection_Bnwkxe",
-        "collection_XxnyQd",
-        "collection_tqX3rW",
-        "collection_XHnx9f",
-        "collection_eAJ4fF",
-        "collection_xbRB6E"
-      ],
-      "disabled": true,
-      "settings": {
-        "title": "Collections",
-        "heading_align": "text-start",
-        "button_label": "",
-        "button_link": "",
-        "layout": "carousel",
-        "card_size": "small",
-        "use_product_image": false,
-        "circle_image": true,
-        "show_border": true,
-        "color_scheme": "none",
-        "full_width": true
-      }
-    },
-    "featured_collection_fw9w9V": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Unsere Bestseller",
-        "heading_align": "text-start",
-        "show_view_all": true,
-        "collection": "bestseller",
-        "layout": "carousel",
-        "card_size_mobile": "small",
-        "card_size": "small",
-        "products_to_show": 8,
-        "show_highlight_products": true,
-        "show_promo_info": false,
-        "image_ratio": "fill",
-        "promo_title": "A headline to grab attention",
-        "content": "<p>Use this card with an image to highlight your collections or introduce a promotion.</p>",
-        "link_url": "",
-        "button_label": "Button",
-        "color_scheme": "2",
-        "button_style": "btn btn--primary"
       }
     },
     "multi_column_MYey8n": {
@@ -164,10 +26,10 @@
             "enable_media": true,
             "image": "shopify://shop_images/About_Us_f4cb9bd4-7a3b-48a6-81a5-3ae895b2d09e.jpg",
             "media_scale": 100,
-            "heading": "Über Uns",
+            "heading": "",
             "text": "",
-            "button_label": "",
-            "button_link": ""
+            "button_label": "Über Gusti Leder",
+            "button_link": "shopify://pages/uber-gusti-leder"
           }
         },
         "column_hbRfrr": {
@@ -176,10 +38,10 @@
             "enable_media": true,
             "image": "shopify://shop_images/Our_stores.jpg",
             "media_scale": 100,
-            "heading": "Unsere Läden",
+            "heading": "",
             "text": "",
-            "button_label": "",
-            "button_link": ""
+            "button_label": "Unsere Läden",
+            "button_link": "shopify://pages/unsere-laden"
           }
         },
         "column_H37489": {
@@ -188,10 +50,10 @@
             "enable_media": true,
             "image": "shopify://shop_images/The_Name_Gusti.jpg",
             "media_scale": 100,
-            "heading": "Preispolitik",
+            "heading": "",
             "text": "",
-            "button_label": "",
-            "button_link": ""
+            "button_label": "Preispolitik",
+            "button_link": "shopify://pages/preispolitik"
           }
         },
         "column_MtDFjQ": {
@@ -200,10 +62,21 @@
             "enable_media": true,
             "image": "shopify://shop_images/repairs.jpg",
             "media_scale": 100,
-            "heading": "Reparatur",
+            "heading": "",
             "text": "",
-            "button_label": "",
-            "button_link": ""
+            "button_label": "Reparatur bei Gusti",
+            "button_link": "shopify://pages/reparatur"
+          }
+        },
+        "column_4kjmXq": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "media_scale": 100,
+            "heading": "",
+            "text": "",
+            "button_label": "Gegen Kinderarbeit",
+            "button_link": "shopify://pages/gegen-kinderarbeit"
           }
         }
       },
@@ -211,11 +84,12 @@
         "column_dkKGyf",
         "column_hbRfrr",
         "column_H37489",
-        "column_MtDFjQ"
+        "column_MtDFjQ",
+        "column_4kjmXq"
       ],
       "settings": {
-        "title": "",
-        "heading_align": "text-start",
+        "title": "Gusti Philosophie ",
+        "heading_align": "text-center",
         "button_label": "",
         "button_link": "",
         "layout": "grid",
@@ -230,16 +104,28 @@
     "multi_column_yg9hYX": {
       "type": "multi-column",
       "blocks": {
+        "column_KENRmg": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Slow_fashion.jpg",
+            "media_scale": 100,
+            "heading": "",
+            "text": "",
+            "button_label": "Slow Fashion",
+            "button_link": "shopify://pages/slow-fashion"
+          }
+        },
         "column_B7xcai": {
           "type": "column",
           "settings": {
             "enable_media": true,
             "image": "shopify://shop_images/gusti_leather_nature.jpg",
             "media_scale": 100,
-            "heading": "Gusti Leder Nature",
+            "heading": "",
             "text": "",
-            "button_label": "",
-            "button_link": ""
+            "button_label": "Gusti Leder Nature",
+            "button_link": "shopify://pages/gusti-leder-nature"
           }
         },
         "column_jGVkF9": {
@@ -248,10 +134,10 @@
             "enable_media": true,
             "image": "shopify://shop_images/gusti_leather_studio.jpg",
             "media_scale": 100,
-            "heading": "Gusti Leder Studio",
+            "heading": "",
             "text": "",
-            "button_label": "",
-            "button_link": ""
+            "button_label": "Gusti Leder Studio",
+            "button_link": "shopify://pages/gusti-leder-studio"
           }
         },
         "column_hd8HtG": {
@@ -260,30 +146,30 @@
             "enable_media": true,
             "image": "shopify://shop_images/Vegetable_tanned_95a8c833-b789-45eb-9bf7-8f7a33532da4.jpg",
             "media_scale": 100,
-            "heading": "Pflanzlich gegerbtes Leder",
+            "heading": "",
             "text": "",
-            "button_label": "",
-            "button_link": ""
+            "button_label": "Pflanzlich gegerbtes Leder",
+            "button_link": "shopify://pages/pflanzlich-gegerbtes-leder"
           }
         },
-        "column_KENRmg": {
+        "column_iRKzE7": {
           "type": "column",
           "settings": {
             "enable_media": true,
-            "image": "shopify://shop_images/Slow_fashion.jpg",
             "media_scale": 100,
-            "heading": "Slow Fashion",
-            "text": "",
+            "heading": "Column",
+            "text": "<p>Pair text with an image to focus on a product, collection or blog post. Add details on availability, style, or even provide a review.</p>",
             "button_label": "",
             "button_link": ""
           }
         }
       },
       "block_order": [
+        "column_KENRmg",
         "column_B7xcai",
         "column_jGVkF9",
         "column_hd8HtG",
-        "column_KENRmg"
+        "column_iRKzE7"
       ],
       "settings": {
         "title": "",
@@ -308,10 +194,10 @@
             "enable_media": true,
             "image": "shopify://shop_images/Transparent_production.jpg",
             "media_scale": 100,
-            "heading": "Transparente Produktion",
+            "heading": "",
             "text": "",
-            "button_label": "",
-            "button_link": ""
+            "button_label": "Transparente Produktion",
+            "button_link": "shopify://pages/transparente-produktion"
           }
         },
         "column_eGrn3A": {
@@ -320,10 +206,10 @@
             "enable_media": true,
             "image": "shopify://shop_images/Sustainability_at_Gusti_44bbec89-e18b-4aee-9ffb-9340b39b8bfc.jpg",
             "media_scale": 100,
-            "heading": "Nachhaltigkeit bei Gusti",
+            "heading": "",
             "text": "",
-            "button_label": "",
-            "button_link": ""
+            "button_label": "Nachhaltigkeit bei Gusti",
+            "button_link": "shopify://pages/nachhaltigkeit-bei-gusti"
           }
         },
         "column_WAAy4L": {
@@ -332,43 +218,17 @@
             "enable_media": true,
             "image": "shopify://shop_images/Press.jpg",
             "media_scale": 100,
-            "heading": "Presse",
+            "heading": "",
             "text": "",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "column_XzyG6q": {
-          "type": "column",
-          "settings": {
-            "enable_media": true,
-            "image": "shopify://shop_images/Pricing_policy.jpg",
-            "media_scale": 100,
-            "heading": "Preispolitik",
-            "text": "",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "column_e8waC4": {
-          "type": "column",
-          "settings": {
-            "enable_media": true,
-            "image": "shopify://shop_images/Against_child_labour.jpg",
-            "media_scale": 100,
-            "heading": "Gegen Kinderarbeit",
-            "text": "",
-            "button_label": "",
-            "button_link": ""
+            "button_label": "Presse",
+            "button_link": "shopify://pages/presse"
           }
         }
       },
       "block_order": [
         "column_ikrKBD",
         "column_eGrn3A",
-        "column_WAAy4L",
-        "column_XzyG6q",
-        "column_e8waC4"
+        "column_WAAy4L"
       ],
       "settings": {
         "title": "",
@@ -383,15 +243,35 @@
         "color_scheme": "1",
         "button_style": "btn btn--secondary"
       }
+    },
+    "featured_collection_fw9w9V": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Unsere Bestseller",
+        "heading_align": "text-start",
+        "show_view_all": true,
+        "collection": "bestseller",
+        "layout": "carousel",
+        "card_size_mobile": "small",
+        "card_size": "small",
+        "products_to_show": 8,
+        "show_highlight_products": true,
+        "show_promo_info": false,
+        "image_ratio": "fill",
+        "promo_title": "A headline to grab attention",
+        "content": "<p>Use this card with an image to highlight your collections or introduce a promotion.</p>",
+        "link_url": "",
+        "button_label": "Button",
+        "color_scheme": "2",
+        "button_style": "btn btn--primary"
+      }
     }
   },
   "order": [
     "main",
-    "image_banner_h7bfNH",
     "multi_column_MYey8n",
     "multi_column_yg9hYX",
     "multi_column_HrE8d8",
-    "featured_collection_fw9w9V",
-    "collection_list_RHeKBJ"
+    "featured_collection_fw9w9V"
   ]
 }
