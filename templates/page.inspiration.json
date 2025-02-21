@@ -114,7 +114,7 @@
           "type": "media",
           "settings": {
             "image": "shopify://shop_images/IMG_9750.jpg",
-            "link_url": "",
+            "link_url": "shopify://pages/gravur",
             "columns": 1,
             "rows": 1,
             "subheading": "",
@@ -133,7 +133,7 @@
           "type": "media",
           "settings": {
             "image": "shopify://shop_images/Mother_s-Day-Photo-_-Format-3.jpg",
-            "link_url": "",
+            "link_url": "shopify://pages/muttertag",
             "columns": 1,
             "rows": 1,
             "subheading": "",
@@ -152,7 +152,7 @@
           "type": "media",
           "settings": {
             "image": "shopify://shop_images/father.jpg",
-            "link_url": "",
+            "link_url": "shopify://pages/vatertag",
             "columns": 1,
             "rows": 1,
             "subheading": "",
@@ -218,7 +218,7 @@
           "type": "media",
           "settings": {
             "image": "shopify://shop_images/Intsa_Marianne-V._2G55-20-28_DEF_3.jpg",
-            "link_url": "",
+            "link_url": "shopify://pages/unsere-fahrradprodukte",
             "columns": 2,
             "rows": 2,
             "subheading": "",
@@ -397,7 +397,7 @@
           "type": "media",
           "settings": {
             "image": "shopify://shop_images/Insta_Chris_L7.6.jpg",
-            "link_url": "",
+            "link_url": "shopify://pages/kombinierbare-produkte",
             "columns": 2,
             "rows": 2,
             "subheading": "",
@@ -416,7 +416,7 @@
           "type": "media",
           "settings": {
             "image": "shopify://shop_images/Emma_A12.jpg",
-            "link_url": "",
+            "link_url": "shopify://pages/taschenvergleich",
             "columns": 1,
             "rows": 1,
             "subheading": "",
