@@ -154,6 +154,19 @@
     },
     "video_FdLm63": {
       "type": "video",
+      "blocks": {
+        "heading_mj7QDw": {
+          "type": "heading",
+          "settings": {
+            "heading": "{{ product.metafields.next_cart.pro_beschreibung_0.value }}",
+            "heading_size": "h1",
+            "heading_h1": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_mj7QDw"
+      ],
       "settings": {
         "video_external": "{{ product.metafields.custom.video_url.value }}",
         "video_description": "",
