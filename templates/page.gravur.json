@@ -145,7 +145,7 @@
           "type": "column",
           "settings": {
             "enable_media": true,
-            "image": "shopify://shop_images/emma-a12.jpg",
+            "image": "shopify://shop_images/emma.jpg",
             "media_scale": 100,
             "heading": "Emma",
             "text": "",
@@ -219,6 +219,7 @@
       ],
       "settings": {
         "image": "shopify://shop_images/fenja-2a117-33-3.jpg",
+        "image_1": "",
         "video_external": "https://www.youtube.com/shorts/mW2rCd3WaCo",
         "video_description": "",
         "video_autoplay": true,
@@ -256,15 +257,15 @@
         "media_BEVKRr": {
           "type": "media",
           "settings": {
-            "image": "shopify://shop_images/ronan-g4.jpg",
+            "image": "shopify://shop_images/rook.jpg",
             "link_url": "",
             "columns": 1,
             "rows": 1,
             "subheading": "",
-            "title": "<p>Ronan</p>",
+            "title": "<p>Rook</p>",
             "heading_size": "h5",
             "button_label": "Personifizieren",
-            "button_link": "shopify://products/guerteltasche-bauchtasche-festivaltasche-vintage-braun-leder-g4",
+            "button_link": "shopify://products/schluesseltasche-portemonnaie-schluesseletui-rosa-leder-2a92-22-13",
             "overlay_position": "justify-start items-end",
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
@@ -275,7 +276,7 @@
         "media_yXaAYt": {
           "type": "media",
           "settings": {
-            "image": "shopify://shop_images/Edla-2A179-20-2wpb.jpg",
+            "image": "shopify://shop_images/edla.jpg",
             "link_url": "",
             "columns": 1,
             "rows": 1,
@@ -294,7 +295,7 @@
         "media_XCxr4x": {
           "type": "media",
           "settings": {
-            "image": "shopify://shop_images/Shelton.jpg",
+            "image": "shopify://shop_images/shelton_6c9fd879-3dc0-439f-83f1-4015d5034518.jpg",
             "link_url": "",
             "columns": 1,
             "rows": 1,
