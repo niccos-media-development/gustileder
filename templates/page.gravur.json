@@ -238,15 +238,15 @@
         "media_DLbcnP": {
           "type": "media",
           "settings": {
-            "image": "shopify://shop_images/felix_p6.jpg",
+            "image": "shopify://shop_images/IMG_9837.jpg",
             "link_url": "",
             "columns": 1,
             "rows": 1,
             "subheading": "",
-            "title": "<p>Felix</p>",
+            "title": "<p>Abel</p>",
             "heading_size": "h5",
             "button_label": "Personifizieren",
-            "button_link": "shopify://products/stiftemappe-leder-p6",
+            "button_link": "shopify://products/kartenhuelle-kartenhalter-kartenetui-brieftasche-geldbeutel-geldboerse-klein-damen-herren-braun-leder-2a118-33-8",
             "overlay_position": "justify-start items-end",
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
