@@ -130,12 +130,12 @@
       {%- endif -%}
       {%- if shop.customer_accounts_enabled -%}
         {%- if customer -%}
-          <a class="header__icon text-current" href="{{ routes.account_url }}">
+          <a class="header__icon text-current lg:hidden" href="{{ routes.account_url }}">
             {% render 'icon-customer' %}
             <span class="visually-hidden">{{ 'sections.header.account' | t }}</span>
           </a>
         {%- else -%}
-          <a class="header__icon text-current" href="{{ routes.account_login_url }}">
+          <a class="header__icon text-current lg:hidden" href="{{ routes.account_login_url }}">
             {% render 'icon-customer' %}
             <span class="visually-hidden">{{ 'sections.header.log_in' | t }}</span>
           </a>
@@ -176,7 +176,7 @@
     {%- if section.settings.menu != blank -%}
       {%- assign total_promo_count = 0 -%}
       {%- assign featured_links = section.settings.menu_featured_link | downcase | replace: ', ', ',' | replace: ' ,', ',' | split: ',' -%}
-      <main-menu class="main-menu{% if section.settings.mobile_menu_position == "burger-left" %} main-menu--left-mob{% endif %}" data-menu-sensitivity="200">
+      <main-menu class="flex main-menu{% if section.settings.mobile_menu_position == "burger-left" %} main-menu--left-mob{% endif %}" data-menu-sensitivity="200">
         <details class="main-menu__disclosure{% if section.settings.enable_sticky %} has-motion{% endif %}" open>
           <summary class="main-menu__toggle md:hidden">
             <span class="main-menu__toggle-icon" aria-hidden="true"></span>
