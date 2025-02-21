@@ -173,6 +173,8 @@
         "image_ratio": true,
         "video_size": "ssm",
         "video_autoplay": false,
+        "in_row": true,
+        "show_content_right": true,
         "text_align": "text-center",
         "color_scheme": "default"
       }
@@ -207,6 +209,8 @@
         "image_ratio": false,
         "video_size": "md",
         "video_autoplay": true,
+        "in_row": false,
+        "show_content_right": false,
         "text_align": "text-center",
         "color_scheme": "1"
       }
