@@ -85,7 +85,7 @@
             </div>
         {%- endif -%}
 
-        <div class="video-section__media block w-full relative"{% if settings.animations_enabled != "disabled" %} data-cc-animate{% endif %} {%  if section.settings.image_ratio  %}style="padding-top: 90%;aspect-ratio: 1 / 1.90;"{% endif %}>
+        <div class="video-section__media block w-full relative"{% if settings.animations_enabled != "disabled" %} data-cc-animate{% endif %} {%  if section.settings.image_ratio  %}style="padding-top: 90%;aspect-ratio: 1 / 1.80;"{% endif %}>
           {%- if autoplay -%}
             <deferred-media class="absolute block top-0 left-0 w-full h-full no-js-hidden">
               {%- if section.settings.poster_image != blank or section.settings.video_shopify != blank -%}
