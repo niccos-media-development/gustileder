@@ -170,7 +170,7 @@
       "settings": {
         "video_external": "{{ product.metafields.custom.video_url.value }}",
         "video_description": "",
-        "image_ratio": true,
+        "image_ratio": false,
         "video_size": "lg",
         "video_autoplay": false,
         "in_row": true,
