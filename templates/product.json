@@ -369,7 +369,7 @@
         "product-features-feature-3"
       ],
       "settings": {
-        "product": "",
+        "product": "{{ product }}",
         "show_content": false,
         "layout": "text_first",
         "text_align": "text-center",
