@@ -245,7 +245,7 @@
             "icon": "map_pin",
             "heading": "",
             "text": "<p>Entdecke unsere Läden </p>",
-            "link": ""
+            "link": "shopify://pages/unsere-laden"
           }
         },
         "item_xNMXFP": {
@@ -254,7 +254,7 @@
             "icon": "check_mark_in_circle",
             "heading": "",
             "text": "<p>Reparaturservice</p>",
-            "link": ""
+            "link": "shopify://pages/reparatur"
           }
         },
         "item_pFq7mt": {
@@ -262,8 +262,8 @@
           "settings": {
             "icon": "gift",
             "heading": "",
-            "text": "<p>Individuelle Gravur </p>",
-            "link": ""
+            "text": "<p>Individuelle Gravur</p>",
+            "link": "shopify://pages/gravur"
           }
         },
         "item_hE3Lf7": {
@@ -272,16 +272,7 @@
             "icon": "dollar_sign",
             "heading": "",
             "text": "<p>bezahle in 30 Tagen</p>",
-            "link": ""
-          }
-        },
-        "item_HfezCx": {
-          "type": "item",
-          "settings": {
-            "icon": "leather",
-            "heading": "",
-            "text": "<p>chromfreies Leder</p>",
-            "link": ""
+            "link": "shopify://pages/unsere-zahlungsmethoden"
           }
         }
       },
@@ -289,8 +280,7 @@
         "item_nb3qVK",
         "item_xNMXFP",
         "item_pFq7mt",
-        "item_hE3Lf7",
-        "item_HfezCx"
+        "item_hE3Lf7"
       ],
       "settings": {
         "heading": "",
