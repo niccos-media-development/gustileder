@@ -168,7 +168,7 @@
         "heading_mj7QDw"
       ],
       "settings": {
-        "video_external": "{{ product.metafields.custom.video_url.value }}",
+        "video_external": "{{ product.metafields.next_cart.tls_description_video.value }}",
         "video_description": "",
         "image_ratio": false,
         "video_size": "lg",
