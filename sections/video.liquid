@@ -19,17 +19,7 @@
   -%}
 
   {%- capture video_component -%}
-     {% if section.settings.video_external != blank %}
-          <video
-  class="{{ video_class }}"
- playsinline="playsinline" controls="controls" autoplay="{{ autoplay }}" loop="loop" preload="auto" mute="muted" aria-label="{{ product.title }}"
-  >
-    <source src="{{ section.settings.video_external }}" type="video/mp4">
-  
-
-</video>
-                {% else %}
-    <video-component class="{{ section.settings.video_shopify }} {% if using_video_tag %}has-video{% else %}has-iframe{% endif %} block w-full h-full"
+    <video-component class="{% if using_video_tag %}has-video{% else %}has-iframe{% endif %} block w-full h-full"
                      {%- unless using_video_tag %}data-video-url="{{ section.settings.video_external | escape }}" {% endunless -%}
                      data-video-id="{{ section.id }}"
                      data-autoplay="{% if autoplay %}true{% else %}false{% endif %}"
@@ -40,13 +30,12 @@
       {%- else -%}
         <div></div>
       {%- endif -%}
-      {% endif %}
     </video-component>
   {%- endcapture -%}
 
   <div class="section{% unless color_scheme == 'default' %} section--full-width section--padded color-scheme color-scheme--{{ color_scheme }}{% endunless %}" id="{{ section.id }}">
     <div class="container">
-      <div class="video-section relative flex mx-auto overflow-hidden {% if section.settings.show_content_right and section.settings.in_row %} flex-row-reverse {% endif %} {% if section.settings.in_row %}cust_flex_wrap_no flex-wrap cust_gap-y-5 items-center {% else %} flex-col{% endif %} {% if section.settings.video_size == 'sm' %} max-w-screen-md{% elsif section.settings.video_size == 'md' %} max-w-screen-lg{% elsif section.settings.video_size == 'ssm' %} max-w-screen-ssm{% endif %}">
+      <div class="video-section relative flex mx-auto overflow-hidden flex-col{% if section.settings.video_size == 'sm' %} max-w-screen-md{% elsif section.settings.video_size == 'md' %} max-w-screen-lg{% endif %}">
         {%- if section.blocks.size > 0 -%}
             <div class="video-section__text {{ section.settings.text_align }}"{% if settings.animations_enabled != "disabled" %} data-cc-animate{% endif %}>
               {%- for block in section.blocks -%}
@@ -85,14 +74,10 @@
             </div>
         {%- endif -%}
 
-        <div class="video-section__media block w-full relative  {%  if section.settings.in_row  %}custom_video_pr{% endif %}"{% if settings.animations_enabled != "disabled" %} data-cc-animate{% endif %} {%  if section.settings.image_ratio  %}style="padding-top: 100%;"{% endif %}>
+        <div class="video-section__media block w-full relative"{% if settings.animations_enabled != "disabled" %} data-cc-animate{% endif %}>
           {%- if autoplay -%}
             <deferred-media class="absolute block top-0 left-0 w-full h-full no-js-hidden">
-              {%- if section.settings.poster_image != blank or section.settings.video_shopify != blank -%}
               <template>{{ video_component }}</template>
-              {%- else -%}
-                {{ video_component }}
-              {%- endif -%}
             </deferred-media>
 
             <noscript>
@@ -102,29 +87,20 @@
             </noscript>
           {%- else -%}
             <deferred-media class="height-clip absolute top-0 left-0 w-full h-full no-js-hidden"{% if using_video_tag and autoplay == false %} data-hide-controls-instantly="true"{% endif %}>
-               {%- if section.settings.poster_image != blank or section.settings.video_shopify != blank -%}
-                  <button type="button" class="video-section__play-btn absolute top-0 left-0 flex justify-center items-center w-full h-full video-played-hidden js-load-media">
-                    <span class="visually-hidden">{{ 'general.icon_labels.play' | t }}</span>
-                    {%- render 'icon-play' -%}
-                  </button>
-                  <template>
-                    {{ video_component }}
-                  </template>
-              {%- else -%}
+              <button type="button" class="video-section__play-btn absolute top-0 left-0 flex justify-center items-center w-full h-full video-played-hidden js-load-media">
+                <span class="visually-hidden">{{ 'general.icon_labels.play' | t }}</span>
+                {%- render 'icon-play' -%}
+              </button>
+              <template>
                 {{ video_component }}
-              {%- endif -%}
-             
+              </template>
             </deferred-media>
           {%- endif -%}
- {%- if section.settings.poster_image != blank or section.settings.video_shopify != blank -%}
+
           <div class="media media--has-overlay absolute top-0 left-0 w-full h-full video-played-hidden">
             {%- liquid
               assign sizes = false
-                if section.settings.image_ratio
-                  assign class = 'img-fit object-center custom_class_mediaimg'
-                else
-                  assign class = 'img-fit object-center'
-                endif
+              assign class = 'img-fit object-center'
             -%}
             {%- if section.settings.poster_image != blank or section.settings.video_shopify != blank -%}
               {%- assign poster_image = section.settings.poster_image | default: section.settings.video_shopify.preview_image -%}
@@ -144,7 +120,6 @@
               {{ 'lifestyle-1' | placeholder_svg_tag: class }}
             {%- endif -%}
           </div>
-          {%- endif -%}
         </div>
       </div>
     </div>
@@ -153,7 +128,7 @@
 
 {% schema %}
 {
-  "name": "Niccos - Video",
+  "name": "Video",
   "class": "cc-video",
   "settings": [
     {
@@ -181,21 +156,12 @@
       "label": "Cover image",
       "info": "Required. Shows while the video is loading, or if it cannot autoplay."
     },
-     {
-      "type": "checkbox",
-      "id": "image_ratio",
-      "label": "Image Ratio Auto"
-    },
     {
       "type": "select",
       "id": "video_size",
       "label": "Video size",
       "info": "Applies to large screens only.",
       "options": [
-        {
-          "value": "ssm",
-          "label": "X Small"
-        },
         {
           "value": "sm",
           "label": "Small"
@@ -217,16 +183,6 @@
       "label": "Autoplay",
       "info": "Some devices will not autoplay videos under certain circumstances. In accordance with Google's guidelines, autoplaying videos will be muted by default. [Learn more](https://cleancanvas.co.uk/support/enterprise/using-videos)",
       "default": true
-    },
-    {
-      "type": "checkbox",
-      "id": "in_row",
-      "label": "Show Content in Row"
-    },
-     {
-      "type": "checkbox",
-      "id": "show_content_right",
-      "label": "Show Content Right In Row"
     },
     {
       "type": "header",
@@ -411,7 +367,7 @@
   ],
   "presets": [
     {
-      "name": "Niccos Video",
+      "name": "Video",
       "blocks": [
         {
           "type": "heading"
