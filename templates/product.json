@@ -162,10 +162,17 @@
             "heading_size": "h1",
             "heading_h1": false
           }
+        },
+        "custom_metaobject_J3PB9h": {
+          "type": "custom_metaobject",
+          "settings": {
+            "metafield_key": "description_video_details"
+          }
         }
       },
       "block_order": [
-        "heading_9ebpWj"
+        "heading_9ebpWj",
+        "custom_metaobject_J3PB9h"
       ],
       "settings": {
         "video_external": "{{ product.metafields.next_cart.tls_description_video.value }}",
