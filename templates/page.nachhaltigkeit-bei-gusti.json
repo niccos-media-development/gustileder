@@ -178,7 +178,7 @@
       ],
       "settings": {
         "title": "",
-        "heading_align": "text-start",
+        "heading_align": "text-center",
         "button_label": "",
         "button_link": "",
         "gallery_cols_max": 4,
@@ -189,6 +189,54 @@
         "section_color_scheme": "none",
         "color_scheme": "white",
         "transparent_content_color": "#ffffff"
+      }
+    },
+    "media_with_text_ttJtUd": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_p7TFAD": {
+          "type": "heading",
+          "settings": {
+            "heading": "Wiederverwendung und Recycling",
+            "heading_size": "h4",
+            "heading_h1": false
+          }
+        },
+        "text_qehbrX": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wenn ein Gusti-Produkt nicht mehr repariert werden kann, gibt es die Möglichkeit, es zu recyceln. Durch Upcycling lassen sich aus altem Leder neue, nützliche Produkte herstellen. So entstehen beispielsweise Schlüsselanhänger, kleine Taschen, Feuerzeughüllen, Schreibtisch-Organizer, Tischsets oder Lesezeichen.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_cQXQfY": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Optional button",
+            "button_link": "",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_p7TFAD",
+        "text_qehbrX",
+        "button_cQXQfY"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/packaging_2.jpg",
+        "image_1": "",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "left",
+        "image_fit": "contain",
+        "media_width": 50,
+        "media_scale": 100,
+        "text_align": "text-start",
+        "color_scheme": "none",
+        "only_content_color_scheme": false
       }
     },
     "rich_text_Vj8VmD": {
@@ -285,13 +333,120 @@
         "transparent_content_color": "#ffffff"
       }
     },
+    "media_with_text_9cr6yb": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_rL3dgC": {
+          "type": "heading",
+          "settings": {
+            "heading": "Reduzierter Wasserverbrauch",
+            "heading_size": "h4",
+            "heading_h1": false
+          }
+        },
+        "text_kTMm4P": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Unsere Gusti Leder nature-Produkte werden mit rein pflanzlichen Gerbstoffen gegerbt. Dabei gelangen keine Chemikalien ins Wasser. Dennoch kann der Gerbprozess große Mengen Wasser erfordern – nachhaltige Gerbverfahren verbrauchen laut internationalen Standards zwischen 60 und 200 Litern Wasser, was dem Fassungsvermögen einer Badewanne entspricht.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_kwd8yP": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Optional button",
+            "button_link": "",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_rL3dgC",
+        "text_kTMm4P",
+        "button_kwd8yP"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/IMG_3901a_copy.jpg",
+        "image_1": "",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "right",
+        "image_fit": "contain",
+        "media_width": 50,
+        "media_scale": 100,
+        "text_align": "text-start",
+        "color_scheme": "none",
+        "only_content_color_scheme": false
+      }
+    },
+    "multi_column_E9cGBT": {
+      "type": "multi-column",
+      "blocks": {
+        "column_HqrH3D": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/IMG_3863a_copy.jpg",
+            "media_scale": 100,
+            "heading": "Chromgerbung nach internationalen Standards",
+            "text": "<p>Unsere Gusti Leder studio-Produkte werden von Herstellern produziert, die internationalen Produktionsstandards wie SA 8000 entsprechen müssen. Alle Lederarten werden regelmäßig in unabhängigen Laboren auf Chrom-VI-Rückstände getestet. Diese Prüfungen erfolgen sowohl in Indien als auch durch TÜV SÜD. Auf unseren Produktseiten weisen wir geprüfte Produkte durch das TÜV-Logo aus.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_R6qngW": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/IMG_3826a_copy.jpg",
+            "media_scale": 100,
+            "heading": "Verpackung",
+            "text": "<p>In unserem Versandlager in Rosówek, Polen, konzentrieren wir uns auf nachhaltige Verpackungslösungen. Unsere Pakete sind exakt an die Größe der Produkte angepasst, um Materialverschwendung zu vermeiden. Die Kartons, in denen die Artikel bei uns ankommen, werden weiterverwendet. Unsere Produkte werden nicht doppelt verpackt, wodurch zusätzlicher Abfall vermieden wird. Durch die Reduzierung der Verpackungsgrößen konnten wir außerdem die Anzahl der Transportfahrzeuge verringern. Während früher drei LKWs benötigt wurden, um die Pakete aus dem Lager abzuholen, reicht heute ein einziges Fahrzeug. Dies trägt zur Senkung unseres CO₂-Ausstoßes bei.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_gNakqM": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/PV-Rosewek.webp",
+            "media_scale": 100,
+            "heading": "Solaranlagen in Rostock und Rosówek",
+            "text": "<p>Im Sommer 2019 wurde auf dem Dach unseres Rostocker Büros eine eigene Solaranlage installiert. Die dort erzeugte Energie versorgt unser Büro mit Strom und macht uns energieautark. Die Anlage produziert jährlich rund 27.000 kWh – mehr, als unser Bürogebäude benötigt. Der überschüssige Strom wird ins Netz der Stadtwerke Rostock eingespeist. Auch auf dem Dach unseres Lagers in Rosówek wurde eine Solaranlage installiert, um die Energieversorgung nachhaltiger zu gestalten. Zusätzlich werden unsere Webseiten von Hosting-Partnern betrieben, die grünen Strom nutzen. So ermöglichen wir ein umweltfreundliches Einkaufserlebnis.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_HqrH3D",
+        "column_R6qngW",
+        "column_gNakqM"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "layout": "carousel",
+        "column_size": "medium",
+        "column_align": "left",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
+      }
+    },
     "rich_text_N9JtYM": {
       "type": "rich-text",
       "blocks": {
         "heading_jyNmqB": {
           "type": "heading",
           "settings": {
-            "heading": "Verpackungen",
+            "heading": "E-Ladestation",
             "heading_size": "h4",
             "heading_h1": false
           }
@@ -299,7 +454,7 @@
         "text_n8jzVG": {
           "type": "text",
           "settings": {
-            "text": "<p>In unserem Versandlager in Rosówek liegt der Nachhaltigkeitsfokus besonders auf den Verpackungen für den Versand. Die Pakete sind speziell an die Größen unserer Produkte angepasst, wodurch möglichst wenig Material verschwendet wird. Außerdem verwenden wir auch die Kartons, in denen die Waren bereits von den Produzenten an das Lager gesendet wird. Die Ware wird also nicht neu verpackt und dadurch wird keine doppelte Verpackung benötigt. Diese mehrfach verwendeten Kartons werden bei uns mit diesem Sticker “Recycled” gekennzeichnet. Aufgrund der reduzierten Verpackungsgröße können wir auch die Anzahl der LKW unserer Versandpartner verringern. Es reicht mittlerweile aus, dass nur noch ein Lastwagen die verpackte Ware aus dem Lager abholt, anstatt ursprünglich meistens 3. Auch mit diesen Maßnahmen tragen wir zu einem geringeren Verbrauch von CO2 bei.</p>",
+            "text": "<p>Im September 2022 wurde neben unserem Büro in Rostock eine eigene E-Ladestation installiert. Diese kann von allen E-Fahrzeug Besitzern genutzt werden, nicht nur von unseren Mitarbeitern.</p><p>Seit der Inbetriebnahme wurden bereits 21 Fahrzeuge geladen. Dadurch konnten 429 kg CO₂ und 448 kg Treibhausgase eingespart werden – das entspricht dem Effekt, den elf zehn Jahre alte Bäume erzielen würden. In den kommenden Jahren erwarten wir eine weitere Steigerung dieser Einsparungen.</p><p>Wir setzen auf Nachhaltigkeit, indem wir verschiedene Strategien verfolgen. Dazu gehören ein Slow-Fashion-Ansatz für Taschen und Accessoires, die Bereitstellung eines Reparaturservices sowie gezielte Maßnahmen zur Reduzierung des Konsums und Abfalls innerhalb unseres Unternehmens. Dadurch tragen wir aktiv zum Schutz natürlicher Ressourcen bei und schaffen eine gesunde, grüne Umwelt für zukünftige Generationen.</p>",
             "enlarge_text": false
           }
         }
@@ -316,67 +471,6 @@
         "color_scheme": "none",
         "full_width": true,
         "prevent_animation": false
-      }
-    },
-    "media_grid_7pfUgX": {
-      "type": "media-grid",
-      "blocks": {
-        "media_FADA6m": {
-          "type": "media",
-          "settings": {
-            "image": "shopify://shop_images/packaging-1_800x800_2x_88ced041-7698-4477-b0b8-795a10b30cba.png",
-            "link_url": "",
-            "columns": 1,
-            "rows": 1,
-            "subheading": "",
-            "title": "",
-            "heading_size": "h4",
-            "button_label": "",
-            "button_link": "",
-            "overlay_position": "justify-start items-end",
-            "text_alignment": "text-start",
-            "button_style": "btn btn--primary",
-            "tint_color": "#000000",
-            "tint_opacity": 0
-          }
-        },
-        "media_f9BfR9": {
-          "type": "media",
-          "settings": {
-            "image": "shopify://shop_images/packaging-2_800x800_2x_814a9602-3286-42d0-b7a5-6d25fa4775e0.png",
-            "link_url": "",
-            "columns": 1,
-            "rows": 1,
-            "subheading": "",
-            "title": "",
-            "heading_size": "h4",
-            "button_label": "",
-            "button_link": "",
-            "overlay_position": "justify-start items-end",
-            "text_alignment": "text-start",
-            "button_style": "btn btn--primary",
-            "tint_color": "#000000",
-            "tint_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "media_FADA6m",
-        "media_f9BfR9"
-      ],
-      "settings": {
-        "title": "",
-        "heading_align": "text-start",
-        "button_label": "",
-        "button_link": "",
-        "gallery_cols_max": 4,
-        "mobile_carousel": false,
-        "gallery_cols_min": "1",
-        "fixed_height_desktop": 180,
-        "fixed_height_mobile": 300,
-        "section_color_scheme": "none",
-        "color_scheme": "white",
-        "transparent_content_color": "#ffffff"
       }
     },
     "featured_collection_eW7kg4": {
@@ -521,10 +615,12 @@
     "rich_text_TqrEVD",
     "rich_text_bmhfw6",
     "media_grid_3hjHm4",
+    "media_with_text_ttJtUd",
     "rich_text_Vj8VmD",
     "media_grid_9YCAJT",
+    "media_with_text_9cr6yb",
+    "multi_column_E9cGBT",
     "rich_text_N9JtYM",
-    "media_grid_7pfUgX",
     "featured_collection_eW7kg4",
     "rich_text_WeBwVk",
     "multi_column_k7ez3U",
