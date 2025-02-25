@@ -155,14 +155,6 @@
     "niccos_video_GVPzHA": {
       "type": "niccos-video",
       "blocks": {
-        "heading_9ebpWj": {
-          "type": "heading",
-          "settings": {
-            "heading": "{{ product.metafields.next_cart.pro_beschreibung_0.value }}",
-            "heading_size": "h1",
-            "heading_h1": false
-          }
-        },
         "custom_metaobject_J3PB9h": {
           "type": "custom_metaobject",
           "settings": {
@@ -171,7 +163,6 @@
         }
       },
       "block_order": [
-        "heading_9ebpWj",
         "custom_metaobject_J3PB9h"
       ],
       "settings": {
