@@ -3,7 +3,7 @@
     {% for video_detail in product.metafields.custom.description_video_details.value %}
       <div class="cust-video-detail-item grid gap-3 items-center">
         {% if video_detail.image != blank %}
-          <img src="{{ video_detail.image | img_url: "master" }}" alt="{{ video_detail.image.alt }}" class="cust-video-detail-item__image">
+          <img src="{{ video_detail.image | image_url: width: '150px', height: 'auto'  }}" alt="{{ video_detail.image.alt }}" class="cust-video-detail-item__image">
         {% endif %}
 
         {% if video_detail.content != blank %}
