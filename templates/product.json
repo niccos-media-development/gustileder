@@ -537,6 +537,147 @@
         "only_content_color_scheme": false
       }
     },
+    "media_grid_CkgMJY": {
+      "type": "media-grid",
+      "blocks": {
+        "media_HPdd8Q": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/production_6.jpg",
+            "link_url": "",
+            "columns": 2,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 10
+          }
+        },
+        "media_yPCTD4": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/production_5.jpg",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 10
+          }
+        },
+        "media_akB38K": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/production_7.jpg",
+            "link_url": "",
+            "columns": 1,
+            "rows": 2,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 10
+          }
+        },
+        "media_cAPMLL": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/production_1.jpg",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 10
+          }
+        },
+        "media_Ga8KXC": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/production_4.jpg",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 10
+          }
+        },
+        "media_9UGya7": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/production_2.jpg",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 10
+          }
+        }
+      },
+      "block_order": [
+        "media_HPdd8Q",
+        "media_yPCTD4",
+        "media_akB38K",
+        "media_cAPMLL",
+        "media_Ga8KXC",
+        "media_9UGya7"
+      ],
+      "settings": {
+        "title": "Gusti Leder Produktion",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "gallery_cols_max": 4,
+        "mobile_carousel": true,
+        "gallery_cols_min": "1",
+        "fixed_height_desktop": 180,
+        "fixed_height_mobile": 300,
+        "section_color_scheme": "none",
+        "color_scheme": "white",
+        "transparent_content_color": "#ffffff"
+      }
+    },
     "recently_viewed_AxjKk3": {
       "type": "recently-viewed",
       "settings": {
@@ -560,6 +701,7 @@
     "recommendations",
     "slideshow_FGXjXJ",
     "media_with_text_TM333A",
+    "media_grid_CkgMJY",
     "recently_viewed_AxjKk3"
   ]
 }
