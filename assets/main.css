@@ -899,6 +899,9 @@ address {
 .flex-row-reverse{
   flex-direction: row-reverse;
 }
+.flex-column-reverse{
+  flex-direction: column-reverse;
+}
 .flex-col{
   flex-direction: column;
 }
