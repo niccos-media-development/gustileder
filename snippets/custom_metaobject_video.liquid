@@ -1,0 +1,17 @@
+{% if product.metafields.custom.description_video_details %}
+  {% assign video_details = product.metafields.custom.description_video_details.value %}
+
+  <div class="product-video-details">
+    {% if video_details.image %}
+      <div class="video-image">
+        <img src="{{ video_details.image | img_url: 'small' }}" alt="{{ video_details.image.alt | escape }}">
+      </div>
+    {% endif %}
+
+    {% if video_details.content %}
+      <div class="video-content">
+        {{ video_details.content }}
+      </div>
+    {% endif %}
+  </div>
+{% endif %}
