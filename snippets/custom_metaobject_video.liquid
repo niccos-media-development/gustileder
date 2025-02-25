@@ -1,13 +1,13 @@
 {% if product.metafields.custom.description_video_details %}
-  <div class="cust-video-details-list">
+  <div class="cust-video-details-list grid gap-4">
     {% for video_detail in product.metafields.custom.description_video_details.value %}
-      <div class="cust-video-detail-item">
+      <div class="cust-video-detail-item grid gap-4">
         {% if video_detail.image != blank %}
           <img src="{{ video_detail.image | img_url: "master" }}" alt="{{ video_detail.image.alt }}" class="cust-video-detail-item__image">
         {% endif %}
 
         {% if video_detail.content != blank %}
-          <div class="cust-video-detail-item__content">
+          <div class="cust-video-detail-item__content h5 text-left">
             {{ video_detail.content }}
           </div>
         {% endif %}
