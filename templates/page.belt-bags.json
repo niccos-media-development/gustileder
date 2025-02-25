@@ -11,6 +11,7 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "show_page_title": true,
         "heading_align": "text-center"
@@ -36,6 +37,7 @@
         },
         "button_446Ntx": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_1_label": "Optional button",
             "button_1_link": "",
@@ -68,66 +70,104 @@
         "prevent_animation": false
       }
     },
-    "collection_list_RHeKBJ": {
-      "type": "collection-list",
+    "rich_text_6DA3zw": {
+      "type": "rich-text",
       "blocks": {
-        "collection_Bnwkxe": {
-          "type": "collection",
+        "subheading_F9JRMT": {
+          "type": "subheading",
+          "disabled": true,
           "settings": {
-            "collection": ""
+            "text": "Subheading"
           }
         },
-        "collection_XxnyQd": {
-          "type": "collection",
+        "heading_YNVPKa": {
+          "type": "heading",
           "settings": {
-            "collection": ""
+            "heading": "Bauchtaschen im Vergleich",
+            "heading_size": "h2",
+            "heading_h1": false
           }
         },
-        "collection_tqX3rW": {
-          "type": "collection",
+        "text_UMRwGa": {
+          "type": "text",
           "settings": {
-            "collection": ""
-          }
-        },
-        "collection_XHnx9f": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "collection_eAJ4fF": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "collection_xbRB6E": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
+            "text": "<p>Die richtige Wahl zu treffen fällt schwer, wenn Du so viele Bauchtaschen zur Auswahl hast, stimmt's?<br/><br/>Keine Sorge! Wir verkaufen eine Vielzahl von schicken Taschen bei Gusti Leder, daher haben wir die harte Arbeit für Dich erledigt und unsere besten Gürtel- und Bauchtaschen verglichen. Unten findest Du eine Liste von Empfehlungen für Tagesausflüge, die passende Tasche für Deinen Abend, einen entspannten Brunch oder Dein Lieblingsfestival.<br/><br/>Wähle jetzt Deine perfekte Leder Bauchtasche aus!</p>",
+            "enlarge_text": false
           }
         }
       },
       "block_order": [
-        "collection_Bnwkxe",
-        "collection_XxnyQd",
-        "collection_tqX3rW",
-        "collection_XHnx9f",
-        "collection_eAJ4fF",
-        "collection_xbRB6E"
+        "subheading_F9JRMT",
+        "heading_YNVPKa",
+        "text_UMRwGa"
       ],
       "settings": {
-        "title": "Collections",
-        "heading_align": "text-start",
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "wide": false,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "multi_column_UeK3dM": {
+      "type": "multi-column",
+      "blocks": {
+        "column_n67EJB": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Cillian_2G61-48-6_3.jpg",
+            "media_scale": 100,
+            "heading": "Cillian",
+            "text": "<p>Die atemberaubende und klassische schwarze Bauchtasche \"<strong>Cillian</strong>\" ist der ideale Lederbegleiter, wenn Du zu Konzerten oder Veranstaltungen gehst. Sie ist die perfekte Alternative zu einer Handtasche, wenn Du tanzt. Cillian hat einen verstellbaren Gürtel, sodass Du sie bequem um die Taille tragen oder über Deine Schulter hängen kannst. Zwei Innentaschen können mit einem Reißverschluss verschlossen werden, damit all Deine Habseligkeiten wie Handy, Schlüssel und Bargeld sicher aufbewahrt werden.</p><p><strong>Größe             </strong>32 x 11 x 7 cm</p><p><strong>Lederart        </strong>Büffelleder</p><p><strong>Innen Fächer </strong>2</p><p><strong>Verschluss  </strong>Reißverschluss</p>",
+            "button_label": "",
+            "button_link": "shopify://products/ledvinka-taska-na-opasek-taska-na-bok-taska-na-festival-cerna-kuze-2g61-48-6"
+          }
+        },
+        "column_tbadRk": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Sverre_2G66-48-6_DEF_2.jpg",
+            "media_scale": 100,
+            "heading": "Sverre",
+            "text": "<p>Die geräumige \"Sverre\" ist ein unverzichtbares Accessoire während der Festivalzeit. Diese trendige Vintage-Bauchtasche wurde aus Büffelleder gefertigt und sieht immer mühelos cool und schick aus. Bewahre Deine Sachen sicher im Hauptfach mit Reißverschluss auf. Auf der Vorderseite der Tasche befindet sich eine zusätzliche Tasche für die kleinen Dinge, die Du schnell greifen kannst. <br/><br/>Mach Dich bereit für Dein nächstes Konzert mit unserer schicken Bauchtasche \"Sverre\"</p><p><strong>Größe             </strong>36 x 16 x 6 cm</p><p><strong>Lederart        </strong>Büffelleder</p><p><strong>Innen Fächer </strong>1</p><p><strong>Verschluss  </strong>Reißverschluss</p>",
+            "button_label": "",
+            "button_link": "shopify://products/guerteltasche-bauchtasche-handtasche-ledertasche-schwarz-leder-2g66-48-6"
+          }
+        },
+        "column_QAr3Pj": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Akira_2H201-80-15_DEF_3.jpg",
+            "media_scale": 100,
+            "heading": "Akira",
+            "text": "<p>\"<strong>Akira</strong>\" ist eine glänzende braune Bauchtasche für Männer und Frauen. Die äußerst praktische Bauchtasche verfügt über einen geräumigen Hauptabschnitt und eine zusätzliche kleine Tasche auf der Rückseite. Robust und strapazierfähig, kannst Du Akira in Deinem Alltag verwenden, sei es für einen Abend oder im Urlaub. Im lässigen Retro-Stil gestaltet, passt Akira zu jedem Outfit.</p><p>Du kannst eine besondere Nachricht oder einen Namen auf Akira gravieren lassen!</p><p><strong>Größe             </strong>24 x 17 x 12 cm</p><p><strong>Lederart        </strong>Rindsleder</p><p><strong>Innen Fächer </strong>1</p><p><strong>Verschluss  </strong>Reißverschluss</p>",
+            "button_label": "",
+            "button_link": "shopify://products/belt-bag-bumbag-fanny-pack-bum-bag-festival-bag-brown-leather-2h201-80-15"
+          }
+        }
+      },
+      "block_order": [
+        "column_n67EJB",
+        "column_tbadRk",
+        "column_QAr3Pj"
+      ],
+      "settings": {
+        "title": "Geräumige Bauchtaschen",
+        "heading_align": "text-center",
         "button_label": "",
         "button_link": "",
         "layout": "carousel",
-        "card_size": "small",
-        "use_product_image": false,
-        "circle_image": true,
-        "show_border": true,
-        "color_scheme": "none",
-        "full_width": true
+        "column_size": "medium",
+        "column_align": "left",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
       }
     },
     "featured_collection_fw9w9V": {
@@ -156,7 +196,8 @@
   "order": [
     "main",
     "image_banner_h7bfNH",
-    "collection_list_RHeKBJ",
+    "rich_text_6DA3zw",
+    "multi_column_UeK3dM",
     "featured_collection_fw9w9V"
   ]
 }
