@@ -46,7 +46,7 @@
 
   <div class="section{% unless color_scheme == 'default' %} section--full-width section--padded color-scheme color-scheme--{{ color_scheme }}{% endunless %}" id="{{ section.id }}">
     <div class="container">
-      <div class="video-section relative flex mx-auto overflow-hidden {% if section.settings.show_content_right and section.settings.in_row %} flex-row-reverse flex-column-reverse{% endif %} {% if section.settings.in_row %}cust_flex_wrap_no flex-wrap cust_gap-y-5 items-center {% else %} flex-col{% endif %} {% if section.settings.video_size == 'sm' %} max-w-screen-md{% elsif section.settings.video_size == 'md' %} max-w-screen-lg{% elsif section.settings.video_size == 'ssm' %} max-w-screen-ssm{% endif %}">
+      <div class="video-section relative flex mx-auto overflow-hidden {% if section.settings.show_content_right and section.settings.in_row %} flex-row-reverse flex-column-mob-reverse{% endif %} {% if section.settings.in_row %}cust_flex_wrap_no flex-wrap cust_gap-y-5 items-center {% else %} flex-col{% endif %} {% if section.settings.video_size == 'sm' %} max-w-screen-md{% elsif section.settings.video_size == 'md' %} max-w-screen-lg{% elsif section.settings.video_size == 'ssm' %} max-w-screen-ssm{% endif %}">
         {%- if section.blocks.size > 0 -%}
             <div class="video-section__text {{ section.settings.text_align }}"{% if settings.animations_enabled != "disabled" %} data-cc-animate{% endif %}>
               {%- for block in section.blocks -%}
