@@ -64,7 +64,9 @@
                         {{- block.settings.text | escape -}}
                       </p>
                     {%- endif -%}
-
+                  {%- when 'custom_metaobject' -%}
+                    {% assign metafield_key = block.settings.metafield_key %}
+                    {% render 'custom_metaobject_video', metafield_key: metafield_key %}
                   {%- when 'text' -%}
                     {%- if block.settings.text != blank -%}
                       <div class="section__block section__block--rte rte{% if block.settings.enlarge_text %} enlarge-text{% endif %}" {{ block.shopify_attributes }}>
@@ -348,6 +350,18 @@
           "id": "text",
           "label": "Subheading",
           "default": "Subheading"
+        }
+      ]
+    },
+     {
+      "type": "custom_metaobject",
+      "name": "MetaObject of video",
+      "limit": 1,
+      "settings": [
+        {
+          "type": "text",
+          "id": "metafield_key",
+          "label": "Metafield Key"
         }
       ]
     },
