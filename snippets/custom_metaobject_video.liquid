@@ -1,7 +1,7 @@
 {% if product.metafields.custom.description_video_details %}
   <div class="cust-video-details-list grid gap-4">
     {% for video_detail in product.metafields.custom.description_video_details.value %}
-      <div class="cust-video-detail-item grid gap-4">
+      <div class="cust-video-detail-item grid gap-4 items-center">
         {% if video_detail.image != blank %}
           <img src="{{ video_detail.image | img_url: "master" }}" alt="{{ video_detail.image.alt }}" class="cust-video-detail-item__image">
         {% endif %}
