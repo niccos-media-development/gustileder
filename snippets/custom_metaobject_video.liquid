@@ -1,4 +1,4 @@
-{% if product.metafields.custom.description_video_details.size > 0 %}
+{% if product.metafields.custom.description_video_details %}
   <div class="cust-video-details-list">
     {% for video_detail in product.metafields.custom.description_video_details.value %}
       <div class="cust-video-detail-item">
