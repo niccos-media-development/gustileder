@@ -1,17 +1,17 @@
-{% if product.metafields.custom.description_video_details %}
-  {% assign video_details = product.metafields.custom.description_video_details.value %}
+{% if product.metafields.custom.description_video_details.size > 0 %}
+  <div class="cust-video-details-list">
+    {% for video_detail in product.metafields.custom.description_video_details.value %}
+      <div class="cust-video-detail-item">
+        {% if video_detail.image != blank %}
+          <img src="{{ video_detail.image | img_url: "small" }}" alt="{{ video_detail.image.alt }}" class="cust-video-detail-item__image">
+        {% endif %}
 
-  <div class="product-video-details">
-    {% if video_details.image %}
-      <div class="video-image">
-        <img src="{{ video_details.image | img_url: 'small' }}" alt="{{ video_details.image.alt | escape }}">
+        {% if video_detail.content != blank %}
+          <div class="cust-video-detail-item__content">
+            {{ video_detail.content }}
+          </div>
+        {% endif %}
       </div>
-    {% endif %}
-
-    {% if video_details.content %}
-      <div class="video-content">
-        {{ video_details.content }}
-      </div>
-    {% endif %}
+    {% endfor %}
   </div>
 {% endif %}
