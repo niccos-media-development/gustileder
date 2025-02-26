@@ -69,7 +69,7 @@
         "full_width": true,
         "transparent_content_color": "#ffffff",
         "tint_color": "#000000",
-        "tint_opacity": 40,
+        "tint_opacity": 5,
         "prevent_animation": false
       }
     },
@@ -108,6 +108,7 @@
       ],
       "settings": {
         "image": "shopify://shop_images/DIY_1.jpg",
+        "image_1": "",
         "video_external": "",
         "video_description": "",
         "video_autoplay": false,
@@ -155,6 +156,7 @@
       ],
       "settings": {
         "image": "shopify://shop_images/DIY.jpg",
+        "image_1": "",
         "video_external": "",
         "video_description": "",
         "video_autoplay": false,
