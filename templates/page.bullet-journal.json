@@ -11,6 +11,7 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "show_page_title": true,
         "heading_align": "text-center"
@@ -51,6 +52,7 @@
         "text_i4fTGy",
         "button_446Ntx"
       ],
+      "disabled": true,
       "settings": {
         "url": "",
         "height_mode": "auto",
@@ -66,6 +68,523 @@
         "tint_color": "#000000",
         "tint_opacity": 40,
         "prevent_animation": false
+      }
+    },
+    "rich_text_yUtYAC": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_AkGL8h": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_Tdh6JY": {
+          "type": "heading",
+          "settings": {
+            "heading": "Bullet Journal - der etwas andere Kalender",
+            "heading_size": "h2",
+            "heading_h1": false
+          }
+        },
+        "text_DWbhyJ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Um Dich auf das neue Jahr vorzubereiten, tägliche Checklisten zu erstellen und monatliche Ziele zu notieren, eignet sich ein <strong>Bullet Journal</strong> perfekt...</p><p>Du bewahrst alle kommenden und vergangenen Ereignisse, Ideen und Listen in einem <strong>Notizbuch</strong> auf - wobei Dir bei der Gestaltung keine Grenzen gesetzt sind!</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_kMT9bj": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_AkGL8h",
+        "heading_Tdh6JY",
+        "text_DWbhyJ",
+        "button_kMT9bj"
+      ],
+      "settings": {
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "wide": false,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "media_grid_RUFEGC": {
+      "type": "media-grid",
+      "blocks": {
+        "media_D3br3m": {
+          "type": "media",
+          "disabled": true,
+          "settings": {
+            "link_url": "",
+            "columns": 2,
+            "rows": 2,
+            "subheading": "",
+            "title": "<p>Media heading</p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_iWdMjY": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Bella3_2P16-24-1_MP.jpg",
+            "link_url": "shopify://products/buch-skizzenbuch-gaestebuch-din-a4-2p16-24-1",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Bella</p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_gDPRUt": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Nadia_2P42-24-17_MP_1.jpg",
+            "link_url": "shopify://products/livre-album-photos-journal-intime-amovible-2p42-24-17",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Nadia</p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_gfPkzm": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Mila_P47_MP.jpg",
+            "link_url": "shopify://products/fotoalbum-mit-ledereinband-und-handgeschoepftem-papier-fotobuch-p47",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Mila</p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_xRMLNe": {
+          "type": "media",
+          "disabled": true,
+          "settings": {
+            "link_url": "",
+            "columns": 2,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Media heading</p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        }
+      },
+      "block_order": [
+        "media_D3br3m",
+        "media_iWdMjY",
+        "media_gDPRUt",
+        "media_gfPkzm",
+        "media_xRMLNe"
+      ],
+      "settings": {
+        "title": "Media grid",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "gallery_cols_max": 4,
+        "mobile_carousel": false,
+        "gallery_cols_min": "1",
+        "fixed_height_desktop": 180,
+        "fixed_height_mobile": 300,
+        "section_color_scheme": "none",
+        "color_scheme": "white",
+        "transparent_content_color": "#ffffff"
+      }
+    },
+    "rich_text_XxRMyT": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_rGWbd4": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_LtUU4q": {
+          "type": "heading",
+          "settings": {
+            "heading": "Dein Bullet Journal gestalten: Erste Schritte, Anregungen und Ideen ",
+            "heading_size": "h4",
+            "heading_h1": false
+          }
+        },
+        "text_PmAiUU": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Ein Bullet Journal ist ein selbst gestalteter <strong>Kalender</strong> und <strong>Tagebuch</strong>, in dem Du Erinnerungen, Wünsche und To-Do-Listen für anstehende Aufgaben festhalten kannst.</p><p>Wie Du Dein Bullet Journal gestaltest, liegt an Dir - Du kannst deiner <strong>Kreativität</strong> freien Lauf lassen! Zeichne, notiere, gestalte oder plane alles frei nach Deinen Vorstellungen.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_9B8wLa": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_rGWbd4",
+        "heading_LtUU4q",
+        "text_PmAiUU",
+        "button_9B8wLa"
+      ],
+      "settings": {
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "wide": false,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "media_with_text_pG6ayB": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_miVa7U": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Media with text",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "text_dyFKQz": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Es ist ganz allein Dir und Deinem Geschmack überlassen, ob Du Dein Bullet Journal mit außergewöhnlichen <strong>Schriftarten, Zeichnungen oder Sprüchen</strong> gestalten möchtest, oder es lieber schlicht und übersichtlich magst.</p><p>Du entscheidest, wie Du am produktivsten arbeiten kannst!</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_B8WNKb": {
+          "type": "button",
+          "settings": {
+            "button_label": "Wanderlust",
+            "button_link": "shopify://products/notizbuch-tagebuch-reisetagebuch-reise-poesiealbum-skizzenbuch-buch-mit-spruch-zitat-wanderlust-din-b5-braun-leder-2p55-24-28",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_miVa7U",
+        "text_dyFKQz",
+        "button_B8WNKb"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Wanderlust_2P56-24-28.11.jpg",
+        "image_1": "",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "left",
+        "image_fit": "contain",
+        "media_width": 50,
+        "media_scale": 100,
+        "text_align": "text-start",
+        "color_scheme": "none",
+        "only_content_color_scheme": false
+      }
+    },
+    "media_with_text_VRWX44": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_xHzyaF": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Media with text",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "text_gdxfjm": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Ob Wochenübersicht, Monatsplaner, Jahreskalender, Gewohnheits-Tracker, To-Do Liste, Hausaufgabenübersicht oder Mood-Tracker.</p><p>Gestalte Dein Bullet Journal ganz <strong>individuell</strong> - oder finde eine Vorlage, an der Du Dich orientieren möchtest!</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_pemNGp": {
+          "type": "button",
+          "settings": {
+            "button_label": "Lahja",
+            "button_link": "shopify://products/notebook-cover-journal-leather-cover-brown-leather-2p77-24-28",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_xHzyaF",
+        "text_gdxfjm",
+        "button_pemNGp"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Lahja_2P77-24-28_4.jpg",
+        "image_1": "",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "right",
+        "image_fit": "contain",
+        "media_width": 50,
+        "media_scale": 100,
+        "text_align": "text-start",
+        "color_scheme": "none",
+        "only_content_color_scheme": false
+      }
+    },
+    "media_with_text_FDq8Lr": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_P8NE9G": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Media with text",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "text_6CCjPX": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Aller Anfang ist schwer - Im Internet gibt es aber schon eine große Community, die sich rund um das Thema \"Bullet Journaling\" gebildet hat.</p><p>Auf YouTube, Pinterest, Instagram und verschiedenen Blogs findest Du viele tolle<strong> Ideen</strong> und <strong>Anregungen</strong>, mit denen Du arbeiten kannst!</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_x8yYR9": {
+          "type": "button",
+          "settings": {
+            "button_label": "Ela",
+            "button_link": "shopify://products/buch-skizzenbuch-gaestebuch-din-b5-p17",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_P8NE9G",
+        "text_6CCjPX",
+        "button_x8yYR9"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Ela_P17.jpg",
+        "image_1": "",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "left",
+        "image_fit": "contain",
+        "media_width": 50,
+        "media_scale": 100,
+        "text_align": "text-start",
+        "color_scheme": "none",
+        "only_content_color_scheme": false
+      }
+    },
+    "media_with_text_B6NFDT": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_LWTENp": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Media with text",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "text_CTbnM4": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Welches Buch eignet sich am Besten für ein Bullet Journal?</strong></p><p>Für ein Bullet Journal kommen viele verschieden <strong>Bücher</strong> in Frage. Du solltest Dich für ein Notizbuch entscheiden, das zu Deinen Ansprüchen passt.</p><p>Möchtest du viel selbst gestalten, malen und einkleben? Sollen in Deinem Bullet Journal nur praktische <strong>Checklisten</strong> und Übersichten sein? Je nachdem, wieviel Platz Du benötigst, solltest Du das <strong>Format</strong> Deines Notizbuches auswählen!</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_Km7Aw7": {
+          "type": "button",
+          "settings": {
+            "button_label": "Amalia",
+            "button_link": "shopify://products/buch-notizbuch-tagebuch-din-a6-2p18-24-1",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_LWTENp",
+        "text_CTbnM4",
+        "button_Km7Aw7"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Amalia_2P18-24-1_4.jpg",
+        "image_1": "",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "right",
+        "image_fit": "contain",
+        "media_width": 50,
+        "media_scale": 100,
+        "text_align": "text-start",
+        "color_scheme": "none",
+        "only_content_color_scheme": false
+      }
+    },
+    "media_with_text_KrLbGq": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_TCNpbd": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Media with text",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "text_c37REj": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Es gibt Notizbücher mit vorgedrucktem, liniertem oder kariertem Muster, oder aber auch Varianten, die komplett leer sind, damit Du Deiner<strong>Phantasie</strong>freien Lauf lassen kannst. Wenn Du mit Wasserfarben arbeiten möchtest, sollte Dein<strong>Papier</strong>extra dafür geeignet sein. Zu dünnes Papier nimmt die Farbe zu sehr auf und hinterlässt unschöne Wellen. Die Papierauswahl ist also wichtig und richtet sich nach Deinen Materialien. Es kann aber auch Dein Bullet Journal abrunden: Besonders<strong>handgeschöpftes Baumwollpapier</strong>kann Deinen Designs den letzten Schliff geben. Durch Blütenblätter und Struktur verleiht es Deinen Seiten das besondere Etwas!</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_jDgPFF": {
+          "type": "button",
+          "settings": {
+            "button_label": "Virginia",
+            "button_link": "shopify://products/buch-notizbuch-skizzenbuch-tagebuch-reisetagebuch-seiten-nachfuellbar-din-c6-braun-leder-2p52-24-28",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_TCNpbd",
+        "text_c37REj",
+        "button_jDgPFF"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Virginia_2P52-24-28_feed.jpg",
+        "image_1": "",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "right",
+        "image_fit": "contain",
+        "media_width": 50,
+        "media_scale": 100,
+        "text_align": "text-start",
+        "color_scheme": "none",
+        "only_content_color_scheme": false
+      }
+    },
+    "media_with_text_8yQhhP": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_pwDwWR": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Media with text",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "text_9pWHLW": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Bullet Journals halten ganz besondere <strong>Erinnerungen</strong> fest!</p><p>Achte daher darauf, dass Dein Notizbuch einen <strong>festen Einband</strong> hat, damit es Dir lange erhalten bleibt. Robuste Materialien wie <strong>Leder</strong> sehen nicht nur klasse im Regal aus, sie schützen Deine Schätze auch.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_hmgPk3": {
+          "type": "button",
+          "settings": {
+            "button_label": "Tira",
+            "button_link": "shopify://products/leder-notizbuch-mit-stiftehalterung-p65",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_pwDwWR",
+        "text_9pWHLW",
+        "button_hmgPk3"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Virginia_2P52-24-28_feed.jpg",
+        "image_1": "",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "left",
+        "image_fit": "contain",
+        "media_width": 50,
+        "media_scale": 100,
+        "text_align": "text-start",
+        "color_scheme": "none",
+        "only_content_color_scheme": false
       }
     },
     "collection_list_RHeKBJ": {
@@ -116,6 +635,7 @@
         "collection_eAJ4fF",
         "collection_xbRB6E"
       ],
+      "disabled": true,
       "settings": {
         "title": "Collections",
         "heading_align": "text-start",
@@ -156,6 +676,15 @@
   "order": [
     "main",
     "image_banner_h7bfNH",
+    "rich_text_yUtYAC",
+    "media_grid_RUFEGC",
+    "rich_text_XxRMyT",
+    "media_with_text_pG6ayB",
+    "media_with_text_VRWX44",
+    "media_with_text_FDq8Lr",
+    "media_with_text_B6NFDT",
+    "media_with_text_KrLbGq",
+    "media_with_text_8yQhhP",
     "collection_list_RHeKBJ",
     "featured_collection_fw9w9V"
   ]
