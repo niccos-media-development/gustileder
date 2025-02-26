@@ -170,6 +170,183 @@
         "button_style": "btn btn--secondary"
       }
     },
+    "multi_column_FmDLaU": {
+      "type": "multi-column",
+      "blocks": {
+        "column_mycTtg": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Eskil_2A256-48-5_5.jpg",
+            "media_scale": 100,
+            "heading": "Eskil",
+            "text": "<p>Möchtest Du eine Tasche bei Deinen Spaziergängen tragen? \"<strong>Eskil</strong>\" kann Dein perfekter Begleiter sein. Die kompakte und stilvolle Gürteltasche verfügt über zwei Fächer, um Deine Karten, Bargeld und Münzen aufzubewahren. Du kannst dieses lebendige Accessoire leicht an deinem Gürtel befestigen, indem Du die Schlaufe auf der Rückseite verwendest. Eskil ist aus hochwertigem Rindsleder gefertigt und äußerst robust.</p><p><strong>Größe             </strong>10 x 7 x 2 cm</p><p><strong>Lederart        </strong>Rindsleder</p><p><strong>Innen Fächer </strong>2</p><p><strong>Verschluss  </strong>Schnalle</p>",
+            "button_label": "",
+            "button_link": "shopify://products/tasticka-mini-ledvinka-na-pasek-penezenka-hneda-kuze-2a256-48-5"
+          }
+        },
+        "column_8EaYK3": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Chapal_2G40-48-6_feed.jpg",
+            "media_scale": 100,
+            "heading": "Chapal",
+            "text": "<p>Gehe mit freien Händen auf Deine Abendspaziergänge oder Tagesausflüge mit \"<strong>Chapal</strong>\". Die Mini-Gürteltasche kann schnell und bequem an Deinem Gürtel befestigt werden. Sportlich und schlank, wird Chapal dein Herz mit seinem schicken Vintage-Stil gewinnen. Du kannst Deine Sachen in zwei sicheren Fächern aufbewahren, die mit einer silbernen Schnalle gesichert werden können. Füge Deine persönliche Gravur hinzu, sei es ein Name, eine Nachricht oder Dein Lieblingszitat.</p><p><strong>Größe            </strong>10,5 x 8 x 2 cm</p><p><strong>Lederart        </strong>Büffelleder</p><p><strong>Innen Fächer </strong>2</p><p><strong>Verschluss  </strong>Schnalle</p>",
+            "button_label": "",
+            "button_link": "shopify://products/guerteltasche-bauchtasche-festivaltasche-2g40-48-6"
+          }
+        },
+        "column_dV8p8b": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Nelly_2H14-22-6_1.jpg",
+            "media_scale": 100,
+            "heading": "Nelly",
+            "text": "<p>Unsere wunderschöne quadratische Ledertasche \"<strong>Nelly</strong>\" ist eine praktische Bauchtasche, die Du jeden Tag verwenden kannst. Trage sie um Deine Taille oder über Deine Schulter. Dieses stilvolle Accessoire bietet ausreichend Platz für Deine Essentials, einschließlich Deines Handys, Schlüssel, Bargeld und mehr. Nimm \"Nelly\" wenn Du abends ausgehst oder auf einem Festival bist - sie ist die perfekte Kombination aus Umhängetasche und Gürteltasche, die Deinem Look eine schicke Note verleiht.</p><p><strong>Größe            </strong>12 x 16 x 7 cm</p><p><strong>Lederart        </strong>Rindsleder</p><p><strong>Innen Fächer </strong>4</p><p><strong>Verschluss  </strong>Schnalle</p>",
+            "button_label": "",
+            "button_link": "shopify://products/guerteltasche-bauchtasche-festivaltasche-2h14-22-6"
+          }
+        }
+      },
+      "block_order": [
+        "column_mycTtg",
+        "column_8EaYK3",
+        "column_dV8p8b"
+      ],
+      "settings": {
+        "title": "Geräumige Bauchtaschen",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "layout": "carousel",
+        "column_size": "medium",
+        "column_align": "left",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "multi_column_4KJCba": {
+      "type": "multi-column",
+      "blocks": {
+        "column_mrQXhX": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Spencer_2G7-22-9.jpg",
+            "media_scale": 100,
+            "heading": "Spencer",
+            "text": "<p>\"Spencer\" ist eine äußerst praktische Leder Gürteltasche aus Rindsleder. Du kannst Deine Sachen bequem im Hauptfach oder in den zusätzlichen Taschen vorne und hinten organisieren. Diese elegante schwarze Tasche wird Dich mit ihrem Design, ihrer hochwertigen Qualität und ihrer Funktionalität begeistern. Trage Spencer stilvoll zu Konzerten, Veranstaltungen oder Festivals. Es ist eine geräumige Tasche, die all deine Essentials wie Handy, Geldbörse, Schlüssel und mehr verstauen kann. Justiere den Gurt, Spencer wird perfekt an Deine Schulter oder Taille passen.</p><p><strong>Größe             </strong>22 x 12 x 8 cm</p><p><strong>Lederart        </strong>Rindsleder</p><p><strong>Innen Fächer </strong>2</p><p><strong>Verschluss  </strong>Reißverschluss</p>",
+            "button_label": "",
+            "button_link": "shopify://products/guerteltasche-bauchtasche-festivaltasche-2g7-22-9"
+          }
+        },
+        "column_7KqCfr": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/2G39-48-5_acton.jpg",
+            "media_scale": 100,
+            "heading": "Acton",
+            "text": "<p>Die stilvolle \"<strong>Acton</strong>\" ist eine coole Bauchtasche für Männer und Frauen. Ein Hauptfach und zwei Taschen vorne machen sie geräumig genug, um Deine Sachen zusammenzuhalten. Elegantes Design mit einem Hauch von Vintage, Acton ist perfekt, um sie um die Taille zu tragen oder über die Schultern zu hängen, wenn Du abends ausgehst. Reißverschlusstaschen werden all Deine Sachen sicher aufbewahren und Du kannst Deine Freizeit unbeschwert genießen.</p><p><strong>Größe            </strong>30 x 14,5 x 9 cm</p><p><strong>Lederart        </strong>Rindsleder</p><p><strong>Innen Fächer </strong>1</p><p><strong>Verschluss  </strong>Reißverschluss</p>",
+            "button_label": "",
+            "button_link": "shopify://products/guerteltasche-bauchtasche-festivaltasche-2g39-48-5"
+          }
+        },
+        "column_nHMNnR": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Norell_2G70-22.jpg",
+            "media_scale": 100,
+            "heading": "Nelly",
+            "text": "<p>Unsere geräumige und trendige Bauchtasche \"<strong>Norell</strong>\" ist ein stilvolles Accessoire, das aus hochwertigem Büffelleder gefertigt wurde. Gönn Deinen Schultern eine Pause, indem Du sie um Deine Taille trägst, wenn Du den Tag beginnst. \"Norell\" bietet reichlich Platz für Deine Sachen und sitzt eng am Körper. Sichere das Hauptfach mit dem Reißverschluss und halte Deine Essentials sicher. Graviere Dein Lieblingszitat oder Deinen Namen auf unsere schicke schwarze Leder Bauchtasche \"Norell\".</p><p><strong>Größe           </strong>17 x 12 x 4,5 cm</p><p><strong>Lederart        </strong>Büffelleder</p><p><strong>Innen Fächer </strong>-</p><p><strong>Verschluss  </strong>Reißverschluss</p>",
+            "button_label": "",
+            "button_link": "shopify://products/guerteltasche-bauchtasche-huefttasche-festivaltasche-schwarz-leder-2g70-22-21"
+          }
+        }
+      },
+      "block_order": [
+        "column_mrQXhX",
+        "column_7KqCfr",
+        "column_nHMNnR"
+      ],
+      "settings": {
+        "title": "Für deine lockeren Unternehmungen",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "layout": "carousel",
+        "column_size": "medium",
+        "column_align": "left",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "multi_column_waNfQq": {
+      "type": "multi-column",
+      "blocks": {
+        "column_xLYYnq": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Rosamonde_2A285-33-33.jpg",
+            "media_scale": 100,
+            "heading": "Rosamonde",
+            "text": "<p><strong>\"Rosamonde\"</strong>ist wirklich ein exotisches Ledergadget. Kompakt in der Größe und elegant im Design, ist diese glänzende Gürteltasche definitiv ein Blickfang. Egal wie schlicht Dein Outfit ist, die klassische Form und die Schlangenhaut-Optik der Tasche werden Dich stilvoll aussehen lassen. \"Rosamonde\" bietet reichlich Platz, um all Deine Essentials sicher aufzubewahren, während Du trotzdem stilvoll aussiehst.</p><p><strong>Größe             </strong>22 x 12,5 x 5,5 cm</p><p><strong>Lederart        </strong>Rindsleder</p><p><strong>Innen Fächer </strong>-</p><p><strong>Verschluss  </strong>Reißverschluss</p>",
+            "button_label": "",
+            "button_link": "shopify://products/guerteltasche-bauchtasche-huefttasche-festivaltasche-tasche-handtasche-leder-braun-2a285-33-33"
+          }
+        },
+        "column_KirAAm": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Annabelle_2G78-22-97_2.jpg",
+            "media_scale": 100,
+            "heading": "Annabelle",
+            "text": "<p>Mach Dich bereit für Dein nächstes Abend Treffen mit unserer \"<strong>Annabelle</strong>\". Sehr praktisch, diese Gürteltasche ist der beste Begleiter für Deinen Alltag, für Abende oder auf Festivals. Das Krokodil Optik auf der Tasche verleiht ihr ein schickes und modisches Aussehen und ergänzt jedes Outfit, das Du trägst. Du kannst dieses schöne Lederstück auch als Geschenk an Deine Liebsten zu besonderen Anlässen geben.</p><p><strong>Größe            </strong>23 x 13 x 6 cm</p><p><strong>Lederart        </strong>Rindsleder</p><p><strong>Innen Fächer </strong>1</p><p><strong>Verschluss  </strong>Reißverschluss</p>",
+            "button_label": "",
+            "button_link": "shopify://products/guerteltasche-bauchtasche-huefttasche-festivaltasche-braun-leder-2g78-22-97"
+          }
+        },
+        "column_mHAPMG": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Jenny3_2G151-33-21.jpg",
+            "media_scale": 100,
+            "heading": "Jenny",
+            "text": "<p>Bleibe im Trend mit unserer coolen Bauchtasche \"<strong>Jenny</strong>\". Wir haben \"Jenny\" ein trendiges Krokodildesign verpasst und viel Platz für die Aufbewahrung deiner Essentials gegeben. Genieße es, auf der Tanzfläche die Hände frei zu haben, mit dem Wissen, dass Deine Sachen sicher in dieser Gürteltasche aufbewahrt werden. Schnapp Dir jetzt diese schicke schwarze Bauchtasche aus Leder und tanze die Nacht durch, egal ob im Club oder auf Festivals.</p><p><strong>Größe          </strong>17 x 12 x 5 cm</p><p><strong>Lederart        </strong>Rindsleder</p><p><strong>Innen Fächer </strong>2</p><p><strong>Verschluss  </strong></p>",
+            "button_label": "",
+            "button_link": "shopify://products/guerteltasche-bauchtasche-huefttasche-festivaltasche-tasche-handtasche-leder-schwarz-2g151-33-21"
+          }
+        }
+      },
+      "block_order": [
+        "column_xLYYnq",
+        "column_KirAAm",
+        "column_mHAPMG"
+      ],
+      "settings": {
+        "title": "Elegante Abendtaschen",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "layout": "carousel",
+        "column_size": "medium",
+        "column_align": "left",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
+      }
+    },
     "featured_collection_fw9w9V": {
       "type": "featured-collection",
       "settings": {
@@ -198,6 +375,9 @@
     "image_banner_h7bfNH",
     "rich_text_6DA3zw",
     "multi_column_UeK3dM",
+    "multi_column_FmDLaU",
+    "multi_column_4KJCba",
+    "multi_column_waNfQq",
     "featured_collection_fw9w9V"
   ]
 }
