@@ -506,12 +506,32 @@
             "tint_color": "#000000",
             "tint_opacity": 0
           }
+        },
+        "media_W4fKCC": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Bendik_2M111-20-6wp_web_11.jpg",
+            "link_url": "shopify://products/backpack-leather-backpack-rucksack-bag-black-leather-18l-2m111-20-6wp",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Bendik</p>",
+            "heading_size": "h5",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 0
+          }
         }
       },
       "block_order": [
         "media_BXLAEn",
         "media_eP6hNE",
-        "media_j3WygG"
+        "media_j3WygG",
+        "media_W4fKCC"
       ],
       "settings": {
         "title": "In diese Lederrucksäckepasst alles rein, was Dein Papa braucht",
