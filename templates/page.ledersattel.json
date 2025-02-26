@@ -33,7 +33,7 @@
         "full_width": true,
         "transparent_content_color": "#ffffff",
         "tint_color": "#000000",
-        "tint_opacity": 40,
+        "tint_opacity": 5,
         "prevent_animation": false
       }
     },
@@ -132,7 +132,7 @@
         "text_position": "justify-center",
         "text_align": "text-center",
         "mob_center_text": true,
-        "wide": false,
+        "wide": true,
         "color_scheme": "none",
         "full_width": true,
         "prevent_animation": false
@@ -176,7 +176,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 25
+            "tint_opacity": 20
           }
         },
         "media_jmh9ab": {
@@ -195,7 +195,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 25
+            "tint_opacity": 20
           }
         }
       },
@@ -257,7 +257,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 25
+            "tint_opacity": 20
           }
         },
         "media_grMGGf": {
@@ -276,7 +276,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 25
+            "tint_opacity": 20
           }
         }
       },
@@ -338,7 +338,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 25
+            "tint_opacity": 20
           }
         },
         "media_KKgFpm": {
@@ -357,7 +357,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 25
+            "tint_opacity": 20
           }
         }
       },
@@ -419,7 +419,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 25
+            "tint_opacity": 20
           }
         },
         "media_gM6HAP": {
@@ -438,7 +438,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 25
+            "tint_opacity": 20
           }
         }
       },
@@ -500,7 +500,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 25
+            "tint_opacity": 20
           }
         },
         "media_TQTVi8": {
@@ -581,7 +581,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 25
+            "tint_opacity": 10
           }
         },
         "media_TED4Th": {
@@ -600,7 +600,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 25
+            "tint_opacity": 10
           }
         }
       },
@@ -658,7 +658,7 @@
         "text_position": "justify-center",
         "text_align": "text-center",
         "mob_center_text": true,
-        "wide": false,
+        "wide": true,
         "color_scheme": "none",
         "full_width": true,
         "prevent_animation": false
@@ -672,7 +672,7 @@
           "settings": {
             "icon": "none",
             "heading": "Wie pflege ich einen Ledersattel?",
-            "text": "<ul><li>Reinige Deinen Sattel regelmäßig mit einem weichen Tuch oder einer Bürste, um Schmutz zu entfernen.  </li><li>Für eine gründlichere Reinigung trage eine kleine Menge Lederpflegemittel auf und reibe es sanft ein.  </li><li>Entferne überschüssiges Pflegemittel mit einem sauberen Tuch, um die natürliche Oberfläche und Weichheit des Leders zu erhalten. </li></ul>"
+            "text": "<ul><li>Reinige Deinen Sattel regelmäßig mit einem weichen Tuch oder einer Bürste, um Schmutz zu entfernen</li><li>Für eine gründliche Reinigung trage eine kleine Menge Lederpflegemittel auf und reibe es sanft ein</li><li>Entferne überschüssiges Pflegemittel mit einem sauberen Tuch, um die natürliche Oberfläche und Weichheit des Leders zu erhalten</li></ul>"
           }
         },
         "question_6aG4c8": {
