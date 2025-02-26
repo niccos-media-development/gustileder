@@ -105,7 +105,7 @@
         "text_position": "justify-center",
         "text_align": "text-center",
         "mob_center_text": true,
-        "wide": false,
+        "wide": true,
         "color_scheme": "none",
         "full_width": true,
         "prevent_animation": false
@@ -216,7 +216,7 @@
         "column_dV8p8b"
       ],
       "settings": {
-        "title": "Geräumige Bauchtaschen",
+        "title": "Kleine Gürteltaschen",
         "heading_align": "text-center",
         "button_label": "",
         "button_link": "",
