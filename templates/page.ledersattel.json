@@ -87,13 +87,6 @@
     "rich_text_KeQdiW": {
       "type": "rich-text",
       "blocks": {
-        "subheading_j7kUag": {
-          "type": "subheading",
-          "disabled": true,
-          "settings": {
-            "text": "Subheading"
-          }
-        },
         "heading_CxKXkq": {
           "type": "heading",
           "settings": {
@@ -108,25 +101,11 @@
             "text": "<p>Dein Körper und Dein Fahrstil spielen eine entscheidende Rolle bei der Wahl des perfekten Sattels. Da sich die Anatomie von Männern und Frauen unterscheidet, ist es wichtig, ein Design zu wählen, das optimalen Halt und Komfort bietet. Zudem beeinflusst die Art des Fahrrads und die Fahrten – kurze Wege, Langstrecken oder sportliches Radfahren – die Auswahl des passenden Sattels.  </p>",
             "enlarge_text": false
           }
-        },
-        "button_4Dwghj": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_1_label": "Optional button",
-            "button_1_link": "",
-            "button_1_style": "btn--primary",
-            "button_2_label": "Optional button",
-            "button_2_link": "",
-            "button_2_style": "btn btn--primary"
-          }
         }
       },
       "block_order": [
-        "subheading_j7kUag",
         "heading_CxKXkq",
-        "text_rCTBPT",
-        "button_4Dwghj"
+        "text_rCTBPT"
       ],
       "settings": {
         "text_position": "justify-center",
@@ -141,25 +120,6 @@
     "media_grid_qreeDU": {
       "type": "media-grid",
       "blocks": {
-        "media_FYft67": {
-          "type": "media",
-          "disabled": true,
-          "settings": {
-            "link_url": "",
-            "columns": 1,
-            "rows": 1,
-            "subheading": "",
-            "title": "<p>Media heading</p>",
-            "heading_size": "h4",
-            "button_label": "",
-            "button_link": "",
-            "overlay_position": "justify-start items-end",
-            "text_alignment": "text-start",
-            "button_style": "btn btn--primary",
-            "tint_color": "#000000",
-            "tint_opacity": 25
-          }
-        },
         "media_PMEbPX": {
           "type": "media",
           "settings": {
@@ -171,7 +131,7 @@
             "title": "<p>Regina S.</p>",
             "heading_size": "h4",
             "button_label": "",
-            "button_link": "",
+            "button_link": "shopify://products/echtes-leder-fahrradsattel-ledersattel-fuer-damen-sattel-fahrrad-cityrad-trekkingrad-braun-2f35-48-5",
             "overlay_position": "justify-start items-end",
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
@@ -190,7 +150,7 @@
             "title": "<p>Bernard H.</p>",
             "heading_size": "h4",
             "button_label": "",
-            "button_link": "",
+            "button_link": "shopify://products/echtes-leder-fahrradsattel-ledersattel-vintage-retro-sattel-fahrrad-cityrad-braun-2f3-20-42",
             "overlay_position": "justify-start items-end",
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
@@ -200,7 +160,6 @@
         }
       },
       "block_order": [
-        "media_FYft67",
         "media_PMEbPX",
         "media_jmh9ab"
       ],
@@ -222,25 +181,6 @@
     "media_grid_Rmzjet": {
       "type": "media-grid",
       "blocks": {
-        "media_3kQGth": {
-          "type": "media",
-          "disabled": true,
-          "settings": {
-            "link_url": "",
-            "columns": 1,
-            "rows": 1,
-            "subheading": "",
-            "title": "<p>Media heading</p>",
-            "heading_size": "h4",
-            "button_label": "",
-            "button_link": "",
-            "overlay_position": "justify-start items-end",
-            "text_alignment": "text-start",
-            "button_style": "btn btn--primary",
-            "tint_color": "#000000",
-            "tint_opacity": 25
-          }
-        },
         "media_xNemzJ": {
           "type": "media",
           "settings": {
@@ -252,7 +192,7 @@
             "title": "<p>Michael M.</p>",
             "heading_size": "h4",
             "button_label": "",
-            "button_link": "",
+            "button_link": "shopify://products/real-leather-bike-saddle-leather-bicycle-saddle-vintage-retro-saddle-bike-city-bike-brown-2f56-20-42",
             "overlay_position": "justify-start items-end",
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
@@ -271,7 +211,7 @@
             "title": "<p>Geraint T.</p>",
             "heading_size": "h4",
             "button_label": "",
-            "button_link": "",
+            "button_link": "shopify://products/echtes-leder-fahrradsattel-ledersattel-weich-sattel-fahrrad-rennrad-trekkingrad-braun-2f31-22-5",
             "overlay_position": "justify-start items-end",
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
@@ -281,7 +221,6 @@
         }
       },
       "block_order": [
-        "media_3kQGth",
         "media_xNemzJ",
         "media_grMGGf"
       ],
@@ -303,25 +242,6 @@
     "media_grid_RNwUGE": {
       "type": "media-grid",
       "blocks": {
-        "media_dUwQGU": {
-          "type": "media",
-          "disabled": true,
-          "settings": {
-            "link_url": "",
-            "columns": 1,
-            "rows": 1,
-            "subheading": "",
-            "title": "<p>Media heading</p>",
-            "heading_size": "h4",
-            "button_label": "",
-            "button_link": "",
-            "overlay_position": "justify-start items-end",
-            "text_alignment": "text-start",
-            "button_style": "btn btn--primary",
-            "tint_color": "#000000",
-            "tint_opacity": 25
-          }
-        },
         "media_fmzbqG": {
           "type": "media",
           "settings": {
@@ -362,7 +282,6 @@
         }
       },
       "block_order": [
-        "media_dUwQGU",
         "media_fmzbqG",
         "media_KKgFpm"
       ],
@@ -384,25 +303,6 @@
     "media_grid_6B6naG": {
       "type": "media-grid",
       "blocks": {
-        "media_kETaG8": {
-          "type": "media",
-          "disabled": true,
-          "settings": {
-            "link_url": "",
-            "columns": 1,
-            "rows": 1,
-            "subheading": "",
-            "title": "<p>Media heading</p>",
-            "heading_size": "h4",
-            "button_label": "",
-            "button_link": "",
-            "overlay_position": "justify-start items-end",
-            "text_alignment": "text-start",
-            "button_style": "btn btn--primary",
-            "tint_color": "#000000",
-            "tint_opacity": 25
-          }
-        },
         "media_wLPKdU": {
           "type": "media",
           "settings": {
@@ -414,7 +314,7 @@
             "title": "<p>Anton P.</p>",
             "heading_size": "h4",
             "button_label": "",
-            "button_link": "",
+            "button_link": "shopify://products/real-leather-bicycle-saddle-leather-saddle-soft-sports-saddle-bike-racing-bike-trekking-bike-black-2f65-20-6",
             "overlay_position": "justify-start items-end",
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
@@ -433,7 +333,7 @@
             "title": "<p>Sean Y.</p>",
             "heading_size": "h4",
             "button_label": "",
-            "button_link": "",
+            "button_link": "shopify://products/echtes-leder-fahrradsattel-ledersattel-retro-design-weich-sattel-fahrrad-cityrad-rennrad-trekkingrad-mtb-schwarz-2f34-20-6",
             "overlay_position": "justify-start items-end",
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
@@ -443,7 +343,6 @@
         }
       },
       "block_order": [
-        "media_kETaG8",
         "media_wLPKdU",
         "media_gM6HAP"
       ],
@@ -465,25 +364,6 @@
     "media_grid_UaRcCJ": {
       "type": "media-grid",
       "blocks": {
-        "media_XLAqjV": {
-          "type": "media",
-          "disabled": true,
-          "settings": {
-            "link_url": "",
-            "columns": 1,
-            "rows": 1,
-            "subheading": "",
-            "title": "<p>Media heading</p>",
-            "heading_size": "h4",
-            "button_label": "",
-            "button_link": "",
-            "overlay_position": "justify-start items-end",
-            "text_alignment": "text-start",
-            "button_style": "btn btn--primary",
-            "tint_color": "#000000",
-            "tint_opacity": 25
-          }
-        },
         "media_8UMj4M": {
           "type": "media",
           "settings": {
@@ -495,7 +375,7 @@
             "title": "<p>Connie C.</p>",
             "heading_size": "h4",
             "button_label": "",
-            "button_link": "",
+            "button_link": "shopify://products/echtes-leder-fahrradsattel-ledersattel-vintage-retro-sattel-fahrrad-cityrad-braun-2f60-20-2",
             "overlay_position": "justify-start items-end",
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
@@ -514,7 +394,7 @@
             "title": "<p>Eloi M.</p>",
             "heading_size": "h4",
             "button_label": "",
-            "button_link": "",
+            "button_link": "shopify://products/real-leather-bicycle-saddle-vintage-retro-leather-saddle-bicycle-saddle-city-bike-brown-2f64-20-42",
             "overlay_position": "justify-start items-end",
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
@@ -524,7 +404,6 @@
         }
       },
       "block_order": [
-        "media_XLAqjV",
         "media_8UMj4M",
         "media_TQTVi8"
       ],
@@ -546,25 +425,6 @@
     "media_grid_NWbqTn": {
       "type": "media-grid",
       "blocks": {
-        "media_ba9NTd": {
-          "type": "media",
-          "disabled": true,
-          "settings": {
-            "link_url": "",
-            "columns": 1,
-            "rows": 1,
-            "subheading": "",
-            "title": "<p>Media heading</p>",
-            "heading_size": "h4",
-            "button_label": "",
-            "button_link": "",
-            "overlay_position": "justify-start items-end",
-            "text_alignment": "text-start",
-            "button_style": "btn btn--primary",
-            "tint_color": "#000000",
-            "tint_opacity": 25
-          }
-        },
         "media_dpPt6E": {
           "type": "media",
           "settings": {
@@ -576,7 +436,7 @@
             "title": "<p>Louison B.</p>",
             "heading_size": "h4",
             "button_label": "",
-            "button_link": "",
+            "button_link": "shopify://products/echtes-leder-fahrradsattel-ledersattel-vintage-retro-sattel-fahrrad-cityrad-braun-2f21-70-1",
             "overlay_position": "justify-start items-end",
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
@@ -595,7 +455,7 @@
             "title": "<p>Mark C.</p>",
             "heading_size": "h4",
             "button_label": "",
-            "button_link": "",
+            "button_link": "shopify://products/echtes-leder-fahrradsattel-ledersattel-vintage-retro-sattel-fahrrad-cityrad-braun-2f23-70-1",
             "overlay_position": "justify-start items-end",
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
@@ -605,7 +465,6 @@
         }
       },
       "block_order": [
-        "media_ba9NTd",
         "media_dpPt6E",
         "media_TED4Th"
       ],
