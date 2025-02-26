@@ -422,7 +422,7 @@
         "button_LWRAfz": {
           "type": "button",
           "settings": {
-            "button_label": "Optional button",
+            "button_label": "Klicke hier, um Deine persönliche Gravur zu gestalten",
             "button_link": "shopify://pages/gravur",
             "button_style": "btn btn--primary"
           }
@@ -434,6 +434,7 @@
         "button_LWRAfz"
       ],
       "settings": {
+        "image": "shopify://shop_images/Reeva_2A375-80-6_1.jpg",
         "image_1": "",
         "video_external": "",
         "video_description": "",
