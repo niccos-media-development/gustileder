@@ -11,6 +11,7 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "show_page_title": true,
         "heading_align": "text-center"
@@ -51,6 +52,7 @@
         "text_i4fTGy",
         "button_446Ntx"
       ],
+      "disabled": true,
       "settings": {
         "url": "",
         "height_mode": "auto",
@@ -65,6 +67,228 @@
         "transparent_content_color": "#ffffff",
         "tint_color": "#000000",
         "tint_opacity": 40,
+        "prevent_animation": false
+      }
+    },
+    "rich_text_CJ7m9a": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_Mfa3qB": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_j7NeFz": {
+          "type": "heading",
+          "settings": {
+            "heading": "5 Tipps: Sicher auf Reisen ",
+            "heading_size": "h2",
+            "heading_h1": false
+          }
+        },
+        "text_zmtLD9": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Als Tourist ist man für Betrüger und Diebe häufig eine Leichte Beute.<strong>BloggerinDorie</strong> hinter dem gleichnamigen Blog <span style=\"text-decoration:underline\">thedorie.com </span>verrät Euch ihre <strong>5 Tipps</strong>für sicheres Reisen!</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_HAHPVN": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_Mfa3qB",
+        "heading_j7NeFz",
+        "text_zmtLD9",
+        "button_HAHPVN"
+      ],
+      "settings": {
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "wide": false,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "multi_column_C6mmUf": {
+      "type": "multi-column",
+      "blocks": {
+        "column_hDYxDw": {
+          "type": "column",
+          "settings": {
+            "enable_media": false,
+            "media_scale": 100,
+            "heading": "1. Welche Tasche ist sicher auf Reisen?",
+            "text": "<p>Wähle anstatt einer Hand- eine Umhängetasche. Achte darauf, dass derGurtein festes Material hat, damit er nicht so einfach durchgeschnitten werden kann. Noch besser ist eine Gürteltasche. Die trägst Du nah am Körper und hast sie immer im Blick. Und:Gürteltaschen sind wieder super in – Win Win! Wenn Du lieber zum Rucksack greifst, dann wähle einen mit festem Material und verdecktem Reisverschluss. So bietest Du Taschendieben weniger Chancen.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_E7HxNf": {
+          "type": "column",
+          "settings": {
+            "enable_media": false,
+            "media_scale": 100,
+            "heading": "2. Verstecke deine Wertsachen!",
+            "text": "<p>Wenn Du alles an einem Platz hast, dann ist sehr leicht alles weg. Deswegen lass ein paar Wertsachen im Hotel: Deponiere sie an einem sicheren Ort, bspw. dem Hotel-Safe oder im doppelten Boden deines Koffers. Eine Passhülle mit Kartenetui schützt außerdem Deine Dokumente und hält sie zusammen. Auch unterwegs solltest Du einen Teil bspw. in Gürteltasche oder Rucksack stecken, den anderen Teil in der Innentasche deiner Jacke oder vorderen Hosentasche. Extra-Tipp: Lege Dir vorher Geld zurecht, mit dem Du Kleinigkeiten zahlen kannst. So musst Du nicht ständig Dein Portemonnaie zücken und bietest Dieben weniger Angriffsfläche.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_wFdK8X": {
+          "type": "column",
+          "settings": {
+            "enable_media": false,
+            "media_scale": 100,
+            "heading": "3. Sei achtsam!",
+            "text": "<p>Wenn du sicher auf Reisen sein willst, sei aufmerksam, was um Dich herum passiert. Lege außerdem Deine Tasche besser auf den Schoß oder vor deine Füße, anstatt sie an die Stuhllehne zu hängen und packe Deine Wertsachen weg. Ein ganz essentieller Tipp: Trage Deine Tasche oder Rucksack immer geschlossen!</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_hDYxDw",
+        "column_E7HxNf",
+        "column_wFdK8X"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "layout": "carousel",
+        "column_size": "medium",
+        "column_align": "left",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "multi_column_a7RagW": {
+      "type": "multi-column",
+      "blocks": {
+        "column_A8cDyx": {
+          "type": "column",
+          "settings": {
+            "enable_media": false,
+            "media_scale": 100,
+            "heading": "4. Kenne die Tricks! ",
+            "text": "<p>Jede Stadt hat ihre eigenen Trickbetrüger, deswegen ist es ratsam vorher die Betrugsmaschen der jeweiligen Stadt zu googeln. Um sicher auf Reisen Geld abzuheben, benutzt außerdem – wenn möglich – Geldautomaten IN Bankgebäuden und nimm zwei Geldkarten mit auf die Reise, falls eine nicht mehr geht. Wichtig ist auch, dass Du immer die internationalen Sperrnummern deiner Banken zur Hand hast, sollte doch mal was passieren.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_8YDGaT": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Spencer_2G7-22-9_d78882e3-b653-4f21-aa13-24953a814491.jpg",
+            "media_scale": 100,
+            "heading": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_6yaHba": {
+          "type": "column",
+          "settings": {
+            "enable_media": false,
+            "media_scale": 100,
+            "heading": "5. Mache Sicherheitskopien!",
+            "text": "<p>... von Deinen wichtigsten Dokumenten und lege sie in die Cloud. Je nach Aufenthaltsort- und Dauer drucke ich mir die Kopien auch aus und führe sie als Download auf dem Handy mit mir. So kannst Du im Notfall Deine Identität leichter beweisen.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_A8cDyx",
+        "column_8YDGaT",
+        "column_6yaHba"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "layout": "carousel",
+        "column_size": "medium",
+        "column_align": "left",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "rich_text_Rhg8QG": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_BWJX9y": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_F6XTHP": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Rich text headline",
+            "heading_size": "h2",
+            "heading_h1": false
+          }
+        },
+        "text_ABP7PE": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Das klingt zwar nach vielen Regeln, aber Du solltest deswegen keine Angst haben zu reisen. Mit meinen Tipps möchte ich Dir nur helfen Dich sicher auf Reisen zu fühlen. Freu Dich aufs nächste Abenteuer und gute Reise!</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_Nhe3xL": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_BWJX9y",
+        "heading_F6XTHP",
+        "text_ABP7PE",
+        "button_Nhe3xL"
+      ],
+      "settings": {
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "wide": false,
+        "color_scheme": "none",
+        "full_width": true,
         "prevent_animation": false
       }
     },
@@ -116,6 +340,7 @@
         "collection_eAJ4fF",
         "collection_xbRB6E"
       ],
+      "disabled": true,
       "settings": {
         "title": "Collections",
         "heading_align": "text-start",
@@ -156,6 +381,10 @@
   "order": [
     "main",
     "image_banner_h7bfNH",
+    "rich_text_CJ7m9a",
+    "multi_column_C6mmUf",
+    "multi_column_a7RagW",
+    "rich_text_Rhg8QG",
     "collection_list_RHeKBJ",
     "featured_collection_fw9w9V"
   ]
