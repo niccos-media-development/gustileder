@@ -50,167 +50,6 @@
         "prevent_animation": false
       }
     },
-    "media_grid_8WD7hp": {
-      "type": "media-grid",
-      "blocks": {
-        "media_iQJQP3": {
-          "type": "media",
-          "settings": {
-            "image": "shopify://shop_images/Set_5_Shopify_c006a0ae-c5e5-4da8-849e-4b0b33348ee9.jpg",
-            "link_url": "",
-            "columns": 1,
-            "rows": 1,
-            "subheading": "",
-            "title": "<p>Geschenkideen</p>",
-            "heading_size": "h4",
-            "button_label": "",
-            "button_link": "",
-            "overlay_position": "justify-start items-end",
-            "text_alignment": "text-start",
-            "button_style": "btn btn--primary",
-            "tint_color": "#000000",
-            "tint_opacity": 0
-          }
-        },
-        "media_z6kwmk": {
-          "type": "media",
-          "settings": {
-            "image": "shopify://shop_images/vday.jpg",
-            "link_url": "",
-            "columns": 1,
-            "rows": 1,
-            "subheading": "",
-            "title": "<p>Valentinstag</p>",
-            "heading_size": "h4",
-            "button_label": "",
-            "button_link": "",
-            "overlay_position": "justify-start items-end",
-            "text_alignment": "text-start",
-            "button_style": "btn btn--primary",
-            "tint_color": "#000000",
-            "tint_opacity": 0
-          }
-        },
-        "media_UB3KjV": {
-          "type": "media",
-          "settings": {
-            "image": "shopify://shop_images/Copy_of_IMG_3656_copy.jpg",
-            "link_url": "",
-            "columns": 1,
-            "rows": 1,
-            "subheading": "",
-            "title": "<p>Weihnachtskollektion</p>",
-            "heading_size": "h4",
-            "button_label": "",
-            "button_link": "",
-            "overlay_position": "justify-start items-end",
-            "text_alignment": "text-start",
-            "button_style": "btn btn--primary",
-            "tint_color": "#000000",
-            "tint_opacity": 0
-          }
-        },
-        "media_3jUNTk": {
-          "type": "media",
-          "settings": {
-            "image": "shopify://shop_images/IMG_9750.jpg",
-            "link_url": "shopify://pages/gravur",
-            "columns": 1,
-            "rows": 1,
-            "subheading": "",
-            "title": "<p>Gravur</p>",
-            "heading_size": "h4",
-            "button_label": "",
-            "button_link": "",
-            "overlay_position": "justify-start items-end",
-            "text_alignment": "text-start",
-            "button_style": "btn btn--primary",
-            "tint_color": "#000000",
-            "tint_opacity": 0
-          }
-        },
-        "media_GhQizW": {
-          "type": "media",
-          "settings": {
-            "image": "shopify://shop_images/Mother_s-Day-Photo-_-Format-3.jpg",
-            "link_url": "shopify://pages/muttertag",
-            "columns": 1,
-            "rows": 1,
-            "subheading": "",
-            "title": "<p>Muttertags-geschenke</p>",
-            "heading_size": "h4",
-            "button_label": "",
-            "button_link": "",
-            "overlay_position": "justify-start items-end",
-            "text_alignment": "text-start",
-            "button_style": "btn btn--primary",
-            "tint_color": "#000000",
-            "tint_opacity": 0
-          }
-        },
-        "media_48z3MW": {
-          "type": "media",
-          "settings": {
-            "image": "shopify://shop_images/father.jpg",
-            "link_url": "shopify://pages/vatertag",
-            "columns": 1,
-            "rows": 1,
-            "subheading": "",
-            "title": "<p>Vatertags-geschenke</p>",
-            "heading_size": "h4",
-            "button_label": "",
-            "button_link": "",
-            "overlay_position": "justify-start items-end",
-            "text_alignment": "text-start",
-            "button_style": "btn btn--primary",
-            "tint_color": "#000000",
-            "tint_opacity": 0
-          }
-        },
-        "media_Pgp4rc": {
-          "type": "media",
-          "settings": {
-            "image": "shopify://shop_images/Amalia_2P18-24-1_feed.jpg",
-            "link_url": "",
-            "columns": 1,
-            "rows": 1,
-            "subheading": "",
-            "title": "<p>Bullet Journal</p>",
-            "heading_size": "h4",
-            "button_label": "",
-            "button_link": "",
-            "overlay_position": "justify-start items-end",
-            "text_alignment": "text-start",
-            "button_style": "btn btn--primary",
-            "tint_color": "#000000",
-            "tint_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "media_iQJQP3",
-        "media_z6kwmk",
-        "media_UB3KjV",
-        "media_3jUNTk",
-        "media_GhQizW",
-        "media_48z3MW",
-        "media_Pgp4rc"
-      ],
-      "settings": {
-        "title": "",
-        "heading_align": "text-start",
-        "button_label": "",
-        "button_link": "",
-        "gallery_cols_max": 4,
-        "mobile_carousel": false,
-        "gallery_cols_min": "1",
-        "fixed_height_desktop": 180,
-        "fixed_height_mobile": 300,
-        "section_color_scheme": "none",
-        "color_scheme": "white",
-        "transparent_content_color": "#000000"
-      }
-    },
     "media_grid_AE4zBV": {
       "type": "media-grid",
       "blocks": {
@@ -219,18 +58,18 @@
           "settings": {
             "image": "shopify://shop_images/Intsa_Marianne-V._2G55-20-28_DEF_3.jpg",
             "link_url": "shopify://pages/unsere-fahrradprodukte",
-            "columns": 2,
-            "rows": 2,
+            "columns": 1,
+            "rows": 1,
             "subheading": "",
             "title": "<p>Unsere Fahrradprodukte</p>",
-            "heading_size": "h4",
+            "heading_size": "h5",
             "button_label": "",
             "button_link": "",
             "overlay_position": "justify-start items-end",
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
-            "tint_color": "#000000",
-            "tint_opacity": 0
+            "tint_color": "#ffffff",
+            "tint_opacity": 15
           }
         },
         "media_XQFPV8": {
@@ -248,8 +87,8 @@
             "overlay_position": "justify-start items-end",
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
-            "tint_color": "#000000",
-            "tint_opacity": 0
+            "tint_color": "#ffffff",
+            "tint_opacity": 15
           }
         },
         "media_HLFNhE": {
@@ -261,14 +100,14 @@
             "rows": 1,
             "subheading": "",
             "title": "<p>Reinigung</p>",
-            "heading_size": "h4",
+            "heading_size": "h5",
             "button_label": "",
             "button_link": "",
             "overlay_position": "justify-start items-end",
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
-            "tint_color": "#000000",
-            "tint_opacity": 0
+            "tint_color": "#ffffff",
+            "tint_opacity": 10
           }
         },
         "media_bPiGRf": {
@@ -280,52 +119,14 @@
             "rows": 1,
             "subheading": "",
             "title": "<p>Sicher auf Reisen</p>",
-            "heading_size": "h4",
+            "heading_size": "h5",
             "button_label": "",
             "button_link": "",
             "overlay_position": "justify-start items-end",
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
-            "tint_color": "#000000",
-            "tint_opacity": 0
-          }
-        },
-        "media_CfBnxN": {
-          "type": "media",
-          "settings": {
-            "image": "shopify://shop_images/Insta_Spencer_2G7-22-9_feed_5.jpg",
-            "link_url": "",
-            "columns": 1,
-            "rows": 1,
-            "subheading": "",
-            "title": "<p>Wanderlust</p>",
-            "heading_size": "h4",
-            "button_label": "",
-            "button_link": "",
-            "overlay_position": "justify-start items-end",
-            "text_alignment": "text-start",
-            "button_style": "btn btn--primary",
-            "tint_color": "#000000",
-            "tint_opacity": 0
-          }
-        },
-        "media_kKncEh": {
-          "type": "media",
-          "disabled": true,
-          "settings": {
-            "link_url": "",
-            "columns": 2,
-            "rows": 1,
-            "subheading": "",
-            "title": "<p>Reparatur</p>",
-            "heading_size": "h4",
-            "button_label": "",
-            "button_link": "",
-            "overlay_position": "justify-start items-end",
-            "text_alignment": "text-start",
-            "button_style": "btn btn--primary",
-            "tint_color": "#000000",
-            "tint_opacity": 25
+            "tint_color": "#ffffff",
+            "tint_opacity": 10
           }
         }
       },
@@ -333,9 +134,168 @@
         "media_UVLdr6",
         "media_XQFPV8",
         "media_HLFNhE",
-        "media_bPiGRf",
-        "media_CfBnxN",
-        "media_kKncEh"
+        "media_bPiGRf"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "gallery_cols_max": 4,
+        "mobile_carousel": false,
+        "gallery_cols_min": "1",
+        "fixed_height_desktop": 180,
+        "fixed_height_mobile": 300,
+        "section_color_scheme": "none",
+        "color_scheme": "white",
+        "transparent_content_color": "#000000"
+      }
+    },
+    "media_grid_8WD7hp": {
+      "type": "media-grid",
+      "blocks": {
+        "media_iQJQP3": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Set_5_Shopify_c006a0ae-c5e5-4da8-849e-4b0b33348ee9.jpg",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Geschenkideen</p>",
+            "heading_size": "h5",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#ffffff",
+            "tint_opacity": 5
+          }
+        },
+        "media_z6kwmk": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/vday.jpg",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Valentinstag</p>",
+            "heading_size": "h5",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#ffffff",
+            "tint_opacity": 10
+          }
+        },
+        "media_UB3KjV": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Copy_of_IMG_3656_copy.jpg",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Weihnachtskollektion</p>",
+            "heading_size": "h5",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#ffffff",
+            "tint_opacity": 10
+          }
+        },
+        "media_3jUNTk": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/IMG_9750.jpg",
+            "link_url": "shopify://pages/gravur",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Gravur</p>",
+            "heading_size": "h5",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#ffffff",
+            "tint_opacity": 10
+          }
+        },
+        "media_GhQizW": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Mother_s-Day-Photo-_-Format-3.jpg",
+            "link_url": "shopify://pages/muttertag",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Muttertag</p>",
+            "heading_size": "h5",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#ffffff",
+            "tint_opacity": 10
+          }
+        },
+        "media_48z3MW": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/father.jpg",
+            "link_url": "shopify://pages/vatertag",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Vatertag</p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#ffffff",
+            "tint_opacity": 10
+          }
+        },
+        "media_Pgp4rc": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Amalia_2P18-24-1_feed.jpg",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Bullet Journal</p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#ffffff",
+            "tint_opacity": 10
+          }
+        }
+      },
+      "block_order": [
+        "media_iQJQP3",
+        "media_z6kwmk",
+        "media_UB3KjV",
+        "media_3jUNTk",
+        "media_GhQizW",
+        "media_48z3MW",
+        "media_Pgp4rc"
       ],
       "settings": {
         "title": "",
@@ -364,14 +324,14 @@
             "rows": 1,
             "subheading": "",
             "title": "<p>Flechtoptik</p>",
-            "heading_size": "h4",
+            "heading_size": "h5",
             "button_label": "",
             "button_link": "",
             "overlay_position": "justify-start items-end",
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
-            "tint_color": "#000000",
-            "tint_opacity": 0
+            "tint_color": "#ffffff",
+            "tint_opacity": 10
           }
         },
         "media_FUVhde": {
@@ -389,8 +349,8 @@
             "overlay_position": "justify-start items-end",
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
-            "tint_color": "#000000",
-            "tint_opacity": 0
+            "tint_color": "#ffffff",
+            "tint_opacity": 10
           }
         },
         "media_aK9CeF": {
@@ -399,7 +359,7 @@
             "image": "shopify://shop_images/Insta_Chris_L7.6.jpg",
             "link_url": "shopify://pages/kombinierbare-produkte",
             "columns": 2,
-            "rows": 2,
+            "rows": 1,
             "subheading": "",
             "title": "<p>Kombinierbare Produkte</p>",
             "heading_size": "h4",
@@ -408,8 +368,8 @@
             "overlay_position": "justify-start items-end",
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
-            "tint_color": "#000000",
-            "tint_opacity": 0
+            "tint_color": "#ffffff",
+            "tint_opacity": 10
           }
         },
         "media_F3KBpT": {
@@ -427,8 +387,8 @@
             "overlay_position": "justify-start items-end",
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
-            "tint_color": "#000000",
-            "tint_opacity": 0
+            "tint_color": "#ffffff",
+            "tint_opacity": 10
           }
         },
         "media_WkGywp": {
@@ -446,8 +406,8 @@
             "overlay_position": "justify-start items-end",
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
-            "tint_color": "#000000",
-            "tint_opacity": 0
+            "tint_color": "#ffffff",
+            "tint_opacity": 10
           }
         },
         "media_wGkW48": {
@@ -583,8 +543,8 @@
   "order": [
     "main",
     "rich_text_hHmNEV",
-    "media_grid_8WD7hp",
     "media_grid_AE4zBV",
+    "media_grid_8WD7hp",
     "media_grid_6Eee3U",
     "collection_list_RHeKBJ",
     "featured_collection_fw9w9V"
