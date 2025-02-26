@@ -377,7 +377,7 @@
             "title": "<p>Handtaschen</p>",
             "heading_size": "h4",
             "button_label": "",
-            "button_link": "",
+            "button_link": "shopify://collections/handtaschen",
             "overlay_position": "justify-start items-end",
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
@@ -396,7 +396,7 @@
             "title": "<p>Bestseller</p>",
             "heading_size": "h4",
             "button_label": "",
-            "button_link": "",
+            "button_link": "shopify://collections/bestseller",
             "overlay_position": "justify-start items-end",
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
@@ -415,7 +415,7 @@
             "title": "<p>Geldbörsen</p>",
             "heading_size": "h4",
             "button_label": "",
-            "button_link": "",
+            "button_link": "shopify://collections/geldborsen-1",
             "overlay_position": "justify-start items-end",
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
@@ -434,7 +434,7 @@
             "title": "<p>Rucksäcke</p>",
             "heading_size": "h4",
             "button_label": "",
-            "button_link": "",
+            "button_link": "shopify://collections/rucksacke-1",
             "overlay_position": "justify-start items-end",
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
@@ -453,7 +453,7 @@
             "title": "<p>Lederjacken</p>",
             "heading_size": "h4",
             "button_label": "",
-            "button_link": "",
+            "button_link": "shopify://collections/lederjacken",
             "overlay_position": "justify-start items-end",
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
@@ -484,75 +484,6 @@
         "transparent_content_color": "#ffffff"
       }
     },
-    "collection_list_PkABBL": {
-      "type": "collection-list",
-      "blocks": {
-        "collection_akypGm": {
-          "type": "collection",
-          "settings": {
-            "collection": "handtaschen",
-            "image": "shopify://shop_images/Insta_Maisie_2H111-48-14-2.jpg"
-          }
-        },
-        "collection_gTDQMe": {
-          "type": "collection",
-          "settings": {
-            "collection": "reisetasche",
-            "image": "shopify://shop_images/Insta_Ruben_2R1-20-77-1.jpg"
-          }
-        },
-        "collection_BQrAcQ": {
-          "type": "collection",
-          "settings": {
-            "collection": "bauchtaschen",
-            "image": "shopify://shop_images/Insta_Cillian_2G61-80-6-4.jpg"
-          }
-        },
-        "collection_LXCq7L": {
-          "type": "collection",
-          "settings": {
-            "collection": "geldborsen",
-            "image": "shopify://shop_images/Insta_Lewi_2A143-22-129-1.jpg"
-          }
-        },
-        "collection_QwTjbh": {
-          "type": "collection",
-          "settings": {
-            "collection": "rolltoprucksack",
-            "image": "shopify://shop_images/Insta_Valja_2M127-22-27-3-1.jpg"
-          }
-        },
-        "collection_qqUE6N": {
-          "type": "collection",
-          "settings": {
-            "collection": "frontpage",
-            "image": "shopify://shop_images/2G7-22-9_model-male1Jm2lSirHKxnhE.png"
-          }
-        }
-      },
-      "block_order": [
-        "collection_akypGm",
-        "collection_gTDQMe",
-        "collection_BQrAcQ",
-        "collection_LXCq7L",
-        "collection_QwTjbh",
-        "collection_qqUE6N"
-      ],
-      "disabled": true,
-      "settings": {
-        "title": "Finde Deinen Gusti Liebling",
-        "heading_align": "text-start",
-        "button_label": "",
-        "button_link": "",
-        "layout": "carousel",
-        "card_size": "small",
-        "use_product_image": false,
-        "circle_image": true,
-        "show_border": true,
-        "color_scheme": "1",
-        "full_width": true
-      }
-    },
     "multi_column_rHYmb9": {
       "type": "multi-column",
       "blocks": {
@@ -560,6 +491,7 @@
           "type": "column",
           "settings": {
             "enable_media": true,
+            "image": "shopify://shop_images/production_2.jpg",
             "media_scale": 100,
             "heading": "Hochwertige Lederprodukte für den Alltag",
             "text": "<p>Du suchst eine <strong>Ledertasche, einen Rucksack oder eine Geldbörse</strong>, die langlebig, stilvoll und fair produziert ist? Bei <strong>Gusti Leder</strong> findest du Accessoires, die nicht nur gut aussehen, sondern dich über Jahre hinweg begleiten. Wir setzen auf echte Handwerkskunst, nachhaltige Materialien und durchdachte Designs – für hochwertige Lederprodukte, die sich deinem Leben perfekt anpassen.</p>",
@@ -571,6 +503,7 @@
           "type": "column",
           "settings": {
             "enable_media": true,
+            "image": "shopify://shop_images/production_6.jpg",
             "media_scale": 100,
             "heading": "Nachhaltigkeit trifft auf Qualität",
             "text": "<p>Leder ist ein natürliches Material mit Charakter. Durch faire Produktionsbedingungen und verantwortungsvollen Materialeinsatz schaffen wir langlebige Produkte, die nicht nur funktional, sondern auch nachhaltig sind. Mit der richtigen Pflege wird dein Lederaccessoire über Jahre hinweg zu einem treuen Begleiter.</p>",
@@ -582,6 +515,7 @@
           "type": "column",
           "settings": {
             "enable_media": true,
+            "image": "shopify://shop_images/production_4.jpg",
             "media_scale": 100,
             "heading": "Finde dein neues Lieblingsstück",
             "text": "<p>Ob <strong>praktische Umhängetasche, robuster Rucksack oder stilvolle Geldbörse</strong> – bei uns findest du hochwertige Lederprodukte, die Funktionalität und Design vereinen. Entdecke zeitlose Klassiker und moderne Begleiter für Alltag, Beruf und Reisen.</p>",
@@ -1046,7 +980,6 @@
     "1738579412b8cbca45",
     "logo_list_9yDaAc",
     "media_grid_pYGibV",
-    "collection_list_PkABBL",
     "multi_column_rHYmb9",
     "media_with_text_grNJ6d",
     "product_list_gyXPw6",
