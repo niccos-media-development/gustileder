@@ -130,14 +130,6 @@
             "text": "Subheading"
           }
         },
-        "heading_x6CLXd": {
-          "type": "heading",
-          "settings": {
-            "heading": "Füge diesen Lederprodukten noch eine ganz persönliche Gravur hinzu!",
-            "heading_size": "h4",
-            "heading_h1": false
-          }
-        },
         "text_z6JJFC": {
           "type": "text",
           "disabled": true,
@@ -161,7 +153,6 @@
       },
       "block_order": [
         "subheading_yEgRUj",
-        "heading_x6CLXd",
         "text_z6JJFC",
         "button_fQApTT"
       ],
@@ -253,7 +244,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 25
+            "tint_opacity": 0
           }
         },
         "media_4XCeba": {
@@ -272,7 +263,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 25
+            "tint_opacity": 0
           }
         },
         "media_Gc9rYi": {
@@ -291,7 +282,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 25
+            "tint_opacity": 0
           }
         },
         "media_Ec8gAt": {
@@ -310,7 +301,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 25
+            "tint_opacity": 0
           }
         },
         "media_D6qXti": {
@@ -329,7 +320,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 25
+            "tint_opacity": 0
           }
         }
       },
@@ -374,7 +365,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 25
+            "tint_opacity": 0
           }
         },
         "media_ddU6dh": {
@@ -393,7 +384,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 25
+            "tint_opacity": 0
           }
         },
         "media_iDfeFa": {
@@ -412,7 +403,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 25
+            "tint_opacity": 0
           }
         },
         "media_CTfjQT": {
@@ -431,7 +422,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 25
+            "tint_opacity": 0
           }
         }
       },
@@ -475,7 +466,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 25
+            "tint_opacity": 0
           }
         },
         "media_eP6hNE": {
@@ -494,7 +485,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 25
+            "tint_opacity": 0
           }
         },
         "media_j3WygG": {
@@ -513,7 +504,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 25
+            "tint_opacity": 0
           }
         }
       },
@@ -556,7 +547,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 25
+            "tint_opacity": 0
           }
         },
         "media_yGxwHX": {
@@ -575,7 +566,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 25
+            "tint_opacity": 0
           }
         },
         "media_kaWqzA": {
@@ -594,7 +585,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 25
+            "tint_opacity": 0
           }
         },
         "media_VKBqFn": {
@@ -613,7 +604,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 25
+            "tint_opacity": 0
           }
         }
       },
