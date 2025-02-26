@@ -11,6 +11,7 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "show_page_title": true,
         "heading_align": "text-center"
@@ -51,6 +52,7 @@
         "text_i4fTGy",
         "button_446Ntx"
       ],
+      "disabled": true,
       "settings": {
         "url": "",
         "height_mode": "auto",
@@ -66,6 +68,369 @@
         "tint_color": "#000000",
         "tint_opacity": 40,
         "prevent_animation": false
+      }
+    },
+    "rich_text_nQwTPw": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_rwfK4a": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_wdpkBn": {
+          "type": "heading",
+          "settings": {
+            "heading": "Zeit, Deine Reisetaschen zu packen und das Beste zu entdecken, was Europa zu bieten hat.",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "text_bp4CFp": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Nichts lässt uns mehr das Gefühl von Freiheit spüren als eine Reise in ein fernes Land, exotisches Essen, der Kontakt mit anderen Menschen und Kulturen und die unendliche Weite zu genießen. Reisen gibt einem das unermüdliche Gefühl von Freiheit und Leidenschaft, es ist wie die Sehnsucht nach dem Leben.</p><p>Wir von Gusti sprühen jeden Tag voller Leidenschaft und Energie und sind selbst kleine Weltenbummler, weshalb wir unsere Travelkollektion lieben und mit ihr Deine Leidenschaft für Abenteuer wecken wollen.</p><p>Das Material Leder schreibt dabei eine besondere Geschichte. Mit jeder Reise verändert sich auch Deine Tasche und Dein Rucksack, weshalb sie Dich begleiten und mit Dir Deine Geschichte schreiben.</p><p>Die pulsierenden Städte Europas locken Globetrotter aus aller Welt an. Von Museen bis zu fantastischen Bauwerken, von Stränden bis zu Wanderrouten – Europa ist ein Paradies für Abenteurer. Packe also deine Taschen und mache dich auf den Weg zu einigen der faszinierendsten Ziele des Kontinents. Wir haben eine Liste von Orten erstellt, die du auf deiner Entdeckungsreise durch Europa unbedingt besichtigen musst!</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_n6Ap6X": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_rwfK4a",
+        "heading_wdpkBn",
+        "text_bp4CFp",
+        "button_n6Ap6X"
+      ],
+      "settings": {
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "wide": false,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "media_with_text_AAkNqb": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_Q6A3JX": {
+          "type": "heading",
+          "settings": {
+            "heading": "Schlösser",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "text_PTjCXG": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Werfe einen Blick auf das Leben der Königsfamilien, indem du die prächtigen Schlösser Europas besuchst. Tauche in die glorreiche Geschichte des Kontinents ein und erkunde die Überreste der Burg Alcazar (Spanien), die wie ein Schiffsbug aussieht; das Schloss Neuschwanstein (Deutschland), das als „Märchenschloss“ bekannt ist; das Schloss „Verliebt in den Wind“ (Bulgarien), ein Meisterwerk aus Marmor in der Nähe des Schwarzen Meeres; das Schloss Chambord (Frankreich), ein legendäres Schloss, das nie verändert wurde, und die Burg Hohenzollern (Deutschland), die als „Krone aller Burgen in Schwaben“ gilt.<br/><br/> Wir empfehlen dir, deine Kleidung, Schuhe, Kulturtasche und andere wichtige Dinge in unsere geräumige Reisetasche „Ruben“ zu packen. Diese geräumige Ledertasche ist in fünf verschiedenen Farben erhältlich, und unsere Reisetaschen sind auf Flughäfen in aller Welt ein echter Hingucker.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_QnaqrH": {
+          "type": "button",
+          "settings": {
+            "button_label": "Ruben",
+            "button_link": "shopify://products/reisetasche-sporttasche-ledertasche-mit-wasserfestem-innenstoff-2r1-20-5wp",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Q6A3JX",
+        "text_PTjCXG",
+        "button_QnaqrH"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/2R1-20-5_WEB.jpg",
+        "image_1": "",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "left",
+        "image_fit": "contain",
+        "media_width": 50,
+        "media_scale": 100,
+        "text_align": "text-start",
+        "color_scheme": "none",
+        "only_content_color_scheme": false
+      }
+    },
+    "media_with_text_GYQheE": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_ECinYt": {
+          "type": "heading",
+          "settings": {
+            "heading": "Stränden",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "text_REVTcQ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Entspanne dich an den malerischsten Stränden des Kontinents. Der Haukland Beach (Norwegen) mit seinen Granitbergspitzen, der abgelegenste Strand Europas; West Beach (Schottland); Platja Illetes (Spanien) mit seinem azurblauen Wasser; der Strand in der Navagio-Bucht (Griechenland) mit seinen hoch aufragenden Klippen, die einen perfekten Bogen bilden, und der Strand der Île de Porquerolles (Frankreich), der von Kiefern- und Eukalyptuswäldern umgeben ist, sind ein Paradies für Strandliebhaber.</p><p> Eine schicke Gürteltasche wie „<strong>Acton</strong>“ ist perfekt, um deine Sonnenbrille, Sonnencreme, dein Telefon und andere kleine Gegenstände aufzubewahren, während du Europas Küsten erkundest. Unsere einzigartige und modische Gürteltasche hat ein geräumiges Hauptfach und zwei Außentaschen mit Reißverschluss, in denen du deine Strandutensilien aufbewahren kannst. Genieße deinen Strandausflug in dem Wissen, dass deine Sachen in unseren Gürteltaschen sicher sind!</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_kD7ra4": {
+          "type": "button",
+          "settings": {
+            "button_label": "Acton",
+            "button_link": "shopify://products/guerteltasche-bauchtasche-festivaltasche-2g39-48-5",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_ECinYt",
+        "text_REVTcQ",
+        "button_kD7ra4"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/2G39-48-5_web.jpg",
+        "image_1": "",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "right",
+        "image_fit": "contain",
+        "media_width": 50,
+        "media_scale": 100,
+        "text_align": "text-start",
+        "color_scheme": "none",
+        "only_content_color_scheme": false
+      }
+    },
+    "media_with_text_ybxqX9": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_9Y7wiE": {
+          "type": "heading",
+          "settings": {
+            "heading": "Wanderungen",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "text_9KdJph": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wanderst du gerne? Packe deinen Rucksack und mache dich auf den Weg, um einige der schönsten Landschaften zu entdecken, die die Natur zu bieten hat. Europa verfügt über eine Vielzahl beeindruckender Bergketten und zerklüfteter Küsten, die du auf dem ganzen Kontinent erwandern kannst – wie z. B. die Tour de Mont Blanc (Frankreich), die norwegischen Fjorde (Norwegen), den Kaukasus (Georgien), den West Highland Way (Schottland) und die Tour de Monte Rosa (Italien). Spektakuläre Landschaften erwarten dich!</p><p>Unser Rucksack „<strong>Mattis</strong>“ ist der ideale Wanderbegleiter, in dem du deine Wasserflasche, Taschenlampe, Wanderbrille, Regenjacke und vieles mehr verstauen kannst. Dieser robuste Lederrucksack ist in fünf Farben erhältlich und rundet deine Wanderausrüstung ab.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_hxYn9z": {
+          "type": "button",
+          "settings": {
+            "button_label": "Mattis",
+            "button_link": "shopify://products/kurierrucksack-rucksack-lederrucksack-vintage-cityrucksack-outdoorrucksack-laptoptasche-unirucksack-wanderrucksack-braun-leder-2m31-72-6",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_9Y7wiE",
+        "text_9KdJph",
+        "button_hxYn9z"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Mattis_2M31-72-6_web.jpg",
+        "image_1": "",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "left",
+        "image_fit": "contain",
+        "media_width": 50,
+        "media_scale": 100,
+        "text_align": "text-start",
+        "color_scheme": "none",
+        "only_content_color_scheme": false
+      }
+    },
+    "media_with_text_CmAtCG": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_TpGJBF": {
+          "type": "heading",
+          "settings": {
+            "heading": "Shopping ",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "text_hVYKmD": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Bei jeder Reise darf ein bisschen Shopping nicht fehlen! Gönne dir eine neue Garderobe oder vielleicht auch nur ein paar Souvenirs in einer der vielen pulsierenden Shoppingdestinationen Europas. Shoppe bis zum Umfallen in Mailand (Italien), Cannes (Frankreich), Berlin (Deutschland), Barcelona (Spanien) und Stockholm (Schweden).</p><p>Du willst schick aussehen, wenn du einkaufen gehst, also nimm unsere „<strong>Alexandra</strong>“ mit. Diese geräumige Tragetasche bietet viel Platz für deine Sachen – und ein paar Leckereien.</p><p> Die Reisesaison endet in Europa nie! Packe deine Reisetaschen oder dein Handgepäck und mache dich auf den Weg, um deine Seele, deinen Geist und deinen Körper zu erfrischen.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_CThTGz": {
+          "type": "button",
+          "settings": {
+            "button_label": "Alexandra",
+            "button_link": "shopify://products/shopper-handtasche-henkeltasche-2h52-33-1",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_TpGJBF",
+        "text_hVYKmD",
+        "button_CThTGz"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Alexandra_2H52-33-1_web.jpg",
+        "image_1": "",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "right",
+        "image_fit": "contain",
+        "media_width": 50,
+        "media_scale": 100,
+        "text_align": "text-start",
+        "color_scheme": "none",
+        "only_content_color_scheme": false
+      }
+    },
+    "media_grid_hTgAGy": {
+      "type": "media-grid",
+      "blocks": {
+        "media_83X9DD": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Jacqueline_K65b_web2.jpg",
+            "link_url": "",
+            "columns": 2,
+            "rows": 2,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "Umhaengetaschen",
+            "button_link": "shopify://collections/umhangetaschen",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_Gfjq49": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Bennett_2M93-80-28-web.jpg",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "Rucksack ",
+            "button_link": "shopify://collections/rucksacke-1",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_pVDpVP": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Amanda_M102b-web.jpg",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "Kamerataschen",
+            "button_link": "shopify://collections/kameratasche",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_VVFQca": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Ruben_2R1-20-5_web.jpg",
+            "link_url": "",
+            "columns": 2,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "Reisetaschen",
+            "button_link": "shopify://collections/reisetasche",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_DDy9EF": {
+          "type": "media",
+          "disabled": true,
+          "settings": {
+            "link_url": "",
+            "columns": 2,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Media heading</p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        }
+      },
+      "block_order": [
+        "media_83X9DD",
+        "media_Gfjq49",
+        "media_pVDpVP",
+        "media_VVFQca",
+        "media_DDy9EF"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "gallery_cols_max": 4,
+        "mobile_carousel": false,
+        "gallery_cols_min": "1",
+        "fixed_height_desktop": 180,
+        "fixed_height_mobile": 300,
+        "section_color_scheme": "none",
+        "color_scheme": "white",
+        "transparent_content_color": "#ffffff"
       }
     },
     "collection_list_RHeKBJ": {
@@ -116,6 +481,7 @@
         "collection_eAJ4fF",
         "collection_xbRB6E"
       ],
+      "disabled": true,
       "settings": {
         "title": "Collections",
         "heading_align": "text-start",
@@ -156,6 +522,12 @@
   "order": [
     "main",
     "image_banner_h7bfNH",
+    "rich_text_nQwTPw",
+    "media_with_text_AAkNqb",
+    "media_with_text_GYQheE",
+    "media_with_text_ybxqX9",
+    "media_with_text_CmAtCG",
+    "media_grid_hTgAGy",
     "collection_list_RHeKBJ",
     "featured_collection_fw9w9V"
   ]
