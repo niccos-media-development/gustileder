@@ -46,7 +46,7 @@
         "full_width": true,
         "transparent_content_color": "#ffffff",
         "tint_color": "#000000",
-        "tint_opacity": 40,
+        "tint_opacity": 15,
         "prevent_animation": false
       }
     },
@@ -84,7 +84,7 @@
         "text_position": "justify-center",
         "text_align": "text-center",
         "mob_center_text": true,
-        "wide": false,
+        "wide": true,
         "color_scheme": "none",
         "full_width": true,
         "prevent_animation": false
@@ -100,8 +100,8 @@
             "image": "shopify://shop_images/Emma_A12_DEF_5.jpg",
             "media_scale": 100,
             "heading": "",
-            "text": "<p>Blumen verblühen schnell und auch Schokolade ist vor Naschkatzen nicht lang sicher. Weil wir wissen, wie schwierig es manchmal sein kann, ein Muttertagsgeschenk zu finden, wollen wir Euch die Suche erleichtern. Wie wäre es mit einem Geschenk, von dem Deine Mama länger etwas hat, als nur ein paar Tage?</p>",
-            "button_label": "Buy",
+            "text": "<p>Blumen verblühen schnell und auch Schokolade ist vor Naschkatzen nicht lange sicher. Weil wir wissen, wie schwierig es manchmal sein kann, ein Muttertagsgeschenk zu finden, wollen wir Euch die Suche erleichtern. Wie wäre es mit einem Geschenk, von dem Deine Mama länger etwas hat, als nur ein paar Tage?</p>",
+            "button_label": "Kaufe Emma",
             "button_link": "shopify://products/geldboerse-portemonnaie-brieftasche-a12"
           }
         },
@@ -112,8 +112,8 @@
             "image": "shopify://shop_images/Holly_K68b_DEF_3.jpg",
             "media_scale": 100,
             "heading": "",
-            "text": "<p>Leder ist ein <strong>besonders robustes, reißfestes Material</strong>, das mit den Jahren sogar noch an Charme gewinnt. Bei Gusti Leder findest Du eine große Auswahl an hochwertigen, nachhaltigen Lederprodukten, an denen sich Deine Mama<strong>garantiert jahrelang erfreut</strong>!</p>",
-            "button_label": "Buy",
+            "text": "<p>Leder ist ein besonders robustes, reißfestes Material, das mit den Jahren sogar noch an Charme gewinnt. Bei Gusti Leder findest Du eine große Auswahl an hochwertigen, nachhaltigen Lederprodukten, an denen sich Deine Mamagarantiert jahrelang erfreut! Wie wäre es mit einer Umhängetasche?</p>",
+            "button_label": "Schaue dir Holly an",
             "button_link": "shopify://products/handtasche-umhaengetasche-vintage-k68b"
           }
         }
@@ -142,7 +142,7 @@
         "heading_hyxfzF": {
           "type": "heading",
           "settings": {
-            "heading": "Füge diesen tollen Accessoires noch eine individuelle Gravur hinzu!So wird Deine Mama immer an Dich denken, wenn Sie sie sieht.",
+            "heading": "Füge diesen tollen Accessoires noch eine individuelle Gravur hinzu! So wird Deine Mama immer an Dich denken, wenn Sie sie sieht.",
             "heading_size": "h2",
             "heading_h1": false
           }
@@ -172,7 +172,7 @@
             "media_scale": 100,
             "heading": "Felix",
             "text": "",
-            "button_label": "In den warenkorb",
+            "button_label": "In den Warenkorb",
             "button_link": "shopify://products/stiftemappe-leder-p6"
           }
         },
@@ -184,7 +184,7 @@
             "media_scale": 100,
             "heading": "Addison",
             "text": "",
-            "button_label": "In den warenkorb",
+            "button_label": "In den Warenkorb",
             "button_link": "shopify://products/stiftemappe-federtasche-federmappe-schlampermaeppchen-stiftetui-gold-leder-2s8-48-30"
           }
         },
@@ -196,7 +196,7 @@
             "media_scale": 100,
             "heading": "Leo",
             "text": "",
-            "button_label": "In den warenkorb",
+            "button_label": "In den Warenkorb",
             "button_link": "shopify://products/utensilientasche-kosmetiktasche-vintage-2a5-20-2wp"
           }
         },
@@ -208,7 +208,7 @@
             "media_scale": 100,
             "heading": "Peter",
             "text": "",
-            "button_label": "In den warenkorb",
+            "button_label": "In den Warenkorb",
             "button_link": "shopify://products/federtasche-federmappe-maeppchen-2s1-20-2wp"
           }
         },
@@ -220,7 +220,7 @@
             "media_scale": 100,
             "heading": "Eli",
             "text": "",
-            "button_label": "In den warenkorb",
+            "button_label": "In den Warenkorb",
             "button_link": "shopify://products/waschtasche-kulturtasche-kulturbeutel-kosmetiktasche-ledertasche-make-up-tasche-braun-leder-2a218-20-2wp"
           }
         },
@@ -232,7 +232,7 @@
             "media_scale": 100,
             "heading": "Chester",
             "text": "",
-            "button_label": "In den warenkorb",
+            "button_label": "In den Warenkorb",
             "button_link": "shopify://products/kulturtasche-kosmetiktasche-waschtasche-braun-leder-2h30-20-5wp"
           }
         }
@@ -246,7 +246,7 @@
         "column_QncE6k"
       ],
       "settings": {
-        "title": "Was man zum Muttertag schenken kann? Wie wäre es mit einem neuenKulturbeutel oder Federmappe aus Leder!",
+        "title": "Was man zum Muttertag schenken kann? Wie wäre es mit einem neuen Kulturbeutel oder einer Federmappe aus Leder!",
         "heading_align": "text-center",
         "button_label": "",
         "button_link": "",
@@ -273,12 +273,12 @@
             "title": "<p>Eskil</p>",
             "heading_size": "h5",
             "button_label": "",
-            "button_link": "",
+            "button_link": "shopify://products/guerteltasche-bauchtasche-portemonnaie-geldboerse-braun-leder-2a256-48-2",
             "overlay_position": "justify-start items-end",
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 25
+            "tint_opacity": 0
           }
         },
         "media_bdYb4a": {
@@ -297,7 +297,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 25
+            "tint_opacity": 0
           }
         },
         "media_Mhx6iM": {
@@ -316,7 +316,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 25
+            "tint_opacity": 0
           }
         },
         "media_dbgy3E": {
@@ -330,12 +330,12 @@
             "title": "<p>August</p>",
             "heading_size": "h5",
             "button_label": "",
-            "button_link": "",
+            "button_link": "shopify://products/geldboerse-portemonnaie-mit-rfid-schutz-brieftasche-braun-leder-2a121-20-5",
             "overlay_position": "justify-start items-end",
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 25
+            "tint_opacity": 0
           }
         }
       },
@@ -379,7 +379,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 25
+            "tint_opacity": 0
           }
         },
         "media_83ReGr": {
@@ -398,7 +398,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 25
+            "tint_opacity": 0
           }
         },
         "media_hddeTj": {
@@ -417,7 +417,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 40
+            "tint_opacity": 0
           }
         },
         "media_zjDfqP": {
@@ -436,7 +436,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 40
+            "tint_opacity": 0
           }
         }
       },
@@ -480,7 +480,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 25
+            "tint_opacity": 0
           }
         },
         "media_bkyqnD": {
@@ -499,7 +499,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 25
+            "tint_opacity": 0
           }
         },
         "media_EjmpFQ": {
@@ -518,7 +518,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 40
+            "tint_opacity": 0
           }
         },
         "media_RYXNEL": {
@@ -537,7 +537,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 40
+            "tint_opacity": 0
           }
         }
       },
@@ -581,7 +581,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 25
+            "tint_opacity": 0
           }
         },
         "media_GyR9nA": {
@@ -600,7 +600,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 25
+            "tint_opacity": 0
           }
         },
         "media_AwjjpP": {
@@ -619,7 +619,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 40
+            "tint_opacity": 0
           }
         },
         "media_iDUeFk": {
@@ -638,7 +638,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 40
+            "tint_opacity": 0
           }
         }
       },
@@ -682,7 +682,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 25
+            "tint_opacity": 0
           }
         },
         "media_KpBqiD": {
@@ -701,7 +701,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 25
+            "tint_opacity": 0
           }
         },
         "media_YAz9jG": {
@@ -720,7 +720,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 40
+            "tint_opacity": 0
           }
         },
         "media_tKkwQR": {
@@ -739,7 +739,7 @@
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
             "tint_color": "#000000",
-            "tint_opacity": 40
+            "tint_opacity": 0
           }
         }
       },
