@@ -47,24 +47,17 @@
         "full_width": true,
         "transparent_content_color": "#ffffff",
         "tint_color": "#000000",
-        "tint_opacity": 40,
+        "tint_opacity": 5,
         "prevent_animation": false
       }
     },
     "rich_text_9h4ACH": {
       "type": "rich-text",
       "blocks": {
-        "subheading_99CTL7": {
-          "type": "subheading",
-          "disabled": true,
-          "settings": {
-            "text": "Subheading"
-          }
-        },
         "heading_W4aYXg": {
           "type": "heading",
           "settings": {
-            "heading": "„Weniger, aber besser“ – das ist Slow Fashion.",
+            "heading": "„Weniger, aber besser“ – das ist Slow Fashion",
             "heading_size": "h2",
             "heading_h1": false
           }
@@ -78,7 +71,6 @@
         }
       },
       "block_order": [
-        "subheading_99CTL7",
         "heading_W4aYXg",
         "text_jWghY6"
       ],
@@ -86,7 +78,7 @@
         "text_position": "justify-center",
         "text_align": "text-center",
         "mob_center_text": true,
-        "wide": false,
+        "wide": true,
         "color_scheme": "none",
         "full_width": true,
         "prevent_animation": false
