@@ -233,7 +233,7 @@
           "type": "heading",
           "settings": {
             "heading": "Entdecke die Welt von Slow Fashion mit Gusti Leder.",
-            "heading_size": "h2",
+            "heading_size": "h3",
             "heading_h1": false
           }
         },
@@ -241,7 +241,7 @@
           "type": "text",
           "settings": {
             "text": "<p>Zeitlose Designs, natürliche Materialien und faire Produktion – finde Dein neues Lieblingsstück, das ein Leben lang hält.</p>",
-            "enlarge_text": true
+            "enlarge_text": false
           }
         },
         "button_NqtJwz": {
@@ -267,7 +267,7 @@
         "text_position": "justify-center",
         "text_align": "text-center",
         "mob_center_text": true,
-        "wide": false,
+        "wide": true,
         "color_scheme": "none",
         "full_width": true,
         "prevent_animation": false
