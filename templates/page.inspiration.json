@@ -83,7 +83,7 @@
             "title": "<p>Welcher Sattel passt zu mir?</p>",
             "heading_size": "h4",
             "button_label": "",
-            "button_link": "",
+            "button_link": "shopify://pages/ledersattel-1",
             "overlay_position": "justify-start items-end",
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
