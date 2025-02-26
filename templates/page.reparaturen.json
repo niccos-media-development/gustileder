@@ -76,7 +76,7 @@
         "text_position": "justify-center",
         "text_align": "text-center",
         "mob_center_text": true,
-        "wide": false,
+        "wide": true,
         "color_scheme": "none",
         "full_width": true,
         "prevent_animation": false
@@ -168,7 +168,7 @@
         "text_position": "justify-center",
         "text_align": "text-center",
         "mob_center_text": true,
-        "wide": false,
+        "wide": true,
         "color_scheme": "none",
         "full_width": true,
         "prevent_animation": false
@@ -356,37 +356,46 @@
         "text_yN877f": {
           "type": "text",
           "settings": {
-            "text": "<p>Es ist wirklich ärgerlich, wenn der Verschluss an deiner Ledertasche defekt ist und du deine wertvollen Gegenstände nicht mehr sicher und geschützt aufbewahren kannst. Oftmals bleibt einem in solchen Fällen nichts anderes übrig, als die gesamte Tasche wegzuwerfen. Doch bei uns hast Du eine bessere Option! Wir bieten Dir die Möglichkeit, die Schnalle oder den Verschluss bei uns reparieren zu lassen. Auf diese Weise sparst Du nicht nur Geld, sondern verlängerst auch die Lebensdauer deiner Tasche. Warum also wegwerfen, wenn wir sie für dich wieder funktionsfähig machen können? Du wirst begeistert sein, wie gut Deine Tasche danach wieder funktioniert und Du deine Wertgegenstände sicher transportieren kannst. Nutze diese Option und gebe Deiner Tasche eine zweite Chance!<br/><br/>*Die kostenlose Reparatur wird nur angeboten, wenn es sich um einen Material- oder Herstellungsfehler handelt. Sollte es sich um einen Nutzungsfehler handeln können wir Deine Tasche gerne gegen einen vorab abgesprochenen Preis reparieren.</p>",
+            "text": "<p>Es ist wirklich ärgerlich, wenn der Verschluss an deiner Ledertasche defekt ist und du deine wertvollen Gegenstände nicht mehr sicher und geschützt aufbewahren kannst. Oftmals bleibt einem in solchen Fällen nichts anderes übrig, als die gesamte Tasche wegzuwerfen. Doch bei uns hast Du eine bessere Option! Wir bieten Dir die Möglichkeit, die Schnalle oder den Verschluss bei uns reparieren zu lassen. Auf diese Weise sparst Du nicht nur Geld, sondern verlängerst auch die Lebensdauer deiner Tasche. Warum also wegwerfen, wenn wir sie für dich wieder funktionsfähig machen können? Du wirst begeistert sein, wie gut Deine Tasche danach wieder funktioniert und Du deine Wertgegenstände sicher transportieren kannst. Nutze diese Option und gebe Deiner Tasche eine zweite Chance!<br/></p><p><br/><strong>*Die kostenlose Reparatur wird nur angeboten, wenn es sich um einen Material- oder Herstellungsfehler handelt. Sollte es sich um einen Nutzungsfehler handeln können wir Deine Tasche gerne gegen einen vorab abgesprochenen Preis reparieren.</strong></p>",
             "enlarge_text": false
-          }
-        },
-        "button_gXXBft": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_1_label": "Optional button",
-            "button_1_link": "",
-            "button_1_style": "btn--primary",
-            "button_2_label": "Optional button",
-            "button_2_link": "",
-            "button_2_style": "btn btn--primary"
           }
         }
       },
       "block_order": [
         "subheading_AULFTk",
         "heading_GTKRVM",
-        "text_yN877f",
-        "button_gXXBft"
+        "text_yN877f"
       ],
       "settings": {
         "text_position": "justify-center",
         "text_align": "text-center",
         "mob_center_text": true,
-        "wide": false,
+        "wide": true,
         "color_scheme": "none",
         "full_width": true,
         "prevent_animation": false
+      }
+    },
+    "featured_collection_4h93fn": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Unsere Bestseller",
+        "heading_align": "text-start",
+        "show_view_all": true,
+        "collection": "bestseller",
+        "layout": "carousel",
+        "card_size_mobile": "small",
+        "card_size": "small",
+        "products_to_show": 15,
+        "show_highlight_products": true,
+        "show_promo_info": false,
+        "image_ratio": "fill",
+        "promo_title": "A headline to grab attention",
+        "content": "<p>Use this card with an image to highlight your collections or introduce a promotion.</p>",
+        "link_url": "",
+        "button_label": "Button",
+        "color_scheme": "2",
+        "button_style": "btn btn--primary"
       }
     }
   },
@@ -398,6 +407,7 @@
     "rich_text_6zqh7F",
     "media_grid_thQDbT",
     "multi_column_KDPRww",
-    "rich_text_CBLYqA"
+    "rich_text_CBLYqA",
+    "featured_collection_4h93fn"
   ]
 }
