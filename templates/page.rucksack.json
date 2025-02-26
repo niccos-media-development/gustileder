@@ -212,11 +212,24 @@
             "button_label": "",
             "button_link": "shopify://products/rucksack-lederrucksack-herren-damen-vintage-braun-leder-2m40-20-5wp"
           }
+        },
+        "column_FXgiDQ": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Paula_L_2M102-20-12wp_web.jpg",
+            "media_scale": 100,
+            "heading": "Paula L",
+            "text": "<p>Schick und praktisch, “Paula L” ist der perfekte Begleiter für Kurztrips und Stadttouren. Dieser nautische Rucksack wird überall für Aufsehen sorgen. “Paula L” kannst Du dank seiner Geräumigkeit auch mit in die Uni nehmen. Das wasserfeste Innenfutter des Rucksacks schützt Deine Sachen bei starkem Regen.<br/><br/><strong>Größe             </strong>28 x 43 x 16 cm</p><p><strong>Lederart        </strong>Canvas</p><p><strong>Innen Fächer </strong>2</p><p><strong>Außenfach </strong>-</p><p><strong>Verschluss  </strong>Kordelzug</p>",
+            "button_label": "",
+            "button_link": "shopify://products/rucksack-gross-cityrucksack-collegerucksack-unirucksack-daypack-schultasche-laptoptasche-outdoorrucksack-laptoprucksack-lederrucksack-blau-canvas-leder-2m102-20-12wp"
+          }
         }
       },
       "block_order": [
         "column_68ht9j",
-        "column_VizkFe"
+        "column_VizkFe",
+        "column_FXgiDQ"
       ],
       "settings": {
         "title": "Die Geräumigen",
@@ -317,11 +330,24 @@
             "button_label": "",
             "button_link": "shopify://products/backpack-leather-backpack-rucksack-bag-brown-leather-2m112-20-5wpb"
           }
+        },
+        "column_iQxypB": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Jula4_2M91-20-6_web.jpg",
+            "media_scale": 100,
+            "heading": "Jula",
+            "text": "<p>Unser kleiner Rucksack “Jula” ist ein wahrer Alltagsbegleiter. Dieser stilvolle Rucksack ergänzt jedes Outfit, wenn Du durch die Stadt schlendern möchtest oder abends auf eine Veranstaltung gehst. Der mittelgroße Rucksack “Jula” bietet Platz für Deine 10-Zoll-Geräte, Notizbuch, Vorlesungsunterlagen, Wasserflasche und Handy im Hauptfach. Sichere den Rucksack mit dem Kordelzug und dem Magneten.<br/><br/><strong>Größe             </strong>21 x 29 x 9 cm</p><p><strong>Lederart       </strong>Büffelleder</p><p><strong>Innen Fächer </strong>2</p><p><strong>Außenfach </strong>-</p><p><strong>Verschluss  </strong>Magnet</p>",
+            "button_label": "",
+            "button_link": "shopify://products/rucksack-tagesrucksack-cityrucksack-kleiner-rucksack-daypack-tasche-freizeit-lederrucksack-damenrucksack-schwarz-leder-2m91-20-6"
+          }
         }
       },
       "block_order": [
         "column_ABNVgH",
-        "column_AHznND"
+        "column_AHznND",
+        "column_iQxypB"
       ],
       "settings": {
         "title": "Die Lässigen",
