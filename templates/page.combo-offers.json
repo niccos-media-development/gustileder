@@ -55,6 +55,7 @@
         "text_i4fTGy",
         "button_446Ntx"
       ],
+      "disabled": true,
       "settings": {
         "image_desktop": "shopify://shop_images/combo_offers_Desktop_DE.jpg",
         "url": "",
@@ -146,7 +147,7 @@
           "type": "column",
           "settings": {
             "enable_media": true,
-            "image": "shopify://shop_images/Darby.jpg",
+            "image": "shopify://shop_images/Darby_2H220-22-126.jpg",
             "media_scale": 100,
             "heading": "Darby",
             "text": "",
@@ -158,7 +159,7 @@
           "type": "column",
           "settings": {
             "enable_media": true,
-            "image": "shopify://shop_images/cara.jpg",
+            "image": "shopify://shop_images/2A16-22-126.jpg",
             "media_scale": 100,
             "heading": "Cara",
             "text": "",
@@ -170,7 +171,7 @@
           "type": "column",
           "settings": {
             "enable_media": true,
-            "image": "shopify://shop_images/Gemma.jpg",
+            "image": "shopify://shop_images/Gemma_2A212-99-6_MP_1.jpg",
             "media_scale": 100,
             "heading": "Gemma",
             "text": "",
@@ -182,7 +183,7 @@
           "type": "column",
           "settings": {
             "enable_media": true,
-            "image": "shopify://shop_images/Josephine.jpg",
+            "image": "shopify://shop_images/Josephine_M11-48-6_DEF_1.jpg",
             "media_scale": 100,
             "heading": "Josephine",
             "text": "",
@@ -219,7 +220,7 @@
           "type": "column",
           "settings": {
             "enable_media": true,
-            "image": "shopify://shop_images/Michael.jpg",
+            "image": "shopify://shop_images/Michael_R32b.jpg",
             "media_scale": 100,
             "heading": "Michael",
             "text": "",
@@ -231,7 +232,7 @@
           "type": "column",
           "settings": {
             "enable_media": true,
-            "image": "shopify://shop_images/Lucy.jpg",
+            "image": "shopify://shop_images/A137b.jpg",
             "media_scale": 100,
             "heading": "Lucy",
             "text": "",
@@ -254,7 +255,7 @@
           "type": "column",
           "settings": {
             "enable_media": true,
-            "image": "shopify://shop_images/Ruben_51627710-0f66-4d5b-87a1-43246065699b.jpg",
+            "image": "shopify://shop_images/Ruben_2R1-20-4wp_1.jpg",
             "media_scale": 100,
             "heading": "Ruben",
             "text": "",
@@ -266,7 +267,7 @@
           "type": "column",
           "settings": {
             "enable_media": true,
-            "image": "shopify://shop_images/Victoria.jpg",
+            "image": "shopify://shop_images/IVictoria_2A141-22-6_2.jpg",
             "media_scale": 100,
             "heading": "Victoria",
             "text": "",
@@ -314,7 +315,7 @@
           "type": "column",
           "settings": {
             "enable_media": true,
-            "image": "shopify://shop_images/Jordis.jpg",
+            "image": "shopify://shop_images/Jordis1_2E7-22-6.jpg",
             "media_scale": 100,
             "heading": "Jordis",
             "text": "",
@@ -326,16 +327,17 @@
           "type": "column",
           "settings": {
             "enable_media": true,
-            "image": "shopify://shop_images/Ullia.jpg",
+            "image": "shopify://shop_images/Adrian_2S37-20-5_feed.jpg",
             "media_scale": 100,
-            "heading": "Ulli",
+            "heading": "Adrian",
             "text": "",
             "button_label": "Buy now",
-            "button_link": "shopify://products/stiftkoecher-stiftebecher-stiftehalter-2a74-26-3"
+            "button_link": "shopify://products/organizer-dokumentenmappe-unterlagenmappe-vintage-braun-leder-2s37-20-5"
           }
         },
         "column_BcxUnt": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "enable_media": true,
             "image": "shopify://shop_images/Bosley.jpg",
@@ -348,6 +350,7 @@
         },
         "column_YqyznD": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "enable_media": true,
             "image": "shopify://shop_images/Steel_mug.jpg",
@@ -387,19 +390,19 @@
           "type": "column",
           "settings": {
             "enable_media": true,
-            "image": "shopify://shop_images/sophia.jpg",
+            "image": "shopify://shop_images/Amalia_2P18-24-1_1.jpg",
             "media_scale": 100,
-            "heading": "Sophia",
+            "heading": "Amalia",
             "text": "",
             "button_label": "Buy now",
-            "button_link": "shopify://products/buch-poesiealbum-planer-din-a5-p11"
+            "button_link": "shopify://products/buch-notizbuch-tagebuch-din-a6-2p18-24-1"
           }
         },
         "column_WQxJxc": {
           "type": "column",
           "settings": {
             "enable_media": true,
-            "image": "shopify://shop_images/Addison.jpg",
+            "image": "shopify://shop_images/Addison_2S8-22-6.jpg",
             "media_scale": 100,
             "heading": "Addison",
             "text": "",
@@ -422,7 +425,7 @@
           "type": "column",
           "settings": {
             "enable_media": true,
-            "image": "shopify://shop_images/lahja.jpg",
+            "image": "shopify://shop_images/Lahja_2P77-24-28.jpg",
             "media_scale": 100,
             "heading": "Lahja",
             "text": "",
@@ -434,7 +437,7 @@
           "type": "column",
           "settings": {
             "enable_media": true,
-            "image": "shopify://shop_images/lahja_refill.jpg",
+            "image": "shopify://shop_images/Lahja_Refillpaper_2P77-24-A5_2.jpg",
             "media_scale": 100,
             "heading": "Lahja Nachfüllpack",
             "text": "",
@@ -471,7 +474,7 @@
           "type": "column",
           "settings": {
             "enable_media": true,
-            "image": "shopify://shop_images/Mattis.jpg",
+            "image": "shopify://shop_images/Mattis_2M31-20-5wp_133d5075-d59b-404c-b9c5-98e21e854e10.jpg",
             "media_scale": 100,
             "heading": "Mattis",
             "text": "",
@@ -483,7 +486,7 @@
           "type": "column",
           "settings": {
             "enable_media": true,
-            "image": "shopify://shop_images/foster.jpg",
+            "image": "shopify://shop_images/Foster_2A123-33-8.jpg",
             "media_scale": 100,
             "heading": "Foster",
             "text": "",
@@ -506,7 +509,7 @@
           "type": "column",
           "settings": {
             "enable_media": true,
-            "image": "shopify://shop_images/Fenno.jpg",
+            "image": "shopify://shop_images/Fenno_2M94-80-21.jpg",
             "media_scale": 100,
             "heading": "Fenno",
             "text": "",
@@ -518,7 +521,7 @@
           "type": "column",
           "settings": {
             "enable_media": true,
-            "image": "shopify://shop_images/regis.jpg",
+            "image": "shopify://shop_images/Regis_2A187-33-2_MP_2.jpg",
             "media_scale": 100,
             "heading": "Regis",
             "text": "",
@@ -566,7 +569,7 @@
           "type": "column",
           "settings": {
             "enable_media": true,
-            "image": "shopify://shop_images/Bernard_H.jpg",
+            "image": "shopify://shop_images/Bernard-H._2F3-20-23_DEF_5.jpg",
             "media_scale": 100,
             "heading": "Bernard H.",
             "text": "",
@@ -578,7 +581,7 @@
           "type": "column",
           "settings": {
             "enable_media": true,
-            "image": "shopify://shop_images/Adri_V.jpg",
+            "image": "shopify://shop_images/Adri-V._2F38-22-6-200.jpg",
             "media_scale": 100,
             "heading": "Adri V.",
             "text": "",
@@ -590,7 +593,7 @@
           "type": "column",
           "settings": {
             "enable_media": true,
-            "image": "shopify://shop_images/Moreno.jpg",
+            "image": "shopify://shop_images/Moreno-A._2F41-22-31k.2_1.jpg",
             "media_scale": 100,
             "heading": "Moreno A.",
             "text": "",
@@ -602,7 +605,7 @@
           "type": "column",
           "settings": {
             "enable_media": true,
-            "image": "shopify://shop_images/Raymond_P.jpg",
+            "image": "shopify://shop_images/Raymond-P._2G57-20-11.jpg",
             "media_scale": 100,
             "heading": "Raymond P.",
             "text": "",
@@ -639,7 +642,7 @@
           "type": "column",
           "settings": {
             "enable_media": true,
-            "image": "shopify://shop_images/Gareth_T.jpg",
+            "image": "shopify://shop_images/2F44-20-5wpol_2.jpg",
             "media_scale": 100,
             "heading": "Gareth T.",
             "text": "",
@@ -651,7 +654,7 @@
           "type": "column",
           "settings": {
             "enable_media": true,
-            "image": "shopify://shop_images/Maurice_G.jpg",
+            "image": "shopify://shop_images/Maurice_G._2F6-20-5wp.jpg",
             "media_scale": 100,
             "heading": "Maurice G.",
             "text": "",
@@ -674,7 +677,7 @@
           "type": "column",
           "settings": {
             "enable_media": true,
-            "image": "shopify://shop_images/Udo.jpg",
+            "image": "shopify://shop_images/2G13-20-2wp_4b300fda-903d-4eda-bef8-745dd4526c68.jpg",
             "media_scale": 100,
             "heading": "Udo B.",
             "text": "",
@@ -686,7 +689,7 @@
           "type": "column",
           "settings": {
             "enable_media": true,
-            "image": "shopify://shop_images/Andre.jpg",
+            "image": "shopify://shop_images/2F69-20-5wpk.2_Andre_D..jpg",
             "media_scale": 100,
             "heading": "Andre D.",
             "text": "",
