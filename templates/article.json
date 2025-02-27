@@ -14,7 +14,7 @@
       "settings": {
         "show_tags": true,
         "show_author": false,
-        "show_date": true,
+        "show_date": false,
         "featured_image_width": "page",
         "heading_align": "text-center",
         "show_share_buttons": false,
