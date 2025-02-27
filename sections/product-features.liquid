@@ -66,7 +66,7 @@
     {%- if section.settings.layout == 'text_first' and section.settings.show_content == true -%}
       {{ section_content_html }}
     {%- endif -%}
-    <div class="product-features relative flex gap-8">
+    <div class="product-features relative  {% if section.settings.image_1 != blank %}grid grid-flow-col  sm:auto-cols-2 gap-x-theme gap-y-8{% endif %}">
       <hotspots-image class="product-features__image block relative overflow-hidden"{% if settings.animations_enabled != "disabled" %} data-cc-animate{% endif %}>
         {%- if image != blank -%}
           {%- capture sizes -%}
@@ -118,7 +118,6 @@
           </div>
         {% endfor %}
       </hotspots-image>
-       {%- if image != section.settings.image_1 -%}
             {%- capture sizes_md %}calc((50vw - {{ gutter_sm | times: 2 }}px) + 9px){% endcapture -%}
             {%- capture sizes -%}
               {%- render 'sizes-attribute', min: 'page', sm: 'page', md: sizes_md, lg: '536px', xl: false, max: false -%}
@@ -137,7 +136,6 @@
               section_index: section.index,
               class: 'img-fit'
             %}
-        {% endif %}
         {% endif %}
     </div>
     {%- if section.settings.layout == 'text_last' and section.settings.show_content == true -%}
