@@ -66,7 +66,7 @@
     {%- if section.settings.layout == 'text_first' and section.settings.show_content == true -%}
       {{ section_content_html }}
     {%- endif -%}
-    <div class="product-features relative">
+    <div class="product-features relative flex gap-8">
       <hotspots-image class="product-features__image block relative overflow-hidden"{% if settings.animations_enabled != "disabled" %} data-cc-animate{% endif %}>
         {%- if image != blank -%}
           {%- capture sizes -%}
@@ -86,27 +86,7 @@
             {{ 'product-2' | placeholder_svg_tag: 'media__placeholder img-fit' }}
           </div>
         {%- endif -%}
-        {%- if image != section.settings.image_1 -%}
-            {%- capture sizes_md %}calc((50vw - {{ gutter_sm | times: 2 }}px) + 9px){% endcapture -%}
-            {%- capture sizes -%}
-              {%- render 'sizes-attribute', min: 'page', sm: 'page', md: sizes_md, lg: '536px', xl: false, max: false -%}
-            {%- endcapture -%}
-            {% if section.settings.image_1 != blank %}
-            {% assign image = section.settings.image_1 %}
-            {% render 'image',
-              image: image,
-              cust_image: image,
-              custom_img: true,
-              quality: quality,
-              widths: '536, 800, 1072, 1280',
-              mobile_widths: '690, 800',
-              src_width: 536,
-              sizes: sizes,
-              section_index: section.index,
-              class: 'img-fit'
-            %}
-        {% endif %}
-        {% endif %}
+       
         {%- for block in section.blocks -%}
           <div class="hotspot absolute" data-x="{{ block.settings.hotspot_x }}" data-y="{{ block.settings.hotspot_x }}" style="top: {{ block.settings.hotspot_y }}%; left: {{ block.settings.hotspot_x }}%">
             <button type="button" class="hotspot__btn relative tap-target no-js-hidden" aria-expanded="false">
@@ -138,6 +118,27 @@
           </div>
         {% endfor %}
       </hotspots-image>
+       {%- if image != section.settings.image_1 -%}
+            {%- capture sizes_md %}calc((50vw - {{ gutter_sm | times: 2 }}px) + 9px){% endcapture -%}
+            {%- capture sizes -%}
+              {%- render 'sizes-attribute', min: 'page', sm: 'page', md: sizes_md, lg: '536px', xl: false, max: false -%}
+            {%- endcapture -%}
+            {% if section.settings.image_1 != blank %}
+            {% assign image = section.settings.image_1 %}
+            {% render 'image',
+              image: image,
+              cust_image: image,
+              custom_img: true,
+              quality: quality,
+              widths: '536, 800, 1072, 1280',
+              mobile_widths: '690, 800',
+              src_width: 536,
+              sizes: sizes,
+              section_index: section.index,
+              class: 'img-fit'
+            %}
+        {% endif %}
+        {% endif %}
     </div>
     {%- if section.settings.layout == 'text_last' and section.settings.show_content == true -%}
       {{ section_content_html }}
