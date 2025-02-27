@@ -60,7 +60,7 @@
     {%- if section.settings.layout == 'text_first' and section.settings.show_content == true -%}
       {{ section_content_html }}
     {%- endif -%}
-    <div class="product-features relative">
+    <div class="product-features relative" style="max-width:{{ section.settings.max_width }}%;margin: 0 auto;">
       <hotspots-image class="product-features__image block relative overflow-hidden"{% if settings.animations_enabled != "disabled" %} data-cc-animate{% endif %}>
         {%- if image != blank -%}
           {%- capture sizes -%}
@@ -130,6 +130,16 @@
       "id": "product",
       "label": "Product",
       "info": "Product image may be enlarged. You can replace the default product image with the \"Image\" setting."
+    },
+    {
+      "type": "range",
+      "id": "max_width",
+      "label": "Section Width (Desktop in %)",
+      "info": "to manage large images",
+      "min": 10,
+      "max": 100,
+      "step": 5,
+      "default": 50
     },
     {
       "type": "header",
