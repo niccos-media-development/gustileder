@@ -334,6 +334,124 @@
         "button_style": "btn btn--secondary"
       }
     },
+    "rich_text_Wz3VUc": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_ir8FQz": {
+          "type": "subheading",
+          "settings": {
+            "text": "Brauchst du noch mehr Inspiration?"
+          }
+        },
+        "heading_CVFbzh": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h4",
+            "heading_h1": false
+          }
+        },
+        "text_LUzrjG": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Bei Gusti Leder findest Du außerdem eine Auswahl an Tagebüchern und Gürteln. Fehlt noch irgendeine Kleinigkeit? Dann schau bei Unseren Accessoires rein! Wir bieten ein breites Sortiment, dass schon bei 3,95€ beginnt.</p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "subheading_ir8FQz",
+        "heading_CVFbzh",
+        "text_LUzrjG"
+      ],
+      "settings": {
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "wide": false,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "media_grid_ibpgLA": {
+      "type": "media-grid",
+      "blocks": {
+        "media_Echffi": {
+          "type": "media",
+          "settings": {
+            "link_url": "",
+            "columns": 2,
+            "rows": 2,
+            "subheading": "",
+            "title": "<p>Media heading</p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_FrwJ6d": {
+          "type": "media",
+          "settings": {
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Media heading</p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_qa8RF8": {
+          "type": "media",
+          "settings": {
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Media heading</p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        }
+      },
+      "block_order": [
+        "media_Echffi",
+        "media_FrwJ6d",
+        "media_qa8RF8"
+      ],
+      "settings": {
+        "title": "Media grid",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "gallery_cols_max": 4,
+        "mobile_carousel": false,
+        "gallery_cols_min": "1",
+        "fixed_height_desktop": 180,
+        "fixed_height_mobile": 300,
+        "section_color_scheme": "none",
+        "color_scheme": "white",
+        "transparent_content_color": "#ffffff"
+      }
+    },
     "collection_list_RHeKBJ": {
       "type": "collection-list",
       "blocks": {
@@ -428,6 +546,8 @@
     "media_with_text_Ne69gD",
     "media_with_text_kHURnm",
     "multi_column_XgWNYP",
+    "rich_text_Wz3VUc",
+    "media_grid_ibpgLA",
     "collection_list_RHeKBJ",
     "featured_collection_fw9w9V"
   ]
