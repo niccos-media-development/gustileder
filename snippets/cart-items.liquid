@@ -50,6 +50,7 @@
       </thead>
       <tbody>
         {%- for item in cart.items -%}
+          
           {%- liquid
             if item.variant.compare_at_price > item.variant.price
               assign variant_price_reduced = true

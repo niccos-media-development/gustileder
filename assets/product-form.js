@@ -49,6 +49,13 @@ if (!customElements.get('product-form')) {
       formData.append('sections_url', window.location.pathname);
       formData.append('sections', sections);
 
+      const engravingVariantId = formData.get("properties[_id_of_variant_with_engraving]") || "";
+      const engravingImage = formData.get("properties[Engraving]");
+
+      if(engravingVariantId.length > 0 && (!isNaN(engravingVariantId) && engravingImage !== undefined)) {
+        formData.set('id', engravingVariantId);
+      }
+
       const fetchRequestOpts = {
         method: 'POST',
         headers: {

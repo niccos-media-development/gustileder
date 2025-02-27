@@ -88,7 +88,7 @@
   <div class="media-gallery__status visually-hidden" role="status"></div>
 
   <div class="media-gallery__viewer relative">
-    <ul class="media-viewer flex" id="gallery-viewer" role="list" tabindex="0">
+    <ul class="media-viewer flex relative" id="gallery-viewer" role="list" tabindex="0">
     {%- for media in product.media -%}
         {%- liquid
           assign lazy_load = true
@@ -230,6 +230,10 @@
         <span class="sr-only">{{ 'accessibility.loading' | t }}</span>
       </div>
     {%- endif -%}
+
+    <div class="engraving-canvas__container">
+      <canvas id="engraving-canvas"></canvas>
+    </div>
   </div>
 
   {%- if first_3d_model -%}

@@ -1,3 +1,86 @@
+/* Niccos */
+.engraving-input__block .engraving-input__symbols,
+.engraving-input__block modal-opener > button,
+.engraving-input__block > * {
+  display: block;
+  margin-bottom: 1.5rem;
+}
+
+.engraving-input__block > *:last-child {
+  margin-bottom: 0;
+}
+
+.engraving-input__block > textarea {
+  font-family: "Cour" !important;
+  resize: none;
+  width: 100%;
+  height: 60px;
+  border-radius: 0 !important;
+  padding-inline-start: 1rem;
+  padding-top: 0.5rem;
+}
+
+.engraving-input__block .error-label {
+  display: none;
+}
+
+.engraving-input__block > textarea[error] + .error-label {
+  color: red;
+  font-size: 12px;
+  display: block;
+}
+
+.engraving-input__block div.extras .should-hide {
+  display: none;
+}
+
+body.engraving .engraving-input__block > textarea ~ div.extras .should-hide {
+  display: block;
+}
+
+.engraving-input__block .engraving-input__symbols {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+}
+
+.engraving-input__block .engraving-input__symbols .engraving-symbol {
+  font-family: "Cour" !important;
+  flex-basis: 25%;
+  width: 25%;
+  height: 2.625rem;
+  font-size: 22px;
+  line-height: 1.375rem;
+  background-color: #ececec;
+  border: 1px solid #cecece;
+  color: black;
+  margin-bottom: 4px;
+  padding: 10px;
+}
+
+.engraving-canvas__container {
+  display: none;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: white;
+}
+
+body.engraving .engraving-canvas__container {
+  display: block;
+}
+
+#engraving-canvas {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 9;
+}
+
+/* End Niccos */
 .option-selector {
   padding: 0;
   border: 0;

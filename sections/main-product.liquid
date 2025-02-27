@@ -30,6 +30,33 @@
   </script>
 {%- endif -%}
 
+{%- for variant in product.variants -%}
+  {%- if variant.metafields.custom.is_engraving_counterpart == true -%}
+    {%- assign engraving_counterpart_variant = variant -%}
+    {%- break -%}
+  {%- endif -%}
+{%- endfor -%}
+
+{%- assign engraving_block = section.blocks | where: 'type', 'engraving' | first -%}
+
+{%- if engraving_block != blank and engraving_block.settings.enable_modal -%}
+  <modal-dialog class="modal fixed top-0 left-0 w-full h-full flex items-center justify-center" id="modal-{{ engraving_block.id }}">
+    <div class="modal__window relative bg-theme-bg text-theme-text text-start overflow-hidden has-motion" role="dialog" aria-modal="true" tabindex="-1">
+      <button type="button" class="modal__close-btn absolute js-close-modal">
+        {% render 'icon-close' %}
+        <span class="visually-hidden">{{ 'accessibility.close' | t }}</span>
+      </button>
+      <div class="modal__content flex-auto h-full rte">
+        {%- if engraving_block.settings.popup_page_content != blank -%}
+          <h1 class="h2">{{ engraving_block.settings.popup_page_content.title }}</h1>
+        {%- endif -%}
+        {{ engraving_block.settings.popup_content }}
+        {{ engraving_block.settings.popup_page_content }}
+      </div>
+    </div>
+  </modal-dialog>
+{%- endif -%}
+
 <script src="{{ 'product-form.js' | asset_url }}" defer="defer"></script>
 
 {%- liquid
@@ -69,6 +96,8 @@
       endif
     endfor
   endif
+
+  assign first_engraving_image = product.media | where: 'alt', 'engraving' | first
 -%}
 
 {%- style -%}
@@ -258,29 +287,93 @@
               </div>
             {%- endif -%}
 
-          {%- when 'variant-picker' -%}
-            {%- unless product.has_only_default_variant -%}
-              {%- assign has_variant_picker = true -%}
-              {%- if section.settings.sticky_atc_panel and product.available -%}
-                <a class="product-options--anchor" id="variants" rel="nofollow"></a>
-              {%- endif -%}
-                <div class="product-info__block product-options" {{ block.shopify_attributes }}>
-                {% render 'variant-picker',
-                  product: product,
-                  product_form_id: product_form_id,
-                  block: block,
-                  media_ratio: media_ratio,
-                  swatch_crop: section.settings.media_crop,
-                  update_url: true
-                %}
-              </div>
-            {%- endunless -%}
+          {%- when 'engraving' -%}
+            {%- if first_engraving_image != blank and engraving_counterpart_variant != blank -%}
+              <input style="display: none !important; opacity: 0 !important; appearance: none !important; visibility: none !important;" type="file" name="properties[Engraving]" form="{{ product_form_id }}" />
 
-            {%- if block.settings.show_backorder_text -%}
-              <div class="product-info__block product-backorder">
-                {% render 'backorder', product: product, variant: current_variant %}
-              </div>
+              {%- if block.settings.label.size > 0 -%}
+                <div class="engraving-input__block" {{ block.shopify_attributes }}>
+
+                  <input type="hidden" form="{{ product_form_id }}" name="properties[_id_of_variant_with_engraving]" value="{{ engraving_counterpart_variant.id }}" />
+
+                  <h2 class="h6 mb-0">
+                    {{ block.settings.label | replace: "_PRICE_", engraving_product_cost }}
+                  </h2>
+
+                  <textarea autocomplete="false" max="{{ block.settings.max_characters }}" id="engraving-input" placeholder="{{ block.settings.placeholder_text }}"></textarea>
+                  <p class="error-label"></p>
+
+                  <div class="extras">
+                    <p class="should-hide"><span data-character-length>0</span> from {{ block.settings.max_characters }}</p>
+
+                    {%- if block.settings.enable_modal -%}
+                      <modal-opener class="no-js-hidden" data-modal="modal-{{ block.id }}">
+                        <button type="button" class="link" aria-haspopup="dialog">{{ block.settings.modal_label }}</button>
+                      </modal-opener>
+                    {%- endif -%}
+
+                    <div class="engraving-input__symbols should-hide">
+                      <input class="engraving-symbol" type="button" value="">
+                      <input class="engraving-symbol" type="button" value="">
+                      <input class="engraving-symbol" type="button" value="">
+                      <input class="engraving-symbol" type="button" value="">
+                      <input class="engraving-symbol" type="button" value="">
+                      <input class="engraving-symbol" type="button" value="">
+                      <input class="engraving-symbol" type="button" value="">
+                      <input class="engraving-symbol" type="button" value="">
+                      <input class="engraving-symbol" type="button" value="">
+                      <input class="engraving-symbol" type="button" value="">
+                      <input class="engraving-symbol" type="button" value="">
+                      <input class="engraving-symbol" type="button" value="">
+                    </div>
+
+                    <div class="should-hide product-info__select">
+                      {%- if block.settings.font_picker_label.size > 0 -%}
+                        <label class="label" for="font-picker-{{ block.id }}">
+                          {{ block.settings.font_picker_label }}
+                        </label>
+                      {%- endif -%}
+
+                      <div class="select relative">
+                        <select class="select w-full" id="font-picker-{{ block.id }}">
+                          <option value="Handwritten">Handwritten</option>
+                          <option value="Rounded">Rounded</option>
+                          <option value="Cour" selected>Classic</option>
+                        </select>
+                      </div>
+                    </div>
+
+                  </div>
+
+                </div>
+              {%- endif -%}
             {%- endif -%}
+
+          {%- when 'variant-picker' -%}
+            {%- unless first_engraving_image != blank and engraving_counterpart_variant != blank -%}
+              {%- unless product.has_only_default_variant -%}
+                {%- assign has_variant_picker = true -%}
+                {%- if section.settings.sticky_atc_panel and product.available -%}
+                  <a class="product-options--anchor" id="variants" rel="nofollow"></a>
+                {%- endif -%}
+                  <div class="product-info__block product-options" {{ block.shopify_attributes }}>
+                  {% render 'variant-picker',
+                    product: product,
+                    product_form_id: product_form_id,
+                    block: block,
+                    media_ratio: media_ratio,
+                    swatch_crop: section.settings.media_crop,
+                    update_url: true
+                  %}
+                </div>
+              {%- endunless -%}
+
+              {%- if block.settings.show_backorder_text -%}
+                <div class="product-info__block product-backorder">
+                  {% render 'backorder', product: product, variant: current_variant %}
+                </div>
+              {%- endif -%}
+            {%- endunless -%}
 
           {%- when 'inventory-status' -%}
             {%- if current_variant.inventory_management != blank or section.settings.select_first_variant == false -%}
@@ -776,6 +869,212 @@
    }
 </script>
 
+<script>
+  const maxAllowedChars = {{ engraving_block.settings.max_characters | default: 30 }};
+  var engravingFont = "Cour";
+
+  function uploadCanvasImage(canvas, fileInput) {
+    // Convert canvas to a data URL (base64-encoded PNG image)
+    const dataUrl = canvas.toDataURL('image/png');
+
+    // Convert the data URL to a Blob
+    fetch(dataUrl)
+      .then(res => res.blob())
+      .then(blob => {
+        // Create a File object from the Blob
+        const file = new File([blob], 'canvas-image.png', { type: 'image/png' });
+
+        // Create a DataTransfer object to simulate selecting a file
+        const dataTransfer = new DataTransfer();
+        dataTransfer.items.add(file);
+
+        // Set the file to the input element
+        fileInput.files = dataTransfer.files;
+      })
+      .catch(error => {
+        console.error("Error while uploading canvas image:", error);
+      });
+  }
+
+
+  function fixLongInputs(inputString, max) {
+    let result = '';
+    let count = 0;
+
+    // Traverse through each character in the string
+    for (let i = 0; i < inputString.length; i++) {
+      const char = inputString[i];
+
+      if (char !== 'zxcv') { // Skip spaces
+        if(char === "\n") {
+          result += char;
+          count = 0;
+        } else {
+          result += char;
+          count++;
+
+          if (count === max) {
+            result += '\n';
+            count = 0;
+          }
+        }
+      } else {
+        result += char;  // Add space as is
+      }
+    }
+
+    return result;
+  }
+
+  const maxCharactersPerLine = 15;
+
+  function wrapText(context, text, x, y, maxWidth, lineHeight) {
+    var cars = fixLongInputs(text, maxCharactersPerLine).split("\n").filter(x => x.length > 0);
+
+    y -= (15 * cars.length);
+
+    for (var ii = 0; ii < cars.length; ii++) {
+      var line = "";
+      var words = cars[ii].split(" ");
+
+      for (var n = 0; n < words.length; n++) {
+        var testLine = line + words[n] + " ";
+        var metrics = context.measureText(testLine);
+        var testWidth = metrics.width;
+
+        if (testWidth > maxWidth) {
+          context.fillText(line, x, y);
+          line = words[n] + " ";
+          y += lineHeight;
+        }
+        else {
+          line = testLine;
+        }
+      }
+
+      context.fillText(line, x, y);
+      y += lineHeight;
+    }
+  }
+
+  function insertAtCursor(myField, myValue) {
+    //IE support
+    if (document.selection) {
+      myField.focus();
+      const sel = document.selection.createRange();
+      sel.text = myValue;
+    }
+    //MOZILLA and others
+    else if (myField.selectionStart || myField.selectionStart == '0') {
+      var startPos = myField.selectionStart;
+      var endPos = myField.selectionEnd;
+      myField.value = myField.value.substring(0, startPos)
+        + myValue
+        + myField.value.substring(endPos, myField.value.length);
+
+      myField.selectionStart = myField.selectionEnd = startPos;
+    } else {
+      myField.value += myValue;
+    }
+  }
+
+  function showError(msg) {
+    document.querySelector('.error-label').textContent = msg;
+    document.querySelector('textarea').setAttribute('error', msg);
+  }
+
+  function onEngravingUpdate(canvas, image, ctx, newText) {
+    document.querySelector('textarea').removeAttribute('error');
+
+    const engravingInput = document.querySelector('#engraving-input');
+
+    if(newText.length > maxAllowedChars) {
+      showError("Max character limit reached.");
+      engravingInput.value = engravingInput.value.slice(0, maxAllowedChars);
+      return;
+    }
+
+    const [ rawLines, assumedLines ]  = [ newText.split("\n").filter(x=>x.length>0), fixLongInputs(newText, maxCharactersPerLine).split("\n").filter(x=>x.length>0) ];
+
+    const maxLines = 2;
+
+    if(rawLines.length > maxLines) {
+      showError("Maximum number of lines reached.");
+      engravingInput.value = rawLines.slice(0,maxLines).join('\n');
+      return;
+    } else if(assumedLines.length > maxLines) {
+      showError("Maximum number of lines reached.");
+      engravingInput.value = assumedLines.slice(0,maxLines).join('\n');
+      return;
+    }
+
+    const characterLengthIndicator = document.querySelector('[data-character-length]');
+    characterLengthIndicator.textContent = newText.length;
+
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+    ctx.drawImage(image, 0, 0, canvas.width, canvas.height);
+
+    ctx.font = (canvas.width*0.08077544426494346) + "px " + engravingFont;
+
+    ctx.textAlign = 'center';
+    wrapText(ctx, newText, canvas.width/2, canvas.height/2, canvas.width - 20, 50);
+
+    uploadCanvasImage(canvas, document.querySelector('[name="properties[Engraving]"]'));
+  }
+
+  function engravingMain() {
+    const engravingInput = document.querySelector('#engraving-input');
+    const canvas = document.querySelector('#engraving-canvas');
+    const ctx = canvas.getContext('2d');
+
+    if(engravingInput !== null && image !== null && canvas !== null) {
+      canvas.width = image.clientWidth;
+      canvas.height = canvas.width * (image.naturalHeight/image.naturalWidth);
+      ctx.drawImage(image, 0, 0, canvas.width, canvas.height);
+
+      engravingInput.addEventListener('click', e => document.body.classList.add('engraving'))
+
+      engravingInput.addEventListener('input', e => onEngravingUpdate(canvas, image, ctx, e.target.value, engravingFont))
+    }
+
+    const fontPickerSelect = document.querySelector('select[id^="font-picker-"]');
+    fontPickerSelect.addEventListener('change', e => {
+      engravingFont = e.target.querySelector('option:checked').value
+      onEngravingUpdate(canvas, image, ctx, engravingInput.value)
+    })
+
+    const symbolInjector = document.querySelector('.engraving-input__symbols');
+    symbolInjector.querySelectorAll('input').forEach(input => {
+      input.addEventListener('touchstart', e => {
+        e.preventDefault();
+        onEngravingUpdate(canvas, image, ctx, e.target.value, true)
+      })
+
+      input.addEventListener('mousedown', e => {
+        e.preventDefault();
+
+        const engravingInput = document.querySelector('#engraving-input');
+
+        if(e.target.value.length + engravingInput.value.length > maxAllowedChars)
+          return;
+
+        insertAtCursor(engravingInput, e.target.value)
+
+        onEngravingUpdate(canvas, image, ctx, engravingInput.value)
+      })
+    })
+  }
+
+  const image = document.querySelector('img[alt="engraving"]');
+  if(image !== null) {
+    if(image.complete) {
+      engravingMain()
+    } else {
+      image.addEventListener('load', engravingMain)
+    }
+  }
+</script>
+
 {% schema %}
 {
   "name": "Product",
@@ -1177,6 +1476,89 @@
   "blocks": [
     {
       "type": "@app"
+    },
+    {
+      "type": "engraving",
+      "name": "Engraving",
+      "limit": 1,
+      "settings": [
+        {
+          "type": "header",
+          "content": "Engraving Product"
+        },
+        {
+          "type": "product",
+          "id": "engraving_product",
+          "label": "Engraving Product"
+        },
+        {
+          "type": "header",
+          "content": "Engraving"
+        },
+        {
+          "type": "paragraph",
+          "content": "Will only appear on products with 1 image at least whose alt is \"engraving\""
+        },
+        {
+          "type": "text",
+          "id": "label",
+          "label": "Label",
+          "default": "Füge Deine persönliche Gravur hinzu (+<price> €)",
+          "info": "Use _PRICE_ to inject Engraving product price"
+        },
+        {
+          "type": "text",
+          "id": "placeholder_text",
+          "label": "Text field placeholder",
+          "default": "Gravur Text..."
+        },
+        {
+          "type": "header",
+          "content": "Functionality"
+        },
+        {
+          "type": "number",
+          "id": "max_characters",
+          "label": "Maximum allowed characters",
+          "default": 30
+        },
+        {
+          "type": "header",
+          "content": "Modal Content"
+        },
+        {
+          "type": "checkbox",
+          "id": "enable_modal",
+          "label": "Enable popup",
+          "default": true
+        },
+        {
+          "type": "text",
+          "id": "modal_label",
+          "label": "Label",
+          "default": "Gravurhinweis"
+        },
+        {
+          "type": "richtext",
+          "id": "popup_content",
+          "label": "Content"
+        },
+        {
+          "type": "page",
+          "id": "popup_page_content",
+          "label": "Content from page"
+        },
+        {
+          "type": "header",
+          "content": "Font Picker"
+        },
+        {
+          "type": "text",
+          "id": "font_picker_label",
+          "label": "Label",
+          "info": "Can be empty to hide label"
+        }
+      ]
     },
     {
       "type": "buy-buttons",

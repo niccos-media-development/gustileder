@@ -45,6 +45,21 @@
     <link rel="preload" href="{{ 'main.css' | asset_url }}" as="style">
 
     {%- style %}
+      @font-face {
+        font-family: "Cour";
+        src: url("{{ "cour.woff" | file_url }}");
+      }
+
+      @font-face {
+        font-family: "Handwritten";
+        src: url("{{ "handwritten.woff" | file_url }}");
+      }
+
+      @font-face {
+        font-family: "Rounded";
+        src: url("{{ "rounded.woff" | file_url }}");
+      }
+
       {{- settings.body_font | font_face: font_display: 'swap' -}}
       {{- body_font_bold | font_face: font_display: 'swap' -}}
       {{- body_font_italic | font_face: font_display: 'swap' -}}
@@ -278,6 +293,10 @@
     <link rel="stylesheet" href="{{ 'main.css' | asset_url }}">
     <script src="{{ 'main.js' | asset_url }}" defer="defer"></script>
      <script src="{{ 'niccos.js' | asset_url }}" defer="defer"></script>
+
+    <link rel="preload" href="{{ "cour.woff" | file_url }}" as="font" type="font/woff" crossorigin fetchpriority="high" >
+    <link rel="preload" href="{{ "handwritten.woff" | file_url }}" as="font" type="font/woff" crossorigin fetchpriority="high" >
+    <link rel="preload" href="{{ "rounded.woff" | file_url }}" as="font" type="font/woff" crossorigin fetchpriority="high" >
 
     {%- unless settings.body_font.system? -%}
       <link
