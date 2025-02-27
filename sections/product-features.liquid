@@ -23,6 +23,12 @@
       --hotspot-cross-color: #fff;
     {%- endif %}
   }
+@media (min-width: 600px) {
+  #{{ section.id }} .product-features{
+    max-width:{{ section.settings.max_width }}%;
+    margin: 0 auto;
+  }
+}
 {% endstyle %}
 
 {%- if section.settings.show_content -%}
@@ -60,7 +66,7 @@
     {%- if section.settings.layout == 'text_first' and section.settings.show_content == true -%}
       {{ section_content_html }}
     {%- endif -%}
-    <div class="product-features relative" style="max-width:{{ section.settings.max_width }}%;margin: 0 auto;">
+    <div class="product-features relative">
       <hotspots-image class="product-features__image block relative overflow-hidden"{% if settings.animations_enabled != "disabled" %} data-cc-animate{% endif %}>
         {%- if image != blank -%}
           {%- capture sizes -%}
