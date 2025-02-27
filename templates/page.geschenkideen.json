@@ -205,11 +205,23 @@
             "button_link": ""
           }
         },
-        "column_gfRQYD": {
+        "column_CYKxMP": {
           "type": "column",
           "settings": {
             "enable_media": true,
             "image": "shopify://shop_images/bis_60.jpg",
+            "media_scale": 100,
+            "heading": "Bis 50€",
+            "text": "",
+            "button_label": "Bis 40€",
+            "button_link": ""
+          }
+        },
+        "column_gfRQYD": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/L8_DEF_INSTA1_4260253124373.jpg",
             "media_scale": 100,
             "heading": "Bis 60€",
             "text": "",
@@ -221,6 +233,7 @@
       "block_order": [
         "column_wYV4pm",
         "column_XacJby",
+        "column_CYKxMP",
         "column_gfRQYD"
       ],
       "settings": {
