@@ -11,6 +11,7 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "show_page_title": true,
         "heading_align": "text-center"
@@ -51,6 +52,7 @@
         "text_i4fTGy",
         "button_446Ntx"
       ],
+      "disabled": true,
       "settings": {
         "url": "",
         "height_mode": "auto",
@@ -66,6 +68,154 @@
         "tint_color": "#000000",
         "tint_opacity": 40,
         "prevent_animation": false
+      }
+    },
+    "rich_text_wUYPr7": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_cjTcAf": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_6FJU4n": {
+          "type": "heading",
+          "settings": {
+            "heading": "Keine Ahnung was Du dieses Jahr verschenken sollst?",
+            "heading_size": "h2",
+            "heading_h1": false
+          }
+        },
+        "text_GHbXEX": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Oder noch schlimmer: Was schenkt man jemandem, der schon alles hat? Hier findest Du ganz viel Inspiration und tolle Geschenke mit denen Du deinen Lieben dieses Jahr das Herz erwärmst. Von Tasche bis Notizbuch findest Du hier alles! Dabei hast Du die Chance auf individuelle Gestaltung deiner Geschenke durch eine persönliche Gravur! Und wer Bedenken hat, der findet auf unserer Seite alle Informationen über eine transparente, ehrliche Produktionsart, fairer Preispolitik und keiner Unterstützung von Kinderarbeit! So schenkst Du mit gutem Gewissen.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_xqTWDF": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_cjTcAf",
+        "heading_6FJU4n",
+        "text_GHbXEX",
+        "button_xqTWDF"
+      ],
+      "settings": {
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "wide": false,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "media_with_text_WhXYkc": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_mNP9d3": {
+          "type": "heading",
+          "settings": {
+            "heading": "Vintage, Stilvoll, Funktional",
+            "heading_size": "h4",
+            "heading_h1": false
+          }
+        },
+        "text_Q6xhKa": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Es soll etwas Besonderes sein und dennoch kein Vermögen kosten? Unsere Lederprodukte werden transparent und unter fairen Bedingungen hergestellt. <br/><br/><strong>Nature und Studio</strong><br/>Während sich unsere \"nature\" Produkte durch ihre natürliche Produktion und dem angesagten Vintagelook auszeichnen, kannst Du mit den \"studio\" Produkten durch Funktionalität und elegantes Design punkten.  </p>",
+            "enlarge_text": false
+          }
+        },
+        "button_VRr4e6": {
+          "type": "button",
+          "settings": {
+            "button_label": "Myra",
+            "button_link": "shopify://products/neceser-s-nepromokavy-podsivka-kanvas-hnedy-kuze-2a216-20-24wp",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_mNP9d3",
+        "text_Q6xhKa",
+        "button_VRr4e6"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/web_Myra_2A216-20-24wp.jpg",
+        "image_1": "",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "left",
+        "image_fit": "contain",
+        "media_width": 50,
+        "media_scale": 100,
+        "text_align": "text-start",
+        "color_scheme": "none",
+        "only_content_color_scheme": false
+      }
+    },
+    "media_with_text_FiHhrC": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_LjCfwE": {
+          "type": "heading",
+          "settings": {
+            "heading": "Schenke individuell und einzigartig!",
+            "heading_size": "h4",
+            "heading_h1": false
+          }
+        },
+        "text_3c3wXP": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Zeig Deinen Liebsten, dass sie einzigartig sind und personalisiere Dein Gusti-Leder Geschenk. Oder willst Du ein Produkt zu Deinem machen? Auch dann nutze die Möglichkeit einer Gravur und überreiche nicht nur ein tolles Lederprodukt, sondern auch einen besonderen Spruch oder ein gemeinsames Datum. Dem Beschenkten wird es in jedem Falle ein Lächeln ins Gesicht zaubern!</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_CrbLAp": {
+          "type": "button",
+          "settings": {
+            "button_label": "Gestalte Deine Gravur",
+            "button_link": "shopify://pages/gravur",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_LjCfwE",
+        "text_3c3wXP",
+        "button_CrbLAp"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/gravur_6be35bd8-bc96-40a0-89e7-6183fe689984.jpg",
+        "image_1": "",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "right",
+        "image_fit": "contain",
+        "media_width": 50,
+        "media_scale": 100,
+        "text_align": "text-start",
+        "color_scheme": "none",
+        "only_content_color_scheme": false
       }
     },
     "collection_list_RHeKBJ": {
@@ -116,6 +266,7 @@
         "collection_eAJ4fF",
         "collection_xbRB6E"
       ],
+      "disabled": true,
       "settings": {
         "title": "Collections",
         "heading_align": "text-start",
@@ -156,6 +307,9 @@
   "order": [
     "main",
     "image_banner_h7bfNH",
+    "rich_text_wUYPr7",
+    "media_with_text_WhXYkc",
+    "media_with_text_FiHhrC",
     "collection_list_RHeKBJ",
     "featured_collection_fw9w9V"
   ]
