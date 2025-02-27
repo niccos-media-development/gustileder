@@ -131,7 +131,7 @@
             "spec_empty_field_text": "",
             "show_specification_1": true,
             "specification_title_1": "Leder & Zertifikate",
-            "spec_metafields_1": "Zertifikat: next_cart.zertifikat\nLeder: next_cart.attr21.\nLederart: next_cart.attr22. \nGerbung: next_cart.gerbung\nHerstellungsland: next_cart.herstellungsland\nEigene Gerberei: next_cart.eigene-gerberei\nProduzent: next_cart.produzent",
+            "spec_metafields_1": "Zertifikat: next_cart.zertifikat\nLeder: next_cart.attr21.\nLederart: next_cart.attr22. \nGerbung: next_cart.attr.23.\nHerstellungsland: next_cart.herstellungsland\nEigene Gerberei: next_cart.eigene-gerberei\nProduzent: next_cart.produzent",
             "spec_right_align_1": false,
             "spec_show_empty_metafields_1": false,
             "spec_empty_field_text_1": "",
