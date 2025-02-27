@@ -218,6 +218,285 @@
         "only_content_color_scheme": false
       }
     },
+    "media_grid_Wym94z": {
+      "type": "media-grid",
+      "blocks": {
+        "media_UGmx9T": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/web_Rosamonde_2A285-33-67.jpg",
+            "link_url": "",
+            "columns": 2,
+            "rows": 2,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "Rosamonde",
+            "button_link": "shopify://products/guerteltasche-bauchtasche-handtasche-tasche-braun-leder-2a285-33-67",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_jQ8pGW": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/web_wallet.jpg",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "Pawel",
+            "button_link": "shopify://products/portemonnaie-geldboerse-geldbeutel-herren-schwarz-leder-2a54-22-9",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_mEH9Vp": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/web_Rosie_2P27-24-1.jpg",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "Rosie",
+            "button_link": "shopify://products/buch-tagebuch-rezeptbuch-din-a5-2p27-24-1",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_Lw7jRY": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/web_Norell_2G70-22-5_DEF_2.jpg",
+            "link_url": "",
+            "columns": 2,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "Norell",
+            "button_link": "shopify://products/guerteltasche-bauchtasche-huefttasche-festivaltasche-braun-leder-2g70-22-5",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        }
+      },
+      "block_order": [
+        "media_UGmx9T",
+        "media_jQ8pGW",
+        "media_mEH9Vp",
+        "media_Lw7jRY"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "gallery_cols_max": 4,
+        "mobile_carousel": false,
+        "gallery_cols_min": "1",
+        "fixed_height_desktop": 180,
+        "fixed_height_mobile": 300,
+        "section_color_scheme": "none",
+        "color_scheme": "white",
+        "transparent_content_color": "#ffffff"
+      }
+    },
+    "rich_text_UbBkzz": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_Ka3gJW": {
+          "type": "subheading",
+          "settings": {
+            "text": "Wie wär's mit was Praktischem?"
+          }
+        },
+        "heading_zQXPBg": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Rich text headline",
+            "heading_size": "h2",
+            "heading_h1": false
+          }
+        },
+        "text_GAUiUc": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Ja auch Socken sind praktisch, aber eine Kulturtasche wie unsere \"Eli\" sieht nicht nur gut aus, sondern ist auch ein super Begleiter für kommende Jahre und Reisen! In welchem Look auch immer, hier findest Du was Du brauchst um Deine Lieben glücklich zu machen!</p><p>Schau Dir unsere Gürteltaschen an. Praktisch und stylisch! Du wirst nicht enttäuscht sein und findest vielleicht sogar einen neuen Begleiter für Deine nächste Reise. Halte Ausschau nach unseren Vintage-Handtaschen – Deinen neuen Leder-Liebling entdeckst Du bestimmt in unserer Auswahl an Uni- und Businesstaschen!</p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "subheading_Ka3gJW",
+        "heading_zQXPBg",
+        "text_GAUiUc"
+      ],
+      "settings": {
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "wide": false,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "multi_column_rNUEwC": {
+      "type": "multi-column",
+      "blocks": {
+        "column_zKbWPk": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/web_Eli_2A218-20-2wp.jpg",
+            "media_scale": 100,
+            "heading": "",
+            "text": "",
+            "button_label": "Eli",
+            "button_link": "shopify://products/waschtasche-kulturtasche-kulturbeutel-kosmetiktasche-ledertasche-make-up-tasche-braun-leder-2a218-20-2wp"
+          }
+        },
+        "column_rtFgFa": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/web_Rona_2H84-48-29.jpg",
+            "media_scale": 100,
+            "heading": "",
+            "text": "",
+            "button_label": "Rona",
+            "button_link": "shopify://products/handtasche-umhaengetasche-ledertasche-damen-braun-leder-2h84-48-29"
+          }
+        },
+        "column_AWJWcY": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/web_Spencer_2G7-22-6_1.jpg",
+            "media_scale": 100,
+            "heading": "",
+            "text": "",
+            "button_label": "Spencer",
+            "button_link": "shopify://products/guerteltasche-bauchtasche-festivaltasche-2g7-22-6"
+          }
+        }
+      },
+      "block_order": [
+        "column_zKbWPk",
+        "column_rtFgFa",
+        "column_AWJWcY"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "layout": "carousel",
+        "column_size": "medium",
+        "column_align": "left",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "media_grid_WY9mKD": {
+      "type": "media-grid",
+      "blocks": {
+        "media_GmydxT": {
+          "type": "media",
+          "settings": {
+            "link_url": "",
+            "columns": 2,
+            "rows": 2,
+            "subheading": "",
+            "title": "<p>Media heading</p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_RmTxny": {
+          "type": "media",
+          "settings": {
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Media heading</p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_ExPrPm": {
+          "type": "media",
+          "settings": {
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Media heading</p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        }
+      },
+      "block_order": [
+        "media_GmydxT",
+        "media_RmTxny",
+        "media_ExPrPm"
+      ],
+      "settings": {
+        "title": "Lust auf mehr? Du hast noch nicht genug? Oder es war einfach nicht das Richtige dabei? Dann schau doch mal hier vorbei. Dort findest Du noch mehr Produkte, die Deine Liebsten bestimmt glücklich machen werden. ",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "gallery_cols_max": 4,
+        "mobile_carousel": false,
+        "gallery_cols_min": "1",
+        "fixed_height_desktop": 180,
+        "fixed_height_mobile": 300,
+        "section_color_scheme": "none",
+        "color_scheme": "white",
+        "transparent_content_color": "#ffffff"
+      }
+    },
     "collection_list_RHeKBJ": {
       "type": "collection-list",
       "blocks": {
@@ -310,6 +589,10 @@
     "rich_text_wUYPr7",
     "media_with_text_WhXYkc",
     "media_with_text_FiHhrC",
+    "media_grid_Wym94z",
+    "rich_text_UbBkzz",
+    "multi_column_rNUEwC",
+    "media_grid_WY9mKD",
     "collection_list_RHeKBJ",
     "featured_collection_fw9w9V"
   ]
