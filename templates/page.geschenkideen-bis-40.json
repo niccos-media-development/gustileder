@@ -419,82 +419,122 @@
         "button_style": "btn btn--secondary"
       }
     },
-    "media_grid_WY9mKD": {
-      "type": "media-grid",
+    "multi_column_ykWePk": {
+      "type": "multi-column",
       "blocks": {
-        "media_GmydxT": {
-          "type": "media",
+        "column_4JHbH8": {
+          "type": "column",
           "settings": {
-            "link_url": "",
-            "columns": 2,
-            "rows": 2,
-            "subheading": "",
-            "title": "<p>Media heading</p>",
-            "heading_size": "h4",
-            "button_label": "",
-            "button_link": "",
-            "overlay_position": "justify-start items-end",
-            "text_alignment": "text-start",
-            "button_style": "btn btn--primary",
-            "tint_color": "#000000",
-            "tint_opacity": 25
+            "enable_media": true,
+            "image": "shopify://shop_images/bis-20.jpg",
+            "media_scale": 100,
+            "heading": "Geschenke bis 20€",
+            "text": "",
+            "button_label": "Geschenke bis 20€",
+            "button_link": ""
           }
         },
-        "media_RmTxny": {
-          "type": "media",
+        "column_drYmeg": {
+          "type": "column",
           "settings": {
-            "link_url": "",
-            "columns": 1,
-            "rows": 1,
-            "subheading": "",
-            "title": "<p>Media heading</p>",
-            "heading_size": "h4",
-            "button_label": "",
-            "button_link": "",
-            "overlay_position": "justify-start items-end",
-            "text_alignment": "text-start",
-            "button_style": "btn btn--primary",
-            "tint_color": "#000000",
-            "tint_opacity": 25
+            "enable_media": true,
+            "image": "shopify://shop_images/Spencer_bis-50.jpg",
+            "media_scale": 100,
+            "heading": "Geschenke bis 50€",
+            "text": "",
+            "button_label": "Geschenke bis 50€",
+            "button_link": ""
           }
         },
-        "media_ExPrPm": {
-          "type": "media",
+        "column_3bVhKU": {
+          "type": "column",
           "settings": {
-            "link_url": "",
-            "columns": 1,
-            "rows": 1,
-            "subheading": "",
-            "title": "<p>Media heading</p>",
-            "heading_size": "h4",
-            "button_label": "",
-            "button_link": "",
-            "overlay_position": "justify-start items-end",
-            "text_alignment": "text-start",
-            "button_style": "btn btn--primary",
-            "tint_color": "#000000",
-            "tint_opacity": 25
+            "enable_media": true,
+            "image": "shopify://shop_images/bis_60.jpg",
+            "media_scale": 100,
+            "heading": "Geschenke bis 60€",
+            "text": "",
+            "button_label": "Geschenke bis 60€",
+            "button_link": ""
           }
         }
       },
       "block_order": [
-        "media_GmydxT",
-        "media_RmTxny",
-        "media_ExPrPm"
+        "column_4JHbH8",
+        "column_drYmeg",
+        "column_3bVhKU"
       ],
       "settings": {
         "title": "Lust auf mehr? Du hast noch nicht genug? Oder es war einfach nicht das Richtige dabei? Dann schau doch mal hier vorbei. Dort findest Du noch mehr Produkte, die Deine Liebsten bestimmt glücklich machen werden. ",
         "heading_align": "text-start",
         "button_label": "",
         "button_link": "",
-        "gallery_cols_max": 4,
-        "mobile_carousel": false,
-        "gallery_cols_min": "1",
-        "fixed_height_desktop": 180,
-        "fixed_height_mobile": 300,
-        "section_color_scheme": "none",
-        "color_scheme": "white",
-        "transparent_content_color": "#ffffff"
+        "layout": "carousel",
+        "column_size": "medium",
+        "column_align": "left",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "multi_column_ykPXAk": {
+      "type": "multi-column",
+      "blocks": {
+        "column_jFgy7G": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Emilia-gifts-for-men.jpg",
+            "media_scale": 100,
+            "heading": "Geschenkideen für Männer",
+            "text": "",
+            "button_label": "Geschenke bis 20€",
+            "button_link": ""
+          }
+        },
+        "column_TKhTCw": {
+          "type": "column",
+          "settings": {
+            "enable_media": false,
+            "image": "shopify://shop_images/bis-20.jpg",
+            "media_scale": 100,
+            "heading": "",
+            "text": "<p>Wir wünschen Dir viel Spaß beim Stöbern und Verschenken! Vielleicht ist auch etwas für Dich selbst dabei. Egal ob groß oder klein, Dein Geschenk wird von Herzen kommen.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_fk6ca8": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Agatha-gifts-for-women.png",
+            "media_scale": 100,
+            "heading": "Geschenkideen für frauen",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_jFgy7G",
+        "column_TKhTCw",
+        "column_fk6ca8"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "layout": "carousel",
+        "column_size": "medium",
+        "column_align": "left",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
       }
     },
     "collection_list_RHeKBJ": {
@@ -592,7 +632,8 @@
     "media_grid_Wym94z",
     "rich_text_UbBkzz",
     "multi_column_rNUEwC",
-    "media_grid_WY9mKD",
+    "multi_column_ykWePk",
+    "multi_column_ykPXAk",
     "collection_list_RHeKBJ",
     "featured_collection_fw9w9V"
   ]
