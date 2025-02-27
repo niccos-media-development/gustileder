@@ -134,7 +134,7 @@
           "type": "tabs",
           "settings": {
             "style": "collapsible",
-            "open_first": false,
+            "open_first": true,
             "show_description": true,
             "show_reviews": true,
             "custom_reviews": "",
@@ -144,7 +144,7 @@
             "spec_right_align": false,
             "spec_show_empty_metafields": false,
             "spec_empty_field_text": "",
-            "show_specification_1": true,
+            "show_specification_1": false,
             "specification_title_1": "Leder & Zertifikate",
             "spec_metafields_1": "Zertifikat: next_cart.zertifikat\nLeder: next_cart.attr21.\nLederart: next_cart.attr22. \nGerbung: next_cart.attr.23.\nHerstellungsland: next_cart.herstellungsland\nEigene Gerberei: next_cart.eigene-gerberei\nProduzent: next_cart.produzent",
             "spec_right_align_1": false,
@@ -190,39 +190,6 @@
         "show_content_right": true,
         "text_align": "text-center",
         "color_scheme": "default"
-      }
-    },
-    "video_x3WXjV": {
-      "type": "video",
-      "blocks": {
-        "heading_3cwNxA": {
-          "type": "heading",
-          "settings": {
-            "heading": "Video",
-            "heading_size": "h1",
-            "heading_h1": false
-          }
-        },
-        "text_WgkLNM": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Add text to a video to showcase a detail of your brand or product line.</p>",
-            "enlarge_text": true
-          }
-        }
-      },
-      "block_order": [
-        "heading_3cwNxA",
-        "text_WgkLNM"
-      ],
-      "disabled": true,
-      "settings": {
-        "video_external": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "video_description": "",
-        "video_size": "md",
-        "video_autoplay": true,
-        "text_align": "text-center",
-        "color_scheme": "1"
       }
     },
     "product_list_nd7Epg": {
@@ -307,89 +274,9 @@
         "prevent_animation": false
       }
     },
-    "product-features": {
-      "type": "product-features",
-      "blocks": {
-        "feature_Xz44CF": {
-          "type": "feature",
-          "settings": {
-            "heading": "",
-            "text": "<p>{{ product.metafields.next_cart.pro_beschreibung_1.value }}</p>",
-            "content_align": "text-start",
-            "hotspot_x": 47,
-            "hotspot_y": 37
-          }
-        },
-        "product-features-feature-0": {
-          "type": "feature",
-          "settings": {
-            "heading": "",
-            "text": "<p>{{ product.metafields.next_cart.pro_beschreibung_2.value }}</p>",
-            "content_align": "text-start",
-            "hotspot_x": 28,
-            "hotspot_y": 38
-          }
-        },
-        "product-features-feature-1": {
-          "type": "feature",
-          "settings": {
-            "heading": "",
-            "text": "<p>{{ product.metafields.next_cart.pro_beschreibung_3.value }}</p>",
-            "content_align": "text-start",
-            "hotspot_x": 60,
-            "hotspot_y": 29
-          }
-        },
-        "product-features-feature-2": {
-          "type": "feature",
-          "settings": {
-            "heading": "",
-            "text": "<p>{{ product.metafields.next_cart.pro_beschreibung_4.value }}</p>",
-            "content_align": "text-start",
-            "hotspot_x": 73,
-            "hotspot_y": 54
-          }
-        },
-        "product-features-feature-3": {
-          "type": "feature",
-          "settings": {
-            "heading": "",
-            "text": "<p>{{ product.metafields.next_cart.pro_beschreibung_5.value }}</p>",
-            "content_align": "text-start",
-            "hotspot_x": 50,
-            "hotspot_y": 66
-          }
-        }
-      },
-      "block_order": [
-        "feature_Xz44CF",
-        "product-features-feature-0",
-        "product-features-feature-1",
-        "product-features-feature-2",
-        "product-features-feature-3"
-      ],
-      "settings": {
-        "product": "{{ product }}",
-        "image_1": "{{ section.settings.product.metafields.custom.kostentransparenzbilder_1.value }}",
-        "max_width": 50,
-        "show_content": false,
-        "layout": "text_first",
-        "text_align": "text-center",
-        "mob_center_text": false,
-        "heading_size": "h1",
-        "enlarge_text": false,
-        "image": "{{ section.settings.product.metafields.custom.produktfeatures.value }}",
-        "title": "",
-        "description": "",
-        "button_label": "",
-        "button_link": "",
-        "hotspot_color": "#070707",
-        "color_scheme": "none",
-        "button_style": "btn btn--primary"
-      }
-    },
     "recommendations": {
       "type": "product-recommendations",
+      "disabled": true,
       "settings": {
         "heading": "Entdecke ähnliche Produkte zu {{ product.title }}",
         "heading_align": "text-start",
@@ -501,52 +388,6 @@
         "tint_opacity": 40,
         "accessibility_info": "",
         "prevent_animation": true
-      }
-    },
-    "media_with_text_TM333A": {
-      "type": "media-with-text",
-      "blocks": {
-        "heading_mWPQGr": {
-          "type": "heading",
-          "settings": {
-            "heading": "Warum sind unsere Preise so attraktiv?",
-            "heading_size": "h3",
-            "heading_h1": false
-          }
-        },
-        "text_jAU7Y3": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Hochwertiges Leder muss nicht teuer sein! Unsere Preise sind transparent, konstant und bewusst kalkuliert – ohne versteckte Kosten. Dank eigener Produktion, nachhaltiger Verpackung und einem durchdachten Logistiksystem können wir unsere Lederprodukte zu einem unschlagbaren Preis anbieten. So erhältst DU beste Qualität, ohne Kompromisse einzugehen. Unser Ziel? Dass dein neues Lederprodukt nicht nur erschwinglich ist, sondern auch dein täglicher Begleiter wird!</p><p><strong>Überzeuge dich selbst und entdecke unsere Lederfavoriten jetzt!</strong></p>",
-            "enlarge_text": false
-          }
-        },
-        "button_nGBhib": {
-          "type": "button",
-          "settings": {
-            "button_label": "Unsere Bestseller",
-            "button_link": "shopify://collections/bestseller",
-            "button_style": "btn btn--primary"
-          }
-        }
-      },
-      "block_order": [
-        "heading_mWPQGr",
-        "text_jAU7Y3",
-        "button_nGBhib"
-      ],
-      "settings": {
-        "image_1": "{{ product.metafields.custom.kostentransparenzbilder_1.value }}",
-        "video_external": "",
-        "video_description": "",
-        "video_autoplay": false,
-        "layout": "left",
-        "image_fit": "contain",
-        "media_width": 50,
-        "media_scale": 100,
-        "text_align": "text-start",
-        "color_scheme": "none",
-        "only_content_color_scheme": false
       }
     },
     "media_grid_CkgMJY": {
@@ -706,13 +547,10 @@
     "main",
     "details",
     "niccos_video_GVPzHA",
-    "video_x3WXjV",
     "product_list_nd7Epg",
     "icons_with_text_YwygDr",
-    "product-features",
     "recommendations",
     "slideshow_FGXjXJ",
-    "media_with_text_TM333A",
     "media_grid_CkgMJY",
     "recently_viewed_AxjKk3"
   ]
