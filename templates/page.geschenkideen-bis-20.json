@@ -250,7 +250,7 @@
         "button_iT7C8C": {
           "type": "button",
           "settings": {
-            "button_label": "Gravur",
+            "button_label": "Gestalte Deine Gravur",
             "button_link": "shopify://pages/gravur",
             "button_style": "btn btn--primary"
           }
