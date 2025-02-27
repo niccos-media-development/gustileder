@@ -66,7 +66,7 @@
     {%- if section.settings.layout == 'text_first' and section.settings.show_content == true -%}
       {{ section_content_html }}
     {%- endif -%}
-    <div class="product-features relative  {% if section.settings.image_1 != blank %}grid custom_grid-flow-col  sm:auto-cols-2 gap-x-theme gap-y-8{% endif %}">
+    <div class="product-features relative  {% if section.settings.image_1 != blank %}grid items-center custom_grid-flow-col  sm:auto-cols-2 gap-x-theme gap-y-8{% endif %}">
       <hotspots-image class="product-features__image block relative overflow-hidden"{% if settings.animations_enabled != "disabled" %} data-cc-animate{% endif %}>
         {%- if image != blank -%}
           {%- capture sizes -%}
