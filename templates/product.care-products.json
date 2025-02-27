@@ -335,6 +335,7 @@
         "product-features-feature-2",
         "product-features-feature-3"
       ],
+      "disabled": true,
       "settings": {
         "product": "{{ product }}",
         "image_1": "{{ section.settings.product.metafields.custom.kostentransparenzbilder_1.value }}",
@@ -357,6 +358,7 @@
     },
     "recommendations": {
       "type": "product-recommendations",
+      "disabled": true,
       "settings": {
         "heading": "Entdecke ähnliche Produkte zu {{ product.title }}",
         "heading_align": "text-start",
