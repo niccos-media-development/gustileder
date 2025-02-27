@@ -44,6 +44,20 @@
             "show_tax_and_shipping": true
           }
         },
+        "engraving_aVypEa": {
+          "type": "engraving",
+          "settings": {
+            "engraving_product": "",
+            "label": "Füge Deine persönliche Gravur hinzu (+<price> €)</price>",
+            "placeholder_text": "Gravur Text...",
+            "max_characters": 30,
+            "enable_modal": true,
+            "modal_label": "Gravurhinweis",
+            "popup_content": "",
+            "popup_page_content": "",
+            "font_picker_label": ""
+          }
+        },
         "variant-picker": {
           "type": "variant-picker",
           "settings": {
@@ -78,6 +92,7 @@
         "title",
         "richtext_PaJnYi",
         "price",
+        "engraving_aVypEa",
         "variant-picker",
         "variant_swatch_G8EArw",
         "buy-buttons"
@@ -355,6 +370,7 @@
       ],
       "settings": {
         "product": "{{ product }}",
+        "max_width": 50,
         "show_content": false,
         "layout": "text_first",
         "text_align": "text-center",
