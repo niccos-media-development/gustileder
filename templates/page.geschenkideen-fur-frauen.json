@@ -449,6 +449,154 @@
         "button_style": "btn btn--secondary"
       }
     },
+    "media_grid_DqhYQz": {
+      "type": "media-grid",
+      "blocks": {
+        "media_3xJrXN": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Linus_web.jpg",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "Geschenke bis 20€",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_jD3Hpf": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Rosie_bis-40.jpg",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "Geschenke bis 40€",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_jpWg7N": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Spencer_bis-50.jpg",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "Geschenke bis 50€",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_eVecbT": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Lena_bis-60.jpg",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "Geschenke bis 40€",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        }
+      },
+      "block_order": [
+        "media_3xJrXN",
+        "media_jD3Hpf",
+        "media_jpWg7N",
+        "media_eVecbT"
+      ],
+      "settings": {
+        "title": "Finde noch mehr Inspiration",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "gallery_cols_max": 4,
+        "mobile_carousel": false,
+        "gallery_cols_min": "1",
+        "fixed_height_desktop": 180,
+        "fixed_height_mobile": 300,
+        "section_color_scheme": "none",
+        "color_scheme": "white",
+        "transparent_content_color": "#ffffff"
+      }
+    },
+    "media_with_text_FpjQB9": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_rKpYn8": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "text_7zt4Vy": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wir wünschen dir viel Spaß beim Stöbern und Verschenken! Vielleicht ist auch etwas für dich selbst dabei. Egal ob groß oder klein, dein Geschenk wird von Herzen kommen.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_PEJKWW": {
+          "type": "button",
+          "settings": {
+            "button_label": "Geschenkideen für Männer",
+            "button_link": "",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_rKpYn8",
+        "text_7zt4Vy",
+        "button_PEJKWW"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Emilia-gifts-for-men.jpg",
+        "image_1": "",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "left",
+        "image_fit": "contain",
+        "media_width": 50,
+        "media_scale": 100,
+        "text_align": "text-start",
+        "color_scheme": "none",
+        "only_content_color_scheme": false
+      }
+    },
     "collection_list_RHeKBJ": {
       "type": "collection-list",
       "blocks": {
@@ -545,6 +693,8 @@
     "media_with_text_rtA8xH",
     "multi_column_3fGrU6",
     "multi_column_FQagzB",
+    "media_grid_DqhYQz",
+    "media_with_text_FpjQB9",
     "collection_list_RHeKBJ",
     "featured_collection_fw9w9V"
   ]
