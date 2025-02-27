@@ -11,6 +11,7 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "show_page_title": true,
         "heading_align": "text-center"
@@ -51,6 +52,7 @@
         "text_i4fTGy",
         "button_446Ntx"
       ],
+      "disabled": true,
       "settings": {
         "url": "",
         "height_mode": "auto",
@@ -66,6 +68,332 @@
         "tint_color": "#000000",
         "tint_opacity": 40,
         "prevent_animation": false
+      }
+    },
+    "rich_text_yRtRVY": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_CHkNyw": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_dynWPd": {
+          "type": "heading",
+          "settings": {
+            "heading": "Geschenke bis 50€",
+            "heading_size": "h2",
+            "heading_h1": false
+          }
+        },
+        "text_n7jk4T": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Keine Idee, was Du dieses Jahr verschenken sollst?<br/><br/>Hier findest Du jede Menge Inspiration und großartige Geschenke, die Deinen Liebsten garantiert ein Lächeln ins Gesicht zaubern! Von Taschen bis zu Geldbörsen – hier findest Du alles!<br/><br/>Mach Dein Geschenk einzigartig mit einer Gravur! Schenke nicht nur ein fantastisches Lederprodukt, sondern füge eine persönliche Note hinzu: ein kurzes Zitat, die Initialen Deiner Liebsten oder ein besonderes Datum. Es wird sicher für Begeisterung sorgen!</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_kRxy9B": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_CHkNyw",
+        "heading_dynWPd",
+        "text_n7jk4T",
+        "button_kRxy9B"
+      ],
+      "settings": {
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "wide": false,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "rich_text_zmphfh": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_74Y9pJ": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_QVgmJm": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Geschenke bis 50€",
+            "heading_size": "h2",
+            "heading_h1": false
+          }
+        },
+        "text_MLAjRi": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Entdecke unsere <strong>Gürteltaschen</strong>. Praktisch und stylisch! Du wirst nicht enttäuscht sein und findest vielleicht Deinen neuen Begleiter für Deine nächste Reise. Kompakt, aber geräumig –<strong>unsere Gürteltaschen bieten Platz für all Deine Essentials</strong>. In unserer Kollektion findest Du Deinen neuen Leder-Liebling in verschiedenen Designs und Farben.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_4XLfDq": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_74Y9pJ",
+        "heading_QVgmJm",
+        "text_MLAjRi",
+        "button_4XLfDq"
+      ],
+      "settings": {
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "wide": false,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "media_grid_MqYbjY": {
+      "type": "media-grid",
+      "blocks": {
+        "media_q89rK4": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/wwe_Cillian_2G61-48-6_f.jpg",
+            "link_url": "",
+            "columns": 2,
+            "rows": 2,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "Cillian",
+            "button_link": "shopify://products/ledvinka-taska-na-opasek-taska-na-bok-taska-na-festival-cerna-kuze-2g61-48-6",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_NhTmWR": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/web_Spencer_2G7-22-6.jpg",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "Spencer",
+            "button_link": "shopify://products/guerteltasche-bauchtasche-festivaltasche-2g7-22-6",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_JTR96B": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/web_Eskil_2A256-48-5.jpg",
+            "link_url": "",
+            "columns": 2,
+            "rows": 2,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "Eskil",
+            "button_link": "shopify://products/tasticka-mini-ledvinka-na-pasek-penezenka-hneda-kuze-2a256-48-5",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_WDiFkH": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/2A285-33-21_web.jpg",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "Rosamonde",
+            "button_link": "shopify://products/guerteltasche-bauchtasche-huefttasche-festivaltasche-tasche-handtasche-leder-schwarz-2a285-33-21",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        }
+      },
+      "block_order": [
+        "media_q89rK4",
+        "media_NhTmWR",
+        "media_JTR96B",
+        "media_WDiFkH"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "gallery_cols_max": 4,
+        "mobile_carousel": false,
+        "gallery_cols_min": "1",
+        "fixed_height_desktop": 180,
+        "fixed_height_mobile": 300,
+        "section_color_scheme": "none",
+        "color_scheme": "white",
+        "transparent_content_color": "#ffffff"
+      }
+    },
+    "multi_column_jNV6fL": {
+      "type": "multi-column",
+      "blocks": {
+        "column_XB4Tqc": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/web_Macon2_2A132-22-32.jpg",
+            "media_scale": 100,
+            "heading": "Schlank und stilvoll „Macon“",
+            "text": "",
+            "button_label": "Macon",
+            "button_link": "shopify://products/geldboerse-portemonnaie-brieftasche-geldbeutel-herren-schwarz-leder-2a132-22-32"
+          }
+        },
+        "column_JKN8gy": {
+          "type": "column",
+          "settings": {
+            "enable_media": false,
+            "media_scale": 100,
+            "heading": "",
+            "text": "<p><strong>Geldbörsen</strong>, die Ordnung und Stil vereinen! Entdecke unsere zeitlosen und trendigen Geldbörsen für Damen und Herren. Hergestellt aus hochwertigem Echtleder, sind sie die perfekten Geschenkideen für jeden Anlass.</p><p>„Macon“ ist ein klassisches und praktisches Accessoire mit vielen Fächern für Bargeld und Karten.</p><p>Unsere elegante „Emma“ ist ebenfalls ein Hingucker – stilvoll, geräumig und langlebig.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_U6kWa4": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/web_Emma_A12_6.jpg",
+            "media_scale": 100,
+            "heading": "Trendige und geräumige Geldbörse „Emma“",
+            "text": "",
+            "button_label": "Emma",
+            "button_link": "shopify://products/geldboerse-portemonnaie-brieftasche-a12"
+          }
+        }
+      },
+      "block_order": [
+        "column_XB4Tqc",
+        "column_JKN8gy",
+        "column_U6kWa4"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "layout": "carousel",
+        "column_size": "medium",
+        "column_align": "left",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "multi_column_6hedJG": {
+      "type": "multi-column",
+      "blocks": {
+        "column_iByj9T": {
+          "type": "column",
+          "settings": {
+            "enable_media": false,
+            "media_scale": 100,
+            "heading": "",
+            "text": "<p><strong>Stylische Handtaschen </strong>für Modebewusste. Entdecke unsere Schätze an schicken Handtaschen – perfekt für Fashionistas, die kleine, süße und reisetaugliche Taschen suchen. Funktional, geräumig und stylisch – unsere Taschen passen zu jedem Anlass.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_7FYjjn": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/web_Summer_M_H18.jpg",
+            "media_scale": 100,
+            "heading": "",
+            "text": "",
+            "button_label": "Summer M",
+            "button_link": "shopify://products/echtleder-handtasche-h18"
+          }
+        },
+        "column_wt87VN": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/web_Soren_2A344-80-15.jpg",
+            "media_scale": 100,
+            "heading": "",
+            "text": "",
+            "button_label": "Soren",
+            "button_link": "shopify://products/handbag-shoulder-bag-leather-bag-crossbody-brown-leather-2a344-80-15"
+          }
+        }
+      },
+      "block_order": [
+        "column_iByj9T",
+        "column_7FYjjn",
+        "column_wt87VN"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "layout": "carousel",
+        "column_size": "medium",
+        "column_align": "left",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
       }
     },
     "collection_list_RHeKBJ": {
@@ -116,6 +444,7 @@
         "collection_eAJ4fF",
         "collection_xbRB6E"
       ],
+      "disabled": true,
       "settings": {
         "title": "Collections",
         "heading_align": "text-start",
@@ -156,6 +485,11 @@
   "order": [
     "main",
     "image_banner_h7bfNH",
+    "rich_text_yRtRVY",
+    "rich_text_zmphfh",
+    "media_grid_MqYbjY",
+    "multi_column_jNV6fL",
+    "multi_column_6hedJG",
     "collection_list_RHeKBJ",
     "featured_collection_fw9w9V"
   ]
