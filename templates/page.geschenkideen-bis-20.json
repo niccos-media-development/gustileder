@@ -11,6 +11,7 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "show_page_title": true,
         "heading_align": "text-center"
@@ -51,6 +52,7 @@
         "text_i4fTGy",
         "button_446Ntx"
       ],
+      "disabled": true,
       "settings": {
         "url": "",
         "height_mode": "auto",
@@ -66,6 +68,270 @@
         "tint_color": "#000000",
         "tint_opacity": 40,
         "prevent_animation": false
+      }
+    },
+    "rich_text_JRJGQX": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_4fTFHz": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_aVy8xw": {
+          "type": "heading",
+          "settings": {
+            "heading": "Klein aber fein - tolle Geschenkideen für kleines Geld!",
+            "heading_size": "h2",
+            "heading_h1": false
+          }
+        },
+        "text_aWzmmF": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Du bist noch auf der Suche nach dem richtigen Geschenk? Es soll etwas Besonderes sein und dennoch kein Vermögen kosten? Dann schau Dich in unserem Shop um und entdecke tolle Geschenkideen für bis zu 20 Euro. Dabei werden alle unsere Lederprodukte transparent und unter fairen Bedingungen hergestellt. Egal für wen Du etwas suchst, hier ist etwas dabei. Ob nun als Geschenk für das Weihnachtswichteln auf Arbeit oder als kleine Aufmerksamkeit, die Auswahl ist riesig!</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_hAfcHH": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_4fTFHz",
+        "heading_aVy8xw",
+        "text_aWzmmF",
+        "button_hAfcHH"
+      ],
+      "settings": {
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "wide": false,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "multi_column_bFdmg4": {
+      "type": "multi-column",
+      "blocks": {
+        "column_Tgk9p4": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/web_Linus6_2A139-20-56.jpg",
+            "media_scale": 100,
+            "heading": "",
+            "text": "",
+            "button_label": "Linus",
+            "button_link": "shopify://products/purse-wallet-small-coin-purse-mini-purse-wallet-metallic-copper-leather-2a139-20-56"
+          }
+        },
+        "column_NLRFX3": {
+          "type": "column",
+          "settings": {
+            "enable_media": false,
+            "media_scale": 100,
+            "heading": "Du möchtest ein Individuelles Geschenk?",
+            "text": "<p>Finde noch mehr Inspiration<br/>Mit unseren Geldbörsen ist das ganz leicht. Ob nun ganz klein, für ein paar Münzen oder den Schlüssel, oder groß damit auch alle deine Karten Platz haben. Mit unseren Portemonnaie's triffst Du immer ins Schwarze. Bei vielen unserer kleinen Platzwunder kannst Du Dir auch noch eine ganz individuelle Farbe aussuchen! </p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_p8wggX": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/web_Macy_2A103-26-9.jpg",
+            "media_scale": 100,
+            "heading": "",
+            "text": "",
+            "button_label": "Macy",
+            "button_link": "shopify://products/geldbeutel-schluesseltasche-portemonnaie-2a103-26-9"
+          }
+        }
+      },
+      "block_order": [
+        "column_Tgk9p4",
+        "column_NLRFX3",
+        "column_p8wggX"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "layout": "carousel",
+        "column_size": "medium",
+        "column_align": "left",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "media_with_text_Ne69gD": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_6aap3z": {
+          "type": "heading",
+          "settings": {
+            "heading": "Stehst du auf Pink?",
+            "heading_size": "h4",
+            "heading_h1": false
+          }
+        },
+        "text_7mK6ij": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Unsere Schlüsseltasche „Rook“ wird Dein neuer bester Freund! Sie ist in verschiedenen Farben erhältlich, darunter Grün, Rosa, Currygelb und vieles mehr.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_C3DDwk": {
+          "type": "button",
+          "settings": {
+            "button_label": "Rook",
+            "button_link": "shopify://products/mini-schluesseltasche-portemonnaie-geldbeutel-2a92-22-6",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_6aap3z",
+        "text_7mK6ij",
+        "button_C3DDwk"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/web_Rook_2A92-22-6.jpg",
+        "image_1": "",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "left",
+        "image_fit": "contain",
+        "media_width": 50,
+        "media_scale": 100,
+        "text_align": "text-start",
+        "color_scheme": "none",
+        "only_content_color_scheme": false
+      }
+    },
+    "media_with_text_kHURnm": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_BkeQje": {
+          "type": "heading",
+          "settings": {
+            "heading": "Schenke individuell und einzigartig! ",
+            "heading_size": "h4",
+            "heading_h1": false
+          }
+        },
+        "text_7prifr": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Jeder möchte sich doch gerne besonders fühlen. Zeig Deinen Liebsten, dass sie einzigartig sind und personalisiere Dein Gusti-Leder Geschenk mit einer Gravur! Überreiche nicht nur ein tolles Lederprodukt, sondern auch einen besonderen Spruch, die Initialien oder ein gemeinsames Datum. Dem Beschenkten wird es in jedem Falle ein Lächeln ins Gesicht zaubern! Mit so einer Widmung schenkt man von Herzen.<br/><br/>Oder willst Du ein Produkt zu Deinem machen? Auch dann nutze die Möglichkeit einer persönlichen Gravur, um Dein Hab und Gut zu kennzeichnen.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_iT7C8C": {
+          "type": "button",
+          "settings": {
+            "button_label": "Gravur",
+            "button_link": "shopify://pages/gravur",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_BkeQje",
+        "text_7prifr",
+        "button_iT7C8C"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/gravur_6be35bd8-bc96-40a0-89e7-6183fe689984.jpg",
+        "image_1": "",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "right",
+        "image_fit": "contain",
+        "media_width": 50,
+        "media_scale": 100,
+        "text_align": "text-start",
+        "color_scheme": "none",
+        "only_content_color_scheme": false
+      }
+    },
+    "multi_column_XgWNYP": {
+      "type": "multi-column",
+      "blocks": {
+        "column_JHYwWz": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/web_Edla_2A179-20-2wpb.jpg",
+            "media_scale": 100,
+            "heading": "",
+            "text": "",
+            "button_label": "Edla",
+            "button_link": "shopify://products/kosmetiktasche-utensilientasche-kulturbeutel-waschtasche-schminktasche-kulturtasche-braunleder-2a179-20-2wpb"
+          }
+        },
+        "column_xVKhch": {
+          "type": "column",
+          "settings": {
+            "enable_media": false,
+            "image": "shopify://shop_images/web_Peter_2S1-20-2w.jpg",
+            "media_scale": 100,
+            "heading": "Noch nicht fündig geworden?",
+            "text": "<p>Schau Dir auch unsere anderen Produkte an, wie zum Beispiel unsere Federmäppchen – praktisch und stylisch zugleich, der perfekte Ort für Stifte und Schreibutensilien. Innen ist viel Platz für alles, was Du brauchst.</p><p><strong>Gusti Leder studio und Gusti Leder nature </strong><br/><br/>Wir übernehmen Verantwortung: Mit Gusti Leder nature unterstützen wir kleine Familienunternehmen, die unsere Ziegenlederprodukte fertigen. Mit Gusti Leder Studio ergänzen wir unsere Produktlinie, um Ihnen Ihre Wünsche noch besser erfüllen zu können und Dir eine breiter gefächerte Produktauswahl bieten zu können.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_igjdkt": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "media_scale": 100,
+            "heading": "",
+            "text": "",
+            "button_label": "Peter",
+            "button_link": "shopify://products/federtasche-federmappe-maeppchen-2s1-20-2wp"
+          }
+        }
+      },
+      "block_order": [
+        "column_JHYwWz",
+        "column_xVKhch",
+        "column_igjdkt"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "layout": "carousel",
+        "column_size": "medium",
+        "column_align": "left",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
       }
     },
     "collection_list_RHeKBJ": {
@@ -116,6 +382,7 @@
         "collection_eAJ4fF",
         "collection_xbRB6E"
       ],
+      "disabled": true,
       "settings": {
         "title": "Collections",
         "heading_align": "text-start",
@@ -156,6 +423,11 @@
   "order": [
     "main",
     "image_banner_h7bfNH",
+    "rich_text_JRJGQX",
+    "multi_column_bFdmg4",
+    "media_with_text_Ne69gD",
+    "media_with_text_kHURnm",
+    "multi_column_XgWNYP",
     "collection_list_RHeKBJ",
     "featured_collection_fw9w9V"
   ]
