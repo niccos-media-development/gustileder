@@ -52,6 +52,7 @@
         "text_i4fTGy",
         "button_446Ntx"
       ],
+      "disabled": true,
       "settings": {
         "url": "",
         "height_mode": "auto",
@@ -66,6 +67,59 @@
         "transparent_content_color": "#ffffff",
         "tint_color": "#000000",
         "tint_opacity": 40,
+        "prevent_animation": false
+      }
+    },
+    "rich_text_QNdAQd": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_rfLPQc": {
+          "type": "heading",
+          "settings": {
+            "heading": "Geschenkideen für Frauen",
+            "heading_size": "h2",
+            "heading_h1": false
+          }
+        },
+        "subheading_gkJYpK": {
+          "type": "subheading",
+          "settings": {
+            "text": "Du suchst ein tolles Geschenk für eine ganz besondere Frau?"
+          }
+        },
+        "text_XHbFty": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Du bist noch auf der Suche nach dem richtigen Geschenk? Es soll etwas Besonderes sein und dennoch kein Vermögen kosten, oder vielleicht doch? Dann schau dich in unserem Shop um und entdecke tolle Geschenkideen für alle Preisklassen! Dabei werden alle unsere Lederprodukte transparent und unter fairen Bedingungen hergestellt. Ob nun eine Kleinigkeit oder ein großes Geschenk, unsere Kategorien reichen von Schreibwaren über Fahrradzubehör bis hin zur Umhängetasche für die Arbeit. Schau Dich in unseren Kategorien um und finde etwas, dass das Herz der Beschenkten höher schlagen lässt!</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_rdmfBb": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_rfLPQc",
+        "subheading_gkJYpK",
+        "text_XHbFty",
+        "button_rdmfBb"
+      ],
+      "settings": {
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "wide": false,
+        "color_scheme": "none",
+        "full_width": true,
         "prevent_animation": false
       }
     },
@@ -117,6 +171,7 @@
         "collection_eAJ4fF",
         "collection_xbRB6E"
       ],
+      "disabled": true,
       "settings": {
         "title": "Collections",
         "heading_align": "text-start",
@@ -157,6 +212,7 @@
   "order": [
     "main",
     "image_banner_h7bfNH",
+    "rich_text_QNdAQd",
     "collection_list_RHeKBJ",
     "featured_collection_fw9w9V"
   ]
