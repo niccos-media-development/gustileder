@@ -127,6 +127,65 @@
         "prevent_animation": false
       }
     },
+    "multi_column_E9J7K4": {
+      "type": "multi-column",
+      "blocks": {
+        "column_Q3CceL": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Alexandra_2H52-33-7_2.jpg",
+            "media_scale": 100,
+            "heading": "Alexandra",
+            "text": "<p>Take our versatile tote bag “<strong>Alexandra</strong>” on days out, to the office, or on short getaways. Its elegant and vintage design fits perfectly with your formal looks as well as your casual outfits. “Alexandra” has a spacious main compartment with an additional zipped compartment and two zipped pockets where you can keep your belongings safe. Use the magnetic fastening and zip to protect your valuables. Personalize your favorite tote bag with a unique engraving!</p><p><strong>Größe            </strong>35 x 35 x 15.5 cm</p><p><strong>Lederart        </strong>Rindsleder</p><p><strong>Innen Fächer </strong>3</p><p><strong>Verschluss  </strong>Magnet</p><p></p>",
+            "button_label": "",
+            "button_link": "shopify://products/shopper-handtasche-henkeltasche-2h52-33-7"
+          }
+        },
+        "column_cEYgMV": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Cassidy_2H51-33-1_5.jpg",
+            "media_scale": 100,
+            "heading": "Cassidy",
+            "text": "<p>Vervollständige Dein Outfit mit unserer eleganten und stilvollen Shopper-Tasche \"<strong>Cassidy</strong>\". Mit einem Fassungsvermögen von 13 Litern ist \"Cassidy\" der perfekte Begleiter für Einkaufstouren. Die Tasche wird mit einer zusätzlichen abnehmbaren Mini-Reißverschlusstasche geliefert, in der du kleinere Gegenstände wie Schlüssel, Handy, Taschenspiegel oder Make-up sicher aufbewahren kannst. Ihr schickes Design, hochwertige Verarbeitung und elegante Farbe machen \"Cassidy\" zum Blickfang, egal wohin du gehst.</p><p><strong>Größe            </strong>29 x 35 x 13 cm</p><p><strong>Lederart        </strong>Rindsleder</p><p><strong>Innen Fächer </strong>1</p><p><strong>Verschluss  </strong>Magnet</p><p></p>",
+            "button_label": "",
+            "button_link": "shopify://products/shopper-handtasche-ledertasche-henkeltasche-2h51-33-1"
+          }
+        },
+        "column_m4Pcjf": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Agatha_2A244-26-19_feed_18.jpg",
+            "media_scale": 100,
+            "heading": "Agatha",
+            "text": "<p>Entdecke unsere geräumige Shopper-Tasche \"<strong>Agatha</strong>\", die genug Platz für all Deine wichtigen Dinge bietet. Diese extragroße Handtasche wird Dich mit ihrer Größe und Vielseitigkeit beeindrucken. Ob du sie zur Universität oder zum Abendessen mitnimmst, sie ergänzt Deinen legeren Look mit einer eleganten Note und passt immer perfekt zu Deinem Stil!</p><p><strong>Größe            </strong>44 x 30 x 20 cm</p><p><strong>Lederart        </strong>Büffel Leder</p><p><strong>Innen Fächer </strong>1</p><p><strong>Verschluss  </strong></p><p></p>",
+            "button_label": "",
+            "button_link": "shopify://products/shopper-kabelka-kozena-taska-pres-rameno-na-volny-cas-do-skoly-hneda-kuze-2a244-26-19"
+          }
+        }
+      },
+      "block_order": [
+        "column_Q3CceL",
+        "column_cEYgMV",
+        "column_m4Pcjf"
+      ],
+      "settings": {
+        "title": "Vielseitig und geräumig",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "layout": "carousel",
+        "column_size": "medium",
+        "column_align": "left",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
+      }
+    },
     "multi_column_bWDNYL": {
       "type": "multi-column",
       "blocks": {
@@ -212,74 +271,28 @@
             "button_label": "",
             "button_link": "shopify://products/handtasche-umhaengetasche-shopper-ledertasche-braun-leder-2h136-48-5"
           }
+        },
+        "column_yENP7m": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Jacqueline_2H174-48-31_web.jpg",
+            "media_scale": 100,
+            "heading": "Jacqueline",
+            "text": "<p>Nimm “Jacqueline” auf Deinen nächsten Kurztrip mit. Diese elegante Tragetasche verfügt über geräumige Innenfächer und eine Reißverschlusstasche vorne, um all Deine Essentials organisiert zu halten. Das Hauptfach der Tasche wird mit einem robusten Reißverschluss gesichert, um all Deine Sachen sicher zu verwahren. Ihr hochwertiges Leder, schickes Design und moosgrüne Farbe machen sie zu einem Muss für Urlauber. Du kannst “Jacqueline” auch ins Büro mitnehmen, da sie genug Platz für deinen Laptop, Wasserflasche, Geldbörse, Notizbuch, Schlüssel und Make-up bietet.</p><p><strong>Größe             </strong>27 x 30 x 15 cm</p><p><strong>Lederart        </strong>Rindsleder</p><p><strong>Innen Fächer </strong>2</p><p><strong>Verschluss  </strong>Reißverschluss</p>",
+            "button_label": "",
+            "button_link": "shopify://products/shopper-handtasche-umhaengetasche-riementasche-schultertasche-unitasche-bag-shopping-tasche-ledertasche-damen-gruen-leder-2h174-48-31"
+          }
         }
       },
       "block_order": [
         "column_9VkaWW",
-        "column_fKMdVh"
+        "column_fKMdVh",
+        "column_yENP7m"
       ],
       "settings": {
         "title": "Dein Begleiter für Kurztrips",
         "heading_align": "text-center",
-        "button_label": "",
-        "button_link": "",
-        "layout": "carousel",
-        "column_size": "medium",
-        "column_align": "left",
-        "media_align": "text-center",
-        "image_ratio": "1",
-        "color_scheme": "1",
-        "button_style": "btn btn--secondary"
-      }
-    },
-    "multi_column_E9J7K4": {
-      "type": "multi-column",
-      "blocks": {
-        "column_Q3CceL": {
-          "type": "column",
-          "settings": {
-            "enable_media": true,
-            "image": "shopify://shop_images/Alexandra_2H52-33-7_2.jpg",
-            "media_scale": 100,
-            "heading": "Alexandra",
-            "text": "<p>Take our versatile tote bag “<strong>Alexandra</strong>” on days out, to the office, or on short getaways. Its elegant and vintage design fits perfectly with your formal looks as well as your casual outfits. “Alexandra” has a spacious main compartment with an additional zipped compartment and two zipped pockets where you can keep your belongings safe. Use the magnetic fastening and zip to protect your valuables. Personalize your favorite tote bag with a unique engraving!</p><p><strong>Größe            </strong>35 x 35 x 15.5 cm</p><p><strong>Lederart        </strong>Rindsleder</p><p><strong>Innen Fächer </strong>3</p><p><strong>Verschluss  </strong>Magnet</p><p></p>",
-            "button_label": "",
-            "button_link": "shopify://products/shopper-handtasche-henkeltasche-2h52-33-7"
-          }
-        },
-        "column_cEYgMV": {
-          "type": "column",
-          "settings": {
-            "enable_media": true,
-            "image": "shopify://shop_images/Cassidy_2H51-33-1_5.jpg",
-            "media_scale": 100,
-            "heading": "Cassidy",
-            "text": "<p>Vervollständige Dein Outfit mit unserer eleganten und stilvollen Shopper-Tasche \"<strong>Cassidy</strong>\". Mit einem Fassungsvermögen von 13 Litern ist \"Cassidy\" der perfekte Begleiter für Einkaufstouren. Die Tasche wird mit einer zusätzlichen abnehmbaren Mini-Reißverschlusstasche geliefert, in der du kleinere Gegenstände wie Schlüssel, Handy, Taschenspiegel oder Make-up sicher aufbewahren kannst. Ihr schickes Design, hochwertige Verarbeitung und elegante Farbe machen \"Cassidy\" zum Blickfang, egal wohin du gehst.</p><p><strong>Größe            </strong>29 x 35 x 13 cm</p><p><strong>Lederart        </strong>Rindsleder</p><p><strong>Innen Fächer </strong>1</p><p><strong>Verschluss  </strong>Magnet</p><p></p>",
-            "button_label": "",
-            "button_link": "shopify://products/shopper-handtasche-ledertasche-henkeltasche-2h51-33-1"
-          }
-        },
-        "column_m4Pcjf": {
-          "type": "column",
-          "settings": {
-            "enable_media": true,
-            "image": "shopify://shop_images/Agatha_2A244-26-19_feed_18.jpg",
-            "media_scale": 100,
-            "heading": "Agatha",
-            "text": "<p>Entdecke unsere geräumige Shopper-Tasche \"<strong>Agatha</strong>\", die genug Platz für all Deine wichtigen Dinge bietet. Diese extragroße Handtasche wird Dich mit ihrer Größe und Vielseitigkeit beeindrucken. Ob du sie zur Universität oder zum Abendessen mitnimmst, sie ergänzt Deinen legeren Look mit einer eleganten Note und passt immer perfekt zu Deinem Stil!</p><p><strong>Größe            </strong>44 x 30 x 20 cm</p><p><strong>Lederart        </strong>Büffel Leder</p><p><strong>Innen Fächer </strong>1</p><p><strong>Verschluss  </strong></p><p></p>",
-            "button_label": "",
-            "button_link": "shopify://products/shopper-kabelka-kozena-taska-pres-rameno-na-volny-cas-do-skoly-hneda-kuze-2a244-26-19"
-          }
-        }
-      },
-      "block_order": [
-        "column_Q3CceL",
-        "column_cEYgMV",
-        "column_m4Pcjf"
-      ],
-      "settings": {
-        "title": "Vielseitig und geräumig",
-        "heading_align": "text-start",
         "button_label": "",
         "button_link": "",
         "layout": "carousel",
@@ -298,30 +311,43 @@
           "type": "column",
           "settings": {
             "enable_media": true,
-            "image": "shopify://shop_images/Rita_2H184-20-65.jpg",
+            "image": "shopify://shop_images/Carine_2M48-72-2_web.jpg",
             "media_scale": 100,
-            "heading": "Rita",
-            "text": "<p>Stilvoll und kompakt, ist \"<strong>Rita</strong>\" perfekt für Büroangestellte und Urlauber. Hochpraktisch und funktional bietet diese elegante Handtasche viel Platz für alle Deine Essentials. \"Rita\" kann jedes Outfit ergänzen und Deinen Look in jeder Jahreszeit aufwerten. Und ja, Du kannst Deinen Lederleibling mit einer Nachricht, einem Zitat oder einem Namen personalisieren. Gönne Dir ein neues, stilvolles Accessoire mit unserer zeitlosen Ledertasche.</p><p><strong>Größe            </strong>37,5 x 27,5 x 11,5cm</p><p><strong>Lederart        </strong>Rindsleder</p><p><strong>Innen Fächer </strong>2</p><p><strong>Verschluss  </strong>Reißverschluss</p><p></p>",
+            "heading": "Carine",
+            "text": "<p>Stilvoll und kompakt, ist \"<strong>Carine</strong>\" perfekt für Büroangestellte und Urlauber. Hochpraktisch und funktional bietet diese elegante Handtasche viel Platz für alle Deine Essentials. \"<strong>Carine</strong>\" kann jedes Outfit ergänzen und Deinen Look in jeder Jahreszeit aufwerten. Und ja, Du kannst Deinen Lederleibling mit einer Nachricht, einem Zitat oder einem Namen personalisieren. Gönne Dir ein neues, stilvolles Accessoire mit unserer zeitlosen Ledertasche.</p><p><strong>Größe           </strong> 40 x 35 x 15 cm</p><p><strong>Lederart        </strong>Büffelleder</p><p><strong>Innen Fächer </strong>3</p><p><strong>Verschluss  </strong>-</p><p></p>",
             "button_label": "",
-            "button_link": "shopify://products/handbag-shoulder-bag-crossbody-bag-purse-black-leather-2h184-20-65"
+            "button_link": "shopify://products/handtasche-shopper-umhaengetasche-damen-braun-leder-2m48-72-2"
           }
         },
         "column_W6FJa6": {
           "type": "column",
           "settings": {
             "enable_media": true,
-            "image": "shopify://shop_images/Willow5_2H157-48-6_MP.jpg",
+            "image": "shopify://shop_images/Joen_2H231-80-6-web.jpg",
             "media_scale": 100,
-            "heading": "Willow",
-            "text": "<p>Absolut stilvolle Schultertasche, \"<strong>Willow</strong>\" kann Dein neuer Begleiter sein. Sie ist kompakt, aber geräumig genug, um alle Deine Essentials zu verstauen. Nimm sie mit zum Einkaufen oder zu einem Cocktail Treffen, \"Willow\" ist einfach perfekt für jede Gelegenheit. Du kannst dieses Vintage-Stück mit Deinem Lieblingszitat oder Deiner Botschaft gravieren lassen, um es einzigartig zu machen. Hol dir \"Willow\" jetzt, um tagsüber und nachts stilvoll auszusehen!</p><p><strong>Größe            </strong>17 x 16 x 8 cm</p><p><strong>Lederart        </strong>Büffel Leder</p><p><strong>Innen Fächer </strong></p><p><strong>Verschluss  </strong>Magnet</p><p></p>",
+            "heading": "Joen",
+            "text": "<p>Absolut stilvolle Schultertasche, \"<strong>Joen</strong>\" kann Dein neuer Begleiter sein. Sie ist kompakt, aber geräumig genug, um alle Deine Essentials zu verstauen. Nimm sie mit zum Einkaufen oder zu einem Cocktail Treffen, \"Joen\" ist einfach perfekt für jede Gelegenheit. Du kannst dieses Vintage-Stück mit Deinem Lieblingszitat oder Deiner Botschaft gravieren lassen, um es einzigartig zu machen. Hol dir \"Joen\" jetzt, um tagsüber und nachts stilvoll auszusehen!</p><p><strong>Größe            </strong>38 x 31 x 11 cm</p><p><strong>Lederart        </strong>Rindsleder</p><p><strong>Innen Fächer </strong>3</p><p><strong>Verschluss  </strong>Reißverschluss</p><p></p>",
             "button_label": "",
-            "button_link": "shopify://products/umhaengetasche-ledertasche-handtasche-schultertasche-partytasche-abendtasche-schwarz-leder-2h157-48-6"
+            "button_link": "shopify://products/umhaengetasche-handtasche-ledertasche-damen-vintage-braun-leder-2h231-80-6"
+          }
+        },
+        "column_XyD48K": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Mia_2H190-48-2-web.jpg",
+            "media_scale": 100,
+            "heading": "Mia",
+            "text": "<p>Die klassische Schultertasche “Mia” ist ein kompaktes Accessoire, das Du an Tagen für Ausflüge oder beim Shopping mitnehmen kannst. Sie wird Dein perfekter Alltagsbegleiter, da sie viel Platz für Deine Essentials bietet, sei es ein Buch, ein Make-up-Beutel, ein Notizbuch, eine Geldbörse oder ein Regenschirm. Das zeitlos schicke Design macht “Mia” zu einem Favoriten unter Büroangestellten und Einkaufs- Begeisterten. Du kannst diese Leder- Schönheit mit deinem Lieblingszitat, Namen oder einem besonderen Datum personalisieren.</p><p><strong>Größe            </strong>39,5 x 32 x 11 cm</p><p><strong>Lederart        </strong>Rindsleder</p><p><strong>Innen Fächer </strong>2</p><p><strong>Verschluss  </strong>Reißverschluss</p><p></p>",
+            "button_label": "",
+            "button_link": "shopify://products/handtasche-umhaengetasche-shopper-ledertasche-braun-leder-2h190-48-29"
           }
         }
       },
       "block_order": [
         "column_V6mrKV",
-        "column_W6FJa6"
+        "column_W6FJa6",
+        "column_XyD48K"
       ],
       "settings": {
         "title": "Kompakte und stilvolle Taschen",
