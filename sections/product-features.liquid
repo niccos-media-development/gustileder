@@ -23,12 +23,14 @@
       --hotspot-cross-color: #fff;
     {%- endif %}
   }
+{% if section.settings.image_1 != blank %}
 @media (min-width: 769px) {
   #{{ section.id }} .product-features{
     max-width:{{ section.settings.max_width }}%;
     margin: 0 auto;
   }
 }
+  {% endif %}
 {% endstyle %}
 
 {%- if section.settings.show_content -%}
@@ -165,7 +167,7 @@
       "type": "range",
       "id": "max_width",
       "label": "Section Width (Desktop in %)",
-      "info": "to manage large images",
+      "info": "to manage large images(If no second image there)",
       "min": 10,
       "max": 100,
       "step": 5,
