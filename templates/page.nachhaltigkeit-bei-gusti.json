@@ -573,39 +573,6 @@
         "color_scheme": "1",
         "button_style": "btn btn--secondary"
       }
-    },
-    "rich_text_gmYWqm": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_3Xf7Pg": {
-          "type": "heading",
-          "settings": {
-            "heading": "Elektro- Ladestation",
-            "heading_size": "h4",
-            "heading_h1": false
-          }
-        },
-        "text_maPDff": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Im September 2022 haben wir eine Elektro-Ladestation für E-Autos vor unserem Büro in Rostock installiert. Die Ladestation kann von jedem verwendet werden, der ein E-Auto hat. Seit der Einrichtung der Ladestation wurden hier 21 Autos aufgeladen. Dadurch wurden 429 kg Kohlendioxid eingespart und eine Gesamtemission von 448 kg an Treibhausgasen vermieden. Dies entspricht elf Bäumen, die zehn Jahre gewachsen sind. Wir erwarten eine Steigerung dieser Werte in der Zukunft.</p><p>Wir setzen auf <strong>Nachhaltigkeit</strong>, indem wir verschiedene Strategien verfolgen, einschließlich <strong>Slow Fashion</strong> und <strong>Reparaturservices</strong>. Dies hat uns geholfen, natürliche Ressourcen zu schonen und darüber hinaus ein gesundes und grünes Umfeld für kommende Generationen zu schaffen.</p><p></p>",
-            "enlarge_text": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_3Xf7Pg",
-        "text_maPDff"
-      ],
-      "settings": {
-        "text_position": "justify-center",
-        "text_align": "text-center",
-        "mob_center_text": true,
-        "wide": true,
-        "color_scheme": "none",
-        "full_width": true,
-        "prevent_animation": false
-      }
     }
   },
   "order": [
@@ -623,7 +590,6 @@
     "rich_text_N9JtYM",
     "featured_collection_eW7kg4",
     "rich_text_WeBwVk",
-    "multi_column_k7ez3U",
-    "rich_text_gmYWqm"
+    "multi_column_k7ez3U"
   ]
 }
