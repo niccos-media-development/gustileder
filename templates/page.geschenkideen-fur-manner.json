@@ -73,19 +73,18 @@
     "rich_text_FhgRH6": {
       "type": "rich-text",
       "blocks": {
-        "subheading_ihyHXc": {
-          "type": "subheading",
-          "disabled": true,
-          "settings": {
-            "text": "Subheading"
-          }
-        },
         "heading_4rCpVx": {
           "type": "heading",
           "settings": {
-            "heading": "Du suchst ein tolles Geschenk für einen besonderen Mann?",
+            "heading": "Geschenkideen für Männer",
             "heading_size": "h2",
             "heading_h1": false
+          }
+        },
+        "subheading_ihyHXc": {
+          "type": "subheading",
+          "settings": {
+            "text": "Du suchst ein tolles Geschenk für einen besonderen Mann?"
           }
         },
         "text_PBcFfd": {
@@ -109,8 +108,8 @@
         }
       },
       "block_order": [
-        "subheading_ihyHXc",
         "heading_4rCpVx",
+        "subheading_ihyHXc",
         "text_PBcFfd",
         "button_nTYEf6"
       ],
