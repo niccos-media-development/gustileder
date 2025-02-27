@@ -123,6 +123,332 @@
         "prevent_animation": false
       }
     },
+    "multi_column_Mdignm": {
+      "type": "multi-column",
+      "blocks": {
+        "column_MxHUVT": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Angelique_2A339-33-62-web.jpg",
+            "media_scale": 100,
+            "heading": "",
+            "text": "",
+            "button_label": "Angelique",
+            "button_link": "shopify://products/wallet-purse-womens-wallet-brown-leather-2a339-33-62"
+          }
+        },
+        "column_RMmedE": {
+          "type": "column",
+          "settings": {
+            "enable_media": false,
+            "media_scale": 100,
+            "heading": "Du möchtest ein Individuelles Geschenk?",
+            "text": "<p>Mit unseren Geldbörsen ist das ganz leicht. Ob nun ganz klein, für ein paar Münzen oder den Schlüssel, oder groß damit auch alle deine Karten Platz haben. Mit unseren Portemonnaie's triffst du immer ins Schwarze. Bei vielen unserer kleinen Platzwunder kannst du dir auch noch eine ganz individuelle Farbe aussuchen!</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_mdWzfQ": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Vaia_2H225-22-117-web.jpg",
+            "media_scale": 100,
+            "heading": "",
+            "text": "",
+            "button_label": "Vaia",
+            "button_link": "shopify://products/umhaengetasche-handtasche-ledertasche-tasche-schwarz-leder-2h225-22-117"
+          }
+        }
+      },
+      "block_order": [
+        "column_MxHUVT",
+        "column_RMmedE",
+        "column_mdWzfQ"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "layout": "carousel",
+        "column_size": "medium",
+        "column_align": "left",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "media_with_text_hTBBhn": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_TwEMxV": {
+          "type": "heading",
+          "settings": {
+            "heading": "Auf der Suche nach einer größeren Farbvielfalt?",
+            "heading_size": "h4",
+            "heading_h1": false
+          }
+        },
+        "text_RApBJ7": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Unsere Geldbörse „Cara“ wird Dein neuer bester Freund! Entdecke „Cara“ in vielen Farben: grau, braun, gelb und mehr.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_ARp68K": {
+          "type": "button",
+          "settings": {
+            "button_label": "Cara",
+            "button_link": "shopify://products/geldboerse-portemonnaie-brieftasche-2a16-22-9",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_TwEMxV",
+        "text_RApBJ7",
+        "button_ARp68K"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Cara_2A16-22-9-web.jpg",
+        "image_1": "",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "left",
+        "image_fit": "contain",
+        "media_width": 50,
+        "media_scale": 100,
+        "text_align": "text-start",
+        "color_scheme": "none",
+        "only_content_color_scheme": false
+      }
+    },
+    "multi_column_RpgayC": {
+      "type": "multi-column",
+      "blocks": {
+        "column_iQAjJb": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Agatha_2A244-26-19_DEF_2.jpg",
+            "media_scale": 100,
+            "heading": "",
+            "text": "",
+            "button_label": "Agatha",
+            "button_link": "shopify://products/shopper-kabelka-kozena-taska-pres-rameno-na-volny-cas-do-skoly-hneda-kuze-2a244-26-19"
+          }
+        },
+        "column_Ra9m3w": {
+          "type": "column",
+          "settings": {
+            "enable_media": false,
+            "media_scale": 100,
+            "heading": "Noch nicht fündig geworden ",
+            "text": "<p>Schau Dich doch mal bei unseren Handtaschen um. Ob klein oder groß, mit viel Stauraum für Wasserflasche, Portemonnaie und Pulli oder eher weniger Platz, die unterschiedlichen Modelle lassen Dir die Wahl, sodass Du am Ende genau das findest was Du suchst.</p><p><strong>Gusti Leder studio und Gusti Leder nature</strong> </p><p>Mit Gusti Leder Studio ergänzen wir unsere Produktlinie, um deine Wünsche noch besser erfüllen zu können und dir eine breiter gefächerte Produktauswahl bieten zu können.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_XBt8zq": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Maisie_2H111-48-7-web.jpg",
+            "media_scale": 100,
+            "heading": "",
+            "text": "",
+            "button_label": "Maisie",
+            "button_link": "shopify://products/umhaengetasche-handtasche-ledertasche-damen-schwarz-leder-2h111-48-7"
+          }
+        }
+      },
+      "block_order": [
+        "column_iQAjJb",
+        "column_Ra9m3w",
+        "column_XBt8zq"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "layout": "carousel",
+        "column_size": "medium",
+        "column_align": "left",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "media_with_text_rtA8xH": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_n4FqnN": {
+          "type": "heading",
+          "settings": {
+            "heading": "Schenke individuell und einzigartig! ",
+            "heading_size": "h4",
+            "heading_h1": false
+          }
+        },
+        "text_mbf9H3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Zeig Deinen Liebsten, dass sie einzigartig sind und personalisiere Dein Gusti-Leder Geschenk mit einer Gravur! Überreiche nicht nur ein tolles Lederprodukt, sondern auch einen besonderen Spruch, die Initialien oder ein gemeinsames Datum. Mit so einer Widmung schenkt man von Herzen.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_MmPLed": {
+          "type": "button",
+          "settings": {
+            "button_label": "Gestalte Deine Gravur",
+            "button_link": "",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_n4FqnN",
+        "text_mbf9H3",
+        "button_MmPLed"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/gravur_6be35bd8-bc96-40a0-89e7-6183fe689984.jpg",
+        "image_1": "",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "right",
+        "image_fit": "contain",
+        "media_width": 50,
+        "media_scale": 100,
+        "text_align": "text-start",
+        "color_scheme": "none",
+        "only_content_color_scheme": false
+      }
+    },
+    "multi_column_3fGrU6": {
+      "type": "multi-column",
+      "blocks": {
+        "column_HdDi7N": {
+          "type": "column",
+          "settings": {
+            "enable_media": false,
+            "media_scale": 100,
+            "heading": "Brauchst du noch mehr Inspiration? ",
+            "text": "<p>Gusti Leder bietet dir auch eine Auswahl an verschiedenen Rucksäcken. Wie wärs mit einem neuen Begleiter für die Uni? Oder zur Arbeit? Dann schau bei dieser Kategorie vorbei! Zwei unserer Gustilieblinge kannst du hier schon sehen.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_9enrMX": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Alena_2M39-20-5wp_we.jpg",
+            "media_scale": 100,
+            "heading": "",
+            "text": "",
+            "button_label": "Alena",
+            "button_link": "shopify://products/lederrucksack-rucksack-cityrucksack-2m39-20-5wp"
+          }
+        },
+        "column_Bw6qbf": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Valja_2M127-80-2-web.jpg",
+            "media_scale": 100,
+            "heading": "",
+            "text": "",
+            "button_label": "Valja",
+            "button_link": "shopify://products/backpack-rucksack-laptop-compartment-leather-backpack-brown-leather-2m127-80-2"
+          }
+        }
+      },
+      "block_order": [
+        "column_HdDi7N",
+        "column_9enrMX",
+        "column_Bw6qbf"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "layout": "carousel",
+        "column_size": "medium",
+        "column_align": "left",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "multi_column_FQagzB": {
+      "type": "multi-column",
+      "blocks": {
+        "column_8tVBGn": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/therese_H14web.jpg",
+            "media_scale": 100,
+            "heading": "",
+            "text": "",
+            "button_label": "Therese",
+            "button_link": "shopify://products/henkeltasche-aus-leder-shopper-reissverschluss-h14"
+          }
+        },
+        "column_7JmUtR": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/web_Alexandra_2H52-33-7.jpg",
+            "media_scale": 100,
+            "heading": "",
+            "text": "",
+            "button_label": "Alexandra",
+            "button_link": "shopify://products/shopper-handtasche-henkeltasche-2h52-33-7"
+          }
+        },
+        "column_RiCEXt": {
+          "type": "column",
+          "settings": {
+            "enable_media": false,
+            "media_scale": 100,
+            "heading": "Kennst du schon unsere schicken Shopper?",
+            "text": "<p>Super schick und elegant bist Du mit diesen beiden Modellen in der Stadt unterwegs! Und wenn nicht zum Bummeln, dann haben sie auch noch die perfekten Maße für einen Tagesausflug! Schau auch bei unseren anderen Shoppern vorbei, für mehr Inspiration!</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_8tVBGn",
+        "column_7JmUtR",
+        "column_RiCEXt"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "layout": "carousel",
+        "column_size": "medium",
+        "column_align": "left",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
+      }
+    },
     "collection_list_RHeKBJ": {
       "type": "collection-list",
       "blocks": {
@@ -213,6 +539,12 @@
     "main",
     "image_banner_h7bfNH",
     "rich_text_QNdAQd",
+    "multi_column_Mdignm",
+    "media_with_text_hTBBhn",
+    "multi_column_RpgayC",
+    "media_with_text_rtA8xH",
+    "multi_column_3fGrU6",
+    "multi_column_FQagzB",
     "collection_list_RHeKBJ",
     "featured_collection_fw9w9V"
   ]
