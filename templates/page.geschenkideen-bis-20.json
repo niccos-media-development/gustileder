@@ -377,35 +377,18 @@
     "media_grid_ibpgLA": {
       "type": "media-grid",
       "blocks": {
-        "media_Echffi": {
-          "type": "media",
-          "settings": {
-            "link_url": "",
-            "columns": 2,
-            "rows": 2,
-            "subheading": "",
-            "title": "<p>Media heading</p>",
-            "heading_size": "h4",
-            "button_label": "",
-            "button_link": "",
-            "overlay_position": "justify-start items-end",
-            "text_alignment": "text-start",
-            "button_style": "btn btn--primary",
-            "tint_color": "#000000",
-            "tint_opacity": 25
-          }
-        },
         "media_FrwJ6d": {
           "type": "media",
           "settings": {
+            "image": "shopify://shop_images/web_Felix_P6_1.jpg",
             "link_url": "",
             "columns": 1,
             "rows": 1,
             "subheading": "",
-            "title": "<p>Media heading</p>",
+            "title": "",
             "heading_size": "h4",
-            "button_label": "",
-            "button_link": "",
+            "button_label": "Felix",
+            "button_link": "shopify://products/stiftemappe-leder-p6",
             "overlay_position": "justify-start items-end",
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
@@ -416,14 +399,53 @@
         "media_qa8RF8": {
           "type": "media",
           "settings": {
+            "image": "shopify://shop_images/web_Sheldon_2A163-26-15.jpg",
             "link_url": "",
             "columns": 1,
             "rows": 1,
             "subheading": "",
-            "title": "<p>Media heading</p>",
+            "title": "",
             "heading_size": "h4",
-            "button_label": "",
-            "button_link": "",
+            "button_label": "Shelton",
+            "button_link": "shopify://products/schluesselanhaenger-schluesselband-schluesselring-lederband-lederanhaenger-gravierbar-rot-leder-2a163-26-15",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_NNm7Ri": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/web_Grace_2P17-24-1.jpg",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "Grace",
+            "button_link": "shopify://products/buch-poesiealbum-planer-din-b6-2p17-24-1",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_yqbMJQ": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/web_Kara_2G114-26-12-110.jpg",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "Kara",
+            "button_link": "shopify://products/lederguertel-unisex-2g114-26-12-115",
             "overlay_position": "justify-start items-end",
             "text_alignment": "text-start",
             "button_style": "btn btn--primary",
@@ -433,12 +455,13 @@
         }
       },
       "block_order": [
-        "media_Echffi",
         "media_FrwJ6d",
-        "media_qa8RF8"
+        "media_qa8RF8",
+        "media_NNm7Ri",
+        "media_yqbMJQ"
       ],
       "settings": {
-        "title": "Media grid",
+        "title": "",
         "heading_align": "text-start",
         "button_label": "",
         "button_link": "",
@@ -450,6 +473,123 @@
         "section_color_scheme": "none",
         "color_scheme": "white",
         "transparent_content_color": "#ffffff"
+      }
+    },
+    "multi_column_e363K4": {
+      "type": "multi-column",
+      "blocks": {
+        "column_mncdCz": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Rosie_bis-40.jpg",
+            "media_scale": 100,
+            "heading": "Geschenke bis 50€",
+            "text": "",
+            "button_label": "Geschenke bis 40€",
+            "button_link": ""
+          }
+        },
+        "column_pqaXHw": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Spencer_bis-50.jpg",
+            "media_scale": 100,
+            "heading": "Geschenke bis 50€",
+            "text": "",
+            "button_label": "Geschenke bis 50€",
+            "button_link": ""
+          }
+        },
+        "column_xdWFiW": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Lena_bis-60.jpg",
+            "media_scale": 100,
+            "heading": "Geschenke bis 60€",
+            "text": "",
+            "button_label": "Geschenke bis 60€",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_mncdCz",
+        "column_pqaXHw",
+        "column_xdWFiW"
+      ],
+      "settings": {
+        "title": "Ist Dein Geldbeutel doch etwas größer? Dann schau bei unseren anderen Kategorien vorbei",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "layout": "grid",
+        "column_size": "medium",
+        "column_align": "left",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "multi_column_8AddTR": {
+      "type": "multi-column",
+      "blocks": {
+        "column_hWNCPh": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Emilia-gifts-for-men.jpg",
+            "media_scale": 100,
+            "heading": "Geschenkideen für Männer",
+            "text": "",
+            "button_label": "Geschenkideen für Männer",
+            "button_link": ""
+          }
+        },
+        "column_jfFtfy": {
+          "type": "column",
+          "settings": {
+            "enable_media": false,
+            "media_scale": 100,
+            "heading": "Finde noch mehr inspiration",
+            "text": "<p>Wir wünschen Dir viel Spaß beim Stöbern und Verschenken! Vielleicht ist auch etwas für Dich selbst dabei. Egal ob groß oder klein, Dein Geschenk wird von Herzen kommen.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_by7b3F": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Agatha-gifts-for-women.png",
+            "media_scale": 100,
+            "heading": "Geschenkideen für frauen",
+            "text": "",
+            "button_label": "Geschenkideen für frauen",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_hWNCPh",
+        "column_jfFtfy",
+        "column_by7b3F"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "layout": "carousel",
+        "column_size": "medium",
+        "column_align": "left",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
       }
     },
     "collection_list_RHeKBJ": {
@@ -548,6 +688,8 @@
     "multi_column_XgWNYP",
     "rich_text_Wz3VUc",
     "media_grid_ibpgLA",
+    "multi_column_e363K4",
+    "multi_column_8AddTR",
     "collection_list_RHeKBJ",
     "featured_collection_fw9w9V"
   ]
