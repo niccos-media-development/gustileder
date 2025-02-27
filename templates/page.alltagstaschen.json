@@ -205,6 +205,18 @@
           "type": "column",
           "settings": {
             "enable_media": true,
+            "image": "shopify://shop_images/MaryXS_H4.18-web.jpg",
+            "media_scale": 100,
+            "heading": "Mary XS",
+            "text": "<p>Trage Deine Essentials stilvoll in unserer schicken Tasche “Mary XS“. Kompakt, aber geräumig genug, um Dein Bargeld, Karten, Schlüssel, Handy und andere Sachen zu transportieren. Diese praktische, schicke, Vintage-Handtasche wird überall Neid erregen. Sichere Deine Sachen in „Mary XS“ mit der robusten Schnalle an der Vorderseite der Tasche. Personalisiere diese Tasche mit einer Gravur und schenke sie Deinen Liebsten. Diese atemberaubende Leder- Schönheit wird Dich sicherlich überzeugen!</p><p><strong>Größe            </strong> 17 x 13 x 7 cm</p><p><strong>Lederart        </strong>Ziegenleder</p><p><strong>Innen Fächer 5</strong></p><p><strong>Verschluss  </strong>Schnalle(n) </p>",
+            "button_label": "",
+            "button_link": "shopify://products/handtasche-umhaengetasche-ledertasche-vintage-braun-leder-h4"
+          }
+        },
+        "column_GMni7K": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
             "image": "shopify://shop_images/H17_Mary.jpg",
             "media_scale": 100,
             "heading": "Mary S",
@@ -216,7 +228,8 @@
       },
       "block_order": [
         "column_WdyrFW",
-        "column_WQmDxC"
+        "column_WQmDxC",
+        "column_GMni7K"
       ],
       "settings": {
         "title": "Zwillings-Schönheit",
@@ -317,11 +330,24 @@
             "button_label": "",
             "button_link": "shopify://products/taska-na-rameno-kabelka-kozena-taska-vintage-hneda-kuze-2h85-48-2"
           }
+        },
+        "column_KXc648": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Maisie_2H111-48-7_web.jpg",
+            "media_scale": 100,
+            "heading": "Maisie",
+            "text": "<p>Unsere Ledertasche „Maisie“ ist die perfekte Kombination aus Geldbörse und Handyhülle. Mit dieser Handyhülle im Brieftaschenformat hältst du deine Hände frei, wenn du einkaufen gehst oder mit Freunden feierst. Das Hauptfach der Handytasche ist mit einem Reißverschluss und einem Druckknopf gesichert, sodass Deine wichtigsten Dinge sicher und griffbereit aufbewahrt werden. Unsere „Maisie“ ist ein echter Trendsetter, der Deinen Look aufwerten wird.</p><p><strong>Größe            </strong> 27 x 20 x 5 cm</p><p><strong>Lederart        </strong>Büffelleder</p><p><strong>Innen Fächer </strong>4</p><p><strong>Verschluss  </strong>Magnet</p>",
+            "button_label": "",
+            "button_link": "shopify://products/umhaengetasche-handtasche-ledertasche-damen-schwarz-leder-2h111-48-7"
+          }
         }
       },
       "block_order": [
         "column_n3mnYM",
-        "column_gBXF6r"
+        "column_gBXF6r",
+        "column_KXc648"
       ],
       "settings": {
         "title": "Abendtaschen",
