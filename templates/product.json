@@ -371,7 +371,7 @@
       "settings": {
         "product": "{{ product }}",
         "image_1": "{{ section.settings.product.metafields.custom.kostentransparenzbilder_1.value }}",
-        "max_width": 100,
+        "max_width": 50,
         "show_content": false,
         "layout": "text_first",
         "text_align": "text-center",
