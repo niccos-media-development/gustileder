@@ -11,6 +11,7 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "show_page_title": true,
         "heading_align": "text-center"
@@ -51,6 +52,7 @@
         "text_i4fTGy",
         "button_446Ntx"
       ],
+      "disabled": true,
       "settings": {
         "url": "",
         "height_mode": "auto",
@@ -66,6 +68,267 @@
         "tint_color": "#000000",
         "tint_opacity": 40,
         "prevent_animation": false
+      }
+    },
+    "rich_text_igVWDh": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_XnCEU4": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_zcYc9N": {
+          "type": "heading",
+          "settings": {
+            "heading": "Natürlich, praktisch, stilvoll - finde das perfekte Geschenk!",
+            "heading_size": "h2",
+            "heading_h1": false
+          }
+        },
+        "text_datAKV": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Entdecke unser Sortiment und finde einen schicken Leder Begleiter für jeden Geschmack und Anlass. Wähle das perfekte Geschenk aus einer unserer beiden Produktreihen \"Gusti Leder Nature\" und \"Gusti Leder Studio\". Unsere \"Nature\"-Produkte zeichnen sich durch ihre natürliche Herstellung und trendigen Vintage-Look aus, während unsere \"Studio\"-Produkte mehr auf Funktionalität und elegantes Design setzen. Wir produzieren alle unsere Lederprodukte transparent und unter fairen Bedingungen. Du kannst die Träume Deiner Liebsten mit gutem Gewissen wahr werden lassen.<br/><br/>Ob ein neuer Lederrucksack für Deine Freundin, eine praktische Satteltasche für das Fahrrad Deines besten Freundes oder sogar ein Fotoalbum für Deine Eltern, um eure schönen Familienerinnerungen zu bewahren. Schau Dich um und entdecke unser vielfältiges Sortiment an Gusti Lederprodukten!</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_ACUF3U": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_XnCEU4",
+        "heading_zcYc9N",
+        "text_datAKV",
+        "button_ACUF3U"
+      ],
+      "settings": {
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "wide": false,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "rich_text_4HX3VQ": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_PmAwm6": {
+          "type": "subheading",
+          "settings": {
+            "text": "Schenke individuell und einzigartig!"
+          }
+        },
+        "heading_bD9TQP": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "",
+            "heading_size": "h2",
+            "heading_h1": false
+          }
+        },
+        "text_DQkEFj": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Viele Produkte bei Gusti Leder kannst du im Vorfeld gravieren lassen. Den Glücklichen erwartet somit nicht nur ein tolles Geschenk aus unserer vielfältigen Produktpalette, sondern auch noch eine individuelle Gravur. Sei es ein schöner Spruch, ein besonderes Datum oder ein kleines Zeichen eurer Freundschaft - es wird dem Beschenkten in jedem Falle ein Lächeln auf's Gesicht zaubern!</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_WaCXip": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_PmAwm6",
+        "heading_bD9TQP",
+        "text_DQkEFj",
+        "button_WaCXip"
+      ],
+      "settings": {
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "wide": false,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "multi_column_TqPAa9": {
+      "type": "multi-column",
+      "blocks": {
+        "column_wYV4pm": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/bis-20.jpg",
+            "media_scale": 100,
+            "heading": "Bis 20€",
+            "text": "",
+            "button_label": "Bis 20€",
+            "button_link": ""
+          }
+        },
+        "column_XacJby": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/bis_40_4e30045d-c361-42f6-aedc-9c89dd5c7abb.jpg",
+            "media_scale": 100,
+            "heading": "Bis 40€",
+            "text": "",
+            "button_label": "Bis 40€",
+            "button_link": ""
+          }
+        },
+        "column_gfRQYD": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/bis_60.jpg",
+            "media_scale": 100,
+            "heading": "Bis 60€",
+            "text": "",
+            "button_label": "Bis 60€",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_wYV4pm",
+        "column_XacJby",
+        "column_gfRQYD"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "layout": "carousel",
+        "column_size": "medium",
+        "column_align": "left",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "media_with_text_wM9Ty4": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_Tti8xC": {
+          "type": "heading",
+          "settings": {
+            "heading": "Geschenke für Ihn",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "text_rAn3XL": {
+          "type": "text",
+          "settings": {
+            "text": "<h4>Gusti Leder hat großartige Geschenkideen für Männer - Alles auf unserer Liste wird ein Treffer sein.</h4><p>Brauchst Du ein besonderes Geschenk für Deine Liebsten? Weihnachten steht vor der Tür, und Du hast Schwierigkeiten, das perfekte Geschenk für Deinen Partner, Freund, Vater, Bruder oder Großvater zu finden? Feiere die besonderen Männer in Deinem Leben mit einem eleganten Leder-Geschenk. Wir haben eine Liste aufregender Geschenke erstellt, die Ihnen gefallen werden. Von Ledertaschen bis Fahrradzubehör, diese Weihnachtsgeschenke werden Ihm sicher ein Lächeln ins Gesicht zaubern. Bei Gusti Leder gibt es eine Überraschung für jeden.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_ANkQMY": {
+          "type": "button",
+          "settings": {
+            "button_label": "Geschenke für Ihn",
+            "button_link": "",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Tti8xC",
+        "text_rAn3XL",
+        "button_ANkQMY"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/gifts-for-him.jpg",
+        "image_1": "",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "left",
+        "image_fit": "contain",
+        "media_width": 50,
+        "media_scale": 100,
+        "text_align": "text-start",
+        "color_scheme": "none",
+        "only_content_color_scheme": false
+      }
+    },
+    "media_with_text_G6MJ8a": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_QHWN86": {
+          "type": "heading",
+          "settings": {
+            "heading": "Geschenke für Sie",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "text_akNyXg": {
+          "type": "text",
+          "settings": {
+            "text": "<h4>Elegant, stilvoll, vintage - Geschenke, die sie sprachlos machen werden.</h4><p>Reisebegeisterte, erfolgreiche Frauen oder Frauen, die das Zuhause lieben - wir haben eine Reihe durchdachter Weihnachtsgeschenke für alle Frauen. Deine Mutter, Schwester, Oma oder Freundin wird Ihr Geschenk lieben. Schau Dir unsere saisonalen Favoriten unten an. Von Geldbörsen bis zu Rucksäcken wird unser Sortiment an Leder Lieblingen alle begeistern. Gib Deinem Geschenk eine persönliche Note, indem Du es mit Ihrem Lieblingszitat, einer Botschaft oder Ihrem Namen gravieren lässt.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_ErwFXP": {
+          "type": "button",
+          "settings": {
+            "button_label": "Geschenke für Sie",
+            "button_link": "",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_QHWN86",
+        "text_akNyXg",
+        "button_ErwFXP"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/gifts-for-women.jpg",
+        "image_1": "",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "left",
+        "image_fit": "contain",
+        "media_width": 50,
+        "media_scale": 100,
+        "text_align": "text-start",
+        "color_scheme": "none",
+        "only_content_color_scheme": false
       }
     },
     "collection_list_RHeKBJ": {
@@ -116,6 +379,7 @@
         "collection_eAJ4fF",
         "collection_xbRB6E"
       ],
+      "disabled": true,
       "settings": {
         "title": "Collections",
         "heading_align": "text-start",
@@ -156,6 +420,11 @@
   "order": [
     "main",
     "image_banner_h7bfNH",
+    "rich_text_igVWDh",
+    "rich_text_4HX3VQ",
+    "multi_column_TqPAa9",
+    "media_with_text_wM9Ty4",
+    "media_with_text_G6MJ8a",
     "collection_list_RHeKBJ",
     "featured_collection_fw9w9V"
   ]
