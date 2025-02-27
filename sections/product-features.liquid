@@ -23,7 +23,7 @@
       --hotspot-cross-color: #fff;
     {%- endif %}
   }
-{% if section.settings.image_1 != blank %}
+{% if section.settings.image_1 == blank %}
 @media (min-width: 769px) {
   #{{ section.id }} .product-features{
     max-width:{{ section.settings.max_width }}%;
