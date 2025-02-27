@@ -213,11 +213,24 @@
             "button_label": "",
             "button_link": "shopify://products/aktentasche-businesstasche-laptoptasche-ledertasche-buerotasche-unitasche-braun-leder-2b59-20-2wp"
           }
+        },
+        "column_ejyPXL": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Elijah_2B104-80-20_web.jpg",
+            "media_scale": 100,
+            "heading": "Elijah",
+            "text": "<p>Bleib organisiert und stilvoll im Büro mit unserer Vintage-Tasche “Elijah”. Sie verfügt über ein Hauptfach und mehrere Innentaschen, die geräumig genug sind, um Deine Sachen sicher und organisiert aufzubewahren. Unsere stilvolle und hochfunktionale Arbeitstasche “Elijah” ist das perfekte Accessoire, das Deinen modernen professionellen Look ergänzt.</p><p><strong>Größe             </strong>39,5 x 29 x 6 cm</p><p><strong>Lederart        </strong>Rindsleder</p><p><strong>Innen Fächer </strong>4</p><p><strong>Verschluss  </strong>Reißverschluss</p>",
+            "button_label": "",
+            "button_link": "shopify://products/vegetable-tanned-leather-briefcase-satchel-laptop-bag-brown-leather-2b104-80-20"
+          }
         }
       },
       "block_order": [
         "column_rYwkYe",
-        "column_3NeG6b"
+        "column_3NeG6b",
+        "column_ejyPXL"
       ],
       "settings": {
         "title": "Alltagstasche für die Arbeit",
@@ -318,11 +331,24 @@
             "button_label": "",
             "button_link": "shopify://products/umhaengetasche-collegetasche-businesstasche-messengerbag-vintage-braun-leder-u3"
           }
+        },
+        "column_CDWpDJ": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Tony-M._2B38-20-5wpol-web.jpg",
+            "media_scale": 100,
+            "heading": "Tony M",
+            "text": "<p>Komm stilvoll im Büro an mit unserem funktionalen Fahrradgepäckträger “<strong>Tony M</strong>”. Die zwei großen Fächer bieten Dir viel Platz für Deinen Laptop, A4-Dokumente, einen Regenschirm und eine Lunchbox. Dein Handy, Schlüssel und Geldbörse kannst Du sicher in den vorderen Taschen aufbewahren. Diese Arbeitstasche hat einen integrierten Adapter auf der Rückseite, sodass sie leicht an deinem Fahrrad befestigt werden kann. Du kannst Deinen Fahrradgepäckträger schnell in eine Umhängetasche verwandeln, wenn Du im Büro angekommen bist, indem Du den abnehmbaren Schulterriemen benutzt.</p><p><strong>Größe             </strong>40 x 31 x 16 cm</p><p><strong>Lederart        </strong>Büffelleder</p><p><strong>Innen Fächer </strong>2</p><p><strong>Verschluss  </strong>Schnalle(n)</p>",
+            "button_label": "",
+            "button_link": "shopify://products/gepaecktraegertasche-umhaengetasche-aktentasche-buerotasche-lehrertasche-fahrradtasche-ledertasche-vintage-braun-leder-2b38-20-5wpol"
+          }
         }
       },
       "block_order": [
         "column_YDHFxJ",
-        "column_miLkm3"
+        "column_miLkm3",
+        "column_CDWpDJ"
       ],
       "settings": {
         "title": "Schicke Arbeitsbegleiter",
