@@ -69,6 +69,334 @@
         "prevent_animation": false
       }
     },
+    "rich_text_EwMnGL": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_mfTAyg": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_gp7jeb": {
+          "type": "heading",
+          "settings": {
+            "heading": "Unsere Ladengeschäfte",
+            "heading_size": "h2",
+            "heading_h1": false
+          }
+        },
+        "text_NK6V37": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Hier findest du alle unsere Standorte in Deutschland, Niederlande und Österreich</strong></p><p>Schön, dass Du den Weg hierher gefunden hast.</p><p>Erfahre weiter unten mehr über unsere einzelnen Läden.</p><p>Wir freuen uns auf Deinen Besuch!</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_bcqK6G": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_mfTAyg",
+        "heading_gp7jeb",
+        "text_NK6V37",
+        "button_bcqK6G"
+      ],
+      "settings": {
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "wide": false,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "custom_liquid_hYrLQH": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<iframe src=\"https://www.google.com/maps/d/u/0/embed?mid=1kMPt6ts5Wch6NekyNspAUJpkKVjWaFAq\" width=\"600\" height=\"450\"></iframe>",
+        "section_height": "default",
+        "full_width": false,
+        "dividers": "none",
+        "prevent_animation": false
+      }
+    },
+    "media_grid_hxjyaw": {
+      "type": "media-grid",
+      "blocks": {
+        "media_F8nfWh": {
+          "type": "media",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/innsbruck_60cc1af7-5752-48ce-9280-514f1e8af879.jpg",
+            "link_url": "",
+            "columns": 2,
+            "rows": 2,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "INNSBRUCK",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_7Q3UaL": {
+          "type": "media",
+          "disabled": true,
+          "settings": {
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Media heading</p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_XrXHcC": {
+          "type": "media",
+          "disabled": true,
+          "settings": {
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Media heading</p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_inT4eB": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/innsbruck_60cc1af7-5752-48ce-9280-514f1e8af879.jpg",
+            "link_url": "",
+            "columns": 2,
+            "rows": 1,
+            "subheading": "Maria-Theresien-Straße 5, 6020 Innsbruck, Österreich",
+            "title": "<p>Tel: +43 660 3861244</p>",
+            "heading_size": "h4",
+            "button_label": "INNSBRUCK",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        }
+      },
+      "block_order": [
+        "media_F8nfWh",
+        "media_7Q3UaL",
+        "media_XrXHcC",
+        "media_inT4eB"
+      ],
+      "settings": {
+        "title": "ÖSTERREICH",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "gallery_cols_max": 4,
+        "mobile_carousel": false,
+        "gallery_cols_min": "1",
+        "fixed_height_desktop": 180,
+        "fixed_height_mobile": 300,
+        "section_color_scheme": "none",
+        "color_scheme": "white",
+        "transparent_content_color": "#ffffff"
+      }
+    },
+    "media_grid_NG3L34": {
+      "type": "media-grid",
+      "blocks": {
+        "media_kMrLDc": {
+          "type": "media",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/innsbruck_60cc1af7-5752-48ce-9280-514f1e8af879.jpg",
+            "link_url": "",
+            "columns": 2,
+            "rows": 2,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "INNSBRUCK",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_WWtkAJ": {
+          "type": "media",
+          "disabled": true,
+          "settings": {
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Media heading</p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_ky8bft": {
+          "type": "media",
+          "disabled": true,
+          "settings": {
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Media heading</p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_m8Ua9d": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Hamburg-Storefront-KW34-2024.jpg",
+            "link_url": "",
+            "columns": 2,
+            "rows": 1,
+            "subheading": "Susannenstraße 21, 20357 Hamburg",
+            "title": "<p>Tel: +49 40 21081007</p>",
+            "heading_size": "h4",
+            "button_label": "HAMBURG",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_VHyb7K": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/rostock.jpg",
+            "link_url": "",
+            "columns": 2,
+            "rows": 1,
+            "subheading": "Barnstorfer Weg 17, 18057 Rostock",
+            "title": "<p>Tel: +49 172 2625678</p>",
+            "heading_size": "h4",
+            "button_label": "ROSTOCK",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_ccRtjy": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Kopie_von_IMG_2546.jpg",
+            "link_url": "",
+            "columns": 2,
+            "rows": 1,
+            "subheading": "Kopernikusstraße 13, 10245 Berlin",
+            "title": "<p>Tel: +49 30 54816091</p>",
+            "heading_size": "h4",
+            "button_label": "BERLIN - FRIEDRICHSHAIN",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_cVV7pb": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/berlin_mitte.jpg",
+            "link_url": "",
+            "columns": 2,
+            "rows": 1,
+            "subheading": "Rosenthaler Str. 07, 10119 Berlin",
+            "title": "<p>Tel: +49 30 61748613</p>",
+            "heading_size": "h4",
+            "button_label": "BERLIN - MITTE",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        }
+      },
+      "block_order": [
+        "media_kMrLDc",
+        "media_WWtkAJ",
+        "media_ky8bft",
+        "media_m8Ua9d",
+        "media_VHyb7K",
+        "media_ccRtjy",
+        "media_cVV7pb"
+      ],
+      "settings": {
+        "title": "DEUTSCHLAND",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "gallery_cols_max": 4,
+        "mobile_carousel": false,
+        "gallery_cols_min": "1",
+        "fixed_height_desktop": 180,
+        "fixed_height_mobile": 300,
+        "section_color_scheme": "none",
+        "color_scheme": "white",
+        "transparent_content_color": "#ffffff"
+      }
+    },
     "collection_list_RHeKBJ": {
       "type": "collection-list",
       "blocks": {
@@ -154,78 +482,16 @@
         "color_scheme": "2",
         "button_style": "btn btn--primary"
       }
-    },
-    "rich_text_EwMnGL": {
-      "type": "rich-text",
-      "blocks": {
-        "subheading_mfTAyg": {
-          "type": "subheading",
-          "disabled": true,
-          "settings": {
-            "text": "Subheading"
-          }
-        },
-        "heading_gp7jeb": {
-          "type": "heading",
-          "settings": {
-            "heading": "Unsere Ladengeschäfte",
-            "heading_size": "h2",
-            "heading_h1": false
-          }
-        },
-        "text_NK6V37": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Hier findest du alle unsere Standorte in Deutschland, Niederlande und Österreich</strong></p><p>Schön, dass Du den Weg hierher gefunden hast.</p><p>Erfahre weiter unten mehr über unsere einzelnen Läden.</p><p>Wir freuen uns auf Deinen Besuch!</p>",
-            "enlarge_text": true
-          }
-        },
-        "button_bcqK6G": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_1_label": "Optional button",
-            "button_1_link": "",
-            "button_1_style": "btn--primary",
-            "button_2_label": "Optional button",
-            "button_2_link": "",
-            "button_2_style": "btn btn--primary"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_mfTAyg",
-        "heading_gp7jeb",
-        "text_NK6V37",
-        "button_bcqK6G"
-      ],
-      "settings": {
-        "text_position": "justify-center",
-        "text_align": "text-center",
-        "mob_center_text": true,
-        "wide": false,
-        "color_scheme": "none",
-        "full_width": true,
-        "prevent_animation": false
-      }
-    },
-    "custom_liquid_hYrLQH": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<iframe src=\"https://www.google.com/maps/d/u/0/embed?mid=1kMPt6ts5Wch6NekyNspAUJpkKVjWaFAq\" width=\"600\" height=\"450\"></iframe>",
-        "section_height": "default",
-        "full_width": false,
-        "dividers": "none",
-        "prevent_animation": false
-      }
     }
   },
   "order": [
     "main",
     "image_banner_h7bfNH",
-    "collection_list_RHeKBJ",
-    "featured_collection_fw9w9V",
     "rich_text_EwMnGL",
-    "custom_liquid_hYrLQH"
+    "custom_liquid_hYrLQH",
+    "media_grid_hxjyaw",
+    "media_grid_NG3L34",
+    "collection_list_RHeKBJ",
+    "featured_collection_fw9w9V"
   ]
 }
