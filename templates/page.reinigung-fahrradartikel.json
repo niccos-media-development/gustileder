@@ -171,60 +171,6 @@
         "only_content_color_scheme": false
       }
     },
-    "rich_text_AePfzR": {
-      "type": "rich-text",
-      "blocks": {
-        "subheading_VqJJ6w": {
-          "type": "subheading",
-          "settings": {
-            "text": "Warum die Pflege Deiner Leder-Fahrradaccessoires wichtig ist"
-          }
-        },
-        "heading_nAPH3N": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Polieren, Schützen und Pflegen – Mit Gustis besten Lederpflegeprodukten für Dein Fahrrad",
-            "heading_size": "h3",
-            "heading_h1": false
-          }
-        },
-        "text_e6MQFj": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Deine Leder-Fahrradaccessoires wie Sättel, Gepäckträgertaschen, Lenkergriffe oder Taschen benötigen optimale Pflege. Hier erfährst Du, warum Lederpflege ein Muss ist:</p><p><strong>-</strong> Schutz vor Witterungseinflüssen: Deine Fahrradaccessoires sind Wind und Wetter ausgesetzt. Mit der richtigen Pflege kannst Du Risse und Ausbleichen verhindern und die Langlebigkeit Deiner Lederprodukte erhöhen.</p><p><strong>-</strong> Komfort und Weichheit: Gepflegte Sättel bleiben bequem und geschmeidig, sodass Du immer ein angenehmes Fahrerlebnis hast. Regelmäßiges Reinigen entfernt Schmutz, Schweiß und Öle und sorgt dafür, dass Dein Sattel über Jahre hinweg hält.</p><p><strong>-</strong> Wasserschutz und Pflege: Mit wasserabweisend machenden und pflegenden Behandlungen schützt Du Dein Leder vor Regen und Staub.</p><p><strong>-</strong> Zeitlose Eleganz: Ein gut gepflegtes Lederprodukt altert mit Stil und entwickelt eine edle Patina, die seinen Charme noch verstärkt.</p>",
-            "enlarge_text": false
-          }
-        },
-        "button_FacMQ9": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_1_label": "Optional button",
-            "button_1_link": "",
-            "button_1_style": "btn--primary",
-            "button_2_label": "Optional button",
-            "button_2_link": "",
-            "button_2_style": "btn btn--primary"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_VqJJ6w",
-        "heading_nAPH3N",
-        "text_e6MQFj",
-        "button_FacMQ9"
-      ],
-      "settings": {
-        "text_position": "justify-center",
-        "text_align": "text-center",
-        "mob_center_text": true,
-        "wide": false,
-        "color_scheme": "none",
-        "full_width": true,
-        "prevent_animation": false
-      }
-    },
     "multi_column_rQJTex": {
       "type": "multi-column",
       "blocks": {
@@ -486,7 +432,6 @@
     "image_banner_h7bfNH",
     "rich_text_KDCnMB",
     "media_with_text_8xHY6a",
-    "rich_text_AePfzR",
     "multi_column_rQJTex",
     "rich_text_83kRmP",
     "multi_column_CLkRCy",
