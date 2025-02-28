@@ -11,6 +11,7 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "show_page_title": true,
         "heading_align": "text-center"
@@ -51,6 +52,7 @@
         "text_i4fTGy",
         "button_446Ntx"
       ],
+      "disabled": true,
       "settings": {
         "url": "",
         "height_mode": "auto",
@@ -66,6 +68,558 @@
         "tint_color": "#000000",
         "tint_opacity": 40,
         "prevent_animation": false
+      }
+    },
+    "rich_text_xrrmqr": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_EaRGxp": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_kdGdxp": {
+          "type": "heading",
+          "settings": {
+            "heading": "Keine Ahnung was Du dieses Jahr verschenken sollst?",
+            "heading_size": "h2",
+            "heading_h1": false
+          }
+        },
+        "text_3b8e8D": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Hier findest Du ganz viel Inspiration und tolle Geschenke mit denen Du deinen Lieben dieses Jahr das Herz erwärmst. Von Tasche bis Notizbuch findest Du hier alles! Dabei hast Du die Chance auf individuelle Gestaltung deiner Geschenke durch eine persönliche Gravur! Und wer Bedenken hat, der findet auf unserer Seite alle Informationen über eine transparente, ehrliche Produktionsart, fairer Preispolitik und keiner Unterstützung von Kinderarbeit! So schenkst Du mit gutem Gewissen.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_xKHYHA": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_EaRGxp",
+        "heading_kdGdxp",
+        "text_3b8e8D",
+        "button_xKHYHA"
+      ],
+      "settings": {
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "wide": false,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "media_grid_fnpUdE": {
+      "type": "media-grid",
+      "blocks": {
+        "media_zm9jEC": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/web_Angelique_2A339-33-62.jpg",
+            "link_url": "",
+            "columns": 2,
+            "rows": 2,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "Angelique",
+            "button_link": "shopify://products/wallet-purse-womens-wallet-brown-leather-2a339-33-62",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_t4eYUK": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/web_Christofer_L8.13.jpg",
+            "link_url": "",
+            "columns": 2,
+            "rows": 2,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "Christofer",
+            "button_link": "shopify://products/laptoptasche-13-macbook-pro-notebooktasche-vintage-l8",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_hbJFmn": {
+          "type": "media",
+          "disabled": true,
+          "settings": {
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Media heading</p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_YyFtWJ": {
+          "type": "media",
+          "disabled": true,
+          "settings": {
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Media heading</p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_GfynWB": {
+          "type": "media",
+          "disabled": true,
+          "settings": {
+            "link_url": "",
+            "columns": 2,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Media heading</p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        }
+      },
+      "block_order": [
+        "media_zm9jEC",
+        "media_t4eYUK",
+        "media_hbJFmn",
+        "media_YyFtWJ",
+        "media_GfynWB"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "gallery_cols_max": 4,
+        "mobile_carousel": false,
+        "gallery_cols_min": "1",
+        "fixed_height_desktop": 180,
+        "fixed_height_mobile": 300,
+        "section_color_scheme": "none",
+        "color_scheme": "white",
+        "transparent_content_color": "#ffffff"
+      }
+    },
+    "media_with_text_XiiLzb": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_ac6Jkj": {
+          "type": "heading",
+          "settings": {
+            "heading": "Schenke individuell und einzigartig!",
+            "heading_size": "h4",
+            "heading_h1": false
+          }
+        },
+        "text_crxVe9": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Zeig Deinen Liebsten, dass sie einzigartig sind und personalisiere Dein Gusti-Leder Geschenk. Oder willst du ein Produkt zu Deinem machen? Auch dann nutze die Möglichkeit einer Gravur und überreiche nicht nur ein tolles Lederprodukt, sondern auch einen besonderen Spruch oder ein gemeinsames Datum. Dem Beschenkten wird es in jedem Falle ein Lächeln ins Gesicht zaubern!</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_pPMYqA": {
+          "type": "button",
+          "settings": {
+            "button_label": "Gestalte Deine Gravur",
+            "button_link": "shopify://pages/gravur",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_ac6Jkj",
+        "text_crxVe9",
+        "button_pPMYqA"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/gravur_6be35bd8-bc96-40a0-89e7-6183fe689984.jpg",
+        "image_1": "",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "left",
+        "image_fit": "contain",
+        "media_width": 50,
+        "media_scale": 100,
+        "text_align": "text-start",
+        "color_scheme": "none",
+        "only_content_color_scheme": false
+      }
+    },
+    "multi_column_mnwejT": {
+      "type": "multi-column",
+      "blocks": {
+        "column_74KLEY": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Valja_2M127-80-2-web.jpg",
+            "media_scale": 100,
+            "heading": "",
+            "text": "",
+            "button_label": "Valja",
+            "button_link": "shopify://products/backpack-rucksack-laptop-compartment-leather-backpack-brown-leather-2m127-80-2"
+          }
+        },
+        "column_UFMH6x": {
+          "type": "column",
+          "settings": {
+            "enable_media": false,
+            "media_scale": 100,
+            "heading": "Noch nicht fündig geworden?",
+            "text": "<p> Wie wäre es denn mit einem Rucksack? Keinen wie man ihn in der Schule trug, sondern einen bei dem die Kollegen oder Freunde neidisch werden und auch einen wollen! Ob klein oder groß mit viel Stauraum, die unterschiedlichen Modelle lassen Dir die freie Wahl.</p><p>Statt einem Rucksack, kann auch eine neue Umhängetasche dein neuer Begleiter für die Arbeit werden. </p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_mF9fLi": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/M70_web.jpg",
+            "media_scale": 100,
+            "heading": "",
+            "text": "",
+            "button_label": "Lena",
+            "button_link": "shopify://products/lederrucksack-cityrucksack-vintage-m70"
+          }
+        }
+      },
+      "block_order": [
+        "column_74KLEY",
+        "column_UFMH6x",
+        "column_mF9fLi"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "layout": "carousel",
+        "column_size": "medium",
+        "column_align": "left",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "multi_column_AqVjX9": {
+      "type": "multi-column",
+      "blocks": {
+        "column_rmMnMV": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/2G39-48-6_web.jpg",
+            "media_scale": 100,
+            "heading": "",
+            "text": "",
+            "button_label": "Acton",
+            "button_link": "shopify://products/bauchtasche-guerteltasche-ledertasche-vintage-schwarz-leder-2g39-48-6"
+          }
+        },
+        "column_akfM3T": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/webRosamonde_2A285-33-67.jpg",
+            "media_scale": 100,
+            "heading": "",
+            "text": "",
+            "button_label": "Rosamonde",
+            "button_link": "shopify://products/guerteltasche-bauchtasche-handtasche-tasche-braun-leder-2a285-33-67"
+          }
+        },
+        "column_itGP6e": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/2G70-22-97_web.jpg",
+            "media_scale": 100,
+            "heading": "",
+            "text": "",
+            "button_label": "Norell",
+            "button_link": "shopify://products/guerteltasche-bauchtasche-huefttasche-festivaltasche-braun-leder-2g70-22-97"
+          }
+        }
+      },
+      "block_order": [
+        "column_rmMnMV",
+        "column_akfM3T",
+        "column_itGP6e"
+      ],
+      "settings": {
+        "title": "Gut, das ist nichts Neues mehr, aber wer eine sucht oder die alte ersetzen möchte, ist bei uns genau an der richtigen Stelle! Ob elegant, lässig oder bohemian, hier ist für jeden Geschmack was dabei! ",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "layout": "carousel",
+        "column_size": "medium",
+        "column_align": "left",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "multi_column_YyjcpF": {
+      "type": "multi-column",
+      "blocks": {
+        "column_Vbi6Hy": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/web_Marianne-V._2G55-20-28.jpg",
+            "media_scale": 100,
+            "heading": "",
+            "text": "",
+            "button_label": "Marianne V.",
+            "button_link": "shopify://products/satteltasche-lenkertasche-fahrradtasche-ledertasche-diebstahlsicher-vintage-schwarz-leder-2g55-20-28"
+          }
+        },
+        "column_KxfRGt": {
+          "type": "column",
+          "settings": {
+            "enable_media": false,
+            "media_scale": 100,
+            "heading": "",
+            "text": "<p>Ob gemütlich auf dem Hollandrad oder schnell unterwegs auf dem Rennrad – Fahrradfahren verleiht einem immer das Gefühl von Freiheit und Unabhängigkeit. Und es hält fit! Auch wenn die Wintermonate nicht fürs Radfahren bekannt sind, findest Du hier das perfekte Geschenk für Deine Fahrrad - fahrenden Lieben! Zur Arbeit mit dem Rad unterwegs? Dann sind unsere großen Aktentaschen und Umhängetaschen mit integriertem KLICKfix-System genau das Richtige für Radler.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_94ctQE": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/web_GeraintT_2F31-22-5.jpg",
+            "media_scale": 100,
+            "heading": "",
+            "text": "",
+            "button_label": "Geraint T.",
+            "button_link": "shopify://products/echtes-leder-fahrradsattel-ledersattel-weich-sattel-fahrrad-rennrad-trekkingrad-braun-2f31-22-5"
+          }
+        }
+      },
+      "block_order": [
+        "column_Vbi6Hy",
+        "column_KxfRGt",
+        "column_94ctQE"
+      ],
+      "settings": {
+        "title": "Verschenke Fahrradzubehör",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "layout": "carousel",
+        "column_size": "medium",
+        "column_align": "left",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "rich_text_yLxDPW": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_Uz7QNd": {
+          "type": "subheading",
+          "settings": {
+            "text": "Lust auf mehr?"
+          }
+        },
+        "heading_iMQHcK": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Rich text headline",
+            "heading_size": "h2",
+            "heading_h1": false
+          }
+        },
+        "text_xgAN6E": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Du hast noch nicht genug? Oder es war einfach nicht das Richtige dabei? Dann schau doch mal in unseren verschiedenen Katgorien vorbei! Dort findest Du bestimmt was Du suchst! <strong><br/></strong>Und sollte das nicht der Fall sein: Wie wärs mit einem Gutschein?</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_4Khab9": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_Uz7QNd",
+        "heading_iMQHcK",
+        "text_xgAN6E",
+        "button_4Khab9"
+      ],
+      "settings": {
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "wide": false,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "media_grid_hNXiLU": {
+      "type": "media-grid",
+      "blocks": {
+        "media_3kMtRC": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/web_wallet.jpg",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "Geschenke bis 20€",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_ApnJMc": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Lena_bis-60.jpg",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "Geschenke bis 60€",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_tcbWgt": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Emilia-gifts-for-men.jpg",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "Geschenkideen für Männer",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_bwMGKc": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Agatha-gifts-for-women.png",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "Geschenkideen für frauen",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        }
+      },
+      "block_order": [
+        "media_3kMtRC",
+        "media_ApnJMc",
+        "media_tcbWgt",
+        "media_bwMGKc"
+      ],
+      "settings": {
+        "title": "Media grid",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "gallery_cols_max": 4,
+        "mobile_carousel": false,
+        "gallery_cols_min": "1",
+        "fixed_height_desktop": 180,
+        "fixed_height_mobile": 300,
+        "section_color_scheme": "none",
+        "color_scheme": "white",
+        "transparent_content_color": "#ffffff"
       }
     },
     "collection_list_RHeKBJ": {
@@ -116,6 +670,7 @@
         "collection_eAJ4fF",
         "collection_xbRB6E"
       ],
+      "disabled": true,
       "settings": {
         "title": "Collections",
         "heading_align": "text-start",
@@ -156,6 +711,14 @@
   "order": [
     "main",
     "image_banner_h7bfNH",
+    "rich_text_xrrmqr",
+    "media_grid_fnpUdE",
+    "media_with_text_XiiLzb",
+    "multi_column_mnwejT",
+    "multi_column_AqVjX9",
+    "multi_column_YyjcpF",
+    "rich_text_yLxDPW",
+    "media_grid_hNXiLU",
     "collection_list_RHeKBJ",
     "featured_collection_fw9w9V"
   ]
