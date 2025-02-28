@@ -87,6 +87,7 @@
           "type": "column",
           "settings": {
             "enable_media": true,
+            "image": "shopify://shop_images/Hamburg-Indoor-2-KW32-2024.jpg",
             "media_scale": 100,
             "heading": "Reparaturservice im Store",
             "text": "<p>Wir bieten in unseren Läden die Möglichkeit an Lederartikel von Gusti oder auch anderer Hersteller zur Reparatur abzugeben. So sind Deine Leder-Lieblinge bald wieder so gut wie neu. Sprich unser Store-Team einfach an und lass Dich beraten.</p>",
@@ -110,6 +111,7 @@
           "type": "column",
           "settings": {
             "enable_media": true,
+            "image": "shopify://shop_images/Hamburg-Basteltisch-KW34-2024.jpg",
             "media_scale": 100,
             "heading": "Bastel-Ecke im Store",
             "text": "<p>Unser Laden bietet eine kostenlose Gelegenheit kreativ zu werden. So kannst Du z.B. Deine gekauften Taschen hier direkt selbst personalisieren und mit einer Gravur versehen. Außerdem kannst aus Lederresten z.B. kleine Anhänger basteln. Die Lederreste stammen dabei von alten unverkäuflichen Taschen. Nachhaltigkeit ist ein elementarer Gedanke unseres täglichen Handelns.</p>",
