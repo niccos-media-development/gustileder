@@ -396,6 +396,207 @@
         "button_style": "btn btn--secondary"
       }
     },
+    "multi_column_nQGq9B": {
+      "type": "multi-column",
+      "blocks": {
+        "column_BKfbf8": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/web_Rodney_2H71-20-19wp.jpg",
+            "media_scale": 100,
+            "heading": "",
+            "text": "<p>Unser „Rodney“ kombiniert ein stylisches Design mit höchster Funktionalität. Diese praktische<strong>Kulturtasche verfügt über unterschiedlich große Fächer und ein wasserabweisendes Innenfutter</strong>– perfekt, um Deine Hygieneartikel organisiert und sicher aufzubewahren. Ein treuer Begleiter für viele Jahre!</p>",
+            "button_label": "Rodney",
+            "button_link": "shopify://products/waschtasche-kulturtasche-mit-wasserfestem-innenfutter-2h71-20-19wp"
+          }
+        },
+        "column_biAUbj": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/C18_web.jpg",
+            "media_scale": 100,
+            "heading": "",
+            "text": "<p>Damit Du Dein Lederprodukt viele Jahre nutzen kannst, braucht es die richtige Pflege. Unser Leder-Shampoo ist die ideale Lösung, um Dein Accessoire sauber, weich, geschmeidig und gut geschützt zu behalten!</p>",
+            "button_label": "Brush + Shampoo",
+            "button_link": "shopify://products/brush-shampoo-leather-care-leather-c18"
+          }
+        }
+      },
+      "block_order": [
+        "column_BKfbf8",
+        "column_biAUbj"
+      ],
+      "settings": {
+        "title": "Wie wäre es mit etwas Praktischem?",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "layout": "carousel",
+        "column_size": "medium",
+        "column_align": "left",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "rich_text_f7yddt": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_3nakX4": {
+          "type": "subheading",
+          "settings": {
+            "text": "Lust auf mehr?"
+          }
+        },
+        "heading_Eb7yhF": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Lust auf mehr?",
+            "heading_size": "h2",
+            "heading_h1": false
+          }
+        },
+        "text_bCGKEB": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Du hast noch nicht genug? Oder es war einfach nicht das Richtige dabei? Dann schau doch mal hier vorbei. Dort findest Du noch mehr Produkte, die Deine Liebsten bestimmt glücklich machen werden.</p><p><strong>Stöber Dich durchs Sortiment!</strong> Und wenn Du dir nicht sicher bist, wie wärs mit einem Gutschein? So kann sich der/die Beschenkte selbst aus suchen, was Ihm/Ihr fehlt.</p><p>Wir wünschen Dir viel Spaß beim Stöbern und Verschenken! Vielleicht ist auch etwas für Dich selbst dabei. Egal ob groß oder klein, Dein Geschenk wird von Herzen kommen.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_3tJPTb": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_3nakX4",
+        "heading_Eb7yhF",
+        "text_bCGKEB",
+        "button_3tJPTb"
+      ],
+      "settings": {
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "wide": false,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "media_grid_Dhnfpt": {
+      "type": "media-grid",
+      "blocks": {
+        "media_ryLEKp": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/bis-20.jpg",
+            "link_url": "",
+            "columns": 2,
+            "rows": 2,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "Geschenke bis 20€",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_z6etYD": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Emilia-gifts-for-men.jpg",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "Geschenkideen für Männer",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_badMDC": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Agatha-gifts-for-women.png",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "Geschenkideen für frauen",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_mxCUAf": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/bis_60.jpg",
+            "link_url": "",
+            "columns": 2,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "Geschenke bis 60€",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        }
+      },
+      "block_order": [
+        "media_ryLEKp",
+        "media_z6etYD",
+        "media_badMDC",
+        "media_mxCUAf"
+      ],
+      "settings": {
+        "title": "Media grid",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "gallery_cols_max": 4,
+        "mobile_carousel": false,
+        "gallery_cols_min": "1",
+        "fixed_height_desktop": 180,
+        "fixed_height_mobile": 300,
+        "section_color_scheme": "none",
+        "color_scheme": "white",
+        "transparent_content_color": "#ffffff"
+      }
+    },
     "collection_list_RHeKBJ": {
       "type": "collection-list",
       "blocks": {
@@ -490,6 +691,9 @@
     "media_grid_MqYbjY",
     "multi_column_jNV6fL",
     "multi_column_6hedJG",
+    "multi_column_nQGq9B",
+    "rich_text_f7yddt",
+    "media_grid_Dhnfpt",
     "collection_list_RHeKBJ",
     "featured_collection_fw9w9V"
   ]
