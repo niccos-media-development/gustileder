@@ -127,14 +127,17 @@
             {% if section.settings.image_1 != blank %}
             {% assign image = section.settings.image_1 %}
             {% render 'image',
-            image: image,
-            widths: '480, 980, 1200, 1400, 1600, 1920, 2560, 3200',
-            src_width: 1200,
-            sizes: sizes,
-            quality: 1,
-            section_index: section.index,
-            class: 'block mx-auto w-full'
-          %}
+              image: image,
+              cust_image: image,
+              custom_img: true,
+              quality: quality,
+              widths: '536, 800, 1072, 1280',
+              mobile_widths: '690, 800',
+              src_width: 536,
+              sizes: sizes,
+              section_index: section.index,
+              class: 'img-fit'
+            %}
         {% endif %}
     </div>
     {%- if section.settings.layout == 'text_last' and section.settings.show_content == true -%}
@@ -156,7 +159,7 @@
       "info": "Product image may be enlarged. You can replace the default product image with the \"Image\" setting."
     },
     {
-      "type": "image_picker",
+      "type": "url",
       "id": "image_1",
       "label": "Image (Second Image)"
     },
