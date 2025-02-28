@@ -11,6 +11,7 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "show_page_title": true,
         "heading_align": "text-center"
@@ -51,6 +52,7 @@
         "text_i4fTGy",
         "button_446Ntx"
       ],
+      "disabled": true,
       "settings": {
         "url": "",
         "height_mode": "auto",
@@ -66,6 +68,331 @@
         "tint_color": "#000000",
         "tint_opacity": 40,
         "prevent_animation": false
+      }
+    },
+    "rich_text_KDCnMB": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_fAWyzV": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_kyr8TQ": {
+          "type": "heading",
+          "settings": {
+            "heading": "Polieren, Schützen und Pflegen – Mit Gustis besten Lederpflegeprodukten für Dein Fahrrad",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "text_EpCBGU": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Radfahren gehört zu den schönsten Freuden des Lebens – egal, ob Du an einem sonnigen Tag durch die Alpen oder den Harz radelst oder das ganze Jahr über Deinen täglichen Arbeitsweg meisterst. Doch während Du und Dein Fahrrad die Natur genießen, sieht es bei Deinen Lederaccessoires manchmal anders aus. UV-Strahlen, Staub und Schweiß setzen Deinen Ledersätteln, Satteltaschen, Gepäckträgertaschen und Lenkertaschen ordentlich zu.  <br/><br/>Mit der richtigen Lederpflege kannst Du dafür sorgen, dass Deine Ausrüstung das ganze Jahr über nicht nur gut aussieht, sondern auch optimal funktioniert. Hochwertige Reinigungs- und Pflegeprodukte halten Dein Lederzubehör glänzend, geschützt und bereit für jedes neue Abenteuer. </p>",
+            "enlarge_text": false
+          }
+        },
+        "button_wgtLgE": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_fAWyzV",
+        "heading_kyr8TQ",
+        "text_EpCBGU",
+        "button_wgtLgE"
+      ],
+      "settings": {
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "wide": false,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "media_with_text_8xHY6a": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_qg4pLd": {
+          "type": "heading",
+          "settings": {
+            "heading": "Warum die Pflege Deiner Leder-Fahrradaccessoires wichtig ist",
+            "heading_size": "h4",
+            "heading_h1": false
+          }
+        },
+        "text_8YyKxN": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Deine Leder-Fahrradaccessoires wie Sättel, Gepäckträgertaschen, Lenkergriffe oder Taschen benötigen optimale Pflege. Hier erfährst Du, warum Lederpflege ein Muss ist:</p><p><strong>-</strong> Schutz vor Witterungseinflüssen: Deine Fahrradaccessoires sind Wind und Wetter ausgesetzt. Mit der richtigen Pflege kannst Du Risse und Ausbleichen verhindern und die Langlebigkeit Deiner Lederprodukte erhöhen.</p><p><strong>-</strong> Komfort und Weichheit: Gepflegte Sättel bleiben bequem und geschmeidig, sodass Du immer ein angenehmes Fahrerlebnis hast. Regelmäßiges Reinigen entfernt Schmutz, Schweiß und Öle und sorgt dafür, dass Dein Sattel über Jahre hinweg hält.</p><p><strong>-</strong> Wasserschutz und Pflege: Mit wasserabweisend machenden und pflegenden Behandlungen schützt Du Dein Leder vor Regen und Staub.</p><p><strong>-</strong> Zeitlose Eleganz: Ein gut gepflegtes Lederprodukt altert mit Stil und entwickelt eine edle Patina, die seinen Charme noch verstärkt.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_xyzaqd": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Optional button",
+            "button_link": "",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_qg4pLd",
+        "text_8YyKxN",
+        "button_xyzaqd"
+      ],
+      "settings": {
+        "image_1": "https://youtu.be/hwOQwQQ0fAc",
+        "video_external": "https://youtu.be/hwOQwQQ0fAc",
+        "video_description": "",
+        "video_autoplay": true,
+        "layout": "left",
+        "image_fit": "contain",
+        "media_width": 50,
+        "media_scale": 100,
+        "text_align": "text-start",
+        "color_scheme": "none",
+        "only_content_color_scheme": false
+      }
+    },
+    "rich_text_AePfzR": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_VqJJ6w": {
+          "type": "subheading",
+          "settings": {
+            "text": "Warum die Pflege Deiner Leder-Fahrradaccessoires wichtig ist"
+          }
+        },
+        "heading_nAPH3N": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Polieren, Schützen und Pflegen – Mit Gustis besten Lederpflegeprodukten für Dein Fahrrad",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "text_e6MQFj": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Deine Leder-Fahrradaccessoires wie Sättel, Gepäckträgertaschen, Lenkergriffe oder Taschen benötigen optimale Pflege. Hier erfährst Du, warum Lederpflege ein Muss ist:</p><p><strong>-</strong> Schutz vor Witterungseinflüssen: Deine Fahrradaccessoires sind Wind und Wetter ausgesetzt. Mit der richtigen Pflege kannst Du Risse und Ausbleichen verhindern und die Langlebigkeit Deiner Lederprodukte erhöhen.</p><p><strong>-</strong> Komfort und Weichheit: Gepflegte Sättel bleiben bequem und geschmeidig, sodass Du immer ein angenehmes Fahrerlebnis hast. Regelmäßiges Reinigen entfernt Schmutz, Schweiß und Öle und sorgt dafür, dass Dein Sattel über Jahre hinweg hält.</p><p><strong>-</strong> Wasserschutz und Pflege: Mit wasserabweisend machenden und pflegenden Behandlungen schützt Du Dein Leder vor Regen und Staub.</p><p><strong>-</strong> Zeitlose Eleganz: Ein gut gepflegtes Lederprodukt altert mit Stil und entwickelt eine edle Patina, die seinen Charme noch verstärkt.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_FacMQ9": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_VqJJ6w",
+        "heading_nAPH3N",
+        "text_e6MQFj",
+        "button_FacMQ9"
+      ],
+      "settings": {
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "wide": false,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "multi_column_rQJTex": {
+      "type": "multi-column",
+      "blocks": {
+        "column_kki93P": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/C18_vorne-Careproduct-leder_6fbe9822-a0d3-4fb8-b21f-03840b3ed85e.jpg",
+            "media_scale": 100,
+            "heading": "Bürste & Shampoo Set",
+            "text": "<p>Mache Dein Leder weich und glänzend mit unserem Bürste & Shampoo Set.</p>",
+            "button_label": "",
+            "button_link": "shopify://products/brush-shampoo-leather-care-leather-c18"
+          }
+        },
+        "column_y4RgCc": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Web_Natural-Wax_C15.jpg",
+            "media_scale": 100,
+            "heading": "Natural Wax",
+            "text": "<p>Das aus natürlichen Zutaten hergestellte Wachs macht das Lederwasserabweisend, glänzend und langlebig.</p>",
+            "button_label": "",
+            "button_link": "shopify://products/bienenwachs-politur-creme-leder-balsam-lederfett-werkzeug-lederpflegecreme-glanzwachs-lederpflege-gelb-wachs-c15"
+          }
+        },
+        "column_x38JrV": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/C20_MP_FRONT-1_4061147012468.jpg",
+            "media_scale": 100,
+            "heading": "Coloring spray-Brown",
+            "text": "<p>Dieses Spray schützt das Leder vor Abnutzung und bewahrt seine Geschmeidigkeit. </p>",
+            "button_label": "",
+            "button_link": "shopify://products/farbspray-lederpflege-impraegnierspray-leder-braun-c20"
+          }
+        }
+      },
+      "block_order": [
+        "column_kki93P",
+        "column_y4RgCc",
+        "column_x38JrV"
+      ],
+      "settings": {
+        "title": "Unsere Lederpflegeprodukte ",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "layout": "carousel",
+        "column_size": "medium",
+        "column_align": "left",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "rich_text_83kRmP": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_R7VnAC": {
+          "type": "subheading",
+          "settings": {
+            "text": "Schritt-für-Schritt-Anleitung zur Lederpflege"
+          }
+        },
+        "heading_UwArpD": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Rich text headline",
+            "heading_size": "h2",
+            "heading_h1": false
+          }
+        },
+        "text_aTwjze": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Beim Radfahren können Staub, Feuchtigkeit und andere äußere Einflüsse das Gesamtbild Deiner Lederwaren beeinträchtigen. Mit ein wenig täglicher Pflege kannst du Deine Sättel Satteltaschen, Gepäckträgertaschen und Lenkertaschen wieder auf Vordermann bringen.</p><p><strong>Do’s </strong></p><p><strong>-</strong> Wische Deine Lederaccessoires mit einem leicht angefeuchteten, weichen Tuch ab, um Staub und Schmutz zu entfernen.</p><p><strong>-</strong> Entferne <a href=\"https://www.gusti-leder.at/lexikon/flecken-im-leder/\">Flecken</a> oder Abdrücke, indem Du die Stelle mit einem Tuch oder Schwamm abreibst und den Gegenstand dann an der Luft trocknen lässt.</p><p><strong>-</strong> Verwende ein trockenes, weißes Tuch, um ölhaltige <a href=\"https://www.gusti-leder.at/lexikon/flecken-im-leder/\">Flecken</a> wegzutupfen.</p><p><strong>-</strong> Wenn Dein Lederprodukt etwas fettig ist, reibe es mit einem sauberen, trockenen Baumwolltuch ab. Wenn es draußen sonnig ist, lege Deine Tasche in die Sonne, um die Fettschicht zu reduzieren.</p><p><strong>-</strong> Putze verschmutzte Nähte an Deinen <a href=\"https://www.gusti-leder.at/lexikon/bikepacking/\">Fahrradtaschen</a> mit einem feuchten Wattestäbchen und Reiniger.</p><p><strong>-</strong> Verwende einen hochwertigen Lederreiniger für Deine Fahrradprodukte, damit sie über Jahre hinweg geschützt bleiben.</p><p><strong>Don’ts </strong></p><p><strong>-</strong> Verwende niemals Sattelseife, Öle, Föhne, Scheuermittel, Lacke oder Möbelpolitur, um Lederzubehör zu reinigen.</p><p><strong>-</strong> Wende niemals Wasser auf <a href=\"https://www.gusti-leder.at/lexikon/flecken-im-leder/\">Flecken</a> auf Ölbasis an.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_caEkGD": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_R7VnAC",
+        "heading_UwArpD",
+        "text_aTwjze",
+        "button_caEkGD"
+      ],
+      "settings": {
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "wide": false,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "multi_column_CLkRCy": {
+      "type": "multi-column",
+      "blocks": {
+        "column_t7tprE": {
+          "type": "column",
+          "settings": {
+            "enable_media": false,
+            "media_scale": 100,
+            "heading": "Tipps zur Pflege Deiner Leder-Fahrradaccessoires",
+            "text": "<p>Die richtige Pflege ist entscheidend, um die Qualität und Schönheit Deiner Leder-Fahrradaccessoires zu erhalten. Mit diesen Tipps bleiben Deine Lederprodukte Jahr für Jahr in bestem Zustand:  </p><p><strong>-</strong> Bewahre Deine Lederartikel an einem kühlen, trockenen Ort auf, um Feuchtigkeitsansammlungen zu vermeiden.  </p><p><strong>-</strong> Verpacke Deine Lederprodukte in einem atmungsaktiven Beutel oder Tuch, statt in Plastikabdeckungen.  </p><p><strong>-</strong> Vermeide direkte Sonneneinstrahlung, um das Ausbleichen und Austrocknen des Leders zu verhindern.  </p><p><strong>-</strong> Verwende die Lederpflegeprodukte von Gusti, wie Lederbalsam und <a href=\"https://www.gusti-leder.at/lexikon/bienenwachs/\">Bienenwachs</a>, um Deine Accessoires in optimalem Zustand zu halten.  </p><p><strong>-</strong> Gönne Deinem Fahrrad einmal im Jahr eine gründliche Wartung: Reinige es komplett, schmiere die beweglichen Teile und pumpe die Reifen auf, bevor Du die Sommerfahrten genießt.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_bE87Fn": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/c15_Natural-Wax_C15_MP_4.jpg",
+            "media_scale": 100,
+            "heading": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_jrFL49": {
+          "type": "column",
+          "settings": {
+            "enable_media": false,
+            "media_scale": 100,
+            "heading": "Warum Gusti Lederpflegeprodukte wählen?",
+            "text": "<p>Seit der Gründung steht Gusti Leder für höchste Standards in Design und Materialqualität. Wir verwenden ausschließlich hochwertige Materialien für unsere Leder-Fahrradprodukte. Mit der richtigen Pflege kannst Du die Lebensdauer Deiner Artikel zusätzlich deutlich verlängern.  </p><p>Unsere umfangreiche Auswahl an Lederpflegeprodukten hilft Dir nicht nur, kleinere kosmetische Reparaturen durchzuführen, sondern auch, Dein Leder in bestem Zustand zu erhalten. Von unserer Gusti Ledercreme bis hin zum Leder-Shampoo findest Du bei uns alles, was Du brauchst, um Deine Accessoires über Jahre hinweg zu genießen</p><p>Pflege Dein Fahrrad und seine Accessoires, um Deine Radtouren noch besser zu machen. Staub, Feuchtigkeit und Schmutz können Deine Lederprodukte matt und abgenutzt wirken lassen. Deshalb empfehlen wir, Lederpflegeprodukte wie Imprägniersprays und Pflegemittel mit Bienenwachs aufzutragen, damit Du lange Freude an Deinen Lederartikeln hast.  </p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_t7tprE",
+        "column_bE87Fn",
+        "column_jrFL49"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "layout": "carousel",
+        "column_size": "medium",
+        "column_align": "left",
+        "media_align": "text-center",
+        "image_ratio": "1",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
       }
     },
     "collection_list_RHeKBJ": {
@@ -116,6 +443,7 @@
         "collection_eAJ4fF",
         "collection_xbRB6E"
       ],
+      "disabled": true,
       "settings": {
         "title": "Collections",
         "heading_align": "text-start",
@@ -156,6 +484,12 @@
   "order": [
     "main",
     "image_banner_h7bfNH",
+    "rich_text_KDCnMB",
+    "media_with_text_8xHY6a",
+    "rich_text_AePfzR",
+    "multi_column_rQJTex",
+    "rich_text_83kRmP",
+    "multi_column_CLkRCy",
     "collection_list_RHeKBJ",
     "featured_collection_fw9w9V"
   ]
