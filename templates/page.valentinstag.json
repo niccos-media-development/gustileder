@@ -11,6 +11,7 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "show_page_title": true,
         "heading_align": "text-center"
@@ -21,6 +22,7 @@
       "blocks": {
         "heading_tkepFK": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "Image banner",
             "heading_size": "h1",
@@ -29,6 +31,7 @@
         },
         "text_i4fTGy": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
             "enlarge_text": true
@@ -36,6 +39,7 @@
         },
         "button_446Ntx": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_1_label": "Optional button",
             "button_1_link": "",
@@ -52,6 +56,7 @@
         "button_446Ntx"
       ],
       "settings": {
+        "image_desktop": "shopify://shop_images/Valentines-Day_banner.jpg",
         "url": "",
         "height_mode": "auto",
         "fixed_height_desktop": 600,
@@ -68,66 +73,846 @@
         "prevent_animation": false
       }
     },
-    "collection_list_RHeKBJ": {
-      "type": "collection-list",
+    "rich_text_4cFd4Y": {
+      "type": "rich-text",
       "blocks": {
-        "collection_Bnwkxe": {
-          "type": "collection",
+        "subheading_ct4pJY": {
+          "type": "subheading",
+          "disabled": true,
           "settings": {
-            "collection": ""
+            "text": "Subheading"
           }
         },
-        "collection_XxnyQd": {
-          "type": "collection",
+        "heading_rdmJmr": {
+          "type": "heading",
           "settings": {
-            "collection": ""
+            "heading": "Valentinstag - Wie Du das perfekte Geschenk findest!",
+            "heading_size": "h2",
+            "heading_h1": false
           }
         },
-        "collection_tqX3rW": {
-          "type": "collection",
+        "text_hGyTye": {
+          "type": "text",
           "settings": {
-            "collection": ""
+            "text": "<p>Der 14. Februar, Valentinstag, auch bekannt als Sankt-Valentinstag oder das Fest des Heiligen Valentin, wurde als „Tag der Liebe“ bekannt und ist heute eine wichtige Feier der Liebe auf der ganzen Welt.</p><p>Zeige Deine Liebe, Zuneigung und Fürsorge mit unseren liebevoll ausgewählten Geschenken zum Valentinstag 2025.</p>",
+            "enlarge_text": false
           }
         },
-        "collection_XHnx9f": {
-          "type": "collection",
+        "button_wkVRPW": {
+          "type": "button",
+          "disabled": true,
           "settings": {
-            "collection": ""
-          }
-        },
-        "collection_eAJ4fF": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "collection_xbRB6E": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
           }
         }
       },
       "block_order": [
-        "collection_Bnwkxe",
-        "collection_XxnyQd",
-        "collection_tqX3rW",
-        "collection_XHnx9f",
-        "collection_eAJ4fF",
-        "collection_xbRB6E"
+        "subheading_ct4pJY",
+        "heading_rdmJmr",
+        "text_hGyTye",
+        "button_wkVRPW"
       ],
       "settings": {
-        "title": "Collections",
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "wide": false,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "media_grid_7qYKpM": {
+      "type": "media-grid",
+      "blocks": {
+        "media_nmTGKq": {
+          "type": "media",
+          "disabled": true,
+          "settings": {
+            "link_url": "",
+            "columns": 2,
+            "rows": 2,
+            "subheading": "",
+            "title": "<p>Media heading</p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_MUGdXH": {
+          "type": "media",
+          "disabled": true,
+          "settings": {
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Media heading</p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_JhfAhp": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Asmund_2A180-33-59-web.jpg",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "Asmund",
+            "button_link": "shopify://products/wallet-purse-long-purse-vintage-womens-wallet-womens-purse-vintage-pink-leather-2a180-33-59",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_qzhMMC": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/2A123-33-2_WEB.jpg",
+            "link_url": "",
+            "columns": 2,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "Foster",
+            "button_link": "shopify://products/geldboerse-portemonnaie-geldbeutel-herren-schwarz-leder-2a123-33-2",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_Fm6gbe": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/web_Cara_2A16-22-130.jpg",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "Cara",
+            "button_link": "shopify://products/portemonnaie-geldboerse-geldbeutel-damen-nachhaltig-aus-naturkork-produkt-vegan-2a16-22-130",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        }
+      },
+      "block_order": [
+        "media_nmTGKq",
+        "media_MUGdXH",
+        "media_JhfAhp",
+        "media_qzhMMC",
+        "media_Fm6gbe"
+      ],
+      "settings": {
+        "title": "",
         "heading_align": "text-start",
         "button_label": "",
         "button_link": "",
-        "layout": "carousel",
-        "card_size": "small",
-        "use_product_image": false,
-        "circle_image": true,
-        "show_border": true,
+        "gallery_cols_max": 4,
+        "mobile_carousel": false,
+        "gallery_cols_min": "1",
+        "fixed_height_desktop": 180,
+        "fixed_height_mobile": 300,
+        "section_color_scheme": "none",
+        "color_scheme": "white",
+        "transparent_content_color": "#ffffff"
+      }
+    },
+    "rich_text_hMNmMK": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_ExG8Hd": {
+          "type": "subheading",
+          "settings": {
+            "text": "Für die Freundin"
+          }
+        },
+        "heading_VbKexT": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Rich text headline",
+            "heading_size": "h2",
+            "heading_h1": false
+          }
+        },
+        "text_dpRm7C": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Schenken Sie Ihrer Freundin ein zeitloses Geschenk, das sie für immer schätzen kann. Seien Sie romantischer als Rosen, indem Sie eine unserer Top-Auswahlen für Frauen auswählen.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_hWLNTr": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_ExG8Hd",
+        "heading_VbKexT",
+        "text_dpRm7C",
+        "button_hWLNTr"
+      ],
+      "settings": {
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "wide": false,
         "color_scheme": "none",
-        "full_width": true
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "media_grid_i6TbaF": {
+      "type": "media-grid",
+      "blocks": {
+        "media_RU63xk": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/2A387-22-128-web.jpg",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "Lonneke",
+            "button_link": "shopify://products/schmucketui-schmucktaeschchen-damen-schwarz-leder-2a387-22-128",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_MAWRBP": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/web_Clover_2H198-80-6.jpg",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "Clover",
+            "button_link": "shopify://products/shoulder-bag-handbag-purse-small-evening-bag-leather-bag-vintage-brown-leather-2h198-80-6",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_mJx4di": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/web_Evelyn_K54b.jpg",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "Evelyn",
+            "button_link": "shopify://products/umhaengetasche-handtasche-vintage-k54b",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_JzYMaG": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/2A117-33-2_web.jpg",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "Fenja",
+            "button_link": "shopify://products/geldboerse-portemonnaie-brieftasche-2a117-33-2",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        }
+      },
+      "block_order": [
+        "media_RU63xk",
+        "media_MAWRBP",
+        "media_mJx4di",
+        "media_JzYMaG"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "gallery_cols_max": 4,
+        "mobile_carousel": false,
+        "gallery_cols_min": "1",
+        "fixed_height_desktop": 180,
+        "fixed_height_mobile": 300,
+        "section_color_scheme": "none",
+        "color_scheme": "white",
+        "transparent_content_color": "#ffffff"
+      }
+    },
+    "rich_text_YdLHyG": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_Unjnif": {
+          "type": "subheading",
+          "settings": {
+            "text": "Für den Freund"
+          }
+        },
+        "heading_VkAtNn": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Rich text headline",
+            "heading_size": "h2",
+            "heading_h1": false
+          }
+        },
+        "text_hxr6QX": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Es kann knifflig sein, Valentinstagsgeschenke für Ihren Freund zu finden! Aber unsere Liste wird Ihnen helfen, ein wirklich besonderes Geschenk für Ihren Liebsten auszuwählen.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_aXmk7d": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_Unjnif",
+        "heading_VkAtNn",
+        "text_hxr6QX",
+        "button_aXmk7d"
+      ],
+      "settings": {
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "wide": false,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "media_grid_8hDRQ6": {
+      "type": "media-grid",
+      "blocks": {
+        "media_U7NHex": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/web_pawel.jpg",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "Pawel",
+            "button_link": "shopify://products/portemonnaie-geldboerse-geldbeutel-herren-schwarz-leder-2a54-22-9",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_W9Yzji": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/2A121-20-5_web.jpg",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "August",
+            "button_link": "shopify://products/geldboerse-portemonnaie-mit-rfid-schutz-brieftasche-braun-leder-2a121-20-5",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_qd9xed": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/web-Leon_U31.jpg",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "Leon",
+            "button_link": "shopify://products/umhaengetasche-handtasche-ledertasche-vintage-braun-leder-u31",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_xWXaej": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Web_Acton_2G39-99-5_DEF_1.jpg",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "Acton",
+            "button_link": "shopify://products/belt-bag-bum-bag-fanny-pack-bumbag-festival-bag-vintage-black-leather-2g39-99-5",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        }
+      },
+      "block_order": [
+        "media_U7NHex",
+        "media_W9Yzji",
+        "media_qd9xed",
+        "media_xWXaej"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "gallery_cols_max": 4,
+        "mobile_carousel": false,
+        "gallery_cols_min": "1",
+        "fixed_height_desktop": 180,
+        "fixed_height_mobile": 300,
+        "section_color_scheme": "none",
+        "color_scheme": "white",
+        "transparent_content_color": "#ffffff"
+      }
+    },
+    "rich_text_ee9ay8": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_8LMhRQ": {
+          "type": "subheading",
+          "settings": {
+            "text": "Für die Frau"
+          }
+        },
+        "heading_FgpHkx": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Rich text headline",
+            "heading_size": "h2",
+            "heading_h1": false
+          }
+        },
+        "text_XPVbWQ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Ein Blumenstrauß ist eine der beliebtesten Optionen für Ihren Frau. Aber unsere Vintage-Lederprodukte sind das beste Geschenk, um Ihren Ehepartner sich besonders fühlen zu lassen.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_ekeVC9": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_8LMhRQ",
+        "heading_FgpHkx",
+        "text_XPVbWQ",
+        "button_ekeVC9"
+      ],
+      "settings": {
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "wide": false,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "media_grid_qm8RkY": {
+      "type": "media-grid",
+      "blocks": {
+        "media_44bFH3": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/web_Maisie_2H111-48-7.jpg",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "Maisie",
+            "button_link": "shopify://products/umhaengetasche-handtasche-ledertasche-damen-schwarz-leder-2h111-48-7",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_nEkpmz": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/2A388-22-6_web.jpg",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "Levke",
+            "button_link": "shopify://products/schmucketui-schmucktaeschchen-damen-dunkelbraun-leder-2a388-22-6",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_YpMntE": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/web_Agatha_2A244-26-19.jpg",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "Agatha",
+            "button_link": "shopify://products/shopper-kabelka-kozena-taska-pres-rameno-na-volny-cas-do-skoly-hneda-kuze-2a244-26-19",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_tDdjii": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/web_Summer-S_H32.jpg",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "Summer S",
+            "button_link": "shopify://products/handtasche-umhaengetasche-echt-leder-vintage-h32",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        }
+      },
+      "block_order": [
+        "media_44bFH3",
+        "media_nEkpmz",
+        "media_YpMntE",
+        "media_tDdjii"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "gallery_cols_max": 4,
+        "mobile_carousel": false,
+        "gallery_cols_min": "1",
+        "fixed_height_desktop": 180,
+        "fixed_height_mobile": 300,
+        "section_color_scheme": "none",
+        "color_scheme": "white",
+        "transparent_content_color": "#ffffff"
+      }
+    },
+    "rich_text_3GyGm6": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_iGGBMB": {
+          "type": "subheading",
+          "settings": {
+            "text": "Für den Ehemann"
+          }
+        },
+        "heading_CqAxV6": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Für den Ehemann",
+            "heading_size": "h2",
+            "heading_h1": false
+          }
+        },
+        "text_dLiTG9": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Ihn wird Ihr Geschenk lieben! Entdecken Sie unsere entzückende Auswahl an personalisierten Lederschätzen, die eine süße Möglichkeit sind, einen Schritt weiter zu gehen.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_8ErtB8": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_iGGBMB",
+        "heading_CqAxV6",
+        "text_dLiTG9",
+        "button_8ErtB8"
+      ],
+      "settings": {
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "wide": false,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "media_grid_CkzYGg": {
+      "type": "media-grid",
+      "blocks": {
+        "media_hKErkV": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/2A123-20-5_web.jpg",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "Foster",
+            "button_link": "shopify://products/geldboerse-portemonnaie-mit-rfid-schutz-brieftasche-braun-leder-2a123-20-5",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_iiTnYc": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/web_Spencer_2G7-22-9_2.jpg",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "Spencer",
+            "button_link": "shopify://products/guerteltasche-bauchtasche-festivaltasche-2g7-22-9",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_GJycyT": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/2B58-20-4wp_WEB.jpg",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "Elmar",
+            "button_link": "shopify://products/aktentasche-unitasche-umhaengetasche-arbeitstasche-gross-laptoptasche-vintage-braun-leder-2b58-20-4wp",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_cLVFkn": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/web_Chester_2H30-20-5wp.jpg",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "Chester",
+            "button_link": "shopify://products/kulturtasche-kosmetiktasche-waschtasche-braun-leder-2h30-20-5wp",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        }
+      },
+      "block_order": [
+        "media_hKErkV",
+        "media_iiTnYc",
+        "media_GJycyT",
+        "media_cLVFkn"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "gallery_cols_max": 4,
+        "mobile_carousel": false,
+        "gallery_cols_min": "1",
+        "fixed_height_desktop": 180,
+        "fixed_height_mobile": 300,
+        "section_color_scheme": "none",
+        "color_scheme": "white",
+        "transparent_content_color": "#ffffff"
+      }
+    },
+    "media_with_text_jfrAzC": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_LBy7Wt": {
+          "type": "heading",
+          "settings": {
+            "heading": "Möchtest Du Dein Geschenk besonders machen?",
+            "heading_size": "h4",
+            "heading_h1": false
+          }
+        },
+        "text_mThbKG": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Überrasche Deine Freundin, Deinen Freund, Deine Frau, Deinen Mann oder eine besondere Person, indem Du eine herzergreifende Nachricht auf ein Lederaccessoire gravieren lässt. Lass bis zu 30 Zeichen (einschließlich Emojis und Sonderzeichen) auf Dein Produkt gravieren und mache daraus ein wirklich einzigartiges und persönliches Geschenk.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_GJ3QiR": {
+          "type": "button",
+          "settings": {
+            "button_label": "Gravur",
+            "button_link": "shopify://pages/gravur",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_LBy7Wt",
+        "text_mThbKG",
+        "button_GJ3QiR"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/gravur-valentine.jpg",
+        "image_1": "",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "left",
+        "image_fit": "contain",
+        "media_width": 50,
+        "media_scale": 100,
+        "text_align": "text-start",
+        "color_scheme": "none",
+        "only_content_color_scheme": false
       }
     },
     "featured_collection_fw9w9V": {
@@ -156,7 +941,17 @@
   "order": [
     "main",
     "image_banner_h7bfNH",
-    "collection_list_RHeKBJ",
+    "rich_text_4cFd4Y",
+    "media_grid_7qYKpM",
+    "rich_text_hMNmMK",
+    "media_grid_i6TbaF",
+    "rich_text_YdLHyG",
+    "media_grid_8hDRQ6",
+    "rich_text_ee9ay8",
+    "media_grid_qm8RkY",
+    "rich_text_3GyGm6",
+    "media_grid_CkzYGg",
+    "media_with_text_jfrAzC",
     "featured_collection_fw9w9V"
   ]
 }
