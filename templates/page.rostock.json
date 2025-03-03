@@ -70,10 +70,64 @@
         "prevent_animation": false
       }
     },
+    "rich_text_pgJgjg": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_MR3LbN": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_qVnwk6": {
+          "type": "heading",
+          "settings": {
+            "heading": "Herzlich Willkommen im Gusti Leder Store Rostock!",
+            "heading_size": "h2",
+            "heading_h1": false
+          }
+        },
+        "text_DA4HMF": {
+          "type": "text",
+          "settings": {
+            "text": "<p>In unserem urigen Lederladen im angesagten Szeneviertel KTV findet man ein vielfältiges Angebot an Lederwaren unterschiedlichster Art. Ob Reisetaschen, Aktentaschen, Handtaschen, Acessoires oder Schnäppchenkoffer, es ist für jeden Lederfreund etwas dabei. Komm vorbei, schnuppere den Duft der Lederwaren und überzeuge Dich von unseren Produkten. Wir freuen uns auf Deinen Besuch!</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_GfFnkJ": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_MR3LbN",
+        "heading_qVnwk6",
+        "text_DA4HMF",
+        "button_GfFnkJ"
+      ],
+      "settings": {
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "wide": false,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
     "custom_liquid_8Rbz96": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<p style=\"text-align: center;\"><strong style=\"font-size: x-large;\">Herzlich Willkommen im Gusti Leder Store Rostock!</strong></p>\n<p style=\"text-align: center;\"><span style=\"font-size: large;\">In unserem urigen Lederladen im angesagten Szeneviertel KTV findet man ein vielf&auml;ltiges Angebot an Lederwaren unterschiedlichster Art. Ob Reisetaschen, Aktentaschen, Handtaschen, Acessoires oder Schn&auml;ppchenkoffer, es ist f&uuml;r jeden Lederfreund etwas dabei. Komm vorbei, schnuppere den Duft der Lederwaren und &uuml;berzeuge Dich von unseren Produkten. Wir freuen uns auf Deinen Besuch!</span></p>\n\n\n<iframe src=\"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4680.417290066726!2d12.118054!3d54.087776!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47ac574c9151b1b7%3A0x8edd54e1312f69cf!2sGusti%20Leder%20-%20Lederwarengesch%C3%A4ft%20-%20Taschenreparatur!5e0!3m2!1sen!2sus!4v1740731824144!5m2!1sen!2sus\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+        "custom_liquid": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4680.417290066726!2d12.118054!3d54.087776!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47ac574c9151b1b7%3A0x8edd54e1312f69cf!2sGusti%20Leder%20-%20Lederwarengesch%C3%A4ft%20-%20Taschenreparatur!5e0!3m2!1sen!2sus!4v1740731824144!5m2!1sen!2sus\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
         "section_height": "default",
         "full_width": false,
         "dividers": "none",
@@ -320,6 +374,7 @@
   "order": [
     "main",
     "image_banner_h7bfNH",
+    "rich_text_pgJgjg",
     "custom_liquid_8Rbz96",
     "rich_text_rJdUqx",
     "media_with_text_x8hBML",
