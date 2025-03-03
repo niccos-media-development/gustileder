@@ -80,63 +80,155 @@
         "prevent_animation": false
       }
     },
-    "multi_column_GfMd47": {
-      "type": "multi-column",
+    "rich_text_x9aRQk": {
+      "type": "rich-text",
       "blocks": {
-        "column_4Fd8F7": {
-          "type": "column",
-          "settings": {
-            "enable_media": true,
-            "image": "shopify://shop_images/Hamburg-Indoor-2-KW32-2024.jpg",
-            "media_scale": 100,
-            "heading": "Reparaturservice im Store",
-            "text": "<p>Wir bieten in unseren Läden die Möglichkeit an Lederartikel von Gusti oder auch anderer Hersteller zur Reparatur abzugeben. So sind Deine Leder-Lieblinge bald wieder so gut wie neu. Sprich unser Store-Team einfach an und lass Dich beraten.</p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "column_bYkgqN": {
-          "type": "column",
+        "subheading_BkGfL3": {
+          "type": "subheading",
           "disabled": true,
           "settings": {
-            "enable_media": false,
-            "media_scale": 100,
-            "heading": "",
-            "text": "",
-            "button_label": "",
-            "button_link": ""
+            "text": "Subheading"
           }
         },
-        "column_YzffBC": {
-          "type": "column",
+        "heading_NaMyQy": {
+          "type": "heading",
           "settings": {
-            "enable_media": true,
-            "image": "shopify://shop_images/Hamburg-Basteltisch-KW34-2024.jpg",
-            "media_scale": 100,
-            "heading": "Bastel-Ecke im Store",
-            "text": "<p>Unser Laden bietet eine kostenlose Gelegenheit kreativ zu werden. So kannst Du z.B. Deine gekauften Taschen hier direkt selbst personalisieren und mit einer Gravur versehen. Außerdem kannst aus Lederresten z.B. kleine Anhänger basteln. Die Lederreste stammen dabei von alten unverkäuflichen Taschen. Nachhaltigkeit ist ein elementarer Gedanke unseres täglichen Handelns.</p>",
-            "button_label": "",
-            "button_link": ""
+            "heading": "Entdecke unser Serviceangebot in den Gusti Stores",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "text_Uiak3e": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your store with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "enlarge_text": true
+          }
+        },
+        "button_FFpaik": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
           }
         }
       },
       "block_order": [
-        "column_4Fd8F7",
-        "column_bYkgqN",
-        "column_YzffBC"
+        "subheading_BkGfL3",
+        "heading_NaMyQy",
+        "text_Uiak3e",
+        "button_FFpaik"
       ],
       "settings": {
-        "title": "Entdecke unser Serviceangebot in den Gusti Stores",
-        "heading_align": "text-start",
-        "button_label": "",
-        "button_link": "",
-        "layout": "carousel",
-        "column_size": "medium",
-        "column_align": "left",
-        "media_align": "text-center",
-        "image_ratio": "1",
-        "color_scheme": "1",
-        "button_style": "btn btn--secondary"
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "wide": false,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "media_with_text_KMb8bK": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_bKMVC9": {
+          "type": "heading",
+          "settings": {
+            "heading": "Reparaturservice im Store",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "text_WGMNWJ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wir bieten in unseren Läden die Möglichkeit an Lederartikel von Gusti oder auch anderer Hersteller zur Reparatur abzugeben. So sind Deine Leder-Lieblinge bald wieder so gut wie neu. Sprich unser Store-Team einfach an und lass Dich beraten.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_PF8GgF": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Optional button",
+            "button_link": "",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_bKMVC9",
+        "text_WGMNWJ",
+        "button_PF8GgF"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Hamburg-Indoor-2-KW32-2024.jpg",
+        "image_1": "",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "left",
+        "image_fit": "contain",
+        "media_width": 50,
+        "media_scale": 100,
+        "text_align": "text-start",
+        "color_scheme": "none",
+        "only_content_color_scheme": false
+      }
+    },
+    "media_with_text_gzC4kE": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_W84A4J": {
+          "type": "heading",
+          "settings": {
+            "heading": "Bastel-Ecke im Store",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "text_gT9Ney": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Unser Laden bietet eine kostenlose Gelegenheit kreativ zu werden. So kannst Du z.B. Deine gekauften Taschen hier direkt selbst personalisieren und mit einer Gravur versehen. Außerdem kannst aus Lederresten z.B. kleine Anhänger basteln. Die Lederreste stammen dabei von alten unverkäuflichen Taschen. Nachhaltigkeit ist ein elementarer Gedanke unseres täglichen Handelns.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_wHqrVf": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Optional button",
+            "button_link": "",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_W84A4J",
+        "text_gT9Ney",
+        "button_wHqrVf"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Hamburg-Basteltisch-KW34-2024.jpg",
+        "image_1": "",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "right",
+        "image_fit": "contain",
+        "media_width": 50,
+        "media_scale": 100,
+        "text_align": "text-start",
+        "color_scheme": "none",
+        "only_content_color_scheme": false
       }
     },
     "collection_list_RHeKBJ": {
@@ -229,7 +321,9 @@
     "main",
     "image_banner_h7bfNH",
     "custom_liquid_hWFYb7",
-    "multi_column_GfMd47",
+    "rich_text_x9aRQk",
+    "media_with_text_KMb8bK",
+    "media_with_text_gzC4kE",
     "collection_list_RHeKBJ",
     "featured_collection_fw9w9V"
   ]
