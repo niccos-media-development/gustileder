@@ -70,10 +70,64 @@
         "prevent_animation": false
       }
     },
+    "rich_text_GF7PXc": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_anDqwW": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_ayXAm8": {
+          "type": "heading",
+          "settings": {
+            "heading": "Herzlich Willkommen im Gusti Leder Store Hamburg!",
+            "heading_size": "h2",
+            "heading_h1": false
+          }
+        },
+        "text_t63WYC": {
+          "type": "text",
+          "settings": {
+            "text": "<p>In unserem urigen Ladengeschäft in der Susannenstraße im szenigen Schanzenviertel erwartet Dich eine große Auswahl an einzigartigen Lederprodukten. Von der Geldbörse über die Bauchtasche bis zum Cityrucksack haben wir alles, was Dein Herz begehrt. Komm vorbei, schnuppere den Duft der Lederwaren und überzeuge Dich von unseren Produkten. Wir freuen uns auf Deinen Besuch! Dein Gusti Team Hamburg</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_W9mNAq": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_anDqwW",
+        "heading_ayXAm8",
+        "text_t63WYC",
+        "button_W9mNAq"
+      ],
+      "settings": {
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "wide": false,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
     "custom_liquid_hWFYb7": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<p style=\"text-align: center;\"><strong style=\"font-size: x-large;\">Herzlich Willkommen im Gusti Leder Store Hamburg!</strong></p>\n<p style=\"text-align: center;\"><span style=\"font-size: large;\">In unserem urigen Ladengesch&auml;ft in der Susannenstra&szlig;e im szenigen Schanzenviertel erwartet Dich eine gro&szlig;e Auswahl an einzigartigen Lederprodukten. Von der Geldb&ouml;rse &uuml;ber die Bauchtasche bis zum Cityrucksack haben wir alles, was Dein Herz begehrt. Komm vorbei, schnuppere den Duft der Lederwaren und &uuml;berzeuge Dich von unseren Produkten. Wir freuen uns auf Deinen Besuch! Dein Gusti Team Hamburg</span></p>\n<iframe src=\"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4739.436261634826!2d9.965059!3d53.562799!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47b18f423740b1d1%3A0xc7c2c1cd75bbc340!2sGusti%20Leder%20-%20Lederwarengesch%C3%A4ft%20-%20Taschenreparatur!5e0!3m2!1sde!2sde!4v1740729277290!5m2!1sde!2sde\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+        "custom_liquid": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4739.436261634826!2d9.965059!3d53.562799!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47b18f423740b1d1%3A0xc7c2c1cd75bbc340!2sGusti%20Leder%20-%20Lederwarengesch%C3%A4ft%20-%20Taschenreparatur!5e0!3m2!1sde!2sde!4v1740729277290!5m2!1sde!2sde\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
         "section_height": "default",
         "full_width": false,
         "dividers": "none",
@@ -320,6 +374,7 @@
   "order": [
     "main",
     "image_banner_h7bfNH",
+    "rich_text_GF7PXc",
     "custom_liquid_hWFYb7",
     "rich_text_x9aRQk",
     "media_with_text_KMb8bK",
