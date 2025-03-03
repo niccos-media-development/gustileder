@@ -144,17 +144,6 @@
     "multi_column_37w3Ep": {
       "type": "multi-column",
       "blocks": {
-        "column_wxDMLm": {
-          "type": "column",
-          "settings": {
-            "enable_media": true,
-            "media_scale": 100,
-            "heading": "Agatha",
-            "text": "<p>Pair text with an image to focus on a product, collection or blog post. Add details on availability, style, or even provide a review.</p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
         "column_KQApNk": {
           "type": "column",
           "settings": {
@@ -229,7 +218,6 @@
         }
       },
       "block_order": [
-        "column_wxDMLm",
         "column_KQApNk",
         "column_D3p73D",
         "column_jiFiEX",
@@ -328,6 +316,7 @@
         },
         "column_QhqHkV": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "enable_media": true,
             "media_scale": 100,
@@ -438,6 +427,7 @@
         },
         "column_jx4ikD": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "enable_media": true,
             "media_scale": 100,
