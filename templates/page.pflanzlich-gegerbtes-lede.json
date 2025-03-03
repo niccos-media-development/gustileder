@@ -53,6 +53,7 @@
         "text_i4fTGy",
         "button_446Ntx"
       ],
+      "disabled": true,
       "settings": {
         "image_desktop": "shopify://shop_images/veg_tanning_Shopify.jpg",
         "url": "",
@@ -150,6 +151,7 @@
       ],
       "settings": {
         "image": "shopify://shop_images/vegetable_tanned_51595d5b-aad7-4f1f-822a-57478cec7544.jpg",
+        "image_1": "",
         "video_external": "",
         "video_description": "",
         "video_autoplay": false,
@@ -379,6 +381,7 @@
       ],
       "settings": {
         "image": "shopify://shop_images/vegetable_tanned_2.jpg",
+        "image_1": "",
         "video_external": "",
         "video_description": "",
         "video_autoplay": false,
