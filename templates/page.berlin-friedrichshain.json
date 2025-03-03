@@ -124,6 +124,167 @@
         "prevent_animation": false
       }
     },
+    "custom_liquid_gY8T8a": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4856.565708454291!2d13.454126!3d52.51022!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a84e5bf5f45019%3A0xb2b440dfb996faab!2sGusti%20Leder%20-%20Lederwarengesch%C3%A4ft%20-%20Taschenreparatur!5e0!3m2!1sde!2sde!4v1740970654706!5m2!1sde!2sde\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+        "section_height": "default",
+        "full_width": false,
+        "dividers": "none",
+        "prevent_animation": false
+      }
+    },
+    "rich_text_qGhMeE": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_zUX9Py": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_TMCWyb": {
+          "type": "heading",
+          "settings": {
+            "heading": "Entdecke unser Serviceangebot in den Gusti Stores",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "text_RhfkXB": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your store with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "enlarge_text": true
+          }
+        },
+        "button_DM99yH": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_zUX9Py",
+        "heading_TMCWyb",
+        "text_RhfkXB",
+        "button_DM99yH"
+      ],
+      "settings": {
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "wide": false,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "media_with_text_aPLRM4": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_HtwqzH": {
+          "type": "heading",
+          "settings": {
+            "heading": "Reparaturservice im Store",
+            "heading_size": "h4",
+            "heading_h1": false
+          }
+        },
+        "text_3xaeVj": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wir bieten in unseren Läden die Möglichkeit an Lederartikel von Gusti oder auch anderer Hersteller zur Reparatur abzugeben. So sind Deine Leder-Lieblinge bald wieder so gut wie neu. Sprich unser Store-Team einfach an und lass Dich beraten.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_r9Wzqg": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Optional button",
+            "button_link": "",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_HtwqzH",
+        "text_3xaeVj",
+        "button_r9Wzqg"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Kopie_1.jpg",
+        "image_1": "",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "left",
+        "image_fit": "contain",
+        "media_width": 50,
+        "media_scale": 100,
+        "text_align": "text-start",
+        "color_scheme": "none",
+        "only_content_color_scheme": false
+      }
+    },
+    "media_with_text_PG3dQQ": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_XpcYnC": {
+          "type": "heading",
+          "settings": {
+            "heading": "Bastel-Ecke im Store",
+            "heading_size": "h4",
+            "heading_h1": false
+          }
+        },
+        "text_zekbUe": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Unser Laden bietet eine kostenlose Gelegenheit kreativ zu werden. So kannst Du z.B. Deine gekauften Taschen hier direkt selbst personalisieren und mit einer Gravur versehen. Außerdem kannst aus Lederresten z.B. kleine Anhänger basteln. Die Lederreste stammen dabei von alten unverkäuflichen Taschen. Nachhaltigkeit ist ein elementarer Gedanke unseres täglichen Handelns.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_zMmtWh": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Optional button",
+            "button_link": "",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_XpcYnC",
+        "text_zekbUe",
+        "button_zMmtWh"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Kopie_2.jpg",
+        "image_1": "",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "right",
+        "image_fit": "contain",
+        "media_width": 50,
+        "media_scale": 100,
+        "text_align": "text-start",
+        "color_scheme": "none",
+        "only_content_color_scheme": false
+      }
+    },
     "collection_list_RHeKBJ": {
       "type": "collection-list",
       "blocks": {
@@ -214,6 +375,10 @@
     "main",
     "image_banner_h7bfNH",
     "rich_text_pJQCY3",
+    "custom_liquid_gY8T8a",
+    "rich_text_qGhMeE",
+    "media_with_text_aPLRM4",
+    "media_with_text_PG3dQQ",
     "collection_list_RHeKBJ",
     "featured_collection_fw9w9V"
   ]
