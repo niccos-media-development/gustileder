@@ -11,6 +11,7 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "show_page_title": true,
         "heading_align": "text-center"
@@ -51,6 +52,7 @@
         "text_i4fTGy",
         "button_446Ntx"
       ],
+      "disabled": true,
       "settings": {
         "url": "",
         "height_mode": "auto",
@@ -66,6 +68,221 @@
         "tint_color": "#000000",
         "tint_opacity": 40,
         "prevent_animation": false
+      }
+    },
+    "rich_text_yVUng9": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_GmcN8y": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_RWLJqB": {
+          "type": "heading",
+          "settings": {
+            "heading": "Herzlich Willkommen im Gusti Leder Store Greifswald!",
+            "heading_size": "h2",
+            "heading_h1": false
+          }
+        },
+        "text_6VHg3h": {
+          "type": "text",
+          "settings": {
+            "text": "<p>In unserem urigen Ladengeschäft in der Schuhhagen erwartet Dich eine große Auswahl an einzigartigen Lederprodukten. Von der Geldbörse über die Bauchtasche bis zum Cityrucksack haben wir alles, was Dein Herz begehrt. Komm vorbei, schnuppere den Duft der Lederwaren und überzeuge Dich von unseren Produkten. Wir freuen uns auf Deinen Besuch! Dein Gusti Team Greifswald</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_HYCCPH": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_GmcN8y",
+        "heading_RWLJqB",
+        "text_6VHg3h",
+        "button_HYCCPH"
+      ],
+      "settings": {
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "wide": false,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "custom_liquid_yeJwkR": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4679.48090617026!2d13.3838!3d54.096077!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47ab7592f77663af%3A0xb83a342321494f38!2sGusti%20Leder%20-%20Lederwarengesch%C3%A4ft%20-%20Taschenreparatur!5e0!3m2!1sen!2sin!4v1740974722571!5m2!1sen!2sin\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+        "section_height": "default",
+        "full_width": false,
+        "dividers": "none",
+        "prevent_animation": false
+      }
+    },
+    "rich_text_PRgckp": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_xPMdae": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_HEAN7k": {
+          "type": "heading",
+          "settings": {
+            "heading": "Entdecke unser Serviceangebot in den Gusti Stores",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "text_WgrcgR": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your store with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "enlarge_text": true
+          }
+        },
+        "button_k7HaQh": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_xPMdae",
+        "heading_HEAN7k",
+        "text_WgrcgR",
+        "button_k7HaQh"
+      ],
+      "settings": {
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "wide": false,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "media_with_text_gNWkpG": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_GMC9eX": {
+          "type": "heading",
+          "settings": {
+            "heading": "Reparaturservice im Store",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "text_h4g36d": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wir bieten in unseren Läden die Möglichkeit an Lederartikel von Gusti oder auch anderer Hersteller zur Reparatur abzugeben. So sind Deine Leder-Lieblinge bald wieder so gut wie neu. Sprich unser Store-Team einfach an und lass Dich beraten.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_dfp3d6": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Optional button",
+            "button_link": "",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_GMC9eX",
+        "text_h4g36d",
+        "button_dfp3d6"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/greifswald.jpg",
+        "image_1": "",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "left",
+        "image_fit": "contain",
+        "media_width": 50,
+        "media_scale": 100,
+        "text_align": "text-start",
+        "color_scheme": "none",
+        "only_content_color_scheme": false
+      }
+    },
+    "media_with_text_a8AUHU": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_YALTN8": {
+          "type": "heading",
+          "settings": {
+            "heading": "Bastel-Ecke im Store",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "text_QEBYxr": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Unser Laden bietet eine kostenlose Gelegenheit kreativ zu werden. So kannst Du z.B. Deine gekauften Taschen hier direkt selbst personalisieren und mit einer Gravur versehen. Außerdem kannst aus Lederresten z.B. kleine Anhänger basteln. Die Lederreste stammen dabei von alten unverkäuflichen Taschen. Nachhaltigkeit ist ein elementarer Gedanke unseres täglichen Handelns.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_U8QDRn": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Optional button",
+            "button_link": "",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_YALTN8",
+        "text_QEBYxr",
+        "button_U8QDRn"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/greifswald_1.jpg",
+        "image_1": "",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "right",
+        "image_fit": "contain",
+        "media_width": 50,
+        "media_scale": 100,
+        "text_align": "text-start",
+        "color_scheme": "none",
+        "only_content_color_scheme": false
       }
     },
     "collection_list_RHeKBJ": {
@@ -116,6 +333,7 @@
         "collection_eAJ4fF",
         "collection_xbRB6E"
       ],
+      "disabled": true,
       "settings": {
         "title": "Collections",
         "heading_align": "text-start",
@@ -156,6 +374,11 @@
   "order": [
     "main",
     "image_banner_h7bfNH",
+    "rich_text_yVUng9",
+    "custom_liquid_yeJwkR",
+    "rich_text_PRgckp",
+    "media_with_text_gNWkpG",
+    "media_with_text_a8AUHU",
     "collection_list_RHeKBJ",
     "featured_collection_fw9w9V"
   ]
