@@ -11,6 +11,7 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "show_page_title": true,
         "heading_align": "text-center"
@@ -51,6 +52,7 @@
         "text_i4fTGy",
         "button_446Ntx"
       ],
+      "disabled": true,
       "settings": {
         "url": "",
         "height_mode": "auto",
@@ -66,6 +68,221 @@
         "tint_color": "#000000",
         "tint_opacity": 40,
         "prevent_animation": false
+      }
+    },
+    "rich_text_4PjXwK": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_NjiW4b": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_JTVhqd": {
+          "type": "heading",
+          "settings": {
+            "heading": "Herzlich Willkommen bei Gusti Leder Dresden",
+            "heading_size": "h2",
+            "heading_h1": false
+          }
+        },
+        "text_JVwhYX": {
+          "type": "text",
+          "settings": {
+            "text": "<p>wir sind ein kleiner, aber feiner Laden im bunten Szeneviertel Dresden Neustadt auf der Alaunstraße, mit großer Produktauswahl. Vom Fahrradequipment bis zum Schnäppchenkoffer haben wir alles, was Lederfreund*innen erfreut. Besucht unser Team, schnuppert den Duft der Lederwaren und nehmt unsere Produkte in die Hand. Wir freuen uns auch Euch!</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_bkikNL": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_NjiW4b",
+        "heading_JTVhqd",
+        "text_JVwhYX",
+        "button_bkikNL"
+      ],
+      "settings": {
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "wide": false,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "custom_liquid_xjk7DR": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d5014.7551211785685!2d13.74919!3d51.06458!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4709cf04113223a7%3A0xfb16cc47af335fb!2sGusti%20Leder%20Dresden!5e0!3m2!1sde!2sde!4v1740975337941!5m2!1sde!2sde\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+        "section_height": "default",
+        "full_width": false,
+        "dividers": "none",
+        "prevent_animation": false
+      }
+    },
+    "rich_text_aceLjV": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_BAqTNp": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_A9H4fB": {
+          "type": "heading",
+          "settings": {
+            "heading": "Entdecke unser Serviceangebot in den Gusti Stores",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "text_fTLBWk": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your store with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "enlarge_text": true
+          }
+        },
+        "button_Vc9qjc": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_BAqTNp",
+        "heading_A9H4fB",
+        "text_fTLBWk",
+        "button_Vc9qjc"
+      ],
+      "settings": {
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "wide": false,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "media_with_text_4iamg8": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_LiUmem": {
+          "type": "heading",
+          "settings": {
+            "heading": "Reparaturservice im Store",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "text_6JzFhW": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wir bieten in unseren Läden die Möglichkeit an Lederartikel von Gusti oder auch anderer Hersteller zur Reparatur abzugeben. So sind Deine Leder-Lieblinge bald wieder so gut wie neu. Sprich unser Store-Team einfach an und lass Dich beraten.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_ptEjVz": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Optional button",
+            "button_link": "",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_LiUmem",
+        "text_6JzFhW",
+        "button_ptEjVz"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/dresden.heic",
+        "image_1": "",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "left",
+        "image_fit": "contain",
+        "media_width": 50,
+        "media_scale": 100,
+        "text_align": "text-start",
+        "color_scheme": "none",
+        "only_content_color_scheme": false
+      }
+    },
+    "media_with_text_cmq4UH": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_UMVWGr": {
+          "type": "heading",
+          "settings": {
+            "heading": "Bastel-Ecke im Store",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "text_MhJbjE": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong> </strong>Unser Laden bietet eine kostenlose Gelegenheit kreativ zu werden. So kannst Du z.B. Deine gekauften Taschen hier direkt selbst personalisieren und mit einer Gravur versehen. Außerdem kannst aus Lederresten z.B. kleine Anhänger basteln. Die Lederreste stammen dabei von alten unverkäuflichen Taschen. Nachhaltigkeit ist ein elementarer Gedanke unseres täglichen Handelns.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_Yp3cw3": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Optional button",
+            "button_link": "",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_UMVWGr",
+        "text_MhJbjE",
+        "button_Yp3cw3"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/dresden_1.heic",
+        "image_1": "",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "right",
+        "image_fit": "contain",
+        "media_width": 50,
+        "media_scale": 100,
+        "text_align": "text-start",
+        "color_scheme": "none",
+        "only_content_color_scheme": false
       }
     },
     "collection_list_RHeKBJ": {
@@ -116,6 +333,7 @@
         "collection_eAJ4fF",
         "collection_xbRB6E"
       ],
+      "disabled": true,
       "settings": {
         "title": "Collections",
         "heading_align": "text-start",
@@ -156,6 +374,11 @@
   "order": [
     "main",
     "image_banner_h7bfNH",
+    "rich_text_4PjXwK",
+    "custom_liquid_xjk7DR",
+    "rich_text_aceLjV",
+    "media_with_text_4iamg8",
+    "media_with_text_cmq4UH",
     "collection_list_RHeKBJ",
     "featured_collection_fw9w9V"
   ]
