@@ -11,6 +11,7 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "show_page_title": true,
         "heading_align": "text-center"
@@ -51,6 +52,7 @@
         "text_i4fTGy",
         "button_446Ntx"
       ],
+      "disabled": true,
       "settings": {
         "url": "",
         "height_mode": "auto",
@@ -66,6 +68,221 @@
         "tint_color": "#000000",
         "tint_opacity": 40,
         "prevent_animation": false
+      }
+    },
+    "rich_text_kp4FDd": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_DWGP9B": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_7njD4w": {
+          "type": "heading",
+          "settings": {
+            "heading": "Herzlich Willkommen im Gusti Leder Store Münster!",
+            "heading_size": "h2",
+            "heading_h1": false
+          }
+        },
+        "text_ecEh3N": {
+          "type": "text",
+          "settings": {
+            "text": "<p>In unserem urigen Ladengeschäft in der Salzstraße erwartet Dich eine große Auswahl an einzigartigen Lederprodukten. Von der Geldbörse über die Bauchtasche bis zum Cityrucksack haben wir alles, was Dein Herz begehrt. Komm vorbei, schnuppere den Duft der Lederwaren und überzeuge Dich von unseren Produkten. Wir freuen uns auf Deinen Besuch!</p><p>Dein Gusti Team Münster</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_9YG34g": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_DWGP9B",
+        "heading_7njD4w",
+        "text_ecEh3N",
+        "button_9YG34g"
+      ],
+      "settings": {
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "wide": false,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "custom_liquid_hpgwwT": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9833.947722314088!2d7.631650999999999!3d51.961547!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47b9badcea440f05%3A0x3630c2bba8230efc!2sSalzstra%C3%9Fe%2018%2C%2048143%20M%C3%BCnster%2C%20Deutschland!5e0!3m2!1sde!2suk!4v1740995618450!5m2!1sde!2suk\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+        "section_height": "default",
+        "full_width": false,
+        "dividers": "none",
+        "prevent_animation": false
+      }
+    },
+    "rich_text_tzi6HT": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_7e4TFA": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_GRXKeH": {
+          "type": "heading",
+          "settings": {
+            "heading": "Entdecke unser Serviceangebot in den Gusti Stores",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "text_4mVxFT": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>In unserem urigen Ladengeschäft in der Salzstraße erwartet Dich eine große Auswahl an einzigartigen Lederprodukten. Von der Geldbörse über die Bauchtasche bis zum Cityrucksack haben wir alles, was Dein Herz begehrt. Komm vorbei, schnuppere den Duft der Lederwaren und überzeuge Dich von unseren Produkten. Wir freuen uns auf Deinen Besuch!</p><p>Dein Gusti Team Münster</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_eGP9Qw": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_7e4TFA",
+        "heading_GRXKeH",
+        "text_4mVxFT",
+        "button_eGP9Qw"
+      ],
+      "settings": {
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "wide": false,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "media_with_text_yQkHVR": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_rwPNGR": {
+          "type": "heading",
+          "settings": {
+            "heading": "Reparaturservice im Store",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "text_qixcMf": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wir bieten in unseren Läden die Möglichkeit an Lederartikel von Gusti oder auch anderer Hersteller zur Reparatur abzugeben. So sind Deine Leder-Lieblinge bald wieder so gut wie neu. Sprich unser Store-Team einfach an und lass Dich beraten.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_rkUkwi": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Optional button",
+            "button_link": "",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_rwPNGR",
+        "text_qixcMf",
+        "button_rkUkwi"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/munster_1.jpg",
+        "image_1": "",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "left",
+        "image_fit": "contain",
+        "media_width": 50,
+        "media_scale": 100,
+        "text_align": "text-start",
+        "color_scheme": "none",
+        "only_content_color_scheme": false
+      }
+    },
+    "media_with_text_qA4Ler": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_QzCyLR": {
+          "type": "heading",
+          "settings": {
+            "heading": "Bastel-Ecke im Store",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "text_Y4XGUj": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Unser Laden bietet eine kostenlose Gelegenheit kreativ zu werden. So kannst Du z.B. Deine gekauften Taschen hier direkt selbst personalisieren und mit einer Gravur versehen. Außerdem kannst aus Lederresten z.B. kleine Anhänger basteln. Die Lederreste stammen dabei von alten unverkäuflichen Taschen. Nachhaltigkeit ist ein elementarer Gedanke unseres täglichen Handelns.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_H7jt3C": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Optional button",
+            "button_link": "",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_QzCyLR",
+        "text_Y4XGUj",
+        "button_H7jt3C"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/munster.jpg",
+        "image_1": "",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "right",
+        "image_fit": "contain",
+        "media_width": 50,
+        "media_scale": 100,
+        "text_align": "text-start",
+        "color_scheme": "none",
+        "only_content_color_scheme": false
       }
     },
     "collection_list_RHeKBJ": {
@@ -116,6 +333,7 @@
         "collection_eAJ4fF",
         "collection_xbRB6E"
       ],
+      "disabled": true,
       "settings": {
         "title": "Collections",
         "heading_align": "text-start",
@@ -156,6 +374,11 @@
   "order": [
     "main",
     "image_banner_h7bfNH",
+    "rich_text_kp4FDd",
+    "custom_liquid_hpgwwT",
+    "rich_text_tzi6HT",
+    "media_with_text_yQkHVR",
+    "media_with_text_qA4Ler",
     "collection_list_RHeKBJ",
     "featured_collection_fw9w9V"
   ]
