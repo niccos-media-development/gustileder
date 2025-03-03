@@ -11,6 +11,7 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "show_page_title": true,
         "heading_align": "text-center"
@@ -51,6 +52,7 @@
         "text_i4fTGy",
         "button_446Ntx"
       ],
+      "disabled": true,
       "settings": {
         "url": "",
         "height_mode": "auto",
@@ -66,6 +68,221 @@
         "tint_color": "#000000",
         "tint_opacity": 40,
         "prevent_animation": false
+      }
+    },
+    "rich_text_VY4WmX": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_FanKAA": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_NNRKkb": {
+          "type": "heading",
+          "settings": {
+            "heading": "Herzlich Willkommen im Gusti Leder Store Stralsund!",
+            "heading_size": "h2",
+            "heading_h1": false
+          }
+        },
+        "text_RfHJQG": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong> </strong>In unserem urigen Ladengeschäft in der Ossenreyerstraße erwartet Dich eine große Auswahl an einzigartigen Lederprodukten. Von der Geldbörse über die Bauchtasche bis zum Cityrucksack haben wir alles, was Dein Herz begehrt. Komm vorbei, schnuppere den Duft der Lederwaren und überzeuge Dich von unseren Produkten. Wir freuen uns auf Deinen Besuch!</p><p> Dein Gusti Team Stralsund</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_yTYAd4": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_FanKAA",
+        "heading_NNRKkb",
+        "text_RfHJQG",
+        "button_yTYAd4"
+      ],
+      "settings": {
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "wide": false,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "custom_liquid_mqXLpp": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1163.751004304506!2d13.089793!3d54.312756!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47ab63b43282cf37%3A0xd6f1c679324537f5!2sOssenreyerstra%C3%9Fe%2029%2C%2018439%20Stralsund!5e0!3m2!1sen!2sde!4v1740995280718!5m2!1sen!2sde\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+        "section_height": "default",
+        "full_width": false,
+        "dividers": "none",
+        "prevent_animation": false
+      }
+    },
+    "rich_text_8tjMnQ": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_HnU9pT": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_rmWNfp": {
+          "type": "heading",
+          "settings": {
+            "heading": "Entdecke unser Serviceangebot in den Gusti Stores",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "text_rdQgjY": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p><strong> </strong>In unserem urigen Ladengeschäft in der Ossenreyerstraße erwartet Dich eine große Auswahl an einzigartigen Lederprodukten. Von der Geldbörse über die Bauchtasche bis zum Cityrucksack haben wir alles, was Dein Herz begehrt. Komm vorbei, schnuppere den Duft der Lederwaren und überzeuge Dich von unseren Produkten. Wir freuen uns auf Deinen Besuch!</p><p> Dein Gusti Team Stralsund</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_C3hDpk": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_HnU9pT",
+        "heading_rmWNfp",
+        "text_rdQgjY",
+        "button_C3hDpk"
+      ],
+      "settings": {
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "wide": false,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "media_with_text_txPRky": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_LNtNp9": {
+          "type": "heading",
+          "settings": {
+            "heading": "Reparaturservice im Store",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "text_VwcnHy": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wir bieten in unseren Läden die Möglichkeit an Lederartikel von Gusti oder auch anderer Hersteller zur Reparatur abzugeben. So sind Deine Leder-Lieblinge bald wieder so gut wie neu. Sprich unser Store-Team einfach an und lass Dich beraten.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_zU8Yj3": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Optional button",
+            "button_link": "",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_LNtNp9",
+        "text_VwcnHy",
+        "button_zU8Yj3"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Stralsund-Inside-2.jpg",
+        "image_1": "",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "left",
+        "image_fit": "contain",
+        "media_width": 50,
+        "media_scale": 100,
+        "text_align": "text-start",
+        "color_scheme": "none",
+        "only_content_color_scheme": false
+      }
+    },
+    "media_with_text_haJjL6": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_xVjUQw": {
+          "type": "heading",
+          "settings": {
+            "heading": "Bastel-Ecke im Store",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "text_ULMez4": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Unser Laden bietet eine kostenlose Gelegenheit kreativ zu werden. So kannst Du z.B. Deine gekauften Taschen hier direkt selbst personalisieren und mit einer Gravur versehen. Außerdem kannst aus Lederresten z.B. kleine Anhänger basteln. Die Lederreste stammen dabei von alten unverkäuflichen Taschen. Nachhaltigkeit ist ein elementarer Gedanke unseres täglichen Handelns.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_nHeezJ": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Optional button",
+            "button_link": "",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_xVjUQw",
+        "text_ULMez4",
+        "button_nHeezJ"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Stralsund-Basteleck.jpg",
+        "image_1": "",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "right",
+        "image_fit": "contain",
+        "media_width": 50,
+        "media_scale": 100,
+        "text_align": "text-start",
+        "color_scheme": "none",
+        "only_content_color_scheme": false
       }
     },
     "collection_list_RHeKBJ": {
@@ -116,6 +333,7 @@
         "collection_eAJ4fF",
         "collection_xbRB6E"
       ],
+      "disabled": true,
       "settings": {
         "title": "Collections",
         "heading_align": "text-start",
@@ -156,6 +374,11 @@
   "order": [
     "main",
     "image_banner_h7bfNH",
+    "rich_text_VY4WmX",
+    "custom_liquid_mqXLpp",
+    "rich_text_8tjMnQ",
+    "media_with_text_txPRky",
+    "media_with_text_haJjL6",
     "collection_list_RHeKBJ",
     "featured_collection_fw9w9V"
   ]
