@@ -19,6 +19,7 @@
     },
     "image_banner_h7bfNH": {
       "type": "image-banner",
+      "disabled": true,
       "settings": {
         "image_desktop": "shopify://shop_images/saddles_2.jpg",
         "url": "",
