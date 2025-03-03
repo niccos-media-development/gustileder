@@ -55,6 +55,7 @@
         "text_i4fTGy",
         "button_446Ntx"
       ],
+      "disabled": true,
       "settings": {
         "image_desktop": "shopify://shop_images/Leather_care.jpg",
         "url": "",
@@ -356,6 +357,7 @@
         "button_kKpC9z"
       ],
       "settings": {
+        "image_1": "",
         "video_external": "https://youtu.be/4GEb0C-3Ywo",
         "video_description": "",
         "video_autoplay": true,
@@ -402,6 +404,7 @@
         "button_QPcKnL"
       ],
       "settings": {
+        "image_1": "",
         "video_external": "https://youtu.be/i5BYU0geI2M",
         "video_description": "",
         "video_autoplay": true,
