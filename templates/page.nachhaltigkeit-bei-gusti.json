@@ -19,6 +19,7 @@
     },
     "custom_liquid_LpzR8i": {
       "type": "custom-liquid",
+      "disabled": true,
       "custom_css": [
         ".section--padded-default {padding-bottom: 0px;}"
       ],
