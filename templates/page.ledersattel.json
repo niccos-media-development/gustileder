@@ -38,13 +38,46 @@
         "prevent_animation": false
       }
     },
+    "rich_text_KeQdiW": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_CxKXkq": {
+          "type": "heading",
+          "settings": {
+            "heading": "Der perfekte Ledersattel für jede Fahrt",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "text_rCTBPT": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Unsere Ledersättel sind bequem, langlebig und stilvoll – sie machen jede Fahrradtour noch angenehmer. Egal, ob Du täglich zur Arbeit pendelst, ein Langstrecken-Abenteuer wagst oder anspruchsvolle Mountainbike-Trails meisterst, die Ledersättel von Gusti sind so gestaltet, dass sie Deinen Bedürfnissen entsprechen. Wähle aus verschiedenen Stilen und Lederarten, darunter Ziegenleder,Rindsleder oder Büffelleder, und finde den perfekten Sattel für Dein Radfahrerlebnis.</p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_CxKXkq",
+        "text_rCTBPT"
+      ],
+      "settings": {
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "wide": true,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
     "media_with_text_CxpFLz": {
       "type": "media-with-text",
       "blocks": {
         "heading_q3Gw6c": {
           "type": "heading",
           "settings": {
-            "heading": "Der perfekte Ledersattel für jede Fahrt",
+            "heading": "Den richtigen Sattel auswählen",
             "heading_size": "h3",
             "heading_h1": true
           }
@@ -52,7 +85,7 @@
         "text_LaNGLg": {
           "type": "text",
           "settings": {
-            "text": "<p>Unsere Ledersättel sind bequem, langlebig und stilvoll – sie machen jede Fahrradtour noch angenehmer. Egal, ob Du täglich zur Arbeit pendelst, ein Langstrecken-Abenteuer wagst oder anspruchsvolle Mountainbike-Trails meisterst, die Ledersättel von Gusti sind so gestaltet, dass sie Deinen Bedürfnissen entsprechen. Wähle aus verschiedenen Stilen und Lederarten, darunter Ziegenleder, Rindsleder und Büffelleder, und finde den perfekten Sattel für Dein Radfahrerlebnis.</p>",
+            "text": "<p>Dein Körper und Dein Fahrstil spielen eine entscheidende Rolle bei der Wahl des perfekten Sattels. Da sich die Anatomie von Männern und Frauen unterscheidet, ist es wichtig, ein Design zu wählen, das optimalen Halt und Komfort bietet. Zudem beeinflusst die Art des Fahrrads und der Fahrten – kurze Wege, Langstrecken oder sportliches Radfahren – die Auswahl des passenden Sattels.</p>",
             "enlarge_text": false
           }
         },
@@ -83,39 +116,6 @@
         "text_align": "text-start",
         "color_scheme": "none",
         "only_content_color_scheme": false
-      }
-    },
-    "rich_text_KeQdiW": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_CxKXkq": {
-          "type": "heading",
-          "settings": {
-            "heading": "Den richtigen Sattel auswählen",
-            "heading_size": "h3",
-            "heading_h1": false
-          }
-        },
-        "text_rCTBPT": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Dein Körper und Dein Fahrstil spielen eine entscheidende Rolle bei der Wahl des perfekten Sattels. Da sich die Anatomie von Männern und Frauen unterscheidet, ist es wichtig, ein Design zu wählen, das optimalen Halt und Komfort bietet. Zudem beeinflusst die Art des Fahrrads und die Fahrten – kurze Wege, Langstrecken oder sportliches Radfahren – die Auswahl des passenden Sattels.  </p>",
-            "enlarge_text": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_CxKXkq",
-        "text_rCTBPT"
-      ],
-      "settings": {
-        "text_position": "justify-center",
-        "text_align": "text-center",
-        "mob_center_text": true,
-        "wide": true,
-        "color_scheme": "none",
-        "full_width": true,
-        "prevent_animation": false
       }
     },
     "media_grid_qreeDU": {
@@ -558,13 +558,22 @@
             "heading": "Was ist der Unterschied zwischen Männer- und Frauensätteln?",
             "text": "<p>Sättel für <strong>Männer </strong>sind in der Regel <strong>schmaler und länger</strong>, um deren Anatomie und Fahrstil gerecht zu werden. <strong>Frauensättel </strong>sind dagegen <strong>breiter und haben eine kürzere Nase</strong>, um besseren Halt und Komfort zu bieten. Die Wahl des richtigen Sattels sorgt für ein angenehmeres und entspannteres Fahrerlebnis.</p>"
           }
+        },
+        "question_MWGQBp": {
+          "type": "question",
+          "settings": {
+            "icon": "none",
+            "heading": "Kann der Sattel von Gusti an eine normale Sattelstütze montiert werden?",
+            "text": "<p>Die Sättel von Gusti werden mit Schienen geliefert. Du kannst sie problemlos an der vorhandenen Sattelstütze Deines Fahrrads befestigen.</p>"
+          }
         }
       },
       "block_order": [
         "question_aBwEgm",
         "question_6aG4c8",
         "question_E43PYC",
-        "question_gdVmjh"
+        "question_gdVmjh",
+        "question_MWGQBp"
       ],
       "settings": {
         "heading": "FAQs",
@@ -663,8 +672,8 @@
   "order": [
     "main",
     "image_banner_h7bfNH",
-    "media_with_text_CxpFLz",
     "rich_text_KeQdiW",
+    "media_with_text_CxpFLz",
     "media_grid_qreeDU",
     "media_grid_Rmzjet",
     "media_grid_RNwUGE",
