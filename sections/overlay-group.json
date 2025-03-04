@@ -27,9 +27,15 @@
         "show_shipping_calculator": false,
         "shipping_calculator_default_country": "United States",
         "promoted_products_visibility": "always",
-        "promoted_products_heading": "Promoted products",
-        "promoted_products_list": [],
-        "promoted_products_layout": "carousel",
+        "promoted_products_heading": "Die perfekte Ergänzung zu Deinem neuen Lederliebling:",
+        "promoted_products_list": [
+          "bienenwachs-politur-creme-leder-balsam-lederfett-werkzeug-lederpflegecreme-glanzwachs-lederpflege-gelb-wachs-c15",
+          "lederpflege-natuerliche-wachs-ledercreme-lederpflege-lederfett-gelb-wachs-c15-100ml",
+          "impregnation-spray-150ml-fuer-leder-werkzeug-lederpflege-c19",
+          "brush-shampoo-leather-care-leather-c18",
+          "farbspray-lederpflege-impraegnierspray-leder-braun-c20"
+        ],
+        "promoted_products_layout": "list",
         "show_media_promotion": false,
         "media_promotion_visibility": "always",
         "link_url": "",
