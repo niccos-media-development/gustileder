@@ -24,7 +24,7 @@
           "type": "column",
           "settings": {
             "enable_media": true,
-            "image": "shopify://shop_images/About_Us_f4cb9bd4-7a3b-48a6-81a5-3ae895b2d09e.jpg",
+            "image": "shopify://shop_images/about_gustileder.jpg",
             "media_scale": 100,
             "heading": "",
             "text": "",
@@ -36,7 +36,7 @@
           "type": "column",
           "settings": {
             "enable_media": true,
-            "image": "shopify://shop_images/Our_stores.jpg",
+            "image": "shopify://shop_images/darnstadt.jpg",
             "media_scale": 100,
             "heading": "",
             "text": "",
@@ -48,7 +48,7 @@
           "type": "column",
           "settings": {
             "enable_media": true,
-            "image": "shopify://shop_images/The_Name_Gusti.jpg",
+            "image": "shopify://shop_images/pricing.jpg",
             "media_scale": 100,
             "heading": "",
             "text": "",
@@ -60,7 +60,7 @@
           "type": "column",
           "settings": {
             "enable_media": true,
-            "image": "shopify://shop_images/repairs.jpg",
+            "image": "shopify://shop_images/repair_29a7f74d-28c5-4251-9b28-035d9f3cdebf.jpg",
             "media_scale": 100,
             "heading": "",
             "text": "",
@@ -72,6 +72,7 @@
           "type": "column",
           "settings": {
             "enable_media": true,
+            "image": "shopify://shop_images/child_labour.jpg",
             "media_scale": 100,
             "heading": "",
             "text": "",
@@ -108,7 +109,7 @@
           "type": "column",
           "settings": {
             "enable_media": true,
-            "image": "shopify://shop_images/Slow_fashion.jpg",
+            "image": "shopify://shop_images/production_6.jpg",
             "media_scale": 100,
             "heading": "",
             "text": "",
@@ -120,7 +121,7 @@
           "type": "column",
           "settings": {
             "enable_media": true,
-            "image": "shopify://shop_images/gusti_leather_nature.jpg",
+            "image": "shopify://shop_images/Amalia_2P18-24-1_1.jpg",
             "media_scale": 100,
             "heading": "",
             "text": "",
@@ -132,7 +133,7 @@
           "type": "column",
           "settings": {
             "enable_media": true,
-            "image": "shopify://shop_images/gusti_leather_studio.jpg",
+            "image": "shopify://shop_images/web_Summer-S_H32.jpg",
             "media_scale": 100,
             "heading": "",
             "text": "",
@@ -144,23 +145,12 @@
           "type": "column",
           "settings": {
             "enable_media": true,
-            "image": "shopify://shop_images/Vegetable_tanned_95a8c833-b789-45eb-9bf7-8f7a33532da4.jpg",
+            "image": "shopify://shop_images/web_Lena_M70.jpg",
             "media_scale": 100,
             "heading": "",
             "text": "",
             "button_label": "Pflanzlich gegerbtes Leder",
             "button_link": "shopify://pages/pflanzlich-gegerbtes-leder"
-          }
-        },
-        "column_iRKzE7": {
-          "type": "column",
-          "settings": {
-            "enable_media": true,
-            "media_scale": 100,
-            "heading": "Column",
-            "text": "<p>Pair text with an image to focus on a product, collection or blog post. Add details on availability, style, or even provide a review.</p>",
-            "button_label": "",
-            "button_link": ""
           }
         }
       },
@@ -168,8 +158,7 @@
         "column_KENRmg",
         "column_B7xcai",
         "column_jGVkF9",
-        "column_hd8HtG",
-        "column_iRKzE7"
+        "column_hd8HtG"
       ],
       "settings": {
         "title": "",
@@ -192,7 +181,7 @@
           "type": "column",
           "settings": {
             "enable_media": true,
-            "image": "shopify://shop_images/Transparent_production.jpg",
+            "image": "shopify://shop_images/transparent_production_a1b64fb3-a922-42ae-a7ca-4c3807d91f8c.jpg",
             "media_scale": 100,
             "heading": "",
             "text": "",
@@ -204,7 +193,7 @@
           "type": "column",
           "settings": {
             "enable_media": true,
-            "image": "shopify://shop_images/Sustainability_at_Gusti_44bbec89-e18b-4aee-9ffb-9340b39b8bfc.jpg",
+            "image": "shopify://shop_images/inspiration.jpg",
             "media_scale": 100,
             "heading": "",
             "text": "",
@@ -216,7 +205,7 @@
           "type": "column",
           "settings": {
             "enable_media": true,
-            "image": "shopify://shop_images/Press.jpg",
+            "image": "shopify://shop_images/presse.jpg",
             "media_scale": 100,
             "heading": "",
             "text": "",
