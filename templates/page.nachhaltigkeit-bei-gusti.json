@@ -192,6 +192,67 @@
         "transparent_content_color": "#ffffff"
       }
     },
+    "media_grid_fx7px9": {
+      "type": "media-grid",
+      "blocks": {
+        "media_3Y3ADy": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/repair_3_afedfde6-0741-485c-aca6-059c590bada1.jpg",
+            "link_url": "",
+            "columns": 2,
+            "rows": 2,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "media_cFeE6P": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/IMG_3966a_copy.jpg",
+            "link_url": "",
+            "columns": 2,
+            "rows": 2,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        }
+      },
+      "block_order": [
+        "media_3Y3ADy",
+        "media_cFeE6P"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "gallery_cols_max": 4,
+        "mobile_carousel": false,
+        "gallery_cols_min": "1",
+        "fixed_height_desktop": 180,
+        "fixed_height_mobile": 300,
+        "section_color_scheme": "none",
+        "color_scheme": "white",
+        "transparent_content_color": "#ffffff"
+      }
+    },
     "media_with_text_ttJtUd": {
       "type": "media-with-text",
       "blocks": {
@@ -313,11 +374,51 @@
             "tint_color": "#000000",
             "tint_opacity": 0
           }
+        },
+        "media_VcEzmx": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/production_2.jpg",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 0
+          }
+        },
+        "media_XC3YGb": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/transparent_production_a1b64fb3-a922-42ae-a7ca-4c3807d91f8c.jpg",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "tint_color": "#000000",
+            "tint_opacity": 0
+          }
         }
       },
       "block_order": [
         "media_qa4C6z",
-        "media_3FzLWe"
+        "media_3FzLWe",
+        "media_VcEzmx",
+        "media_XC3YGb"
       ],
       "settings": {
         "title": "",
@@ -416,7 +517,7 @@
             "image": "shopify://shop_images/PV-Rosewek.webp",
             "media_scale": 100,
             "heading": "Solaranlagen in Rostock und Rosówek",
-            "text": "<p>Im Sommer 2019 wurde auf dem Dach unseres Rostocker Büros eine eigene Solaranlage installiert. Die dort erzeugte Energie versorgt unser Büro mit Strom und macht uns energieautark. Die Anlage produziert jährlich rund 27.000 kWh – mehr, als unser Bürogebäude benötigt. Der überschüssige Strom wird ins Netz der Stadtwerke Rostock eingespeist. Auch auf dem Dach unseres Lagers in Rosówek wurde eine Solaranlage installiert, um die Energieversorgung nachhaltiger zu gestalten. Zusätzlich werden unsere Webseiten von Hosting-Partnern betrieben, die grünen Strom nutzen. So ermöglichen wir ein umweltfreundliches Einkaufserlebnis.</p>",
+            "text": "<p>Im Sommer 2019 wurde auf dem Dach unseres Rostocker Büros eine eigene Solaranlage installiert. Die dort erzeugte Energie versorgt unser Büro mit Strom und macht uns energieautark. Die Anlage produziert jährlich rund 27.000 kWh – mehr, als unser Bürogebäude benötigt. Der überschüssige Strom wird ins Netz der Stadtwerke Rostock eingespeist. Auch auf dem Dach unseres Lagers in Rosówek wurde eine Solaranlage installiert, um die Energieversorgung nachhaltiger zu gestalten.</p><p>Zusätzlich werden unsere Webseiten von Hosting-Partnern betrieben, die grünen Strom nutzen. So ermöglichen wir ein umweltfreundliches Einkaufserlebnis.</p>",
             "button_label": "",
             "button_link": ""
           }
@@ -455,7 +556,7 @@
         "text_n8jzVG": {
           "type": "text",
           "settings": {
-            "text": "<p>Im September 2022 wurde neben unserem Büro in Rostock eine eigene E-Ladestation installiert. Diese kann von allen E-Fahrzeug Besitzern genutzt werden, nicht nur von unseren Mitarbeitern.</p><p>Seit der Inbetriebnahme wurden bereits 21 Fahrzeuge geladen. Dadurch konnten 429 kg CO₂ und 448 kg Treibhausgase eingespart werden – das entspricht dem Effekt, den elf zehn Jahre alte Bäume erzielen würden. In den kommenden Jahren erwarten wir eine weitere Steigerung dieser Einsparungen.</p><p>Wir setzen auf Nachhaltigkeit, indem wir verschiedene Strategien verfolgen. Dazu gehören ein Slow-Fashion-Ansatz für Taschen und Accessoires, die Bereitstellung eines Reparaturservices sowie gezielte Maßnahmen zur Reduzierung des Konsums und Abfalls innerhalb unseres Unternehmens. Dadurch tragen wir aktiv zum Schutz natürlicher Ressourcen bei und schaffen eine gesunde, grüne Umwelt für zukünftige Generationen.</p>",
+            "text": "<p>Im September 2022 wurde neben unserem Büro in Rostock eine eigene E-Ladestation installiert. Diese kann von allen E-Fahrzeug Besitzern genutzt werden, nicht nur von unseren Mitarbeitern.</p><p>Wir setzen auf Nachhaltigkeit, indem wir verschiedene Strategien verfolgen. Dazu gehören ein Slow-Fashion-Ansatz für Taschen und Accessoires, die Bereitstellung eines Reparaturservices sowie gezielte Maßnahmen zur Reduzierung des Konsums und Abfalls innerhalb unseres Unternehmens. Dadurch tragen wir aktiv zum Schutz natürlicher Ressourcen bei und schaffen eine gesunde, grüne Umwelt für zukünftige Generationen.</p>",
             "enlarge_text": false
           }
         }
@@ -495,85 +596,6 @@
         "color_scheme": "2",
         "button_style": "btn btn--primary"
       }
-    },
-    "rich_text_WeBwVk": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_BWrcwc": {
-          "type": "heading",
-          "settings": {
-            "heading": "Photovoltaik Anlage in Rostock und Rosówek",
-            "heading_size": "h4",
-            "heading_h1": false
-          }
-        },
-        "text_ApNhHY": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Seit Sommer 2019 haben wir eine eigene Photovoltaik-Anlage auf unserem Bürodach in Rostock. Mit Hilfe der Sonnenenergie können wir uns komplett selbständig mit Strom versorgen und sind somit autark. Diese Anlage produziert jährlich ca. 27.000 kWh und damit deutlich mehr als unser Bürogebäude vor Ort verbraucht. Aus diesem Grund haben wir uns dazu entschlossen den überschüssigen Strom in das öffentliche Netz der Stadtwerke Rostock einzuspeisen. Es ist für unser Unternehmen die sinnvollste und einfachste Möglichkeit den gewonnen Strom zu verwenden, da wir keine eigene Speichermöglichkeit besitzen. Auch auf dem Dach unserer Lagerhalle in Rosówek haben wir bereits eine Photovoltaik Anlage installiert.</p><p>Auch unser Hosting-Partner nutzt Öko-Strom. Zum hosten unserer Websiten wird ausschließlich der Öko-Strom unserer Partner verwendet. So können wir euch auch auf diesem Weg ein nachhaltiges Shopping-Erlebnis bieten. </p>",
-            "enlarge_text": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_BWrcwc",
-        "text_ApNhHY"
-      ],
-      "settings": {
-        "text_position": "justify-center",
-        "text_align": "text-center",
-        "mob_center_text": true,
-        "wide": true,
-        "color_scheme": "none",
-        "full_width": true,
-        "prevent_animation": false
-      }
-    },
-    "multi_column_k7ez3U": {
-      "type": "multi-column",
-      "blocks": {
-        "column_paT9gQ": {
-          "type": "column",
-          "settings": {
-            "enable_media": true,
-            "image": "shopify://shop_images/pv-anlage-Rostock_800x800_2x_97253d56-43bd-4423-9409-e6f4922f142e.png",
-            "media_scale": 100,
-            "heading": "Rostock",
-            "text": "",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "column_VQnErn": {
-          "type": "column",
-          "settings": {
-            "enable_media": true,
-            "image": "shopify://shop_images/PV-Rosewek_800x800_2x_e0c5d062-cda2-48e8-9e43-4b5ea87a3d8a.png",
-            "media_scale": 100,
-            "heading": "Rosówek",
-            "text": "",
-            "button_label": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_paT9gQ",
-        "column_VQnErn"
-      ],
-      "settings": {
-        "title": "",
-        "heading_align": "text-center",
-        "button_label": "",
-        "button_link": "",
-        "layout": "grid",
-        "column_size": "medium",
-        "column_align": "center",
-        "media_align": "text-center",
-        "image_ratio": "1.77",
-        "color_scheme": "1",
-        "button_style": "btn btn--secondary"
-      }
     }
   },
   "order": [
@@ -583,14 +605,13 @@
     "rich_text_TqrEVD",
     "rich_text_bmhfw6",
     "media_grid_3hjHm4",
+    "media_grid_fx7px9",
     "media_with_text_ttJtUd",
     "rich_text_Vj8VmD",
     "media_grid_9YCAJT",
     "media_with_text_9cr6yb",
     "multi_column_E9cGBT",
     "rich_text_N9JtYM",
-    "featured_collection_eW7kg4",
-    "rich_text_WeBwVk",
-    "multi_column_k7ez3U"
+    "featured_collection_eW7kg4"
   ]
 }
